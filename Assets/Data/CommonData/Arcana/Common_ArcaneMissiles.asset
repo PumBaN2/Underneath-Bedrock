@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -143053857, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Common_ArcaneMissiles
+  m_EditorClassIdentifier: 
+  m_guid: 2fe7c4dabe9c47c497562cc6688ae72e
+  m_guidHash: -1257482748
+  m_properties:
+    icons:
+      m_sprites:
+      - {fileID: 21300000, guid: 79de3faef50287f469251eb5c93f3ff3, type: 3}
+      - {fileID: 0}
+      - {fileID: 0}
+    displayName:
+      m_id: 1573658190
+    description:
+      m_id: 1976847388
+    flavor:
+      m_id: -922856333
+    color:
+      guid: 
+      guidHash: 0
+    palette:
+      guid: 
+      guidHash: 0
+    tags:
+      m_tags:
+        m_values:
+        - guid: 06ea209540120a44abfb8b5558922be7
+          guidHash: 1153590675
+        - guid: e2811021f5c8a244e9e598052457032c
+          guidHash: 1966562525
+        - guid: 9b455d31a7244ca4fb5a7f38d253db97
+          guidHash: -18101611
+        - guid: 3f8e638523512024e81a7a44fdfb6dd7
+          guidHash: -906201795
+        - guid: b2e281befdf08844285660540ff8277c
+          guidHash: -1819534000
+        - guid: 1702ba4ac7749d247abbdd3a6977cbd0
+          guidHash: -2033729002
+        - guid: fe9eba3dad6d5124e9a2787da4943735
+          guidHash: 1079384439
+        - guid: baacdfbb644e9cc4683382b5a2e47279
+          guidHash: 870525687
+        - guid: 50ecd3ef522f23e448c3412073b0a444
+          guidHash: -1518131214

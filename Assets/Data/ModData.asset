@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -20201445, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: ModData
+  m_EditorClassIdentifier: 
+  m_guid: 736f02563afe44a5ae2df2a2b067cc08
+  m_guidHash: -346417906
+  m_version: 27
+  m_workshopID: 3573495942
+  m_lastPublishedAt: 639172441938771375
+  m_name: Bedrock
+  m_description: .
+  m_tags: undermine,undermine2
+  m_previewImage: {fileID: 2800000, guid: c865efe970fb39e4b82857466958dd3b, type: 3}
+  m_additionalEncounters:
+    m_values: []
+  m_additionalSpawnTables:
+    m_values:
+    - originalSpawnTable:
+        guid: 56ba2f177f7ee9f4b9bb95afa2d9fcb9
+        guidHash: 2076336591
+      addSpawnTable:
+        guid: 8157552b276f8664b8ab66c73984d1d0
+        guidHash: 1237280328
+    - originalSpawnTable:
+        guid: 3eb15f841451a5b40850166218766e65
+        guidHash: -1109348925
+      addSpawnTable:
+        guid: 2e6ae92d967a4554b81114359ef3cb2f
+        guidHash: -517719178
+    - originalSpawnTable:
+        guid: a30e30b95edaf4a478058244ffd8c3bb
+        guidHash: 1794994397
+      addSpawnTable:
+        guid: bbe9d60afe0ec72468042ba7f0b8205c
+        guidHash: 1863795215
+    - originalSpawnTable:
+        guid: bb148f9b791b3b446b8a909e20ae4d39
+        guidHash: -2058596192
+      addSpawnTable:
+        guid: ef6ca465c3d73fe479b2cea39c041b07
+        guidHash: 2021034103
+    - originalSpawnTable:
+        guid: c13913dbcbdcf69489e184f7252e4a31
+        guidHash: 1369619200
+      addSpawnTable:
+        guid: 2d598baabc8cf7345ad1254e00c2c2c6
+        guidHash: -1255365530
+    - originalSpawnTable:
+        guid: 9ff73814eba97f7498510027184ed4c9
+        guidHash: 1098561915
+      addSpawnTable:
+        guid: 6c8cee3c88fec654db914d283eead331
+        guidHash: 1931401464
+    - originalSpawnTable:
+        guid: 0df7f3d44a4484a4d976de4587ae093b
+        guidHash: -397813717
+      addSpawnTable:
+        guid: f3d946587f0d1d449a4bb7e7e45fd9d2
+        guidHash: 1766613099
+    - originalSpawnTable:
+        guid: e82d5d0037c5add44a1324d43c795f18
+        guidHash: 1824640190
+      addSpawnTable:
+        guid: eeeb7b683b4194747ab74b2d06f72ad7
+        guidHash: -852600422
+    - originalSpawnTable:
+        guid: 3cc25e3c938be0e43b6aa57c41ab4e1f
+        guidHash: 430624219
+      addSpawnTable:
+        guid: 4ea3890167d95cc49bdcf63ca16aa084
+        guidHash: 422208964
+    - originalSpawnTable:
+        guid: 692ea897c8ac2a947afcce426655838e
+        guidHash: 1613591981
+      addSpawnTable:
+        guid: 87c61d482f7bedb49bb477dd457c627e
+        guidHash: 201655003
+    - originalSpawnTable:
+        guid: accd7a891f7854242973222b8752568c
+        guidHash: -1720872078
+      addSpawnTable:
+        guid: 24e2e04d54299be46876e803f9c1809a
+        guidHash: 606926776
+    - originalSpawnTable:
+        guid: 6266823bde6030047a091c9a02d75b53
+        guidHash: -615615702
+      addSpawnTable:
+        guid: c447060d6d3691542b01098a948b8534
+        guidHash: 1266725398
+    - originalSpawnTable:
+        guid: 8675bea5969c8be43a2a2b722e4096da
+        guidHash: 73342990
+      addSpawnTable:
+        guid: ac3ffc7717543ee4aa54daacf1a3293b
+        guidHash: 871774443
+    - originalSpawnTable:
+        guid: 9ec44e69f77a32d4cb998e1ff30d2547
+        guidHash: -1109297087
+      addSpawnTable:
+        guid: 1eedc000e6cfcb2408a5f40bb489a38a
+        guidHash: -863008433
+    - originalSpawnTable:
+        guid: e2346827b056e504bac180f819db3284
+        guidHash: -1472392454
+      addSpawnTable:
+        guid: ac49a636c245b25488dfbdfdf1b29c22
+        guidHash: -1885182385
+    - originalSpawnTable:
+        guid: 0c168d3acf7cf40499a8733791a76477
+        guidHash: -273614056
+      addSpawnTable:
+        guid: 878b0d0ad0d4eea4d9465e9e9adfced2
+        guidHash: 412767362
+  m_additionalEnemyLists:
+    m_values: []

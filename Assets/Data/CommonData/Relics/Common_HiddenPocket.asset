@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -143053857, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Common_HiddenPocket
+  m_EditorClassIdentifier: 
+  m_guid: 10b9eff4257d4a1e9f338b546724da04
+  m_guidHash: 1625231800
+  m_properties:
+    icons:
+      m_sprites:
+      - {fileID: 21300000, guid: 74b5440b80cb4a54aa2d41cc19c6ad2b, type: 3}
+      - {fileID: 0}
+      - {fileID: 0}
+    displayName:
+      m_id: -502829776
+    description:
+      m_id: -347466023
+    flavor:
+      m_id: 845114310
+    color:
+      guid: 
+      guidHash: 0
+    palette:
+      guid: 
+      guidHash: 0
+    tags:
+      m_tags:
+        m_values:
+        - guid: e2811021f5c8a244e9e598052457032c
+          guidHash: 1966562525
+        - guid: 380e9bab5bbd36945ba5c0947261edba
+          guidHash: 625120152
+        - guid: fe9eba3dad6d5124e9a2787da4943735
+          guidHash: 1079384439
+        - guid: 805263dff7f86e941a83f6a3c3981990
+          guidHash: 437698758
+        - guid: 700c6f1cc2c683042b51d1ad531dc7d3
+          guidHash: -1964767739

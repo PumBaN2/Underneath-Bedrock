@@ -1,0 +1,323 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 825131332, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: SpawnTable_ForgedRelics
+  m_EditorClassIdentifier: 
+  m_guid: e37b2d21e585413197d4e6d9ed15d521
+  m_guidHash: -1735468213
+  m_stabilizeResults: 0
+  m_locked: 0
+  m_dataStoreKey: 
+  m_fallback:
+    guid: 
+    guidHash: 0
+  m_comments: 
+  m_reRollTags:
+    m_values: []
+  m_spawnTables:
+    m_values:
+    - count:
+        min: 1
+        max: 1
+      percent: 0
+      requirements:
+        operation: 0
+        expression: 
+        values:
+          m_values: []
+      spawnables:
+        m_values:
+        - weight:
+            m_weight: 1
+            m_luck:
+              m_type: 0
+              m_max: 0
+            m_requirements:
+              operation: 0
+              expression: 
+              values:
+                m_values:
+                - negate: 0
+                  type: 2
+                  check:
+                    rid: 7375285581965165513
+            m_passAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            m_failAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            serialized: 1
+          spawnable:
+            guid: d875dfa9d70fc5649909d5bda8dba96b
+            guidHash: 271243970
+      guid: 4091738c61264f59a15af9333ea1c4a9
+    - count:
+        min: 1
+        max: 1
+      percent: 0
+      requirements:
+        operation: 0
+        expression: 
+        values:
+          m_values: []
+      spawnables:
+        m_values:
+        - weight:
+            m_weight: 1
+            m_luck:
+              m_type: 0
+              m_max: 0
+            m_requirements:
+              operation: 0
+              expression: 
+              values:
+                m_values:
+                - negate: 0
+                  type: 2
+                  check:
+                    rid: 7375285581965165514
+            m_passAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            m_failAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            serialized: 1
+          spawnable:
+            guid: 88b2e8e73a570354a9015bdd7a43d97a
+            guidHash: -1859036459
+      guid: d178bb928b074facaea314ab0024024b
+    - count:
+        min: 1
+        max: 1
+      percent: 0
+      requirements:
+        operation: 0
+        expression: 
+        values:
+          m_values: []
+      spawnables:
+        m_values:
+        - weight:
+            m_weight: 1
+            m_luck:
+              m_type: 0
+              m_max: 0
+            m_requirements:
+              operation: 0
+              expression: 
+              values:
+                m_values:
+                - negate: 0
+                  type: 2
+                  check:
+                    rid: 7375285581965165515
+            m_passAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            m_failAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            serialized: 1
+          spawnable:
+            guid: 0361b3a715f98274fb74d28622e93fe5
+            guidHash: -1125865885
+      guid: 6116e24fdbcc4a7ea0e696badf11790b
+    - count:
+        min: 1
+        max: 1
+      percent: 0
+      requirements:
+        operation: 0
+        expression: 
+        values:
+          m_values: []
+      spawnables:
+        m_values:
+        - weight:
+            m_weight: 1
+            m_luck:
+              m_type: 0
+              m_max: 0
+            m_requirements:
+              operation: 1
+              expression: 
+              values:
+                m_values:
+                - negate: 0
+                  type: 2
+                  check:
+                    rid: 7375285581965165516
+                - negate: 0
+                  type: 2
+                  check:
+                    rid: 7375285581965165517
+            m_passAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            m_failAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            serialized: 1
+          spawnable:
+            guid: 53d056c92ca124348bac3cd745990e3a
+            guidHash: 55689006
+      guid: b4a36e15644a4bbb98dc8bc348da00b7
+  m_weightedSpawnTables:
+    m_values: []
+  m_previewIcon: {fileID: 0}
+  references:
+    version: 2
+    RefIds:
+    - rid: 7375285581965165513
+      type: {class: RequirementCheckPlayerItem, ns: Thor.Core, asm: Lithium.Core}
+      data:
+        item:
+          guid: c0cece564a811f74880a594d19693b16
+          guidHash: -1044349686
+    - rid: 7375285581965165514
+      type: {class: RequirementCheckPlayerItem, ns: Thor.Core, asm: Lithium.Core}
+      data:
+        item:
+          guid: 1b7a0f0a32e532041932a21c4130a108
+          guidHash: 1025206924
+    - rid: 7375285581965165515
+      type: {class: RequirementCheckPlayerItem, ns: Thor.Core, asm: Lithium.Core}
+      data:
+        item:
+          guid: afd9aef9058c0ee4dba69d808ae99b62
+          guidHash: 1742711129
+    - rid: 7375285581965165516
+      type: {class: RequirementCheckPlayerItem, ns: Thor.Core, asm: Lithium.Core}
+      data:
+        item:
+          guid: 6e778bcac8ca34948b8909a12d3936ba
+          guidHash: 999073368
+    - rid: 7375285581965165517
+      type: {class: RequirementCheckPlayerItem, ns: Thor.Core, asm: Lithium.Core}
+      data:
+        item:
+          guid: 114f9bc4247a36f48ba5db8ad16fda4c
+          guidHash: -1203061465

@@ -1,0 +1,244 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &539078871863862732
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7794363634433770014}
+  - component: {fileID: 3708052127648853633}
+  - component: {fileID: 8552031697307751884}
+  m_Layer: 0
+  m_Name: ShadyShopRelic
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7794363634433770014
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 539078871863862732}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 9076954129249552359}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3708052127648853633
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 539078871863862732}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -247283998, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_manualMerge: 0
+--- !u!114 &8552031697307751884
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 539078871863862732}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2046105595, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_recycleable: 1
+  m_dataReference:
+    guid: b361a75cf25eac44e8887b5d20788321
+    guidHash: -1873436402
+  m_encounterPreview:
+    guid: 
+    guidHash: 0
+--- !u!1 &5665689086032983083
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9076954129249552359}
+  - component: {fileID: 2167443550054239593}
+  - component: {fileID: 5148973307772765780}
+  m_Layer: 0
+  m_Name: PilferShop_RugRound_Small_Shim
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9076954129249552359
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5665689086032983083}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7794363634433770014}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2167443550054239593
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5665689086032983083}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -610550449, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_data:
+    guid: 237f3177f757508409166403aa3f5d6c
+    guidHash: -683195794
+  m_talkData:
+    guid: 
+    guidHash: 0
+  m_entityDataOverride:
+    guid: 
+    guidHash: 0
+  m_requirements:
+    operation: 0
+    expression: '{0}'
+    values:
+      m_values: []
+  m_retryPolicy: 0
+  m_offset: {x: 0, y: 0, z: 0}
+  m_poof: 0
+  m_doppeled: 0
+  m_startingAge: 0
+  references:
+    version: 2
+    RefIds: []
+--- !u!114 &5148973307772765780
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5665689086032983083}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1754705964, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_owner: {fileID: 0}
+  m_link: {fileID: 0}
+  m_animationOverride:
+    guid: 
+    guidHash: 0
+  m_startingAnimationState:
+    value: 0
+  m_animationMask:
+    value: -1
+  m_tags:
+    m_tags:
+      m_values: []
+  m_dataStore:
+    m_values: []
+  m_valueStore:
+    m_values: []
+  m_stringStore:
+    m_values: []
+  m_startStunned: 0
+  m_behaviors:
+    m_values: []
+  m_baseStatKeys:
+    m_values: []
+  m_toggleStateOverride: 0
+  m_overrideMaxToggleCount: 0
+  m_maxToggleCount: 1
+  m_captureOverride:
+    guid: 
+    guidHash: 0
+  m_filterMask: 0
+  m_carry: {fileID: 0}
+  m_chase: {fileID: 0}
+  m_chaseDistance: 0
+  m_chaseOffset: {x: 0, y: 0, z: 0}
+  m_orbit: {fileID: 0}
+  m_orbitDirection: 0
+  m_triggerScale: 1
+  m_overrideDefaultFacing: 0
+  m_defaultFacing: {x: 0, y: 0, z: 0}
+  m_overrideObstacleSettings: 0
+  m_groundObstacle: 0
+  m_airObstacle: 0
+  m_floorObstacle: 0
+  m_overrideActiveCosts: 0
+  m_activeCosts: 0
+  m_costGroups:
+    m_values: []
+  m_spawnEvents:
+    m_values:
+    - m_eventMatcher:
+        m_eventType: 0
+        m_dataHint:
+          guid: 
+          guidHash: 0
+        m_stringHint: 
+        m_polarity: 0
+        m_polaritySecondary: 0
+        m_tags:
+          m_tags:
+            m_values: []
+        m_tagGrammar: 
+      m_pattern: 2
+      m_offsetMin: {x: 0, y: 0}
+      m_offsetMax: {x: 0, y: 0}
+      m_owner: 0
+      m_spawnable:
+        guid: e118ed767c3be6644aa43830eae10294
+        guidHash: -1776277386
+      m_entityDataOverride:
+        guid: d2641d2681e0c5741b5c3d5413387fa3
+        guidHash: 626349697
+  m_statusEffects:
+    m_values: []
+  m_portalBehaviorOverride: 0
+  m_portalBranchOverride: 
+  m_roomClusterOverride:
+    guid: 
+    guidHash: 0
+  m_encounterOverride:
+    guid: 
+    guidHash: 0
+  m_portalContinueCaptureOverride:
+    guid: 
+    guidHash: 0
+  m_interactionMask: 0
+  m_interactableOverride: 0
+  m_promptMask: 0
+  m_promptPopup:
+    guid: 
+    guidHash: 0
+  m_promptText:
+    m_id: 0
+  m_promptTextSecondary:
+    m_id: 0
+  references:
+    version: 2
+    RefIds: []

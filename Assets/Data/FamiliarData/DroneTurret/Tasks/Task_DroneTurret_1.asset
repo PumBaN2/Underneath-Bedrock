@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1049800828, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Task_DroneTurret_1
+  m_EditorClassIdentifier: 
+  m_guid: 04210291910f44d0b16d491e1433d8ae
+  m_guidHash: 382348048
+  m_abilityStatusEffect:
+    guid: e616b7dfb90532d4e98d91d2f4e128c2
+    guidHash: 1134148651
+  m_taskStatusEffect:
+    guid: b0189e1c3faf5694282bf5ac87056ba4
+    guidHash: 962247181
+  m_taskThreshold: 0
+  m_taskRepeatable: 0
+  m_showTaskProgress: 0

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1386491679 &1
+PresetManager:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_DefaultPresets:
+  - first:
+      m_NativeTypeID: 1006
+      m_ManagedTypePPtr: {fileID: 0}
+      m_ManagedTypeFallback: 
+    second:
+    - m_Preset: {fileID: 2655988077585873504, guid: deaf2c8629523ef4282806b513f9db09, type: 2}
+      m_Filter: glob:"Textures/**.png"
+      m_Disabled: 0
+    - m_Preset: {fileID: 2655988077585873504, guid: b73d22b9fd2017b439d0667b4f47c418, type: 2}
+      m_Filter: glob:"Mask/**.png"
+      m_Disabled: 0
+    - m_Preset: {fileID: 2655988077585873504, guid: c6791c6bf1244674389c665eade9c6d8, type: 2}
+      m_Filter: glob:"Emission/**.png"
+      m_Disabled: 0
+    - m_Preset: {fileID: 2655988077585873504, guid: f5b048dcfd16ff046808cff9bc8c0ef4, type: 2}
+      m_Filter: glob:"Palettes/**.png"
+      m_Disabled: 0

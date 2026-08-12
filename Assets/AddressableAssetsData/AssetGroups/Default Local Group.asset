@@ -1,0 +1,6176 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_GUID: c1c70ef0a052ef442948c6374403d4b4
+  m_SerializeEntries:
+  - m_GUID: 0066034adc975b44185892ddff6764a1
+    m_Address: Common_ShadyRothamsFractal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 008b77fdd9251da49b4d319904ee651a
+    m_Address: Prop_VampirismCircle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 00e5b71ea29fa35409746cc42e6b3684
+    m_Address: Behavior_Girya
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 00fa1e6e56e54c849b5d922474a7f88b
+    m_Address: Behavior_ShadyBattleAxe
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 01a1eb9ab739dc04395372a65deaf8cf
+    m_Address: StatusEffect_HandAxe
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 01c3807422c9dca429b8dfb185282d67
+    m_Address: Behavior_Embiggener
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 01c9a222c43727349983769549c92c64
+    m_Address: Prop_MinigameCorner_Blue
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 022016d930c4aa244984a8f81b3b5857
+    m_Address: StatusEffect_HorusEye
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02abea8dffe33bd48b390dcb13dbd877
+    m_Address: Encounter_TestingGround
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02b904ad67e127344a3353d72c17bc3a
+    m_Address: Behavior_BobsBrain_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02e57b7d9acaff447ad985f9e6fd3aa3
+    m_Address: Behavior_CursedBlade
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0361b3a715f98274fb74d28622e93fe5
+    m_Address: Relic_Gebo_Forged
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 036f3e84015caab4897b1e6eb6a724dd
+    m_Address: Behavior_Exploding_skull_curse
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 049701d821d72b5498b488041a59db06
+    m_Address: Potion_Ambergris
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 049a3f5ce40e58148baafa2f4c9abe42
+    m_Address: Relic_ShadyRothamsFractal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 04b951638b8f5364ea3ee5359ff76d7c
+    m_Address: AnimationData_ShrineShogirror
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 04cc69e67e45eaf44a021714da70d93f
+    m_Address: Grenade_VampiricFlask
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 04fbb69166aa14a42958d39a80b153b7
+    m_Address: Wander_WalkMod
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0515f979952d867419e7af0d1026bfdb
+    m_Address: Common_Warhammer
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 05413d5d663ce944c9cfad20b1c11c65
+    m_Address: EntityData_VampirismCircle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 05e5ad55b0d9fa342b7268cd14701336
+    m_Address: LootTable_ShadyArcana
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 062613c1c9a08414d9364e4d41c81e8a
+    m_Address: Grenade_SnowGlobe
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0654787d3c5094c4891d2c38535d8568
+    m_Address: AnimationData_Hearth_Flash
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 065519b76d857c344830415d23bf18c1
+    m_Address: Grenade_SnowGlobe
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 065f19b597a63af45977b90bc732810f
+    m_Address: LootTable_ArcadeReward4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0668ae4b047ebe44fa6ad90975968bd5
+    m_Address: Common_CursedBlade
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 06ce6e3aed50dbb45b5221b21c7eef7c
+    m_Address: Prop_FloatGem
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 07477862d654d0f49a26396b5ba620f8
+    m_Address: Tag_Aim+Bullet
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 076f513ba7e67ed44bfc4c72a34ecf2b
+    m_Address: Behavior_Projectile_PowderBlast
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 079d3b7fd57b31546a5fda4305b702ea
+    m_Address: Behavior_Familiar_TwinsRanged
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 07a49814f4c01d34382b3d54987c6886
+    m_Address: Common_SnowGlobe
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 07b8697983825e14a883403e26328196
+    m_Address: Common_LeechingSeedTakeRoot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 07b8c9c01ebeced4d99340a8b4804f27
+    m_Address: LootTable_Berry_Red
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 07df09d588554f7458f50ac28791934b
+    m_Address: PortalData_TicketCrawlspace
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 07fef7dab095d694a83cdc94f90c8900
+    m_Address: Behavior_Dinner
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 083e5d87ddad279458d69fe4193e93da
+    m_Address: Behavior_Order
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0896551e16d856942be5e257c1a6f99f
+    m_Address: StatusEffect_Reading Glasses
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 08f107216c687244ead2c627af16520b
+    m_Address: Setpiece_BobsBrainTable
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 08f13510294651a45a51e23b1a518239
+    m_Address: Tag_WarhammerWielder
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 093e4c51af0910b4698aa881d4ca4a11
+    m_Address: Curse_BlessedCurse_Curse6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a2fe28b3282c6a47a57190bdee3af30
+    m_Address: Common_FlashySlashFlask
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a3864ce7272ed44ea7aa88e8bdfd585
+    m_Address: Potion_Merchant
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a3b55ac9c100d84492bd44b2d2aaa5e
+    m_Address: AnimationData_Twins_Egg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a51ab707cf07d54fb8d9dda2446f9f9
+    m_Address: Common_DraconicScales
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a66aa595f11d874abd12a544d1603e3
+    m_Address: FlagData_MinigameCost
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a837e77b17a0914e81f4dbf12b27d65
+    m_Address: Ability_Arcana_PinNeedle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0aa1b431197d09f43a48d337fa900935
+    m_Address: Common_WeightedScales
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0aa467177f7912f418de78a397570b7e
+    m_Address: Grenade_VampiricFlask
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0b0f2d562e725f9459aa9be09cfe5422
+    m_Address: Tag_CarnivalChest
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0b78bf5d316069f4db4e551dddedcd5a
+    m_Address: Common_GlueGun
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0b8852929b08e434b88f923940806aad
+    m_Address: Behavior_Booster
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0b8ecaea80c8aaa45b5ec17b5ed45c95
+    m_Address: Arcana_Blank
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c03673f3bd24854b8af6c2a19e998cd
+    m_Address: FlagData_ForgeArmorPad
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c42b6b3567797f4595eee17c4744f55
+    m_Address: Ability_Potion_Hammer In a Bottle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c4c9a032f0669c48acdb5ecc347b024
+    m_Address: Clip_GamblingChest_State9
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c56b1aac39db7648b2e6bd48d31cad8
+    m_Address: Exploding_skull
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c5baf1da607deb41862323ae38152e2
+    m_Address: Behavior_MendingCount
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ca2a8437e4f0be44be0e53d21453e53
+    m_Address: DronePopup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ca711110bb12fd4f929bf43bb0d3346
+    m_Address: Cost_ListTest
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d3e200cec5646c4d9b8f3d3a57f7bee
+    m_Address: Common_Potion_Druid
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d4ca74155f5d9945ab2e9a7c6484ad4
+    m_Address: Arcana_ThrowSwitch
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d62d6a0633a18649b051e54524e6105
+    m_Address: Common_Metal_detector
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d9f918bdeb18f0409be478cd3b99c42
+    m_Address: Curse_BlessedCurse_Curse
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0dbe7066711f2304cb1a775add652ca1
+    m_Address: EncounterGroup_TestingGround
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e0161bf8fe44f948940f2730901cb88
+    m_Address: Blueprint_Familiar_DroneTurret_Egg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e0b792259f4de94b8328189d907dceb
+    m_Address: StatusEffect_BobsBrain_1_Tracker
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e1924bcae6f3fd4eb6c09c9432905c0
+    m_Address: Clip_GamblingChest_LoseJackpot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e49cff1582ac7f42a9264c93a42b63f
+    m_Address: Projectile_BoomerangAxe
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e5d8ce9c25eff341b16977165cb3b95
+    m_Address: Bush_purple
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e7ccaa36ef87174983328734d3e02de
+    m_Address: Common_LeechingSeedSpreadBranches
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ea9ea943f11b1647be52a65632bfef9
+    m_Address: StatusEffect_LeechingSeedTakeRoot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ecb71893b19bd74e91d2d9562d64f67
+    m_Address: StatusEffect_BobsBrain_3_Tracker
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0fca4789a2741f44686d1912ca302277
+    m_Address: Ability_Potion_VampiricFlask
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ff54e6938b5c85478f190fcfdef638b
+    m_Address: Common_DroneTurret_Egg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1011e9ae955bed744a54a93e75236301
+    m_Address: StatusEffect_Inverse
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1014874b1969b324f9696f48f995b35a
+    m_Address: Common_Empty Vial
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 103aa610cb3d84f45965bff0b9c646d2
+    m_Address: Clip_BoxAim
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1044b29b5374a9944a7dee35e49d3ef4
+    m_Address: Prefab_ShrineShoguul
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 105dc8207e377fc4392eab9a8c76f1c2
+    m_Address: Tag_Forgeable
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 10f0e0a1e41c8344a8f627d2384e0b20
+    m_Address: Behavior_Sigil_Frost
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 114f9bc4247a36f48ba5db8ad16fda4c
+    m_Address: Relic_Girya_Lifted
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11a28f37d322dbb47b4c23887e3c7076
+    m_Address: Shrine_Fountain
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11fc1649aef56324192821a3e2a6edcc
+    m_Address: Curse_BlessedCurse_Curse4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 123ed492adf0dbc43876330dd9e1575c
+    m_Address: Behavior_RubyShades
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 129ee34a06209a244bb5e6f71d4c9f63
+    m_Address: Behavior_Projectile_AdventurersGun
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 12b0fa754f55b7544a6c0269dfb9631a
+    m_Address: Behavior_LuckyBullet
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 12f6054b0a335e04492d5771f888159f
+    m_Address: Relic_Burning Ink
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1318b2d57644b684f93666b9993e5579
+    m_Address: Ability_Potion_UncertainElixir
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 13555a2e390cb9a40934189e827d1860
+    m_Address: Behavior_LeechingSeedSpreadBranches
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1417ce8d85f60a34284250eadcf5775e
+    m_Address: Costable_Tag_Dante
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1446ebc269827d747acc664665586857
+    m_Address: EncounterGroup_Supply Drop
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 144d4f58afcd01449be2cec5487b4bcb
+    m_Address: AnimationData_ShrineShoguul
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 14772833dcb23cc4aa98f36090a199c8
+    m_Address: AnimationData_Mina_NPC
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 14952817b89391a41998e30b5e83a24f
+    m_Address: Clip_EternalChest_State2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 14bb54f5eba7e5a4eb22137155ad93e4
+    m_Address: NPCData_Shrine_Shoguul
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 14e7f3ff5ca4d0b479779dc6e778c035
+    m_Address: Behavior_MendingCountShown
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 15038be6c139f304bbd4a4930b7ef1e0
+    m_Address: Prop_BarrelRoll
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 15065aaa1e01646449f5d38e9683cefd
+    m_Address: Behavior_Sigil_Unholy
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 15282f5f9bb139b4abc139e6db61b784
+    m_Address: Common_Merchant
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 15296bbadfdb0bb4f8e831f8ec4da50d
+    m_Address: StatusEffect_DroneTurret_3_Tracker
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 15323597e074af848bbe0c090c22dade
+    m_Address: Common_ShadyAdventurersHatRevealed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 159bef0884aac32448c709b98e3a209b
+    m_Address: Common_EplodingBarrelRoll
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 15c1ae9b5469d6b4fa2cdb559b26c03d
+    m_Address: StatusEffect_ShadyFirstAidKit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 15ee25f79bbb80045a125ca80ec1fbeb
+    m_Address: StatusEffect_TeaSet
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 161669ed56cfe9a429beea150dd38585
+    m_Address: Potion_BloodVial
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 16363541d6fc3594aa43fc5ce049ba72
+    m_Address: Common_HiddenPocket
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 167b601633b09bf40b5230e1f24a61d1
+    m_Address: Arcana_AimPistol
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 16d915c0ebd8def49ba5681d9a0eae52
+    m_Address: Arcana_ArcaneMissiles
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 16ded9c3b2335dc4f8c1177d75110229
+    m_Address: Task_DroneTurret_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 16f2854688dcd974f9be759c0ed53b6f
+    m_Address: Relic_BerserkClaw
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 177026580bf0a7543a4fc55ba9eb6581
+    m_Address: Behavior_Projectile_MassReleaser
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18dc853f62c4ad743b6a794ab9f8c965
+    m_Address: Relic_HorusEye
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1900906d3171cda49932c8c23689451c
+    m_Address: Playerdata_Mina
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 191a7b84ad928f0498610f5fa816c5da
+    m_Address: StatusEffect_HorseShoe
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1975512d08d71de4787f1a13ac6886ef
+    m_Address: Projectile_BobsBrain
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a216aa23f30dcb4e9fb5b7229232bd8
+    m_Address: Common_Ingredient
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a804d8952ba9144aba529c7a4e0750d
+    m_Address: StatusEffect_Gebo
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a861c847e1c41c40b00b165d47d3ccf
+    m_Address: Prop_MinigameBlock_Green
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1aaf9eb62c0854b4d92e9c93819e61d6
+    m_Address: Grenade_GreekFire
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ac9ed0c0ff064c40bedd1ac7202f755
+    m_Address: Behavior_Relic_emberbuddy
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ae7785080bff574cb089b0767f28204
+    m_Address: Common_Burning Ink
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b1e74d37e916bf44a0d1c86a7aac2a9
+    m_Address: Behavior_TopWays
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b60d74516378f641a940a302a5e832f
+    m_Address: StatusEffect_Metronome
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b7a0f0a32e532041932a21c4130a108
+    m_Address: Relic_Jera
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c5d4ce5170e8af468e3d686490bdc4a
+    m_Address: Common_GeboForged
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c8818031cabbea438601e58d893e669
+    m_Address: StatusEffect_SwiftStrikeKunai
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1cb33ec528ef1a943852d353b8cbe339
+    m_Address: Prop_Shrine_Fountain
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1df1e8aad8a71b34882ce3ea5eb69c7b
+    m_Address: StatusEffect_DroneTurret_2_Tracker
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e595573b5026a04eb192d82b8e8411b
+    m_Address: Chest_Eternal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e59929f11cbb4844963bbcea8c255a6
+    m_Address: Behavior_MapOfInfinity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e7752f797549b44bbf492a34b35543a
+    m_Address: Behavior_BalancedShivSpriteChange
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ea4b2c660ccb5644bb228b853318f35
+    m_Address: Clip_FloatGem
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ed56434229b3ba40be42b5bc6a5ef27
+    m_Address: Relic_BalancedShiv
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1eedc000e6cfcb2408a5f40bb489a38a
+    m_Address: LootTable_Curse_Master_Mod
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f15748914782984b9a1c86cfad1a802
+    m_Address: CommonCost_ShadyRelic_VeryHigh
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f77bca5a56dde146bd7d5ceeda95a32
+    m_Address: Prop_AimTarget_UpDown_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1fd4759c67ba73c42823c5ca043aabe9
+    m_Address: Behavior_Familiar_TwinsMelee
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 200f207ee1dbb484dbe595c7d0745524
+    m_Address: Common_EncrustedSkull_Fixed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2016e188ebc094c428272d2563cb811f
+    m_Address: Behavior_berry_green
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 204811fedd1a33d40b0e9262a1eb8cc5
+    m_Address: Relic_d6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20690a7f26f8f004c81fa8ae30339356
+    m_Address: Pandora Disaster
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 208ccaf57c723864cb1fa0fec2a7fb24
+    m_Address: StatusEffect_BerserkClawEffect
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20a2e4b2ec5943e49b2ea606fed3509b
+    m_Address: Prop_AimTarget_DownUp1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20a3b3474d27d1b458bf1985fb8be41f
+    m_Address: Curse_Exploding Skulls
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20d8aab0995b44b4fb86958e7625f03d
+    m_Address: Item_BlessedCursedPearl
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 215350c93cd119146b191b197e33d91d
+    m_Address: Common_Hammer In a Bottle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 21549a40e61f1f744b634ea40889b4c9
+    m_Address: Behavior_Sigil_BloodEnemyEffect
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 218459adaf1cf8a469f0842c619003e0
+    m_Address: SteelSpider
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 21c592c4321cea944a133794c8af8c54
+    m_Address: Prop_MinigameBlock_Blue
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22134d51442579343865d80adf6a1321
+    m_Address: Prop_AimTarget_LeftRight_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22bed663f0bb3d240933d0635f77e980
+    m_Address: Behavior_berry_blue
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22d2025900df6924f92e0f14ddb0384e
+    m_Address: Behavior_+1Orb
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22e08b53055af214cba8289fafd511e3
+    m_Address: Tag_EmberBuddy
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 231775fcf60987b4d891b96450915a53
+    m_Address: StatusEffect_Metal_detector
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 23232635a90639942a53e55230eaa6fd
+    m_Address: Animation_TwinsMelee_Attack1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 232ca869b1475ab429949d8251c4683e
+    m_Address: StatusEffect_Particle_accelerator
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 23496ec37da66b64a8dc53e10d52b66f
+    m_Address: EntityData_PowderLanternBlast
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2362e7c5222ffa0478f0d3a0bb5f9ad9
+    m_Address: Grenade_ExplodingFlask
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 23844ae72a9951d47b2abdc85c041af6
+    m_Address: LootTable_ArcadeReward5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2388470c78df62a42bae79afb37f39fd
+    m_Address: Behavior_Pandora
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 23990e22dc361b049bfe23ea95b96057
+    m_Address: AnimationData_DroneTurret
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 23a586999aea30040bb4343072a0b08b
+    m_Address: SpawnTable_PackOfGoodies
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 24051c9d6217321499e2f83c98cf56b0
+    m_Address: Relic_GardeningTools
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 24549ba2413f60e41a8aead311700eb9
+    m_Address: Behavior_Projectile_BobsBrain
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 24e2e04d54299be46876e803f9c1809a
+    m_Address: LootTable_Arcana_Shop_Rare_Mod
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2503c0090848dc44c99b115e3b2742c2
+    m_Address: StatusEffect_berry_red
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 25bfbabd89b7b66498e9f4302db61c12
+    m_Address: Behavior_Particle_accelerator
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2612d852203576f4c880471f7d7661a0
+    m_Address: Behavior_Dagaz
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 261ee230bd50329408431dbe7688d8e0
+    m_Address: Ability_Arcana_EplodingBarrelRoll
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 26b60fbc015062a43b3ebc4a05f4863d
+    m_Address: Behavior_PotionFLask
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 26cbb911bb40fb049baec85f005e0297
+    m_Address: Animation_SteelSpider_Attack1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 26dbc40690206a04dae8cea3dde3af1a
+    m_Address: Relic_TwoTonTunic
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 26f4e0c8f1e12744295685f1e5d77bf9
+    m_Address: Encounter_Supply Drop
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 26fb3fc3add7ea348b55f94b7b5586a2
+    m_Address: EntityData_TunicShockWave
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 271d6a39c0a7a74468ad5d6cf56628f4
+    m_Address: Arcana_AdventurersGun
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2754b96b74355774b9b4df959cb837a4
+    m_Address: LootTable_ShadyRelics
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 27d8067401e189b499b777ed2e453de7
+    m_Address: StatusEffect_Girya
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 27fdbf7b57b1b524898d761bc3d9af68
+    m_Address: Tag_AimTargetLeader
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 281e4210c3dcf344b8c3fd2c6790a34f
+    m_Address: Eternal_ReopenChance
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 285183e838858ae40837aad9ea13e80d
+    m_Address: Fireball_Lantern
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 28b1b3753cf990348865f249ad62ad40
+    m_Address: Common_DagazForged
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 28b89e2cb471b5b41ae70e004035f555
+    m_Address: FamiliarData_DroneTurret
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 28d2939576af43f48bf1fd98975fc270
+    m_Address: StatusEffect_Twins_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 29466d65f891bb443b1b0c57b4162382
+    m_Address: Common_Hearth Locket
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2951bc674c1ba82439acc16691345691
+    m_Address: Pandora -Healthmana
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 29ef3b31aee73974c9816fb3a784de3c
+    m_Address: Relic_Breeze_buddy
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a271987f5efc864998a9405537e4eaf
+    m_Address: BlessingEffectiveness_Ingenuity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a4723d841ca33d499161d1fe1fb68ac
+    m_Address: Relic_Embiggener
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ad8e32e6a639e54b852bf106b2f74be
+    m_Address: Relic_FluffyHat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b686ecd89073c143845ffa29a356ea4
+    m_Address: StatusEffect_Pandora
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b7616773183110418732d44de2c758c
+    m_Address: EmberBuddy_Cast
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c4a84c1aacbe744db813d896cb80cb4
+    m_Address: Familiar_Twins_Egg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c64cf76c68ea7e4ca406570ec0ed147
+    m_Address: Relic_WeightedScales
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c6bdb78890e247469754f44205291cd
+    m_Address: Relic_BlessedCurse
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c87eb86fee0d3d468de987633d8977c
+    m_Address: Animation_DroneTurret_IdleWalk
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d01548801ef7d349960b2f92faed5d0
+    m_Address: Stat_ProjectileSpeedModded
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d4fca9ecc1ef17448b022414edbc2e4
+    m_Address: Encounter_ShrineCrossroads
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d598baabc8cf7345ad1254e00c2c2c6
+    m_Address: LootTable_Relic_Rare_Mod
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d8547c50fa55c140b6f1b329f488b80
+    m_Address: StatusEffect_BlessedCurse_Curse7
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2db74040e01c4d8438bcb95b82a2bcba
+    m_Address: StatusEffect_HeavyPick
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2dce26327b6ea9b4fb01211cae35880f
+    m_Address: Prop_HealthCostHand
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e1ba5b191ff84e46900d1fd1f74130d
+    m_Address: New Curse Costable Data
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e6ae92d967a4554b81114359ef3cb2f
+    m_Address: LootTable_Encrusted_skulls
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ef74faa9bfd9594793166f7d7684b2e
+    m_Address: Prefab_CornerGreen
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f129ab6aa884804ea9a0bf517414e8f
+    m_Address: Behavior_Inverse
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f26738b9d46f6646ac0ed1a0c69564b
+    m_Address: Behavior_ShadyFirstAidKit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f2c6810e4b48ce4ba656dede34e4483
+    m_Address: StatusEffect_Warhammer_EnemyEffect
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f5ed30a9a575944391340588b709f8f
+    m_Address: Assets/Font/PerfectDOSVGA437.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2fc0c068c245c844e9dc261d404a1f7f
+    m_Address: Potion_VampiricFlask
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2fdcd71046b3345429774841bcf16d11
+    m_Address: Behavior_Jera
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3022b4de9d19d3c4d980ac39fe9bc796
+    m_Address: Common_Order
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3083e45922f6fb74fa4e2c0b2f59561d
+    m_Address: AnimationData_Mina
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 308bf3b43bb55f646bfda1eae7e8a027
+    m_Address: Pandora -5 Item
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3116ccccb4e4b424f97143a274053160
+    m_Address: Clip_ShrineShoguul
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 313aac6f33830c54aa3f33ed7dc97320
+    m_Address: Common_TwinsRanged
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 313fc2e3234e29b4c992797ac06db4cc
+    m_Address: Animation_BobsBrain_Egg_Attack1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 315fdbad3b1eefc4eb43cf60076e744a
+    m_Address: Item_D6_DIce
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 316274eaecb3d754fa2f31af18335488
+    m_Address: NPCData_Mina
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 316c58d2b9ddaf6469681e91545a10fa
+    m_Address: Ability_PotionThrowFlask
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 319a362b2a800394fa4c3adac5e4e2e1
+    m_Address: Prop_MinigameCorner_Collider_down
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31a25dae151b188428b7bf62fa080675
+    m_Address: Behavior_d6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 32211b5208d7f31458d6fa331ef79838
+    m_Address: Behavior_BobsBrain_2_Tracker
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3253d8a18f05fad429d7bbc909bfd262
+    m_Address: Relic_CardboardShield
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3339749dc42426b4e8f2e903583e7da1
+    m_Address: Behavior_DroneTurret_0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 333e8a5863122f94887ebc87b92f886e
+    m_Address: Potion_Greek Fire
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3349700b3e995d14e8de32a50df0ee7c
+    m_Address: Tag_BobsBrainExplosion
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3349f0d7555ef0949b51f8f433baf41b
+    m_Address: Chest_Gambling
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 335af8c87c453434281eac1973b4fdd1
+    m_Address: Common_BobsBrain_Egg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3368d1c2d7fdf9f409972cc4e997d6e0
+    m_Address: Common_TwoTonTunic
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 33b30431a067e414080d119dc2eb4fa7
+    m_Address: Behavior_Projectile_DruidThorn
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 33dccd9ae82daab42bdf473af5c50b64
+    m_Address: Common_LanternPowder
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 340f7e43a09ba384084e8ecd9a3ba61f
+    m_Address: Clip_EternalChest_State1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 342a8149e1e1b8645bef55ed5e9c8f52
+    m_Address: Task_BobsBrain_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 345ecfa1ebada734aacb1d05b22326ac
+    m_Address: Common_Cracked Vials
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34adaf7a88e494148948df0e51f1eb65
+    m_Address: Common_Blank
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34f64b7f2638ccf43ba41a4c0aa61296
+    m_Address: Behavior_Gebo_Forged
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 352a7f7832dee824bb9c921beb7d8401
+    m_Address: Prop_AimTarget
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 354a31e8e1532d949a53ed992b141bb3
+    m_Address: Clip_ShrineShogirror
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35532136db445194bacf788bba974041
+    m_Address: Common_Exploding Skulls
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3570fe84bbe927744a3fd90fa0e14f29
+    m_Address: Prop_BarrelRoll
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35b3998b88399a4478bb672086dee20e
+    m_Address: Projectile_SlashShot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35cf3853be969234e9f307e8f3232121
+    m_Address: Ability_Arcana_Mass Releaser_Detonate
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36114d7945de5a845a4e1ef65f4c5e26
+    m_Address: Behavior_LeechingSeed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3624379bf23ec48428c63922c4f2a6d2
+    m_Address: StatusEffect_Greed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 365ff8c6809e14945ad9ab1cc2cdcc1e
+    m_Address: Pandora phobia
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3672a123d690a8940813cf32486e04c5
+    m_Address: Common_Excited Book
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3691fd108bab2bf46858e52a3c5e547e
+    m_Address: StatusEffect_Cloak of Shadows
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36bf259a144bf41479d6f12928bc7cc9
+    m_Address: StatusEffect_Bibliophobia
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36c2858a015c72543a98cc11996c9b4a
+    m_Address: StatusEffect_DroneTurret_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36c9a008da4b5d846946afc03ef8aa4b
+    m_Address: Behavior_HorseShoe
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 372f0c13ff2a62f4bab6b5a33a8ade23
+    m_Address: Bush_yellow
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3750e2f2d44bb554faeb36f80eb87c63
+    m_Address: Relic_Metamorphizer
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3794c25cdb17f4f4a8831d29d4512db3
+    m_Address: Relic_HorseShoe
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37c0b2045e3cfa94b8f240bc8057af8d
+    m_Address: Chinese_mod
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37fd23c0129580f4887b708ec5a8f02c
+    m_Address: Behavior_TwoTonTunic
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3800808f2d87166469d1c6d51f42125f
+    m_Address: Pandora Bunch Of Skulls
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3869385c8e69a934a979267ec4307eae
+    m_Address: StatusEffect_MendingCountShown
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3948c17e53d3cd245bc16bb42bda01c4
+    m_Address: Ability_BlinkMina
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 395e3332f0157b94ca5d39e201597d7b
+    m_Address: Clip_GamblingChest_Idle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39bb2cbe752a1b845a22aaecf086cb4c
+    m_Address: Relic_SwiftStrikeKunai
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a00895a074c5f249b3078b45174a458
+    m_Address: Clip_GamblingChest_LoseFast
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a3b7a85eb306994cba547015bc09481
+    m_Address: Common_ShadyAdventurersHat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a86700cbece33749b0bdff9b1d91d9e
+    m_Address: Common_Breeze_Buddy
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ab3af2fe8ffa7e478a1305db1722d17
+    m_Address: Behavior_StoneMask
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ac86e6945a5e15408bfd683413b6071
+    m_Address: SkeletonHolder
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b003a633bfa2744fb7aa5489bf7b0ef
+    m_Address: Behavior_GardeningTools
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b635d34f405ec241aae354a26919d08
+    m_Address: Tag_BreezeBuddy
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b9e1d4061ce75b4ea19e0a078b0147d
+    m_Address: BasicItem_Pandora_Box
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3be3ecb156098f640a8a46fd1b9b94c3
+    m_Address: Ability_Arcana_Mass Releaser
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c09e03e8ebdf204294824f5d5f78fcd
+    m_Address: StatusEffect_Hearth Locket
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c8a77c8a119c564d864add1517b69fa
+    m_Address: LootTable_ArcadeReward1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d3b10d279549e04daa9f85057cd3914
+    m_Address: Common_ShadyMediocreRing
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d8adf814f5a8b34e9fc4d6ba73c842a
+    m_Address: Prop_box_aim
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d8f16e0a95507d4590fac5fada47ece
+    m_Address: SubBehavior_FindTarges_Breeze
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3dd4f832681d104429b991943105f878
+    m_Address: Tag_Dante
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3de8a27a5f3e0fa48aa4da24603b4b24
+    m_Address: Behavior_ArmorPadForge
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e030de87fe20d242b39b8ca4e701578
+    m_Address: Common_Trombone
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e05e35c1df5f13409c47aae9074c185
+    m_Address: Behavior_DroneTurret_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e09db39999363f4ca091d898f02cc38
+    m_Address: AnimationData_Projectile_RemsPillow
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e996dd907b1cec4ab6a0d8b124ce20b
+    m_Address: Common_Rottenseeds
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3efaa7dd4b310fb4bb04f980b5d8cf8e
+    m_Address: Common_TeaSet
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f23e063083676349951ebbd430712db
+    m_Address: Behavior_AdventurersGun_Reload
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3fc318bacc9e02a469ba27a6fe2a05fe
+    m_Address: Behavior_Twins_1_Tracker
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 403a9ac34358498419a1aca54d6b118b
+    m_Address: Behavior_LanternPowder
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 403d12d363add834a885877d97474ca3
+    m_Address: Common_Pandora_box
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4042c18ea39e4f04cbd624c7ad48bf29
+    m_Address: Ability_Potion_Lightning In A Bottle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40a13095f8d18cd4b9eac11ff3d05a2a
+    m_Address: StatusEffect_MendingCount
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40b074f68d51df140a60d588e7d911a4
+    m_Address: Ability_Potion_Potion_Druid
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40f9c4ed8660f1f4c95562f95b8b4963
+    m_Address: FamiliarData_Twins_Melee
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4146676a33ed68e4aa70484f62d7042d
+    m_Address: Ability_Potion_Entrophic Brew
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4172706e807a0474db0244014cec5dae
+    m_Address: Prop_Shrine_Shoguul
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 419db0299a2b7dc478469a79fad43f76
+    m_Address: Common_Mass Releaser
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 41cda540aad285d4c9ba62e3ecf8b396
+    m_Address: Common_DesecratedWraps
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 42016a340ff37aa4782f4965740edec6
+    m_Address: Clip_EternalChest_State4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 426dc7d9c10df7a46838b11f3399cb40
+    m_Address: Tag_Keyword_Dante
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4277709c15865464093961fe7b398beb
+    m_Address: StatusEffect_Warhammer
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 427f24e15222b17458e1c80584012101
+    m_Address: Behavior_Exploding_skull
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 42f59f91c01bead49a47e213069f1334
+    m_Address: Encounter_Display
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 439cc8bfedc5cdc4487fa1a47337d3a6
+    m_Address: Behavior_Metronome
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4429223a4e0f4b64c83e5f824cd3424d
+    m_Address: StatusEffect_Dinner
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 44748073749e62f4383c352073067972
+    m_Address: JeraOwner
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 44ce81d23eb7f6b4789199d46b335947
+    m_Address: Prop_WhipMaker
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 454e722e77c33c24daf2874eebb8a363
+    m_Address: Projectile_AimShot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 458c81073d00bde4c91ebda3d5e1b318
+    m_Address: StatusEffect_berry_green
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4595f34396a075c4a9dcd1c6885fda97
+    m_Address: Chest_Eternal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4637fc467c9a2c948b1801a8b5214156
+    m_Address: Common_Lightning In A Bottle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4659bb2c79eae7641911fde61308c0dd
+    m_Address: Behavior_Asynch_entropy
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4681aaf09a0d14d4d8ecc1da057ae112
+    m_Address: New Percent Costable Data
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 46890a6128c55b14bbaf326619168203
+    m_Address: Bush_red
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4692a2490a4233c4e9bc6d521625ede7
+    m_Address: StatusEffect_Excited Book
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 471bbf635aa360e4caed7452c4bb877f
+    m_Address: Potion_Potion_Druid
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47217010615f99a4899a39e0d08440ae
+    m_Address: Behavior_EncrustedSkull_Fixed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4775d1a05727cbd40b945b42b297990e
+    m_Address: Relic_RubyShades
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 478c2f3c92e7b744e852834c1214f4a6
+    m_Address: Relic_Metal_detector
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47a1d154948a12446a44530a09395827
+    m_Address: Relic_HeavyPick
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47f7194bb9fd1f34eb8cf0964a1537c9
+    m_Address: Curse_Bibliophobia
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48b307426e652c5428ebbb8cff857fc9
+    m_Address: Prop_DroneTurretBroken
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48b32ce2d2faae7438ac897e304ec095
+    m_Address: "Relic_Coin_of_Cort\xE9s"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49094439b9365d7448c83bfcc4d5ac7b
+    m_Address: Common_GardeningTools
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49186d2245f4b2e47b2b3dcfd37cc5fa
+    m_Address: Shrine_Shoguul
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49a891818f9bd7845b35f60e2a08ae95
+    m_Address: Attack_Familiar_Ember
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49edf6ca78e70234580700c8b98c664d
+    m_Address: Behavior_Cardboard ShieldNegation
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a32ecf26bbde6e47b43b9f7b91887a2
+    m_Address: StatusEffect_Aura_FloatGem
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a738b04887c80445874e3b469d80931
+    m_Address: Curse_BlessedCurse_Curse8
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a8b9b38da41c1648a0ef05af9d668e1
+    m_Address: Potion_ExperimentalFormila
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ac788e67338ad44a9ae6716d02497d4
+    m_Address: Common_BerserkClaw
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4adb5fc5cbbb48049ab0100be205f460
+    m_Address: Behavior_DroneTurret_2_Tracker
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b622412fce649547ac20d1514c5e387
+    m_Address: Prop_ArcaneMissilesTarget
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b8aad290d0261d40b741da6a7254ff7
+    m_Address: BatSwarm
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b9e169fae83c894d9dd76e056737fd2
+    m_Address: SetPiece_Corner_Blue
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4bbae2609cb83e243857b0b8c54b00e5
+    m_Address: Relic_LeechingSeedTakeRoot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4bd2b81ab3d777345b139e34f711c55e
+    m_Address: Behavior_BoneAppetite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4be2e44e17fcac64bad60c377ba5a3d8
+    m_Address: Common_RubyShades
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c3674eed6dd71d4abae17d4513c7abd
+    m_Address: MaxIngredient
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c38aab5f85954b4da51a7436ab3a207
+    m_Address: Shrine_Shogirror
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c92d4c8decef7f45b740fc245016562
+    m_Address: Bush_white
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4cc2870fb7fcd1e4394832b0a90b0c9e
+    m_Address: NPCData_Carnival_Master
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4cc443c1cb2003d43884c7d06695cd53
+    m_Address: Relic_ArmorPad
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4cd5d72849d63e04584dba1c19f6a3b0
+    m_Address: AnimationData_Chest_GamblingSlotBlocker
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d4ce70e7775a5b42be5154f234c2db6
+    m_Address: ModData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d71e97387c5cb04fa685a6491a10d2c
+    m_Address: Behavior_Burning Ink
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4deb42823c4a93f40885994efdae79c7
+    m_Address: StatusEffect_BlessedCurse_Curse8
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4df45a73bcdcc4d4cb982172cb1dfc3b
+    m_Address: Common_ArcaneMissiles
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4df879771941bd143a55d8fad227c325
+    m_Address: Clip_GamblingChest_WinFast
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e34f027cc2212b408179e14f6fb291f
+    m_Address: StatusEffect_BlessedCurse_Curse
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e5407c2d39f96041bd15b4e0e2fbc40
+    m_Address: Attack_TriWhip
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ea1ef069f9f3b543a2782dcf1864f51
+    m_Address: StatusEffect_BerserkClaw
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ea3890167d95cc49bdcf63ca16aa084
+    m_Address: LootTable_Arcana_Rare_Mod
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ecee03b40148304cab861ba319b56ca
+    m_Address: Ability_Arcana_ThrowSwitch
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ed4ef32104abe042a0bc7933dae36a6
+    m_Address: Behavior_Excited Book
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4efef6ee80911a545aeb797195d1e8a2
+    m_Address: Common_BloodVial
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f24c220943216849bdbf992558aefb9
+    m_Address: Arcade_Ticket_Spawnable
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f45a34081020344eb987559bb0c0d52
+    m_Address: Potion_Hammer In a Bottle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f631659112df0f4e9714782920f3ad2
+    m_Address: EncounterGroup_Ticket_Crawlspace
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4fa82ba16f663b24d9828e73ae1ec625
+    m_Address: AnimationData_Ember_Buddy
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4faeb69e9446e804082d38c38b3efb39
+    m_Address: Behavior_ShadyRothamsFractal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4fd5d9d514da56e4cbb01eaa11cddda6
+    m_Address: Blueprint_Familiar_BobsBrain_Egg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ff5ad9e4201dcb4f94d3cb52fa29fcb
+    m_Address: Grenade_ExplodingFlask
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ffac86cc8571954a98e894d6f280c83
+    m_Address: Animation_SteelSpider_Idle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 50699048d85368c42bed0f52d9a33c3f
+    m_Address: Behavior_DroneTurret_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 50b29d0a76716214db85bf2c39284faf
+    m_Address: Clip_GamblingChest_Blocked
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 50c9e393e1a563c479fdf506ed9ca330
+    m_Address: Setpiece_BobsBrainTable
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51623317dbae6a14183db958a863ef45
+    m_Address: Animation_BobsBrain_IdleWalk
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51b932f86f0e2a446aef256da410d682
+    m_Address: Common_BoneAppetite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 52f654bc45726c64e92570ca0a080462
+    m_Address: Task_Twins_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53d056c92ca124348bac3cd745990e3a
+    m_Address: Relic_Girya_Lift
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53dcc00678214a84eb2c83cfd2ab9a1e
+    m_Address: Prop_Shrine_Greed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53efd9a99fa8c39469894ae53d37c444
+    m_Address: Behavior_Cloak of Shadows
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 542a1eeccfe9a114a86f2f838df7b79d
+    m_Address: "StatusEffect_Coin_of_Cort\xE9s"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 546f72d96c2481f4e933d1bd9830a0fb
+    m_Address: Tag_MetamorphizerSpawn
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 548fae8096efcfd4e8e97e4e5a695323
+    m_Address: AnimationData_BobsBrain
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 54f7c387705ee6642a46371f370b5390
+    m_Address: Grenade_RemsPillow
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5529d7173f52c0b4ead911ccb7e28c25
+    m_Address: EntityData_BobsBlast
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 555828e3d4ac0d6499acb01450819453
+    m_Address: StatusEffect_Embiggener
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 557eb258bfb1a204f94d28560a4caa0d
+    m_Address: StatusEffect_Twins_0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5590833a8e9e08747b5caca88cc74940
+    m_Address: Behavior_Gebo
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56377bc840a6f4948aec899edc5e17ac
+    m_Address: StatusEffect_ArmorPadForge
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 564483521c7c0374a8adb103d64d25c8
+    m_Address: Behavior_Projectile_Aim
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 569279d27267c5141aae4e06553786a5
+    m_Address: AchievementStat_Quest_DroneTurret
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56ce8a0c2298e154cb55cf95ff913263
+    m_Address: StatusEffect_DroneTurret_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5707d290632e80c4e8ccd72e84618daf
+    m_Address: Common_Sigil_Frost
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 570d86f8f4097314d9ef966afc3d494c
+    m_Address: StatusEffect_Twins_3_Tracker
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5716e0fde1b039a41a663b667b8340bc
+    m_Address: StatusEffect_DroneTurret_0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57a8de8fe397a09408d112b0e1bf936e
+    m_Address: Common_BlessedCurse
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 588a8ba35e4b18a4eb12e1e726b9dc3c
+    m_Address: Ability_Arcana_DesecratedWraps
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 58d09158beb70ed49883fd3971b8c0c8
+    m_Address: Prefab_CornerBlue
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 58d23311e925f8042a28e91b5364aa50
+    m_Address: Behavior_BobsBrain_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 58ea6939e2114714d8edbdf25634d609
+    m_Address: RoomCluster_SupplyDrop
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5917f3fb12e61a64cac42c0a5e0a5f86
+    m_Address: Relic_Guillotine
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5919a017ea44f9149be418c30f29bd29
+    m_Address: SpawnTable_JeraFloor
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59394ef6f9938294bafc321dbd2b8bc4
+    m_Address: Clip_RemsPillow
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 593b7ef078db7fe41994ff800a205949
+    m_Address: FlagData_MinigameBullets
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 596a89aed59240e4e94888a4abb403ba
+    m_Address: AnimationData_TwinsRanged
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5998351b3ebed534090c6443c2ce7de8
+    m_Address: Relic_Booster
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59cbb1e575ac10d47b029a714d487b2b
+    m_Address: New Inventory Module
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - module
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a6f7d7656011dd48a86f5f3bd6833f5
+    m_Address: AnimationData_BoxAim
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5ae1b79ef6089a249ba7c753be29142c
+    m_Address: Ability_Arcana_Mending Stone
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b1eebc4058d9ba4780ab74fb3496d5c
+    m_Address: Relic_CrowMask
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b5f96edf95b3de4386c8ef1d6e912ed
+    m_Address: StatusEffect_CursedBlade
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b8eee549863e0a4cbfd741228b2a81f
+    m_Address: Tag_NPC_Mina
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5bdf739db57d1604999df67ad1588c9d
+    m_Address: Behavior_BerserkClaw
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5c469c63ba1b9e946b44468f7a1d9ba1
+    m_Address: NPC_ShadyPilferFixed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5c87b829bc13c42499ec3f5f567c4d26
+    m_Address: StatusEffect_FluffyHat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5c89499a84f742b4fb82bd0c8df69a4d
+    m_Address: Common_LeechingSeed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5c8e06d953e4e954fa46ba35fa0e3174
+    m_Address: Relic_Dinner
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d008f474a734b14199664a0ee2cee0b
+    m_Address: Prop_SupplyDropEmpty
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d1d15093085ee2429e53dd9231b0fde
+    m_Address: Behavior_DessertStash
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d2fbbfd6f27e1448b8b62de37377a58
+    m_Address: Arcana_DesecratedWraps
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5de7763b74a2aa94d9d0f61f46e7a56e
+    m_Address: Curse_Inverse
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5decf229fa93ed949a894e6f19953d96
+    m_Address: StatusEffect_TriWhip
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e5419c48f020ea4bb269ee8a7673c52
+    m_Address: Clip_Bullet
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e65617055be70740a487f1ad5c90d08
+    m_Address: Ability_Arcana_DuelingWand
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5ec90be4d3ff44c48baa9ca16fc371cd
+    m_Address: StatusEffect_CardboardShield
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f0aa07e0bdb3a540905496fa2b6a33e
+    m_Address: Encounter_TrapBoulder
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f32f9c8cc5ca2a40a378a4b61d424a9
+    m_Address: Behavior_Async_ExperimentalFormula
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f661acaecf65ad438782ae284fea965
+    m_Address: StatusEffect_BlessedCurse_Curse6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5fbcd2a0b5587aa44b7445e182115da7
+    m_Address: Prop_Boulder
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5fc476edfa98de346be471c7b3df03d8
+    m_Address: Common_ArcadeTicket
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 600b0af9bbb5fae4a82c5a18d6a5d760
+    m_Address: Relic_Degull`s Pyramid
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 600d3c438d33b424f994a6e77ff206c1
+    m_Address: Behavior_Projectile_BoomerangAxe
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6054f38dd98a8544fad8c0495eef60cf
+    m_Address: Common_CardboardShield
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 608092227bc91ad44ad5cd8f1efc55c2
+    m_Address: Tag_Chest_Eternal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60a364a8cac297f409ee326fc700d738
+    m_Address: Prop_ShadyShopSlot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60eb2f026cdff56418e19776486a07db
+    m_Address: Clip_BatSwarmInvisible
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60f0ba8c3774da942866b59a76203ff3
+    m_Address: Common_Entrophic Brew
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 61a11ff678cbd3e47adcae0a47c6be70
+    m_Address: Prop_FloatGem
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 61edcbb10fbef184398d6ab1ad7e42a0
+    m_Address: Prop_ArcaneMissilesTarget
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 61f277d362f80c84985370b6445d0e2e
+    m_Address: Familiar_Twins
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 623dd6342d2aeea4c8c1cd981c7e59eb
+    m_Address: Tag_AimPistol
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 628190b19fc650d42867ed81d20de2f5
+    m_Address: Behavior_BobsBrain_3_Tracker
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 628ca4bd9f531c34bbb68a8bea811824
+    m_Address: Common_MapOfInfinity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 629e34f601b4df949aa7dc08d0377b26
+    m_Address: AnimationData_ShadyPilfer
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62b42fb1ff6230849bb837faaa0ee174
+    m_Address: Arcana_Mending Stone
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62df2ef0989d9e749a578c5cc70a1169
+    m_Address: Common_DroneTurret
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6320cf4e36e2c6e40881ec5dad139c8d
+    m_Address: Behavior_Twins_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 63c143571f5197c4fb2331740c38d83c
+    m_Address: Behavior_BlessedCurse_Curse
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 63e1fa2fdf182ff4a9f5d15020fd4cd5
+    m_Address: SupplyDropActive
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 649c91c722a4aba41acf6dbbc0ae8eb3
+    m_Address: Encounter_Chest
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65122e34c30d9214ab42e2838d8ee85a
+    m_Address: Tag_AimBox
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6567cc2f275b5a948adaa78cb1489856
+    m_Address: Prop_MinigameCorner_Green
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 659de9c5703442f46bed2df01c0f85b2
+    m_Address: Common_ShadyDirksLocket
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65a2aacfe08fbe348a82c53418d4e032
+    m_Address: Task_BobsBrain_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65d14955369f4234a87cb6c2b346f70b
+    m_Address: Chest_Gambling_Item
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66268f970fbe1ed498809a70b974850f
+    m_Address: Relic_TopWays
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 664ede0e96446c641b7cb424d09ddd7f
+    m_Address: Common_LeechingSeedProduceFruit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 666bd51caf0ff35499a8e87b694eac6e
+    m_Address: Behavior_TriWhip
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 667b5bd460a67ec4d93807c1a3f1f752
+    m_Address: Prop_AimTarget_UpDown_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66b589f8d0654aa47a72d22a78e8707f
+    m_Address: Behavior_LeechingSeedTakeRoot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66edd664331af1144a2a21ee213b8be9
+    m_Address: Behavior_Twins_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66f5af6add7e0a64fac568df6b8d9243
+    m_Address: Common_ShadyRothamsFractal_Revealed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66f5dc92516029244a86ff1532aa5559
+    m_Address: Ability_Potion_ExperimentalFormila
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67acc09012de98646a3f4b5cb64d5344
+    m_Address: StatusEffect_Gebo_Forged
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67d4b17b03d0b644490f7e1513c6fded
+    m_Address: Tag_Dessert
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67df7ccb2f0e47c4bab305dbeec0f863
+    m_Address: Relic_Hearth Locket
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67f5d228dc6c0fa42b4e28faa6aeddf8
+    m_Address: Clip_EternalChest_State3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67f8f5ceb3d6d944da3f7625a70e9606
+    m_Address: FamiliarData_BobsBrain
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6812d9b292ab6f44393cf2dddd3e86af
+    m_Address: Common_Girya
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 681f11c24681e794782a916befc6dffe
+    m_Address: Prop_AimTarget_orbit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6890e6ef7c55a404a94bfea52cb38cae
+    m_Address: Ability_DuelingWand_Gargoyle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69282b46713375e4293917bc5154ff77
+    m_Address: Behavior_MendingCount_Changer
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69bcce98d9d386242a509db67d878d75
+    m_Address: Common_TwinsMelee
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69d18001b96f5b842b417735c941dcd8
+    m_Address: StatusEffect_Druid_Bear
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6a6213592d8551544b509f380c3ca372
+    m_Address: CarnivalChest_Aim
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6af76ea6ec7439949b1cf9f39feaa226
+    m_Address: Common_Pandora
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b0e66c1091c1b64594e2d2fc7457f8f
+    m_Address: Relic_Sharpshooter
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b1ef3054ef90c3468bda7d668508329
+    m_Address: Potion_Entrophic Brew
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b21aeb01f55ebc42bc676a1e3f7daed
+    m_Address: Relic_Reading Glasses
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6bc03918a46446f428f7f76870a6a1c7
+    m_Address: StatusEffect_BobsBrain_2_Tracker
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6bc324ae83d68db4f9d7d6cfbecd50d8
+    m_Address: AnimationData_Exploding_skulls
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c6ed1064deeeec4bbb64f7e53d94308
+    m_Address: Ability_Potion_Ambergris
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c7a8f628e3ce80478e9153557c0a7d0
+    m_Address: Prop_CarnivalChestAim
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c8cee3c88fec654db914d283eead331
+    m_Address: LootTable_Relic_Shop_Common_Mod
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c9d89a06529a2e4b86a10bc9eb0e9f8
+    m_Address: Potion_UncertainElixir
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ca741f54b83f5548b16296315591ad3
+    m_Address: Common_KeySynthetizer
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ca94db3604f64d47801e809e30ff452
+    m_Address: Common_HandAxe
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d03926e07ec91446989219a8c4921a5
+    m_Address: StatusEffect_Dagaz_Forged
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d1d6f4cddf34b0459def70bf59feeda
+    m_Address: Grenade_GreekFireSubIgnite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6db20b0c8294d0946893cbec0966c4d9
+    m_Address: Ability_Potion_ExplodingFlask
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6dd1bb34854b3ac4faf775d12ad2fe22
+    m_Address: SpawnTable_Shrines
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e778bcac8ca34948b8909a12d3936ba
+    m_Address: Relic_Girya
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6eb4f201b7bd93041990ec7f4555b210
+    m_Address: Bush_blue
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6fe46f58f43336243b340d4804393c84
+    m_Address: StatusEffect_Twins_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6fe95b419034c9642ba9ed5d325ac621
+    m_Address: Behavior_Goodies
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 709b168d937862b4f84e7b6f6dd395c7
+    m_Address: SetPiece_Corner_Green
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 710e99add6ed0ed48989c153a7dfeedf
+    m_Address: Common_Greed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 714511b138a8e0b41b32d75708141c6e
+    m_Address: Clip_BatSwarm
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 718935d3bdcbbd94b8d661b522f73ae3
+    m_Address: Behavior_Twins_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7196032f4840ba14681d0eb12478ffd0
+    m_Address: StatusEffect_LanternPowder
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 725e3502360cf2a4d85afa9536640177
+    m_Address: BalancedShivPerfect
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72a63a33d4f13084cb42b2c0903a9b4d
+    m_Address: Relic_LuckyBullet
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72ec2b28adfeabb4599c7a6c015ecac4
+    m_Address: Relic_Goodies
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7303cebd62ab62248a77e6cbf00c65be
+    m_Address: Common_Mirror Shard
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7320a19182111134e8c4dec1bb409ab6
+    m_Address: StatusEffect_TwoTonTunic
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 733f038ea4c317a439db4366e81b1569
+    m_Address: Behavior_BobsBrain_1_Tracker
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74b31f812aadf4f4c8f21073e84be2ab
+    m_Address: Curse_BlessedCurse_Curse1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74cfb279585298c48ad3e91c61b6fb97
+    m_Address: Behavior_Ember_Buddy
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74e0f28db81e0164d9a0683d4682ff87
+    m_Address: Item_berry_blue
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 750c78fa798a0b84998fcec321ad646b
+    m_Address: Potion_Explosive Flask
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78880565ca9c4ef47854ddff5976fa37
+    m_Address: Behavior_DroneTurret_3_Tracker
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78c1ae4a0565f3545ac374f4827f0846
+    m_Address: StatusEffect_ShadyMediocreRing
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79066ffdc03130c48922ac82545f9a23
+    m_Address: StatusEffect_BlessedCurse
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 794ed891f28260040b47ef1382a1c0af
+    m_Address: StatusEffect_LeechingSeedSpreadBranches
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a1d46315d934434992f0c336584dc3e
+    m_Address: AimPistolRemoved_Behaviour
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a38dba7dfe886e43913c96e934e611a
+    m_Address: Behavior_Projectile_Fireball_Lantern
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a587ea4f35ff1040a8ca3239d783521
+    m_Address: SpawnTable_BerryBushes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a69bdec078d3d148b4c2241faba0fac
+    m_Address: ChaseUntillWithinRange_WalkMod
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7acb83e6224c3f749b58ee7acdecdd4c
+    m_Address: Potion_Booster_potion
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7adbee7295b7e9a42b7e48e9a1c63bee
+    m_Address: Tag_SupplyDropRoom
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b4635d2955e0c747978ed611f924cac
+    m_Address: Ability_DuelingWand_Coin
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7bcd1300fc804e24e95417c0a0ef86ce
+    m_Address: Behavior_Reading Glasses
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c48c0a123ce55a4b81455d8804aec10
+    m_Address: Animation_DroneTurret_Egg_State1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c525cdc26f42234d830b2631014d3a8
+    m_Address: Common_DuelingWand
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7cb17412c4859684db29cf1e38e655e7
+    m_Address: Grenade_GreekFire
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d1ecc2a6effdf0469c13fa862c1e0dd
+    m_Address: Tag_TopWaysWielder
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d847af6d63e9ed49b1d575cd4a917a6
+    m_Address: Pandora +1 Item
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7dca0cb50c84e3a4f8067fab224bef10
+    m_Address: Clip_Border
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e55cdf9553ee734f8c634a27509950a
+    m_Address: Curse_Pandora
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e93dcb14c43be846a85d97330923ae4
+    m_Address: Behavior_BobsBrain_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ea7af2d6be91f74f9a9916d06259ae3
+    m_Address: StatusEffect_StoneMask
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7eeb226948ece2649b8452944e05e784
+    m_Address: Relic_LeechingSeedProduceFruit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7f2e4cf7cea90bb489c71f57a0460918
+    m_Address: Relic_DessertStash
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7f7e77e42f1d0c342a06817bf575034a
+    m_Address: StatusEffect_ArcadeTicket
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7fc72e8959b51f3409c4b011d207889c
+    m_Address: Arcana_RemsPillow
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8048fafb7be71904fbcd22ddf4bc67f8
+    m_Address: Curse_BlessedCurse_Curse3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8059fccf5750fac4e91f7853fe0ac331
+    m_Address: Common_BalancedShiv
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8073e1fb7e6609f41bfd9ccb06b2475a
+    m_Address: Achievement_Quest_BobsBrain
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 80c4ed5ffd36dda4e99def92059dde15
+    m_Address: Tag_AimPistolUsed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8157552b276f8664b8ab66c73984d1d0
+    m_Address: LootTable_Booster
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 820130ff200579a4c858540e7833aec6
+    m_Address: Arcana_DuelingWand
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8284e5c943d195e4b97d4ef66018f8c8
+    m_Address: Behavior_Relic_Breeze_buddy
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 82a542aeda49a69439fa2d305d9604dc
+    m_Address: LootTable_ArcadeReward2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8375660c5bffcaf4eb67882eda22e3f8
+    m_Address: Common_ShadyDirksLocket_Revealed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 83c87dfbbabf66745beb2762797811e7
+    m_Address: Common_LuckyBullet
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 83da74475d60bf04f805c4f0e735d47b
+    m_Address: Animation_TwinsRanged_Attack1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 844b69da3bd2eb440bb09e27818baca2
+    m_Address: Setting_PERFECTLY_BalancedMode
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 844e92b1313b2f24da38b4595dbc84b6
+    m_Address: Common_Dinner
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 845f3c450bd5bd944b9b9b60ab5d35b4
+    m_Address: Prop_ToggleBoulder
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84977b33124da7a43adca3adfd32a0e4
+    m_Address: StatusEffect_Sigil_Frost
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84faf3fb3c6637a4e90a483f7a63481d
+    m_Address: ProjectileSpeed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 856213f908b895940b1627275ee02df6
+    m_Address: AnimationData_SteelSpider
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 859d4738d0d6287488171ebc7e32634c
+    m_Address: StatusEffect_BlessedCurse_Curse1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 859edacefb499cc4eb18d2da6a216d72
+    m_Address: Relic_EncrustedSkull_Fixed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 860e11b79e7b2884283ef851a3af1ba8
+    m_Address: Common_BobsBrain
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 863891842adede2439bb074e8a7472dd
+    m_Address: Behavior_Hearth
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8679bd2e314fbf44394bf16773e62567
+    m_Address: Behavior_Familiar_DroneTurret
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 869d04b03ede27f4799a1bbfb70c6859
+    m_Address: Relic_HiddenPocket
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86f74569abe90e340b12c6bca416e90c
+    m_Address: Behavior_BobsBrain_0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8709ccb94355a264981b7cb5cb1c9402
+    m_Address: Common_Goodies
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87369c881740dc443a5d19b1c4b45810
+    m_Address: Task_BobsBrain_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 878b0d0ad0d4eea4d9465e9e9adfced2
+    m_Address: LootTable_ChestTypesMod
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87c61d482f7bedb49bb477dd457c627e
+    m_Address: LootTable_Arcana_Shop_Common_Mod
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87d2fd5e5a61fad4990af31a1dc8eea4
+    m_Address: AnimationData_BorderAim
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88252b3b99c3f0b40ae26e6025dc0949
+    m_Address: AnimationData_CarnivalMaster
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8847b9829078d7047b1e199eb1f3eb89
+    m_Address: Common_Twins_Egg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 887721a2b9bff374a93dd0d5f2150b6e
+    m_Address: Relic_ShadyMediocreRing
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88b2e8e73a570354a9015bdd7a43d97a
+    m_Address: Relic_Jera_Forged
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89271252e615cf941bbb9d4b9745ef9c
+    m_Address: Common_Guillotine
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 896593a114c2dbc41ae805003ca7d02e
+    m_Address: Bush_green
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 896836d50982e5048b33972116052007
+    m_Address: Behavior_CursedBurn
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89e0c9fa63d13be46992d763dba6a9a0
+    m_Address: Curse_Greed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89fb32fe8308f884192d564e000e6d4c
+    m_Address: Hearth_Flash
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a12515e3db77b54f85f9047a7e67440
+    m_Address: Clip_GamblingChest_Open
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a3125ea779979d419702cb96c2f8a28
+    m_Address: Arcana_Mass Releaser
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8abb06c370bac404694b95537e135f94
+    m_Address: SpecialItem_ingredient
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b01817efd440c34f890ba3fe3b71169
+    m_Address: SpecialItem_pandora_skull
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b145d4ad7efe964d9ac6dc984b88f04
+    m_Address: Behavior_HorusEye
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b38ec303f016fb4189c9c0dafed48d9
+    m_Address: Common_AdventurersGun
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b4143a22ed463d4ea3622d37b275958
+    m_Address: Behavior_KeySynthetizer
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c3f9cf4e30e2e64a8aa1b9ad02dd3a5
+    m_Address: Relic_TriWhip
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8cacc1e53b3c9364bbd70ffcf0e20bbe
+    m_Address: SpawnTable_DruidTransformations
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ce36243963cabb4aa383cab1ebde4db
+    m_Address: MapIcon_EternalChest
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ce9470ca7c4d254dbc8fe4b092eb2a3
+    m_Address: Common_Explosive Flask
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8cf3ff7d3ff5cda4785a731a10efcc61
+    m_Address: Common_Booster
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d16ecf18e3038442a584090ed53d8fe
+    m_Address: Relic_ShadyBattleAxe
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d5d18dd413e6be40a62b8a917e97cb5
+    m_Address: FlagData_ForgeGiryaBonus
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d71a5b9f6d6b244ba7d2ddaacbc97b9
+    m_Address: Shrine_Spawner
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8daa1f65afb9b5048ada83b2b2756e44
+    m_Address: Behavior_Greed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e053c1420a7d1c4ebc2174808e278d4
+    m_Address: Tag_Chest_Gambling
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e1e191c3175cb046816d55e499eef83
+    m_Address: Familiar_BobsBrain_Egg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e326c464df800c48ae1d4ec0e23249a
+    m_Address: Tag_Scaling_Curse
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e5817b93e5dbcd4fb9b00d29dfb1733
+    m_Address: StatusEffect_Burning Ink
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e9dcb4257aac4b4a888fb6dd564eaa6
+    m_Address: New Property Data
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8eb0f6e4c430a874eb24951c934632f1
+    m_Address: Attack_PowderThrowLantern
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8edba4e7f84b98a4090b179c88b9bbec
+    m_Address: Behavior_Rottenseeds
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8efe3a7d7cbea9e43b8db1c91e156cca
+    m_Address: Prop_KeyPrinter
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f22abeedcb96b44d9093a0b46d70321
+    m_Address: Item_berry_red
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f284ff0fffbbaf428b2c8dee39f7790
+    m_Address: Ability_DuelingWand_LightBall
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f5984e2514479549add60703c85fedc
+    m_Address: NPC_ShadyPilfer_Idle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f8b4c5bd7ace6e419ccac13601f6107
+    m_Address: Familiar_EmberBuddy_lvl2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f8dc94366e8bfc4eb472562e60ea29a
+    m_Address: SpawnTable_Smidgens
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f96da9d1272da94dad4af05b27c4c19
+    m_Address: Item_BoneMarrow
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8fa2ef570cd91e3488baf39d9e4c3d1f
+    m_Address: Common_HorusEye
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8fbdbfd4bb442eb4c93b5d8b7cd5754a
+    m_Address: "Common_Coin_of_Cort\xE9s"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8fc3ca5e2452424458db8df88e74a83e
+    m_Address: Curse_BlessedCurse_Curse7
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8fd398bfa06b8694da29551fbbe4ddad
+    m_Address: ExplodingSkulls_idle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 90b99b25338c95544b5b6b49ed592617
+    m_Address: Ability_Arcana_Blank
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 90c9c3b70f4135b40ab7ca6de7688e28
+    m_Address: explodingskull
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 91afb2fb06454654faacf165fe2e60af
+    m_Address: Relic_Particle_accelerator
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 91d0778f032ca364a8f9b70fc8a00a7c
+    m_Address: Tag_Player_Mina
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 91d25db5b1d2c0e458327a62edf164e6
+    m_Address: Wall_NoCollider
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 91e06ae41da212e40a9f4c09abbb9f5e
+    m_Address: Relic_LanternPowder
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9210bb1d1a646e84f92a0f71fcce3adb
+    m_Address: AnimationData_TwinsMelee
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 92281b4e133d5914bb1a95fb1bce1aca
+    m_Address: Common_BlessedCurse_Curse
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 92320af2370b8f84f8f256f9480095bb
+    m_Address: Fireball_NoLight
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 925dec28004614d4db7e6a05a7d1d74b
+    m_Address: Common_TopWays
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 92980ec74f4d54b47896f5f755523997
+    m_Address: Clip_GamblingChest_Spinning
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 92e5204e14a28154d8982c410129cb6b
+    m_Address: AnimationData_DroneTurret_Egg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 931f0db6f3a9dcd4fac86a9b19902b88
+    m_Address: Behavior_Breeze_buddy
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93b276d8c59e5aa469f2171ac24a7752
+    m_Address: Behavior_CrowMask
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93d7547bb45fbc046828095a3c6dbe69
+    m_Address: Blessing_Order
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93f5e4a86af1fe645869a9d651d3a6d3
+    m_Address: StatusEffect_BlessedCurse_Curse9
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 941b50789e60d6444b66b1ee84f603db
+    m_Address: Common_GoodiesOpen
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9460cdc40dfc6cc43810eac50d4a4b85
+    m_Address: AnimationData_BarrelRoll
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9495059af4f77564cb3e564f241e3e7a
+    m_Address: Behavior_Warhammer_EnemyEffect
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9503e25fc48583141bc423d288cfb934
+    m_Address: Behavior_ShadyAdventurersHat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9555c5cc492a92d43a8e8bef622f9bc8
+    m_Address: EncounterGroup_Shrine
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9584c3ccc948c7747945cc3052d3fdb4
+    m_Address: Common_Shield
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 95f1aae320674e54ca030831aa12a345
+    m_Address: Pandora +HealthMana
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 966be0f70b54b954badfc2de3d133d62
+    m_Address: AnimationData_BobsBrain_Egg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9693ba90f972f8245a1279adb4a90f94
+    m_Address: Projectile_Druid_Thorn
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96cc553e754ba8349b311b93fb4d1445
+    m_Address: EmberBuddy_Attack1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9758224e7c3e1d54ab796c327af4b4de
+    m_Address: Tag_Flask
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97975fea9078aa44c9cf62bc89b321d1
+    m_Address: StatusEffect_CrowMask
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97aaced4ff1be2c46842c3f103e5a204
+    m_Address: Attack_Druid_Transform
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 984640b213fe1084d88f5935c7600b0f
+    m_Address: StatusEffect_LeechingSeed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 985bc41ad21138a4eb8f543afe431516
+    m_Address: Prop_MinigameBlock_Red
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 998a92e6b52acec4abc140e3b1aaff0d
+    m_Address: EncounterGroup_Display
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 999d29933a5025c48a176c7d9ddecb78
+    m_Address: Grenade_LightningBottle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a11706b66e4afd4597a417ec9160149
+    m_Address: Common_DessertStash
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a1a5e199dc346241ac0e9ae4ba48ca7
+    m_Address: Tag_CurseToRemove
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a34b2be47591d445b337327850740bf
+    m_Address: Prop_+Bullet
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9abed6192d4751c4799f95cf53bd9138
+    m_Address: Ability_Potion_Greek Fire
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ad5bc6d2a95b9b4699da9e5b9b26b08
+    m_Address: Tag_ExplodingSkull
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9adbb55ef3c892f478a4402e91617bc1
+    m_Address: Pandora Enemy Spawn
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9aefaa6a0c34933408aac59b4e1a9bd4
+    m_Address: Relic_Sigil_Frost
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9af7033872178c74e874fd8d3a2b87d9
+    m_Address: Behavior_PotionThrowFlask
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9afaa97218b9aa5489e7fffcc98f86ff
+    m_Address: Assets/Font/PressStart2P-vaV7.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b08ec741bc38184e81e3f1e1036ede4
+    m_Address: Relic_Warhammer
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b2ff7646f83c3144b695f3d40a58288
+    m_Address: Behavior_Twins_3_Tracker
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b410c734d42f05499565766889250a8
+    m_Address: Behavior_BerserkClawEffect
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b65ce6bdedd28d49bb49b4a29e7d92b
+    m_Address: StatusEffect_LuckyBullet
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9bd53c8c3be436e4c8ef5117c4bcbc0d
+    m_Address: Attack_Familiar_Breeze
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9c46737ba78b84b4fb1fe726e6c5f204
+    m_Address: Common_ArmorPadForged
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9c47dcb7f714ef94b83dd1aaf0c79711
+    m_Address: Ability_Arcana_Trombone
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9c7a0c608c8e26a47b401254ef141e66
+    m_Address: English
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9cb485b60ef57194eae58b41b64faa6f
+    m_Address: Potion_SnowGlobe
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ccecefba1636e1418043c9054736431
+    m_Address: Prefab_CornerRed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d170833dec950f4cb05e94be7007b7f
+    m_Address: Behavior_ArcadeTicket
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e94691a70576254a92b59d7124f7928
+    m_Address: StatusEffect_d6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ea8d9be79e66e54cb4c1b73d16e0ee6
+    m_Address: Behavior_WeightedScales
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9eb81825f631198499605a4830c17497
+    m_Address: Item_Hearth
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f11c84fb3eb3b64aa46e93b119eb4c3
+    m_Address: StatusEffect_Sigil_Blood
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f4d830d1cba3ff408155b67212bf3f7
+    m_Address: StatusEffect_Jera
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f93cf1c5685e934aa8a30dde7f2a98f
+    m_Address: StatusEffect_BlessedCurse_Curse2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f9e6dcf6d036294a9197908a30599f9
+    m_Address: FlagData_ForgeGiryaCurrent
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9fb9ce86b3df4614a89b899200f30faf
+    m_Address: Relic_BoneAppetite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ff62870f9e73c34193be73655f1953a
+    m_Address: Common_JeraForged
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a002c4c64cc0cc344b78ef01feb672fc
+    m_Address: Ability_Potion_SnowGlobe
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a093dde6e22a4e54c99bc4b143bb02f4
+    m_Address: Ability_Potion_Booster_potion
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a10092afa5357be48b7cb1c95f3338cb
+    m_Address: StatusEffect_BobsBrain_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a188c9ba7b472e743b362df4f58739ec
+    m_Address: Relic_KeySynthetizer
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a1966b1b3ac390746a75df16607dcbd5
+    m_Address: Common_Greek Fire
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a1f47d7a0fca64b4cabac3da3812bd72
+    m_Address: Common_AimPistol
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3019a9b23667de42bd7b9c12e5e7a2c
+    m_Address: Behavior_DroneTurret_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a357c8d31b8e1884ebee49eda6e7d71f
+    m_Address: Task_Twins_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a35f155fbe5669a4db6d4c877ebb58ce
+    m_Address: Behavior_Metal_detector
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3c99e0642415d348a86b0b5b658f3f9
+    m_Address: Relic_Ember_Buddy
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4312ce8ef3731e479a1fca5b912dce8
+    m_Address: Clip_MassReleaser
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4422e3995df5534a8435e554cbb772a
+    m_Address: Common_Sharpshooter
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a498505744e0a754c9b3e86300f3259b
+    m_Address: Stat_Curse
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4cbc727e38f8a54aaf3209ea90a5888
+    m_Address: Clip_Shrine_Empty
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4e56abaee96c14488a21b86515471b3
+    m_Address: Prop_Gate_NS
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a536f11c3cef29741b5d5549be91da13
+    m_Address: Behavior_Projectile_BobBlast
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a59cca3944695c649a430a7fe334ab36
+    m_Address: Animation_TwinsMelee_IdleWalk
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a5a7eda1413d56a48b648fe702da260e
+    m_Address: StatusEffect_EncrustedSkull_Fixed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a6d70a0d4d414eb48a895f6d29d94ab4
+    m_Address: Clip_GamblingChest_Jackpot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a6da63af54b8ff4479cbe6ff861a072d
+    m_Address: StatusEffect_LeechingSeedProduceFruit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a709c154d17d44f4bbbb16d2dfadc1f4
+    m_Address: AchievementStat_Quest_Twins
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7287fa008e7a684eb84cad510369b0e
+    m_Address: Relic_ShadyAdventurersHat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a73a8adb7a065f14d9db3e20f610b77f
+    m_Address: SubBehavior_WhipMod
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7505d62dd341984abeda12ac00262c7
+    m_Address: Curse_BlessedCurse_Curse9
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a78226b271b8dd843889cdb9d8abcec4
+    m_Address: Common_Inverse
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7b82d5da646b2c4fabc125da7d410e3
+    m_Address: Prefab_ShrineGreed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7cc8a2982482c3498bb7609c373fe20
+    m_Address: Behavior_CardboardShield
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7fddd93d58cb204f88b080c11dc2802
+    m_Address: StatusEffect_+1Orb
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a825351af9d9d674d971269638963234
+    m_Address: Animation_Twins_Egg_Idle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a83409b6a6df0b04aaf57f3d3f102cd2
+    m_Address: Curse_Rottenseeds
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8835ad0ee4216d4797d35e11565b1ed
+    m_Address: Relic_MapOfInfinity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a884871b0e54d16419ded332dad03f2f
+    m_Address: Relic_HandAxe
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8deccdb08c509241b82ed31b0ff7bc0
+    m_Address: NPCData_Shrine_Greed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a90da94ef28ad6b409d907ed3e55349c
+    m_Address: Tag_SupplyDrop
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a92875b8fc9e0764b84e71db3d266114
+    m_Address: Behavior_Guillotine
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9b61a2de6bdd2a4bb00f70b3f8c67a7
+    m_Address: Familiar_DroneTurret_Egg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9dcfa185d0721d4b81c3cc9d37fbd9b
+    m_Address: Clip_ShrineGreed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aac1682a58c9c5b45914ccbe90e9e177
+    m_Address: StatusEffect_BalancedShiv
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aaf99541cef12054a87fb525cc694c85
+    m_Address: Tag_Damage_Aim
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab1581978e2d5df4fb9ae2b15426d6aa
+    m_Address: Ability_DuelingWand_PoisonLob
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab9ed056737fe9e43b544f2f8aa2df20
+    m_Address: Tag_GeboBuffed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: abb1f1cc0e6248c42b657ddd58450259
+    m_Address: Common_RemsPillow
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac3ffc7717543ee4aa54daacf1a3293b
+    m_Address: LootTable_Potion_Rare_Mod
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac49a636c245b25488dfbdfdf1b29c22
+    m_Address: LootTable_Curse_Phobia_Mod
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac53b597cde5fd44d94c014bed221055
+    m_Address: Potion_Shield
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac5d21b8ba77e7a4c8984cc2b3f256d7
+    m_Address: Prop_Gate_EW
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac6fefc5813b9bc478548d7b1e36c186
+    m_Address: Prefab_ShrineStoneMask
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad642b54d5be06c42af7618e88a81c91
+    m_Address: Common_SwiftStrikeKunai
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad8b6b3b90333294b8197b437476c031
+    m_Address: Arcana_GlueGun
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: adc18bc5863ffde4db3386862b0adacf
+    m_Address: AchievementStat_Quest_BobsBrain
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae1644d5e91b6354b804cb644ad726fa
+    m_Address: Relic_ShadyFirstAidKit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aee4556a52cc64d42b01baa44c01c5c4
+    m_Address: Prop_FloatCloud
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aef0a6c955dcf9f4cb060321df80d6e1
+    m_Address: Task_BobsBrain_0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af2f2ac3220b80d48b545bbbdc064473
+    m_Address: StatusEffect_BlessedCurse_Curse5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af98ed4da6b4ecd4a992e044c9674213
+    m_Address: Task_DroneTurret_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: afa484363a58bd74fb9a51f5505ed986
+    m_Address: StatusEffect_MapOfInfinity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: afd9aef9058c0ee4dba69d808ae99b62
+    m_Address: Relic_Gebo
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aff5c3430a3a9444c854792979c74377
+    m_Address: StatusEffect_CursedBurn
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: affa61dff5f9a37469906072f8ec4f4a
+    m_Address: Behavior_Hearth Locket
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b008cee1dd45ba14689bef3539139f39
+    m_Address: Animation_Twins_Egg_State1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b0189e1c3faf5694282bf5ac87056ba4
+    m_Address: StatusEffect_DroneTurret_1_Tracker
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b03763a586cba194b9d8b5628100ac6f
+    m_Address: StatusEffect_berry_blue
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b03f2a1846be09143a533b6a52945e03
+    m_Address: Animation_DroneTurret_Egg_Idle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b0754a70783ce1e4f809447a93399059
+    m_Address: Arcana_Mass Releaser_Detonate
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b088443647fd770469babd70fab6a7ad
+    m_Address: Behavior_Warhammer
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b09f3b0b4d815e045bb4026935e6a613
+    m_Address: StatusEffect_Twins_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b0e42f097fb653248a3bfaed70d38305
+    m_Address: Relic_StoneMask
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b1222952ea94ea3438fb6226ed2ba807
+    m_Address: New Lash Data
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b1379cd2791b52047b72842adff9d175
+    m_Address: Common_ShadyBattleAxeRevealed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b1530c8ed5b463540ae3afd68fe9f11e
+    m_Address: Common_ShadyMediocreRing_Revealed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b1c8f6c50e4054840a4b5a8b9fc20c1e
+    m_Address: FastAnimation_Mina_NPC_Idle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b23310848895ff6408b052481fc3a85e
+    m_Address: Familiar_EmberBuddy_lvl1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b24d288dbae428e4f8e3b02e7e77048f
+    m_Address: Common_Mending Stone
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b267bf89b8a677941ae8357ef6be16da
+    m_Address: StatusEffect_BoneAppetite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b26ddb261264c3f458ade52577af3286
+    m_Address: Behavior_Twins_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b3093b3acfba34a4094e54e056bacd67
+    m_Address: LootTable_Berry_blue
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b314fa71142bb8749bf4132802fdcbbf
+    m_Address: Clip_GamblingChest_SlotBlocker
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b34f5a7d1f83b1f4ea38450af0a6899b
+    m_Address: StatusEffect_Goodies
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b361a75cf25eac44e8887b5d20788321
+    m_Address: Setpiece_ShadyShopRelic
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b3871ebb5a1122a4283d11433cc1edef
+    m_Address: AnimationData_Chest_Gambling
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4378b02903b5664f9813ac4d9fb454a
+    m_Address: Common_ExperimentalFormila
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b45bf60a4e103074d98f6da57a7e45c8
+    m_Address: Ability_Arcana_GlueGun
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b52e772f20dd4044992a7678b598f99f
+    m_Address: Relic_Sigil_Blood
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b55139058555bbe4485061092d56f915
+    m_Address: Behavior_Jera_Forged
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b56153b3baaafb945a734fabf4a43aea
+    m_Address: StatusEffect_BloodSigilDrain
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b57077ea0736c904e98bccf792c0a0c4
+    m_Address: Common_StoneMask
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b585411a0e33be24c80b30a8e6b65120
+    m_Address: Arcana_ShadyDirksLocket
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b635b8bac3ad60c4da5c133512e165b3
+    m_Address: Prop_+Bullet
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b6700cbe0f3e11f46a7e0f46d2139f37
+    m_Address: Prop_AimTarget_DownUp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b698d6751e17d794c95bfd4c87af0cec
+    m_Address: Animation_DroneTurret_Egg_Attack1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b6e2717b41b657a4484ce6da2da4e5fd
+    m_Address: Common_Reading Glasses
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b6fa416183bd39c46916234e8b35c393
+    m_Address: Relic_Metronome
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b7337db85bf1f6448a14944e4a1235da
+    m_Address: StatusEffect_Supply Drop
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b7ca211aaeb9c0f46aac58429bacf793
+    m_Address: StatusEffect_Cracked Vials
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b8b84a48e051ade40b785130caaef745
+    m_Address: Ability_Arcana_RemsPillow
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b8fbd0be60d70794d96d64357300d055
+    m_Address: AnimationData_FloatGem
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b992d4b2192fa72478b6e4aebe104d48
+    m_Address: Common_FluffyHat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba31b120a0af73940976a4411d63935f
+    m_Address: Ding
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - audio
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba90a50da83802147b8c2cf79d3d6bb0
+    m_Address: StatusEffect_CardboardShieldNegation
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bad94bf5f8eaa28458abcd94c108543e
+    m_Address: Behavior_Bibliophobia
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: baf0cb862e4f0fe4ea26a95588686718
+    m_Address: MapIcon_GamblingChest
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb0ef2cd4cfe82f4d9e3689daef75fc8
+    m_Address: Attack_360
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb1ebac1f14b89a4bb316b9a1ed9107d
+    m_Address: StatusEffect_HiddenPocket
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb22087ee947b274da365b3bc088d48c
+    m_Address: Prop_TwinsPosition
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb55f1b5f2d6dad468711cca2c5303ef
+    m_Address: Encounter_ShrineFountain
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb5691ee98dfe304ebe9eefdbead7cc0
+    m_Address: Prop_MerchantSeller
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb733423ace39424e92801060b734803
+    m_Address: Tag_BobsBrainBlast
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb904a3da67a7be4b9e688574e2d4fad
+    m_Address: Behavior_HeavyPick
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bbe9d60afe0ec72468042ba7f0b8205c
+    m_Address: LootTable_CrackedVial
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc0b2d566ac2d484aac3c07f816884e9
+    m_Address: Curse_Cracked Vials
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc54434f79481f848b91a9e672b82820
+    m_Address: Prop_SupplyDrop
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc944fb3b924470449ec1982cd613a03
+    m_Address: Prop_Shrine_StoneMask
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc9665d658eb8fe4c962edb1ba38bcf8
+    m_Address: BalancedShiv
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bcdcf3e86ea6af245b6c032071308ad3
+    m_Address: Behavior_EncounterShrineManager
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd13aa08c04726a4698e0ff4bfad8cca
+    m_Address: Animation_BobsBrain_Egg_State1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bdfcc0a1d4c4f7649864e9ddc5969d4d
+    m_Address: StatusEffect_Girya_Lifted
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be0b4bc2c07352e4ca241ef2ac9d8636
+    m_Address: Common_CrowMask
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be2114ad2c991c94eac6dbbb7076dd77
+    m_Address: Behavior_Sigil_Blood
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be2b0d1a6f06cc149852ced0b7e78ab1
+    m_Address: StatusEffect_KeySynthetizer
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be43c44639c1f0f44a8a8497dfcc7860
+    m_Address: Curse_BlessedCurse_Curse5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be86f98b0964da844b8e55d4708bf7eb
+    m_Address: StatusEffect_DraconicScales
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bec6d1d245259b34490c21ab3074e7e6
+    m_Address: Arcana_Mirror Shard
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf0986f35d50f51419d6c5097aaeed21
+    m_Address: Encounter_Shogirror
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c02908cba86429445ae99c437fff518e
+    m_Address: SpawnTable_ForgedRelics
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0315028ac9ce6c4c94ddbe147c7f577
+    m_Address: Resource_Ingredient
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c036f5a652b1afa4cbcb088fb16603bf
+    m_Address: Behavior_Ingenuity_Modded
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c04fc116c52c7c34bb5d7fd77fa93cc1
+    m_Address: Ability_Potion_Empty Vial
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c07a14f0bd30bcd4b9c43054b1cf3348
+    m_Address: Attack_Druid_Throw
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0cece564a811f74880a594d19693b16
+    m_Address: Relic_Dagaz
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c10a86b58d24b9a4ba722644babd0d71
+    m_Address: Behavior_CarnivalMaster
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c1f66f5a3ef6c10478e6b42d4c23fc86
+    m_Address: Item_berry_green
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c22e4c1d2bc8971498efc405f316fdd8
+    m_Address: Common_UncertainElixir
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c231375571a53344bb4fe79383dad75d
+    m_Address: Relic_Excited Book
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c23f91fd780d7ff40b093ccfd6939baf
+    m_Address: EncounterGroup_ShadyShop
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c27e63091fa006b4ab37d4216c7a244d
+    m_Address: Curve_Cloak
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2a0bdc600afa3940830f89cd40bfbc1
+    m_Address: StatusEffect_GardeningTools
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c379247046bba53479697621a7f45efc
+    m_Address: Item_Dessert_Cake
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c3b79fcc013d2c14999a2e3e9e28a0a2
+    m_Address: FamiliarData_Twins_Ranged
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c3ed120525d844a4293a8121a65ec8ac
+    m_Address: Relic_TeaSet
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c447060d6d3691542b01098a948b8534
+    m_Address: LootTable_Potion_Common_Mod
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c47dd158495239f459743515526355f9
+    m_Address: Common_Dagaz
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c489263749a9a9246995f47616e708a2
+    m_Address: Tag_CarnivalMaster
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c4ec3907ccbd19542b1bb2c958a359ac
+    m_Address: Arcana_EplodingBarrelRoll
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c4f685854c34f8b4abae4bff7a5f3332
+    m_Address: Behavior_Sharpshooter
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c5c50de10b8424940be66940279eccd5
+    m_Address: Projectile_MassReleaser
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c61f6575e5fbd8146b3a4c4f8640aa53
+    m_Address: Encounter_ShadyShop
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c623fd770a2399d479fb91a1897bdcb5
+    m_Address: Item_Dessert_MilkShake
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6602d223f8c96047949db22c282e78c
+    m_Address: StatusEffect_BobsBrain_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c686eaf570304cc4bb00e8d5fef9b49c
+    m_Address: Behavior_Twins_4_Tracker
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c68972a4338a11e4f8fb7ecdd4a3b4eb
+    m_Address: Curse_BlessedCurse_Curse2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c69edf3b81ec08c40a7c70736a968c3f
+    m_Address: DronePopup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6ac9dfb64ae021489ac80669e92b209
+    m_Address: Blueprint_Familiar_Twins_Egg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7244a37f721ed742bc21dfb4cdfef0b
+    m_Address: Tag_MassReleaserProjectile
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c78e80734d2c6a74997bb04742e355a7
+    m_Address: Behavior_Supply Drop
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7b5c73d0f38fa2468ab9689228ac2b9
+    m_Address: SubBehavior_FindTargets_ModSlashShot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7d68940348a8ca43bae4576a06c4d74
+    m_Address: LootTable_Potion_Flask_Mixed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7f478a83b802a04189fcd125336ebfa
+    m_Address: Projectile_AdventurersGun
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c87910d8b2d667247bda6af998a2c63d
+    m_Address: Common_VampiricFlask
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c88ce9b0bd6ab85468b6fe14504989c3
+    m_Address: Familiar_EmberBuddy_lvl3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c8ddf627d18a5ad4bb7a7715d669366c
+    m_Address: BadDing
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - audio
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c942804517d630347b9463ecab4ab308
+    m_Address: Behavior_Metamorphizer
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c956994ed3e646147b759f0843106faf
+    m_Address: Common_Girya_Lifted
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c97f3d458af77bc45b8a9e8f48608dc4
+    m_Address: Achievement_Quest_Discover_BobsBrain
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c9cea3101ae306649bb09552e38e9fd4
+    m_Address: StatusEffect_WeightedScales
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca2c57fbbd4e3164589e064f9983a915
+    m_Address: SetPiece_ShrineGreed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca880a7fa943f0f4dbf9e7c85119ecb7
+    m_Address: LootTable_LeechingSeedBloom
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca9aad46d065a9c4fad5d0ff2712c3e1
+    m_Address: Ability_Arcana_Mirror Shard
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cace6a5f252dea147be7b7c124d9315c
+    m_Address: Potion_Empty Vial
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cae5b98b61c689447885463729b99567
+    m_Address: StatusEffect_Order
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cae8ff4d1fab0e4498473aad544d6b22
+    m_Address: Prop_BorderAim
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb42a5810cd4f4c42bcf8ab924cfba6e
+    m_Address: StatusEffect_Metamorphizer
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb6d6aa4df1308a4bb9c9895a881b4eb
+    m_Address: Common_Fan
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc206c921d1796d47ac6b218a4abbc2c
+    m_Address: Behavior_ShadyMediocreRing
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc53ea1e1adeeee4e904ed57d0dacf57
+    m_Address: Behavior_BalancedShiv
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc87572235b0fb246a3738a75b269279
+    m_Address: Prop_KeyPrinter_Invis
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ccd8b7e1434a14b45a8a59db99bef06b
+    m_Address: StatusEffect_RubyShades
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ccfd690488494494c9b067352c8d7ed7
+    m_Address: Behavior_Twins_0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd29952151cde0e45b8a559b83dfacee
+    m_Address: StatusEffect_Sharpshooter
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd829cbacf254564bba2d82247ccefe8
+    m_Address: StatusEffect_Booster
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd8624c4d089071439db5c0d97b53d32
+    m_Address: Common_ShadyBattleAxe
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cdae52a1b370a9e4b93f4fe636afc4e7
+    m_Address: Ability_Arcana_AimPistol
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cdb061a602f617541ab3a4a1dfd016e8
+    m_Address: StatusEffect_BobsBrain_0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cdc53723bb41f0541901fbdaeb4157e9
+    m_Address: StatusEffect_Ingenuity_Modded
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce0179115b979c943aa8bfe400d8d847
+    m_Address: StatusEffect_ShadyRothamsFractal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce12cd8932f5507459a4e1fc8eb6349e
+    m_Address: Behavior_Degull`s Pyramid
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce5ab523146cbf14e87a3e122c5d0e65
+    m_Address: Common_Cloak of Shadows
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cefe8ea974224de49897d5123dea6255
+    m_Address: Familiar_Breeze_Buddy_Lvl1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf41860d3e21fe541b8ed269739a2358
+    m_Address: Ability_Arcana_Fan
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cfa453e081bd9904d9177c74a22a8b33
+    m_Address: StatusEffect_ArmorPad
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cfc49c85cc9a565439c826e9ee59a35c
+    m_Address: Behavior_Familiar_BobsBrain
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d02a727b489a1dc49a3019108fde07a1
+    m_Address: Common_Particle_accelerator
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0831edcd6537844ebd798f27a061d70
+    m_Address: Animation_SteelSpider_Walk
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d08ef8acbb4dd4346a33dc5a57cb07f0
+    m_Address: Change
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0a33032d38033042bb5cd45d317cbb7
+    m_Address: Arcana_FlashySlashFlash
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0cf82183e8806648ad5779e779aa36b
+    m_Address: Common_d6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d15ee7b4ef231da499af93d955825d4d
+    m_Address: Clip_BarrelRoll
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d1c99492ee6db674bb6971849585c392
+    m_Address: Prop_AimTarget_LeftRight_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d1e2985e59bc1b644b03c8c4647b45d3
+    m_Address: Common_Ambergris
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2d62b2ad4f324f48a3f14cd900dafc6
+    m_Address: Animation_TwinsRanged_IdleWalk
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2fe797ebf3ba564b81ee9f1eeb8cd90
+    m_Address: AimPistol_Behaviour
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d334b482b02879a41a3844679988bdf9
+    m_Address: Prop_Shrine_Shogirror
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d4961ddd428e15849867566f9c5b6820
+    m_Address: Relic_+1Orb
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d49ac4b6c60cfcc4b8ee417a2bd6f9da
+    m_Address: Grenade_RemsPillow
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d4a206f405001e340b8975f2e9100bf7
+    m_Address: Stinger_Ding
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d4bf9e6284303c24b987439810af5f47
+    m_Address: StatusEffect_Rottenseeds
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d50dd1e6b9514af479e17c3b3ccaab98
+    m_Address: Bush_orange
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d51afb5712424af40a134c4f54a015a9
+    m_Address: Common_+1Orb
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d534f7ed5267c3549b253ade9cf8ac7a
+    m_Address: Mod
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d606f808cd444fb43b88cbacdcc9bb75
+    m_Address: Item_Burning Ink_Talisman
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6482e567f41b0447b08dc2d7892eb73
+    m_Address: Common_Jera
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6716bc378614d24d87dea37f47aca3e
+    m_Address: Prop_KeyPrinter
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d671b9f550e0fa449b46d16a8aafb039
+    m_Address: Chest_GamblingSlotBlocker
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d67f5bd679942b14aab4080d3c77bb85
+    m_Address: SpawnTable_Desserts
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6abdcdb22cfa5c46a28bc4066a20334
+    m_Address: Behavior_Cracked Vials
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d7c5e589ed3e2ce4db2027b90d0fc28b
+    m_Address: Behavior_SteelSpider
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d7d2818d8bbfd054e922df1787f7fcee
+    m_Address: Ability_Potion_BloodVial
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d837645c879dfb74da5fdb0e94647647
+    m_Address: Behavior_HandAxe
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8443d169cb762c4fa075cde9b610a91
+    m_Address: Chest_Gambling
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d84559813de4b6f4caee6d06fc2623aa
+    m_Address: Familiar_DroneTurret
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d875dfa9d70fc5649909d5bda8dba96b
+    m_Address: Relic_Dagaz_Forged
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d87f8af10d14c5341b94203ee0a4c760
+    m_Address: Item_Curse
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d88c821983f60494a92d95035d69978b
+    m_Address: StatusEffect_Guillotine
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d890cc365da13cf45aeece00bad91c58
+    m_Address: Relic_ArcadeTicket
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8a32577e7a404a42bfb6eb49b5f2c23
+    m_Address: Common_Degull`s Pyramid
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8a43819d53eb3e4f8d7ac2bd4a80230
+    m_Address: StatusEffect_Dagaz
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9461d1bf22d81b468bdb0f542ecf9ac
+    m_Address: Ability_Arcana_AdventurersGun
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d98bb9ee5bb64d144bb0182e45cb90fe
+    m_Address: AnimationData_Chest_Eternal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9b439152b6220b47b23e876be95da22
+    m_Address: Behavior_HiddenPocket
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da00e2ad02ccddb4c9514f55d90a14b3
+    m_Address: StatusEffect_ShadyAdventurersHat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da6c09cf36bf9b4418249d9106913b83
+    m_Address: Ability_Potion_Merchant
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da8f1939e41d6d54d9c95e7cfb07baa3
+    m_Address: Item_Dessert_Cookies
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dab53fbb233ab9b48b04cf4d53c474ab
+    m_Address: Familiar_BobsBrain
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db151f807c9dbad4c834e911a7ec3990
+    m_Address: Prop_KeyPrinter_Idle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db6dce5340bf95246a1ea8e6bdd9d017
+    m_Address: Common_Sigil_Unholy
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dbdff39ceb3fe7b4582c54393e203d3a
+    m_Address: Common_Sigil_Blood
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc1a70e2307dd7a408628dc785eb85cb
+    m_Address: Behavior_BlessedCurse
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc942828e0b080543a66a6efb8536de9
+    m_Address: StatusEffect_breeze_buddy
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dd04cec6c3f1082489683a7753ccd2fa
+    m_Address: Common_ShadyFirstAidKit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dd41ca6e24a3f17478847995717601a0
+    m_Address: Arcana_PinNeedle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dda187686ce3f8c4bbb0c371de694f4b
+    m_Address: Behavior_DroneTurret_1_Tracker
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: debbdfed32fe5f847b22855f06199579
+    m_Address: Common_Mass Releaser_Detonate
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dedb066be73a74d4a86b80a9a6a094c2
+    m_Address: Carnival_Master_Idle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dedf191c8f817f8409501e53149f7c51
+    m_Address: Task_Twins_0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dee974a4d0901b248beb0471730f76e9
+    m_Address: Prop_SupplyDropFull
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df2b4e1ef8633f7429bd0fb079ab2058
+    m_Address: LootTable_Berry_green
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df2b6e3de2ffcbe4f9862b847c5abf02
+    m_Address: LootTable_Potion_Flask_Common
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df580f967493c8a40bb47fd817bd5ee7
+    m_Address: Prop_KeyPrinter
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e04eb16bbd05f9b44b8dc3b75e85a228
+    m_Address: InputMapData_Druid
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e0fe5d6a479f4da41a3b509957f19af8
+    m_Address: Shrine_StoneMask
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e118ed767c3be6644aa43830eae10294
+    m_Address: LootTable_ShadyArcanaRelicAll
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e15c3721e8ebc80409eb016602bfc21f
+    m_Address: Behavior_LeechingSeedProduceFruit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1a6f2b52f430e644963a418e9586d18
+    m_Address: SetPiece_ShrineStoneMask
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1b7d9f7799967140bb5c9c0ffa90d4a
+    m_Address: LootTable_Potion_Flask_Rare
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e20628f5dfb2f814a822075305abab61
+    m_Address: Animation_BobsBrain_Egg_Idle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e23229b69e36f994cbc10d5c38b59f5c
+    m_Address: Relic_Sigil_Unholy
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e23f45b25fb411946836f980b74a4ea3
+    m_Address: Ability_DuelingWand_KnifeStorm
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e2a93f9a54719234788179a2a701f42e
+    m_Address: Behavior_Druid_Bear
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e2bea9576ad53d2499c548b660a6192e
+    m_Address: Pandora -1 Item
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e2e0641f8e5d64442964476d2deaed21
+    m_Address: StatusEffect_Ember_Buddy
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e386d664a45c3b442ac7a1a6468ac591
+    m_Address: Ability_Potion_Shield
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e4458141708523440828e9bf6ff61e48
+    m_Address: Shrine_Base
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e48bff4675a3d334c8415d17f4b28313
+    m_Address: AnimationData_BalancedShiv
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e4be0a5b15743f3458dd5fdf4e6c404f
+    m_Address: AnimationData_BulletAim
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e51106bc9cdb3444c964f78723ee959c
+    m_Address: Common_Girya_Lift
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e56df78e882fe8547a3f3d3e76c90ed3
+    m_Address: Prop_AimTarget_orbit_CC
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e571e6f49cfe9ee498e7db1d725d50d6
+    m_Address: LootTable_ArcadeReward3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e58b839fe428fee4eb4f7cf0e6cee525
+    m_Address: StatusEffect_Jera_Forged
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5ac98315534e61469489b59ca6d1f91
+    m_Address: StatusEffect_Twins_2_Tracker
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5afcd86755a65241980a9a04c34b1aa
+    m_Address: Tag_ElementalBuddy
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5ba81646c6c2c64faa043b3316502b1
+    m_Address: Prop_Boulder
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5ce45ae6ace43748adc1db51b6540ce
+    m_Address: Behavior_Twins_2_Tracker
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5d69f1b48858aa4a8b0397ed76d0c30
+    m_Address: Behavior_Projectile_Fireball_NoLight
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5edc9e67a29f394688e8fe53e740b12
+    m_Address: AnimationData_ShrineGreed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e608f8098d7ccdf49bcf2a78b6a7bcb4
+    m_Address: Relic_LeechingSeedSpreadBranches
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e60d60b4651eefd49b402d092a00e5e2
+    m_Address: Common_Supply Drop
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e616b7dfb90532d4e98d91d2f4e128c2
+    m_Address: StatusEffect_DroneTurret_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e67c49dc5cf1b9b4fa66f3bf12f2855b
+    m_Address: Assets/Font/UM2FontRecreatio.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e68d2a8c19a782a41b3264bb8d51621d
+    m_Address: Common_HeavyPick
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6f42fed365a6254ea535c9735d329b2
+    m_Address: Ability_Arcana_ArcaneMissiles
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e740b014c2b98d5408391643ca5d143c
+    m_Address: MinigameBullets
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e747e0bee3d405b4f9fa034ab8f8ac1f
+    m_Address: AnimationData_ProjectileMassReleaser
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e7ceb2ec82068a8408ccc9d508bb29d6
+    m_Address: Relic_Supply Drop
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e8382b4ddc9a9834694f45d634f44eed
+    m_Address: Curve_EternalChanceDecrease
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e8e143e51408d584ba1383ea9884470e
+    m_Address: VampirismCircle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e91f35d0cc1afb24d90270855ad04220
+    m_Address: Return Pickaxe
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e93499dc41369d44c8f07fe5abe76cfb
+    m_Address: Common_Embiggener
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e945c307a2e103147b45ceec6dd55e7c
+    m_Address: EncounterGroup_Trap
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e9556eb60dc61114eb26b7c192bf0171
+    m_Address: Common_Metamorphizer
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e98fa11b6c3dd8e44adb6e0a68a8a679
+    m_Address: Potion_Lightning In A Bottle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e9be2e044d37f624f9fcb275b717d4f9
+    m_Address: Pandora +5 Item
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e9d696105158e5e4e9274d2b18f80de3
+    m_Address: Behavior_FluffyHat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e9eebe324a1a51345acad57e49c31aaa
+    m_Address: Metronome_Tick
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea60a24128a21c84da54be58450d6464
+    m_Address: Ability_Arcana_FlashySlashFlash
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea7e0f29f931cf34294420eae9d17176
+    m_Address: Relic_Cloak of Shadows
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eb096502fe3e77e41a1e1c0a31d8d865
+    m_Address: Behavior_ArmorPad
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eb1ff396a680c144ca30dd15df79b566
+    m_Address: Stinger_BadDing
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eb487b1d6cb41134f82048c24727d55e
+    m_Address: Common_ArmorPad
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eb8cd93c1a72dcc48bc4a42cbb18df44
+    m_Address: SubBehavior_FindTargets_ModRanged
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ebba8f91c34409c499d2a930795a0418
+    m_Address: Ability_DuelingWand_FireBarrage
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ebf96ec3661c11f48bb03c8287ba630a
+    m_Address: Behavior_Dagaz_Forged
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec0d540398e57e44e87e47e6c63487cb
+    m_Address: Common_TriWhip
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec0e5ec26e2169e4cad858c2c22f1467
+    m_Address: Common_Metronome
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec3cdb71a4a74e54fbd7bbb473f3a463
+    m_Address: Behavior_BalancedShivSpriteChangeRedirect
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec5966f906e36ea49a91c2526b5e339a
+    m_Address: Relic_LeechingSeed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ecec41cb5f4a91e4b9e34e99892fdf17
+    m_Address: Common_Bibliophobia
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ed24c76a4c7957f468940db30d17b3b8
+    m_Address: Common_Booster_potion
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee153acadfda746458b9a0547dec5443
+    m_Address: Common_PERFECTLYBalancedShiv
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee5dc3179f9ff1b4bbd0d3a2e6f07271
+    m_Address: MaxHP
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee6815505ef903f4cb7f0b205511be42
+    m_Address: ShadyShopRelic
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee86d74c2dd35d84e8ad9e4b86a548cc
+    m_Address: EmberBuddy_Idle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee89fa28b807bb9489b85f8a7a569e40
+    m_Address: StatusEffect_Sigil_Unholy
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eed80a3432e245542ab16a5bd5ea0868
+    m_Address: SpawnTable_JeraRoomReward
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eeeb7b683b4194747ab74b2d06f72ad7
+    m_Address: LootTable_Arcana_Common_Mod
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef6ca465c3d73fe479b2cea39c041b07
+    m_Address: LootTable_Relic_Common_Mod
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef71683a84933b2408e6b103b8a26471
+    m_Address: Common_PinNeedle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef83c968edcc36a40bd3a55ae2c6d722
+    m_Address: AnimationData_BatSwarm
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f00603d3afcc51242b0f16146016c9ab
+    m_Address: Behavior_berry_red
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f0d756bed2acbb14abfb7c35650e7414
+    m_Address: Prop_MinigameCorner_Red
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f1289ccf5bcd1a6439e0902e3197ff33
+    m_Address: Arcana_Trombone
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f1f03e099ed94134aa05acbab50229fc
+    m_Address: CommonCost_ShadyRelic_Average
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f2265c8dcfa063a4598fb7ddfae581e9
+    m_Address: Item_Dessert_Waffle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f25c1a3435e745849a925430b3064e6e
+    m_Address: Tag_Player_Druid
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f26124601fad978458a0cbb2bf72d693
+    m_Address: Behavior_Projectile_TunicShockWave
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f283dbdb7a7120047b15edd7c31b71a9
+    m_Address: Relic_CursedBlade
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f2c81bad479b3bd4c8e3e23d6232d076
+    m_Address: "Behavior_Coin_of_Cort\xE9s"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f2fc07de2fae03e4798611fae7ef3754
+    m_Address: Behavior_TeaSet
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f34bf68e1ffef0548821d9d8ab0e5d5b
+    m_Address: Animation_Twins_Egg_Attack1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f34c60b9eecb237498840287e9c30617
+    m_Address: StatusEffect_Twins_1_Tracker
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3d946587f0d1d449a4bb7e7e45fd9d2
+    m_Address: LootTable_Relic_Shop_Rare_Mod
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f41b051e0e1412b47b44dcb868702f39
+    m_Address: Common_Gebo
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5987eb1b5b564048aee81382add6547
+    m_Address: Tag_AimTarget
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f6482e69cf961df4f8773b3a26ab7174
+    m_Address: StatusEffect_Exploding Skulls
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f6ad83297c297f84d895622a8336b37d
+    m_Address: Tag_JeraSpawn
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f6fee33c1fd21744ab233eb26c59de64
+    m_Address: StatusEffect_Degull`s Pyramid
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7d76b572c25f7844a0917d8019f752e
+    m_Address: Task_DroneTurret_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f83e936f235bbc448b4ff243e096af4e
+    m_Address: AimTarget
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f842563a7397ce84ba0dcbd23da8ab3b
+    m_Address: Encounter_FamiliarTest
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f873747228584e94793ea3ea00e3e172
+    m_Address: Task_DroneTurret_0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f8d3d2923a3fad14184f38bee46ae97f
+    m_Address: Clip_GamblingChest_LoseMedium
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f90c82a39d7968d4d8723589e331152e
+    m_Address: Common_ShadyFirstAidKit_Revealed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f941a03b7b2110745ad898fb7210eab5
+    m_Address: Ability_Arcana_ShadyDirksLocket
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f946c245b50a4e74f9e3f0b054ec3f56
+    m_Address: Arcana_Fan
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9600a2b0d5aa464fa6d74a2d8ee0c1d
+    m_Address: Prop_MinigameCorner_Collider_angle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9e54b5c8b202974e890199168289be0
+    m_Address: SetPiece_Corner_Red
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa1b3190037f64444b159f76a7183814
+    m_Address: Tag_Forged
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa9bcaf0d139ed846ac810c3a6899045
+    m_Address: Grenade_LightningInABottle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: faad66f5120136a47b1aa80e55577e0d
+    m_Address: Curse_DraconicScales
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fab2ba8ca7b3ccb43b0475f5e31d9a42
+    m_Address: Common_ThrowSwitch
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fac54f398559fcf4a87a093704a85439
+    m_Address: StatusEffect_BobsBrain_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fadd827bdeb98624eaf41ce0840c7956
+    m_Address: Clip_GamblingChest_WinSlow
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: faf3b28ecc1752249b31397460999946
+    m_Address: StatusEffect_BlessedCurse_Curse4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb06e5fae920ebc41a1f0545a8633e76
+    m_Address: Behavior_DraconicScales
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc77316ab776b6146907b889f586312f
+    m_Address: Shrine_Greed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd2d9ad3fa72d3d4a804257d479f0400
+    m_Address: Encounter_TicketCrawlspace
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd9b7258dfe55144aa2f254d671cc900
+    m_Address: Behavior_Projectile_Slash
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fdcf0eae498d2cc4ab160e91afbf0665
+    m_Address: Common_Druid_Bear
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fde6761e916691a408ffe0af047d5f0e
+    m_Address: Behavior_SwiftStrikeKunai
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe3e533f473a10e40bb3b5c5fca91891
+    m_Address: Ingenuity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe40d6220b4a37c4f9de89e70a8e34fc
+    m_Address: Task_Twins_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe415a1d516b8984ba67b66e6741219f
+    m_Address: StatusEffect_DessertStash
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fec87d971d077254194f9f3a523b84fd
+    m_Address: StatusEffect_ShadyBattleAxe
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: feebb6fca6c28214d83bc0ca646aeb48
+    m_Address: Behavior_Girya_Lifted
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff046a4d0d010bc45849c1291e34ca60
+    m_Address: SetPiece_ShrineShoguul
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff1e8b8f79d8bf54abe7d40ed70deac2
+    m_Address: StatusEffect_BlessedCurse_Curse3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff36733e9867a5b4f94990cfe309d2d7
+    m_Address: AimTarget_Track
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff4ecd7ac06f4f64cb0b1528f4e9b6fd
+    m_Address: StatusEffect_TopWays
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff8117bf745fd7643a6cbde4965c737b
+    m_Address: Common_HorseShoe
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ffe3836c9fb764741b67655832891362
+    m_Address: Common_Ember_Buddy
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ffeba9346095f874db9b794b527ccfd9
+    m_Address: Ability_DuelingWand_DarkBall
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: f7401acae492fba4dad2f7153da1b2e5, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 84be80a08f0a10344a0c7b95c64e8d80, type: 2}
+    - {fileID: 11400000, guid: 36d2e835889430845aa13cba41c19c9e, type: 2}

@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -378076000, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Curve_Cloak
+  m_EditorClassIdentifier: 
+  m_guid: 8ad9a726d7984c3e9724af0e257c8daa
+  m_guidHash: 1641976916
+  m_commonModule: {fileID: 0}
+  m_comments: 
+  m_type: 1
+  m_inspectorHint: 0
+  m_property:
+    guid: cbf1ae8fd3b67604f88047669e3c738c
+    guidHash: 168732642
+  m_curve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0.00010131131
+      value: 0.000014271936
+      inSlope: 0.03275893
+      outSlope: 0.03275893
+      tangentMode: 0
+      weightedMode: 1
+      inWeight: 0
+      outWeight: 0.08447936
+    - serializedVersion: 3
+      time: 49.944042
+      value: 0.74865776
+      inSlope: 0.00056883064
+      outSlope: 0.000083914
+      tangentMode: 1
+      weightedMode: 0
+      inWeight: 0.25473386
+      outWeight: 0.28227323
+    - serializedVersion: 3
+      time: 99.99985
+      value: 2.0001254
+      inSlope: 0.008559873
+      outSlope: 0.008559873
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.25443968
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4

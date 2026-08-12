@@ -1,0 +1,200 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7425565242913486733
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1205558768, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: MiniMapModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_mapIcon:
+    guid: fe9fdd544f8a6d5448dc2dd3c0b98520
+    guidHash: -1692181490
+--- !u!114 &-4236075336112018151
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1370092402, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: CommonModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_commonProperties:
+    common:
+      guid: 
+      guidHash: 0
+    properties:
+      icons:
+        m_sprites:
+        - {fileID: 21300000, guid: 40e93f0d6f3d0af4787188f1bb621819, type: 3}
+        - {fileID: 21300000, guid: 40e93f0d6f3d0af4787188f1bb621819, type: 3}
+        - {fileID: 21300000, guid: 40e93f0d6f3d0af4787188f1bb621819, type: 3}
+      displayName:
+        m_id: -699953379
+      description:
+        m_id: 0
+      flavor:
+        m_id: 0
+      color:
+        guid: 
+        guidHash: 0
+      palette:
+        guid: 
+        guidHash: 0
+      tags:
+        m_tags:
+          m_values: []
+--- !u!114 &-4013768519838056262
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1616187677, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: ItemModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_isPromptable: 0
+  m_maxSpawnCount: -1
+  m_pickupBehavior: {fileID: 517756284236573170}
+  m_pickupRequirements:
+    operation: 0
+    expression: '{0}'
+    values:
+      m_values: []
+  m_entityDataOverride:
+    guid: 
+    guidHash: 0
+  m_sparklesFX:
+    guid: ece5b9ec92bb9c44882c48b0835d245e
+    guidHash: -1180683639
+  m_invertUnlockSemantics: 0
+  m_isUnlockedByDefault: 1
+  m_unlockOnSee: 0
+  m_unlockOnPickup: 0
+  m_isDiscoveredByDefault: 0
+  m_discoverOnSee: 0
+  m_discoverOnPickup: 0
+  m_pickupAudio:
+    guid: 
+    guidHash: 0
+  m_landAudio:
+    guid: 81b7cf63cf150294988fc0b9f84fb29f
+    guidHash: 252962894
+  m_removalWeight:
+    m_weight: 1
+    m_luck:
+      m_type: 0
+      m_max: 0
+    m_requirements:
+      operation: 0
+      expression: '{0}'
+      values:
+        m_values: []
+    m_passAdjust:
+      m_behavior: 0
+      m_adjust: 0
+      m_luckBehavior: 0
+      m_luckAdjust:
+        m_type: 0
+        m_max: 0
+      m_assignmentOp:
+        name: =
+        hash: 372029329
+      m_property:
+        guid: 
+        guidHash: 0
+      m_arithmeticOp:
+        name: +
+        hash: 372029319
+      m_value: 0
+    m_failAdjust:
+      m_behavior: 0
+      m_adjust: 0
+      m_luckBehavior: 0
+      m_luckAdjust:
+        m_type: 0
+        m_max: 0
+      m_assignmentOp:
+        name: =
+        hash: 372029329
+      m_property:
+        guid: 
+        guidHash: 0
+      m_arithmeticOp:
+        name: +
+        hash: 372029319
+      m_value: 0
+    serialized: 1
+  references:
+    version: 2
+    RefIds: []
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 517854022, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Item_Curse
+  m_EditorClassIdentifier: 
+  m_guid: ab8dbe427ca5419f8eb8cb221e6011da
+  m_guidHash: -74363175
+  m_commonModule: {fileID: -4236075336112018151}
+  m_tagModule: {fileID: 11400000, guid: 873abd8c837f108478f167681c7990bf, type: 2}
+  m_behaviorModule: {fileID: 11400000, guid: 9ebcefa3fd874444c9e8ee9c74851aa4, type: 2}
+  m_itemModule: {fileID: -4013768519838056262}
+  m_costModule: {fileID: 0}
+  m_miniMapModule: {fileID: -7425565242913486733}
+  m_swapModule: {fileID: 11400000, guid: 7427974414abc664480cd30ce0c54362, type: 2}
+  m_shadowModule: {fileID: 0}
+  m_requirementModule: {fileID: 11400000, guid: 8436ed46a7e8f9848a1fb5c22d883cab, type: 2}
+  m_itemAnimationModule: {fileID: 0}
+  m_itemDeathModule: {fileID: 11400000, guid: b1c315a605e312f48b6b88f6990c5144, type: 2}
+--- !u!114 &517756284236573170
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 173507967, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: PickedUp
+  m_EditorClassIdentifier: 
+  _serializedGraph: '{"type":"Thor.Core.ExtendedBehaviorTree","nodes":[{"_position":{"x":570.0,"y":300.0},"$type":"NodeCanvas.BehaviourTrees.Sequencer"}],"connections":[],"canvasGroups":[],"localBlackboard":{"_variables":{"Self":{"_value":{},"_name":"Self","_id":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9","_isPublic":true,"$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Target":{"_value":{},"_name":"Target","_id":"3d65495c-3ba0-48ab-bddc-212f6a92b7aa","_isPublic":true,"$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"}}},"derivedData":{"autoVariables":{"m_values":[]},"$type":"Thor.Core.ExtendedBehaviorTree+DerivedSerializationData"}}'
+  _objectReferences: []
+  _graphSource:
+    _version: 3.3
+    _category: 
+    _comments: 
+    _translation: {x: 0, y: 0}
+    _zoomFactor: 1
+  _haltSerialization: 0
+  _externalSerializationFile: {fileID: 0}
+  m_preProcess: 0
+  m_processOnEnable: 0
+  m_uninterruptible: 0
+  m_proxy: 0
+  m_restartOnDisable: 0
+  m_autoVariables:
+    m_values: []

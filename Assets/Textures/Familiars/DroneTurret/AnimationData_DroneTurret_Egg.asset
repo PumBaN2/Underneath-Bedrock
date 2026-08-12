@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1783077148, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: AnimationData_DroneTurret_Egg
+  m_EditorClassIdentifier: 
+  m_guid: cdfc3eeca11d427db962f915d850469f
+  m_guidHash: 1824847282
+  m_facingMode: 0
+  m_blendMask:
+    value: 0
+  m_includeCommon: 1
+  m_controller: {fileID: 0}
+  m_fastAnimations:
+    m_values:
+    - animation:
+        value: 1
+      facing: 0
+      clip:
+        guid: b03f2a1846be09143a533b6a52945e03
+        guidHash: -890559853
+      flipX: 2
+      unscaledTime: 0
+      fps: 1
+    - animation:
+        value: 4
+      facing: 0
+      clip:
+        guid: b698d6751e17d794c95bfd4c87af0cec
+        guidHash: 1432130908
+      flipX: 2
+      unscaledTime: 0
+      fps: 2
+    - animation:
+        value: 512
+      facing: 0
+      clip:
+        guid: 7c48c0a123ce55a4b81455d8804aec10
+        guidHash: 1276026418
+      flipX: 2
+      unscaledTime: 0
+      fps: 1
+  m_markerSpace: 1
+  m_markers:
+    m_values: []

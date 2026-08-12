@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -143053857, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Common_HandAxe
+  m_EditorClassIdentifier: 
+  m_guid: b9bc4c647b784d389a94e167b87c948d
+  m_guidHash: -168244939
+  m_properties:
+    icons:
+      m_sprites:
+      - {fileID: 21300000, guid: 5d99199d8311c114e92ba3a26450a1ae, type: 3}
+      - {fileID: 0}
+      - {fileID: 0}
+    displayName:
+      m_id: 974598845
+    description:
+      m_id: -817549414
+    flavor:
+      m_id: -1285956107
+    color:
+      guid: 
+      guidHash: 0
+    palette:
+      guid: 
+      guidHash: 0
+    tags:
+      m_tags:
+        m_values:
+        - guid: e2811021f5c8a244e9e598052457032c
+          guidHash: 1966562525
+        - guid: 29fcd0df3aca2614994a35c7e533d594
+          guidHash: 1795452930
+        - guid: b99698f6b4b2f9e4c83ef415579497e2
+          guidHash: -801434338
+        - guid: b2e281befdf08844285660540ff8277c
+          guidHash: -1819534000
+        - guid: 2a4565daadedef54a9519f31f327e9dd
+          guidHash: -1443598525
+        - guid: 385ac3f0afa20624fb337ec18ae2b389
+          guidHash: -184381557
+        - guid: 700b1ff286c580b49b2c00c508bfe008
+          guidHash: 678855353
+        - guid: 65937a5612d4d9041b118687a34626c1
+          guidHash: 1937956408
+        - guid: fe9eba3dad6d5124e9a2787da4943735
+          guidHash: 1079384439

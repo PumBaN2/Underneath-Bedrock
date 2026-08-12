@@ -1,0 +1,186 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-4236075336112018151
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1370092402, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: CommonModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_commonProperties:
+    common:
+      guid: b2bc8c82c5349f2428e9bdff6d451941
+      guidHash: 1391514886
+    properties:
+      icons:
+        m_sprites:
+        - {fileID: 0}
+        - {fileID: 0}
+        - {fileID: 0}
+      displayName:
+        m_id: 0
+      description:
+        m_id: 0
+      flavor:
+        m_id: 0
+      color:
+        guid: 
+        guidHash: 0
+      palette:
+        guid: 
+        guidHash: 0
+      tags:
+        m_tags:
+          m_values: []
+--- !u!114 &-4013768519838056262
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1616187677, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: ItemModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_isPromptable: 0
+  m_maxSpawnCount: -1
+  m_pickupBehavior: {fileID: 517756284236573170}
+  m_pickupRequirements:
+    operation: 0
+    expression: '{0}'
+    values:
+      m_values: []
+  m_entityDataOverride:
+    guid: 681208f755c6edf458141948a3af15a2
+    guidHash: -1218027188
+  m_sparklesFX:
+    guid: 
+    guidHash: 0
+  m_invertUnlockSemantics: 0
+  m_isUnlockedByDefault: 1
+  m_unlockOnSee: 0
+  m_unlockOnPickup: 0
+  m_isDiscoveredByDefault: 0
+  m_discoverOnSee: 0
+  m_discoverOnPickup: 0
+  m_pickupAudio:
+    guid: b5bf7af846d04a348bff2ab472934746
+    guidHash: 185197636
+  m_landAudio:
+    guid: 
+    guidHash: 0
+  references:
+    version: 2
+    RefIds: []
+--- !u!114 &-1732223869833016880
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 921815886, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: ItemDeathModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_deathFXOffset: {x: 0, y: 0, z: 0}
+  m_deaths:
+    m_values:
+    - guid: 20a14a1c17c52f04d8002a8e6c4306da
+      guidHash: -1075276324
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 517854022, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: SpecialItem_pandora_skull
+  m_EditorClassIdentifier: 
+  m_guid: 031d7bb5c5384084b22f7b3c00a545e9
+  m_guidHash: 650962089
+  m_commonModule: {fileID: -4236075336112018151}
+  m_tagModule: {fileID: 11400000, guid: 873abd8c837f108478f167681c7990bf, type: 2}
+  m_behaviorModule: {fileID: 11400000, guid: 9ebcefa3fd874444c9e8ee9c74851aa4, type: 2}
+  m_itemModule: {fileID: -4013768519838056262}
+  m_costModule: {fileID: 0}
+  m_miniMapModule: {fileID: 11400000, guid: 7e876120cbc0c5f40a0978e29ccf4073, type: 2}
+  m_swapModule: {fileID: 11400000, guid: 7427974414abc664480cd30ce0c54362, type: 2}
+  m_shadowModule: {fileID: 8537550846129222485}
+  m_requirementModule: {fileID: 11400000, guid: 8436ed46a7e8f9848a1fb5c22d883cab, type: 2}
+  m_itemAnimationModule: {fileID: 0}
+  m_itemDeathModule: {fileID: -1732223869833016880}
+--- !u!114 &517756284236573170
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 173507967, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: PickedUp
+  m_EditorClassIdentifier: 
+  _serializedGraph: '{"type":"Thor.Core.ExtendedBehaviorTree","nodes":[{"_position":{"x":723.0,"y":330.0},"$type":"NodeCanvas.BehaviourTrees.Sequencer","$id":"0"},{"_action":{"m_target":{"_name":"Target","_targetVariableID":"3d65495c-3ba0-48ab-bddc-212f6a92b7aa"},"m_source":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_changeResourceData":{"transactionType":1,"category":1,"resource":{"m_data":{"guid":"543b410530efcf545a9eecdfdc64e87b","guidHash":-1842917499},"m_target":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_key":{},"m_variable":{}},"attribute":{"m_data":{},"m_target":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_key":{},"m_variable":{}},"combatant":{"_name":"Owner"},"canCrit":{},"direct":{},"variance":{"_value":true},"ignoreGracePeriod":{},"gracePeriod":{},"gracePeriodGUID":{"m_guid":"2d4d6c09735b4c54a34b95a785e4161f","m_hash":781096765}},"m_propertyValueData":{"target":{"_name":"Owner"},"property":{},"lookupKey":{},"value":{"_value":1.0},"operand":{}},"m_position":{"_value":{"entity":{"_name":"Target","_targetVariableID":"3d65495c-3ba0-48ab-bddc-212f6a92b7aa"},"directionContext":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"target":{},"scale":{"_value":1.0},"offset":{},"marker":{},"visual":{},"flatten":{},"constrain":{},"gridData":{},"walkableFor":{"_name":""},"walkableForData":{},"variance":{"random":{},"value":{"target":{"_name":"Owner"},"property":{},"lookupKey":{},"value":{},"operand":{}},"min":{"target":{"_name":"Owner"},"property":{},"lookupKey":{},"value":{},"operand":{}},"max":{"target":{"_name":"Owner"},"property":{},"lookupKey":{},"value":{},"operand":{}}}}},"m_tags":{"m_tags":{"m_values":[]}},"m_delay":{},"m_showDrop":{},"$type":"Thor.Core.ChangeResource"},"_position":{"x":543.0,"y":420.0},"$type":"NodeCanvas.BehaviourTrees.ActionNode","$id":"1"},{"_action":{"m_dataLookup":{"m_data":{"guid":"1086c1c91881da849aa743a0fbb34c62","guidHash":-172635716},"m_target":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_key":{},"m_variable":{}},"m_targetData":{"_value":{"type":1,"entity":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"directionContext":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"target":{},"scale":{"_value":1.0},"offset":{},"marker":{},"visual":{},"flatten":{"_value":true},"constrain":{},"gridData":{},"walkableFor":{"_name":""},"walkableForData":{},"variance":{"random":{},"value":{"target":{"_name":"Owner"},"property":{},"lookupKey":{},"value":{},"operand":{}},"min":{"target":{"_name":"Owner"},"property":{},"lookupKey":{},"value":{},"operand":{}},"max":{"target":{"_name":"Owner"},"property":{},"lookupKey":{},"value":{},"operand":{}}}}},"m_size":{"target":{"_name":"Owner"},"property":{"guid":""},"lookupKey":{"_value":""},"value":{"_value":1.0},"operand":{}},"m_angle":{"value":{},"source":{"_value":{}},"entity":{"_value":{}}},"m_color":{"overrideDefault":{},"color":{},"dataLookup":{"m_data":{},"m_target":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_key":{},"m_variable":{}}},"$type":"Thor.Core.Emit"},"_position":{"x":723.0,"y":420.0},"$type":"NodeCanvas.BehaviourTrees.ActionNode","$id":"2"},{"_action":{"m_dataLookup":{"m_data":{"guid":"22bd62aee6f0e314da7f3de9a7c422c5","guidHash":770794442},"m_target":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_key":{},"m_variable":{}},"m_targetData":{"_value":{"type":1,"entity":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"directionContext":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"target":{},"scale":{"_value":1.0},"offset":{},"marker":{},"visual":{},"flatten":{"_value":true},"constrain":{},"gridData":{},"walkableFor":{"_name":""},"walkableForData":{},"variance":{"random":{},"value":{"target":{"_name":"Owner"},"property":{},"lookupKey":{},"value":{},"operand":{}},"min":{"target":{"_name":"Owner"},"property":{},"lookupKey":{},"value":{},"operand":{}},"max":{"target":{"_name":"Owner"},"property":{},"lookupKey":{},"value":{},"operand":{}}}}},"m_size":{"target":{"_name":"Owner"},"property":{"guid":""},"lookupKey":{"_value":""},"value":{"_value":1.0},"operand":{}},"m_angle":{"value":{},"source":{"_value":{}},"entity":{"_value":{}}},"m_color":{"overrideDefault":{},"color":{},"dataLookup":{"m_data":{},"m_target":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_key":{},"m_variable":{}}},"$type":"Thor.Core.Emit"},"_position":{"x":843.0,"y":420.0},"$type":"NodeCanvas.BehaviourTrees.ActionNode","$id":"3"}],"connections":[{"_sourceNode":{"$ref":"0"},"_targetNode":{"$ref":"1"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"0"},"_targetNode":{"$ref":"2"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"0"},"_targetNode":{"$ref":"3"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"}],"canvasGroups":[],"localBlackboard":{"_variables":{"Self":{"_value":{},"_name":"Self","_id":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9","_isPublic":true,"$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Target":{"_value":{},"_name":"Target","_id":"3d65495c-3ba0-48ab-bddc-212f6a92b7aa","_isPublic":true,"$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"}}},"derivedData":{"autoVariables":{"m_values":[]},"$type":"Thor.Core.ExtendedBehaviorTree+DerivedSerializationData"}}'
+  _objectReferences: []
+  _graphSource:
+    _version: 3.3
+    _category: 
+    _comments: 
+    _translation: {x: 132, y: -21}
+    _zoomFactor: 1
+  _haltSerialization: 0
+  _externalSerializationFile: {fileID: 0}
+  m_preProcess: 0
+  m_processOnEnable: 0
+  m_uninterruptible: 0
+  m_proxy: 0
+  m_autoVariables:
+    m_values: []
+--- !u!114 &8537550846129222485
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -157816456, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: ShadowModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_shadow:
+    m_isEnabled: 1
+    m_type: 0
+    m_sprite: {fileID: 0}
+    m_scale:
+      autoAspectRatio: 1
+      x: 0.25
+      y: 0.18
+      serialized: 1
+    m_offset: {x: 0, y: -0.2}
+    m_counterRotate: 1
+    m_isComplex: 0
+    m_layerMask:
+      serializedVersion: 2
+      m_Bits: 0
+    m_radius: 0.25
+    m_heightAdjustScale: 1

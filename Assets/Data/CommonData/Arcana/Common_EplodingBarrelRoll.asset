@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -143053857, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Common_EplodingBarrelRoll
+  m_EditorClassIdentifier: 
+  m_guid: b70671e1a30e431997262b6f27c25aa4
+  m_guidHash: -803980004
+  m_properties:
+    icons:
+      m_sprites:
+      - {fileID: 21300000, guid: 1acd01859d26349429cae19c2919ceb8, type: 3}
+      - {fileID: 0}
+      - {fileID: 0}
+    displayName:
+      m_id: 527214832
+    description:
+      m_id: -421560033
+    flavor:
+      m_id: 0
+    color:
+      guid: 
+      guidHash: 0
+    palette:
+      guid: 
+      guidHash: 0
+    tags:
+      m_tags:
+        m_values:
+        - guid: 06ea209540120a44abfb8b5558922be7
+          guidHash: 1153590675
+        - guid: e2811021f5c8a244e9e598052457032c
+          guidHash: 1966562525
+        - guid: 3f8e638523512024e81a7a44fdfb6dd7
+          guidHash: -906201795
+        - guid: a77a4c84c9ba4ed4caf747fdc8a9c21e
+          guidHash: 234566719
+        - guid: 50ecd3ef522f23e448c3412073b0a444
+          guidHash: -1518131214
+        - guid: baacdfbb644e9cc4683382b5a2e47279
+          guidHash: 870525687

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 173507967, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Prop_AimTarget
+  m_EditorClassIdentifier: 
+  _serializedGraph: '{"type":"Thor.Core.ExtendedBehaviorTree","nodes":[{"m_killerOutput":{"_name":""},"m_killerRootOutput":{"_name":""},"m_damageTags":{"m_tags":{"m_values":[]}},"m_tagGrammar":{},"m_disableAutoDestroy":{},"m_author":{"_name":"Self","_targetVariableID":"2c6bf930-74ae-4a80-b390-430e9ef924cb"},"m_timeout":{},"m_endOnSuccess":{},"m_endOnFailure":{},"m_endOnInvalidAuthor":{},"m_runOnceOnStartup":{},"m_flushEvents":{"_value":true},"_position":{"x":846.0,"y":232.0},"$type":"Thor.Core.WaitForDieEvent","$id":"0"},{"_position":{"x":878.0,"y":393.0},"$type":"NodeCanvas.BehaviourTrees.Sequencer","$id":"1"},{"_action":{"m_target":{"_name":"Target","_targetVariableID":"c175a796-091d-4c01-8ae1-63bd402dca31"},"m_source":{"_name":"Self","_targetVariableID":"2c6bf930-74ae-4a80-b390-430e9ef924cb"},"m_message":{"_value":"reward+"},"$type":"Thor.Core.FireCustomEvent"},"_position":{"x":856.0,"y":471.0},"$type":"NodeCanvas.BehaviourTrees.ActionNode","$id":"2"}],"connections":[{"_sourceNode":{"$ref":"0"},"_targetNode":{"$ref":"1"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"1"},"_targetNode":{"$ref":"2"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"}],"canvasGroups":[],"localBlackboard":{"_variables":{"Target":{"_value":{},"_name":"Target","_id":"c175a796-091d-4c01-8ae1-63bd402dca31","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Owner":{"_value":{},"_name":"Owner","_id":"612aedee-afa7-46ed-99c7-6318870d31dd","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Self":{"_value":{},"_name":"Self","_id":"2c6bf930-74ae-4a80-b390-430e9ef924cb","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Link":{"_value":{},"_name":"Link","_id":"218e0ca8-d19e-4b55-baad-de0a6f2fbfac","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Iterator":{"_value":{},"_name":"Iterator","_id":"c34f204b-9db0-4480-8d4a-d6d0e8019c3c","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Targets":{"_value":{},"_name":"Targets","_id":"e22ab65c-32c3-4d53-9693-1709126dbf1a","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRefList,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Projectile":{"_value":{},"_name":"Projectile","_id":"3235afcd-e99f-4cf0-bb31-f4324bf4bf26","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"}}},"derivedData":{"autoVariables":{"m_values":[{"tag":{"guid":"c489263749a9a9246995f47616e708a2","guidHash":-549100761},"variableName":"Target"}]},"$type":"Thor.Core.ExtendedBehaviorTree+DerivedSerializationData"}}'
+  _objectReferences: []
+  _graphSource:
+    _version: 3.3
+    _category: 
+    _comments: 
+    _translation: {x: 159, y: 51}
+    _zoomFactor: 1
+  _haltSerialization: 0
+  _externalSerializationFile: {fileID: 0}
+  m_preProcess: 0
+  m_processOnEnable: 0
+  m_uninterruptible: 0
+  m_proxy: 0
+  m_autoVariables:
+    m_values:
+    - tag:
+        guid: c489263749a9a9246995f47616e708a2
+        guidHash: -549100761
+      variableName: Target

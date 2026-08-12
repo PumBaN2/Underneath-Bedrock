@@ -1,0 +1,608 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &260751443019003913
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7059746585102751040}
+  - component: {fileID: 7606826702441209381}
+  m_Layer: 0
+  m_Name: Tilemap (116)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7059746585102751040
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 260751443019003913}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1425907247033739355}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7606826702441209381
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 260751443019003913}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1020188765, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_positions:
+  - {x: -13.6, y: 0, z: 2.4}
+  - {x: -13.6, y: 0, z: 4}
+  - {x: -13.6, y: 0, z: 5.6}
+  - {x: -13.6, y: 0, z: 7.2}
+  - {x: -12, y: 0, z: 7.2}
+  - {x: -12, y: 0, z: 5.6}
+  - {x: -12, y: 0, z: 4}
+  - {x: -12, y: 0, z: 2.4}
+  - {x: -10.4, y: 0, z: 2.4}
+  - {x: -8.8, y: 0, z: 2.4}
+  - {x: -2.4, y: 0, z: 7.2}
+  - {x: -2.4, y: 0, z: 5.6}
+  - {x: -4, y: 0, z: 4}
+  - {x: -5.6, y: 0, z: 2.4}
+  - {x: -7.2, y: 0, z: 2.4}
+  - {x: -7.2, y: 0, z: 4}
+  - {x: -5.6, y: 0, z: 4}
+  - {x: -8.8, y: 0, z: 4}
+  - {x: -10.4, y: 0, z: 4}
+  - {x: -10.4, y: 0, z: 5.6}
+  - {x: -8.8, y: 0, z: 5.6}
+  - {x: -7.2, y: 0, z: 5.6}
+  - {x: -5.6, y: 0, z: 5.6}
+  - {x: -4, y: 0, z: 5.6}
+  - {x: -4, y: 0, z: 7.2}
+  - {x: -5.6, y: 0, z: 7.2}
+  - {x: -7.2, y: 0, z: 7.2}
+  - {x: -8.8, y: 0, z: 7.2}
+  - {x: -10.4, y: 0, z: 7.2}
+  - {x: -5.6, y: 0, z: -2.4}
+  - {x: -5.6, y: 0, z: -4}
+  - {x: -5.6, y: 0, z: -5.6}
+  - {x: -5.6, y: 0, z: -7.2}
+  - {x: -7.2, y: 0, z: -2.4}
+  - {x: -8.8, y: 0, z: -2.4}
+  - {x: -10.4, y: 0, z: -2.4}
+  - {x: -12, y: 0, z: -2.4}
+  - {x: -13.6, y: 0, z: -2.4}
+  - {x: -13.6, y: 0, z: -4}
+  - {x: -13.6, y: 0, z: -5.6}
+  - {x: -13.6, y: 0, z: -7.2}
+  - {x: -12, y: 0, z: -7.2}
+  - {x: -10.4, y: 0, z: -7.2}
+  - {x: -8.8, y: 0, z: -7.2}
+  - {x: -7.2, y: 0, z: -7.2}
+  - {x: -7.2, y: 0, z: -5.6}
+  - {x: -8.8, y: 0, z: -5.6}
+  - {x: -10.4, y: 0, z: -5.6}
+  - {x: -12, y: 0, z: -5.6}
+  - {x: -12, y: 0, z: -4}
+  - {x: -10.4, y: 0, z: -4}
+  - {x: -8.8, y: 0, z: -4}
+  - {x: -7.2, y: 0, z: -4}
+  - {x: -4, y: 0, z: -4}
+  - {x: -4, y: 0, z: -5.6}
+  - {x: -4, y: 0, z: -7.2}
+  - {x: -2.4, y: 0, z: -5.6}
+  - {x: -2.4, y: 0, z: -7.2}
+  - {x: 2.4, y: 0, z: 7.2}
+  - {x: 2.4, y: 0, z: 5.6}
+  - {x: 4, y: 0, z: 7.2}
+  - {x: 4, y: 0, z: 5.6}
+  - {x: 4, y: 0, z: 4}
+  - {x: 5.6, y: 0, z: 7.2}
+  - {x: 5.6, y: 0, z: 5.6}
+  - {x: 5.6, y: 0, z: 4}
+  - {x: 5.6, y: 0, z: 2.4}
+  - {x: 7.2, y: 0, z: 2.4}
+  - {x: 8.8, y: 0, z: 2.4}
+  - {x: 10.4, y: 0, z: 2.4}
+  - {x: 12, y: 0, z: 2.4}
+  - {x: 13.6, y: 0, z: 2.4}
+  - {x: 13.6, y: 0, z: 4}
+  - {x: 12, y: 0, z: 4}
+  - {x: 10.4, y: 0, z: 4}
+  - {x: 8.8, y: 0, z: 4}
+  - {x: 7.2, y: 0, z: 4}
+  - {x: 7.2, y: 0, z: 5.6}
+  - {x: 8.8, y: 0, z: 5.6}
+  - {x: 10.4, y: 0, z: 5.6}
+  - {x: 12, y: 0, z: 5.6}
+  - {x: 13.6, y: 0, z: 5.6}
+  - {x: 12, y: 0, z: 7.2}
+  - {x: 10.4, y: 0, z: 7.2}
+  - {x: 8.8, y: 0, z: 7.2}
+  - {x: 7.2, y: 0, z: 7.2}
+  - {x: 13.6, y: 0, z: 7.2}
+  - {x: 2.4, y: 0, z: -5.6}
+  - {x: 2.4, y: 0, z: -7.2}
+  - {x: 4, y: 0, z: -4}
+  - {x: 4, y: 0, z: -5.6}
+  - {x: 4, y: 0, z: -7.2}
+  - {x: 5.6, y: 0, z: -2.4}
+  - {x: 5.6, y: 0, z: -4}
+  - {x: 5.6, y: 0, z: -5.6}
+  - {x: 5.6, y: 0, z: -7.2}
+  - {x: 7.2, y: 0, z: -2.4}
+  - {x: 8.8, y: 0, z: -2.4}
+  - {x: 10.4, y: 0, z: -2.4}
+  - {x: 12, y: 0, z: -2.4}
+  - {x: 13.6, y: 0, z: -2.4}
+  - {x: 13.6, y: 0, z: -4}
+  - {x: 12, y: 0, z: -4}
+  - {x: 10.4, y: 0, z: -4}
+  - {x: 8.8, y: 0, z: -4}
+  - {x: 7.2, y: 0, z: -4}
+  - {x: 7.2, y: 0, z: -5.6}
+  - {x: 8.8, y: 0, z: -5.6}
+  - {x: 10.4, y: 0, z: -5.6}
+  - {x: 12, y: 0, z: -5.6}
+  - {x: 12, y: 0, z: -7.2}
+  - {x: 10.4, y: 0, z: -7.2}
+  - {x: 8.8, y: 0, z: -7.2}
+  - {x: 7.2, y: 0, z: -7.2}
+  - {x: 13.6, y: 0, z: -7.2}
+  - {x: 13.6, y: 0, z: -5.6}
+  m_entityDatas:
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+--- !u!1 &2090819268422775219
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5736705835215811442}
+  - component: {fileID: 3270501825715202083}
+  m_Layer: 0
+  m_Name: Shrine_Spawner_Shim
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5736705835215811442
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2090819268422775219}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0.008726558, w: 0.999962}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1425907247033739355}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 1}
+--- !u!114 &3270501825715202083
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2090819268422775219}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -610550449, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_data:
+    guid: 8d71a5b9f6d6b244ba7d2ddaacbc97b9
+    guidHash: -746108534
+  m_talkData:
+    guid: 
+    guidHash: 0
+  m_entityDataOverride:
+    guid: 
+    guidHash: 0
+  m_requirements:
+    operation: 0
+    expression: '{0}'
+    values:
+      m_values: []
+  m_retryPolicy: 0
+  m_offset: {x: 0, y: 0, z: 0}
+  m_poof: 0
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &7925596091464253586
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1425907247033739355}
+  - component: {fileID: 4158576461438857951}
+  m_Layer: 0
+  m_Name: Encounter_ShrineCrossroads
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1425907247033739355
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7925596091464253586}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7059746585102751040}
+  - {fileID: 5736705835215811442}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4158576461438857951
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7925596091464253586}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2061548924, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_guid:
+    m_guid: 13ee1699817746349f75e2087948ddbb
+    m_hash: -951626131
+  m_captureGroup: 0
+  m_room:
+    guid: c4da70f1d186bcc468da00833d9e0142
+    guidHash: -1477532873
+  m_music:
+    guid: 
+    guidHash: 0
+  m_tileset:
+    guid: 
+    guidHash: 0
+  m_flag:
+    guid: 
+    guidHash: 0
+  m_showRoomPreview: 1
+  m_extraWeight: 1
+  m_isHidden: 0
+  m_isSafeSpace: 1
+  m_isBoss: 0
+  m_autoAdjustPopcap: 1
+  m_popcapMultiplier: 1
+  m_frequency: 0
+  m_spawnPosition: {x: 0, y: 0, z: 0}
+  m_tags:
+    m_tags:
+      m_values: []
+  m_visibleResources:
+    m_values: []
+  m_spawnerOverrides:
+    m_values:
+    - m_type:
+        guid: 9de509062b156e44e9bbc1d495fd4c19
+        guidHash: 2048614442
+      m_amount: 1
+    - m_type:
+        guid: d990711cff65c944aaf249b4f952bb63
+        guidHash: 1437449283
+      m_amount: 1
+  m_prohibitedEnemyTags:
+    m_values: []
+  m_requirements:
+    operation: 0
+    expression: '{0}'
+    values:
+      m_values: []
+  m_tilesetBlacklistType: 0
+  m_tilesetBlacklist:
+    m_values: []
+  m_overridePlayableBounds: 0
+  m_playableBounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 4.8, y: 50, z: 8}
+  m_overrideDoorBounds: 0
+  m_doorBounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 4.8, y: 0, z: 8}
+  m_hasCustomDoors: 1
+  m_doors:
+  - guid: 
+    guidHash: 0
+  - guid: 8b8982c9eefde9c459bfca2088f4c2d0
+    guidHash: 1652432385
+  - guid: 
+    guidHash: 0
+  - guid: 
+    guidHash: 0
+  - guid: dd9877c5e3362f241bc681b448789937
+    guidHash: -763934182
+  - guid: 
+    guidHash: 0
+  - guid: 108afcc2b5226d447a11ed300a1fa2e4
+    guidHash: 2116813921
+  - guid: 
+    guidHash: 0
+  - guid: 
+    guidHash: 0
+  - guid: d35799de18f240d43ad81d962cd63b35
+    guidHash: -897531415
+  - guid: 
+    guidHash: 0
+  - guid: 
+    guidHash: 0
+  - guid: 
+    guidHash: 0
+  - guid: 
+    guidHash: 0
+  - guid: 
+    guidHash: 0
+  - guid: 
+    guidHash: 0
+  m_hasDoorRequirements: 0
+  m_doorRequirements: []
+  m_hasSequence: 0
+  m_sequence:
+    name: 
+    groups:
+      m_values: []
+  references:
+    version: 2
+    RefIds: []

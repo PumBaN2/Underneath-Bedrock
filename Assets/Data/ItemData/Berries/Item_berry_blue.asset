@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-4236075336112018151
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1370092402, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: CommonModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_commonProperties:
+    common:
+      guid: 
+      guidHash: 0
+    properties:
+      icons:
+        m_sprites:
+        - {fileID: 8200632057254875210, guid: 23056e488b4032d4eb1c864f197b5f7a, type: 3}
+        - {fileID: 0}
+        - {fileID: 0}
+      displayName:
+        m_id: 1904847233
+      description:
+        m_id: 0
+      flavor:
+        m_id: 0
+      color:
+        guid: 
+        guidHash: 0
+      palette:
+        guid: 
+        guidHash: 0
+      tags:
+        m_tags:
+          m_values:
+          - guid: 44b363034dde4d3449fb6e74b1cecde8
+            guidHash: -719227157
+          - guid: b3e02739f0ff98e4cac2a2dcab3c4f87
+            guidHash: -896732828
+          - guid: fe9eba3dad6d5124e9a2787da4943735
+            guidHash: 1079384439
+--- !u!114 &-4013768519838056262
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1616187677, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: ItemModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_isPromptable: 0
+  m_maxSpawnCount: -1
+  m_pickupBehavior: {fileID: 517756284236573170}
+  m_pickupRequirements:
+    operation: 1
+    expression: '{0}'
+    values:
+      m_values: []
+  m_entityDataOverride:
+    guid: 
+    guidHash: 0
+  m_sparklesFX:
+    guid: 
+    guidHash: 0
+  m_invertUnlockSemantics: 0
+  m_isUnlockedByDefault: 1
+  m_unlockOnSee: 0
+  m_unlockOnPickup: 0
+  m_isDiscoveredByDefault: 0
+  m_discoverOnSee: 0
+  m_discoverOnPickup: 0
+  m_pickupAudio:
+    guid: 0e6468cfbc911454fa62da5f85e97ba6
+    guidHash: 1712836551
+  m_landAudio:
+    guid: fb60c98d7f265b542a7aea15e283346c
+    guidHash: -780558040
+  references:
+    version: 2
+    RefIds: []
+--- !u!114 &-3893985688656304329
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1205558768, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: MiniMapModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_category: 1
+  m_visibility: 0
+  m_priority: 0
+  m_icon: {fileID: 0}
+--- !u!114 &-1732223869833016880
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 921815886, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: ItemDeathModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_deathFXOffset: {x: 0, y: 0, z: 0}
+  m_deaths:
+    m_values:
+    - guid: 20a14a1c17c52f04d8002a8e6c4306da
+      guidHash: -1075276324
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 517854022, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Item_berry_blue
+  m_EditorClassIdentifier: 
+  m_guid: 4cb5c2487868445a89bdcde45c9ff211
+  m_guidHash: -818361050
+  m_commonModule: {fileID: -4236075336112018151}
+  m_tagModule: {fileID: 11400000, guid: 873abd8c837f108478f167681c7990bf, type: 2}
+  m_behaviorModule: {fileID: 11400000, guid: 9ebcefa3fd874444c9e8ee9c74851aa4, type: 2}
+  m_itemModule: {fileID: -4013768519838056262}
+  m_costModule: {fileID: 0}
+  m_miniMapModule: {fileID: -3893985688656304329}
+  m_swapModule: {fileID: 11400000, guid: 7427974414abc664480cd30ce0c54362, type: 2}
+  m_shadowModule: {fileID: 8537550846129222485}
+  m_requirementModule: {fileID: 11400000, guid: 8436ed46a7e8f9848a1fb5c22d883cab, type: 2}
+  m_itemAnimationModule: {fileID: 0}
+  m_itemDeathModule: {fileID: -1732223869833016880}
+--- !u!114 &517756284236573170
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 173507967, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: PickedUp
+  m_EditorClassIdentifier: 
+  _serializedGraph: '{"type":"Thor.Core.ExtendedBehaviorTree","nodes":[{"_position":{"x":733.0,"y":331.0},"$type":"NodeCanvas.BehaviourTrees.Sequencer","$id":"0"},{"_action":{"m_target":{"_name":"Target","_targetVariableID":"3d65495c-3ba0-48ab-bddc-212f6a92b7aa"},"m_source":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_changeResourceData":{"transactionType":1,"category":1,"resource":{"m_data":{"guid":"a9e383d7dc7637f4b809b1f983f8df59","guidHash":-381908222},"m_target":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_key":{},"m_variable":{}},"attribute":{"m_data":{},"m_target":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_key":{},"m_variable":{}},"combatant":{"_name":"Owner"},"canCrit":{},"direct":{},"variance":{"_value":true},"ignoreGracePeriod":{},"gracePeriod":{},"gracePeriodGUID":{"m_guid":"2d4d6c09735b4c54a34b95a785e4161f","m_hash":781096765}},"m_propertyValueData":{"target":{"_name":"Owner"},"property":{"guid":""},"lookupKey":{"_value":""},"value":{"_value":4.0},"operand":{}},"m_position":{"_value":{"entity":{"_name":"Target","_targetVariableID":"3d65495c-3ba0-48ab-bddc-212f6a92b7aa"},"directionContext":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"target":{},"scale":{"_value":1.0},"offset":{},"marker":{},"visual":{},"flatten":{},"constrain":{},"gridData":{},"walkableFor":{"_name":""},"walkableForData":{},"variance":{"random":{},"value":{"target":{"_name":"Owner"},"property":{},"lookupKey":{},"value":{},"operand":{}},"min":{"target":{"_name":"Owner"},"property":{},"lookupKey":{},"value":{},"operand":{}},"max":{"target":{"_name":"Owner"},"property":{},"lookupKey":{},"value":{},"operand":{}}}}},"m_tags":{"m_tags":{"m_values":[]}},"m_delay":{},"m_showDrop":{},"$type":"Thor.Core.ChangeResource"},"_position":{"x":612.0,"y":405.0},"$type":"NodeCanvas.BehaviourTrees.ActionNode","$id":"1"},{"_action":{"m_taskData":{"owner":{"_value":{}},"tags":{"m_tags":{"m_values":[]}},"guid":"f764f9ce95294f97","data":{},"dataLookup":{"m_data":{"guid":"b03763a586cba194b9d8b5628100ac6f","guidHash":-1673499488},"m_target":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_key":{},"m_variable":{}},"target":{"_name":"Target","_targetVariableID":"3d65495c-3ba0-48ab-bddc-212f6a92b7aa"},"source":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"itemDataLookup":{"m_data":{},"m_target":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_key":{},"m_variable":{}},"level":{"target":{"_name":"Owner"},"property":{"guid":""},"lookupKey":{"_value":""},"value":{"_value":1.0},"operand":{}},"duration":{"target":{"_name":"Owner"},"property":{"guid":""},"lookupKey":{"_value":""},"value":{},"operand":{}},"baseChance":{"target":{"_name":"Owner"},"property":{},"lookupKey":{},"value":{"_value":1.0},"operand":{}},"maxChance":{"target":{"_name":"Owner"},"property":{},"lookupKey":{},"value":{"_value":1.0},"operand":{}},"offset":{}},"m_output":{"_name":""},"$type":"Thor.Core.AddStatusEffect"},"_position":{"x":785.0,"y":405.0},"$type":"NodeCanvas.BehaviourTrees.ActionNode","$id":"2"}],"connections":[{"_sourceNode":{"$ref":"0"},"_targetNode":{"$ref":"1"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"0"},"_targetNode":{"$ref":"2"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"}],"canvasGroups":[],"localBlackboard":{"_variables":{"Self":{"_value":{},"_name":"Self","_id":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9","_isPublic":true,"$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Target":{"_value":{},"_name":"Target","_id":"3d65495c-3ba0-48ab-bddc-212f6a92b7aa","_isPublic":true,"$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"}}},"derivedData":{"autoVariables":{"m_values":[]},"$type":"Thor.Core.ExtendedBehaviorTree+DerivedSerializationData"}}'
+  _objectReferences: []
+  _graphSource:
+    _version: 3.3
+    _category: 
+    _comments: 
+    _translation: {x: 86, y: 35}
+    _zoomFactor: 1
+  _haltSerialization: 0
+  _externalSerializationFile: {fileID: 0}
+  m_preProcess: 0
+  m_processOnEnable: 0
+  m_uninterruptible: 0
+  m_proxy: 0
+  m_autoVariables:
+    m_values: []
+--- !u!114 &8537550846129222485
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -157816456, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: ShadowModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_shadow:
+    m_isEnabled: 1
+    m_type: 0
+    m_sprite: {fileID: 0}
+    m_scale:
+      autoAspectRatio: 1
+      x: 0.2
+      y: 0.14
+      serialized: 1
+    m_offset: {x: 0, y: -0.3}
+    m_counterRotate: 1
+    m_isComplex: 0
+    m_layerMask:
+      serializedVersion: 2
+      m_Bits: 0
+    m_radius: 0.25
+    m_heightAdjustScale: 1

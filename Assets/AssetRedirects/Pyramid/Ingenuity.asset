@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 893013677, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Ingenuity
+  m_EditorClassIdentifier: 
+  m_guid: 45a33d01abc64b7b857fe6bb4544b219
+  m_guidHash: -2141674316
+  m_assetType: 0
+  m_fromData:
+    guid: 881f95f30c9a596498162cc17f29bb2c
+    guidHash: -967954267
+  m_fromPrefab:
+    guid: 
+    guidHash: 0
+  m_toData:
+    guid: cdc53723bb41f0541901fbdaeb4157e9
+    guidHash: 1171930616
+  m_toPrefab:
+    guid: 
+    guidHash: 0

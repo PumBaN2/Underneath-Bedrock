@@ -1,0 +1,1148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -94742530, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: English
+  m_EditorClassIdentifier: 
+  m_guid: b4934436cda84967a11ab3c0fa54ed71
+  m_guidHash: 1661074638
+  m_type: 1
+  m_isoName: 
+  m_characterFile: {fileID: 0}
+  m_target:
+    guid: 1d602605affb1ef4ea82a35dcfbdd272
+    guidHash: 357552592
+  m_icon: {fileID: 0}
+  m_supportsPixelFont: 0
+  m_elements:
+  - guidHash: -1916792907
+    text: Gold Detector
+  - guidHash: -1727982996
+    text: Gives 15% extra gold from nuggets.
+  - guidHash: -881488521
+    text: How does that even work?
+  - guidHash: -1363998790
+    text: It is said that professional prospectors can gain 2x amount of money for
+      the same gold nugget. How do they do that? I have no idea.
+  - guidHash: -1184285166
+    text: Pandora`s Box
+  - guidHash: 1219011149
+    text: Often replaces basic items, food, elderseeds and skulls with boxes that
+      have varying contents.
+  - guidHash: 1538195029
+    text: What is in the box? Well, why don`t you find out.
+  - guidHash: -795893828
+    text: Pandora`s box
+  - guidHash: 1368410945
+    text: Could be anything.
+  - guidHash: -246819306
+    text: -1 Key
+  - guidHash: 1934909041
+    text: -1 Bomb
+  - guidHash: 16091996
+    text: -25 Health
+  - guidHash: -802042432
+    text: -25 Mana
+  - guidHash: 198544477
+    text: -50 Health
+  - guidHash: -1592940723
+    text: -50 Mana
+  - guidHash: -402729907
+    text: Pandora`s Curiosity
+  - guidHash: 1340103260
+    text: BONES!!!!
+  - guidHash: -835693190
+    text: -5 Bombs
+  - guidHash: -1751594626
+    text: -5 Keys
+  - guidHash: -683570868
+    text: Bandits!!!
+  - guidHash: -1094867566
+    text: Mine
+  - guidHash: -1986811000
+    text: Earthquake
+  - guidHash: 758956581
+    text: Elemental Rage
+  - guidHash: -1379174086
+    text: Spider Infestation
+  - guidHash: -1498652538
+    text: Rat Infestation
+  - guidHash: 907145134
+    text: Burning
+  - guidHash: -341094718
+    text: Nothing
+  - guidHash: 2119308618
+    text: +1 Key
+  - guidHash: -873838450
+    text: +1 Bomb
+  - guidHash: -240187436
+    text: +5 Keys
+  - guidHash: 2077628384
+    text: +5 Bombs
+  - guidHash: 1724122900
+    text: +25 Health
+  - guidHash: -1791123045
+    text: +50 Mana
+  - guidHash: -2104627240
+    text: +50 Health
+  - guidHash: 504265555
+    text: +25 Mana
+  - guidHash: -780414000
+    text: A bunch of skulls
+  - guidHash: -889915081
+    text: Curse cleansed
+  - guidHash: -847559478
+    text: Curiosity satisfied
+  - guidHash: 87161199
+    text: Particle Accelerator
+  - guidHash: -788461797
+    text: Increases the speed and distance of your projectiles.
+  - guidHash: -1742295566
+    text: 'The device has a tiny print: "Please keep yourself at a safe distance
+      of 100m while the accelerator is active, othervise you risk irradiation, death,
+      catching the flu or spontaneous implosion."'
+  - guidHash: 1662013330
+    text: Dagger technique
+  - guidHash: -916380048
+    text: Toggle to switch between throwing pickaxe/daggers.
+  - guidHash: -1342040812
+    text: A manual written by Black Rabbit in hopes of teaching <s>the lowly peasants</s>
+      her friends how to throw sharp objects.
+  - guidHash: -425162211
+    text: Uncharged Core
+  - guidHash: 1632749843
+    text: Can be activated to spend all your mana and reduce the cost of this by
+      the same amount, when cost reaches 0 transforms into a powerful Arcana. Cost
+      increases each floor.
+  - guidHash: -1075931656
+    text: It seems like this item needs a lot of mana to become useful. You are very
+      intriqued by what it could do once it reaches its full potential.
+  - guidHash: -304750388
+    text: Cloak of Shadows
+  - guidHash: 1096577254
+    text: Temporarily makes you immune to damage and invisible to enemies after a
+      dash. <br><color=#696969>(Has a cooldown that scales down with dexterity)</color>
+  - guidHash: 383802409
+    text: The legendary Cloak of Shadows itself. It is said that it allows it`s user
+      to phase straight through any danger unscathed.
+  - guidHash: 1904847233
+    text: Red Berry
+  - guidHash: -612014968
+    text: Increases Stregth, your attacks ignite enemies.
+  - guidHash: -107434539
+    text: Ember Buddy
+  - guidHash: 1506147180
+    text: A burning friend who will help you in a fight by throwing fireballs at
+      enemies.
+  - guidHash: 2095813850
+    text: Elemental Buddy
+  - guidHash: -1144218441
+    text: Upgrades for each other Elemental Buddy you have. <br>!!!CURENTLY NO OTHER
+      BUDDIES ARE ADDED!!!
+  - guidHash: 1345380625
+    text: Fire elementals are generaly impish in their nature and have an explosive
+      temper, but this one seems to like you.
+  - guidHash: 980890281
+    text: Blue Berry
+  - guidHash: -174905027
+    text: Increases inteligence, decreases the cost of your arcana.
+  - guidHash: -66295737
+    text: Green Berry
+  - guidHash: -2080696167
+    text: Increases Speed and Alacrity.
+  - guidHash: -394457593
+    text: Breeze Buddy
+  - guidHash: -1217688055
+    text: A breezy friend who helps you out by creating wind blasts that protect
+      you from nearby projectiles and enemies by knocking them back.
+  - guidHash: -619384835
+    text: Cauldron
+  - guidHash: 1279002410
+    text: Allows you to brew potions using reagents. Reagents are now dropped from
+      various places.
+  - guidHash: 1954414562
+    text: A tiny cauldron that is often used by beginner alchemists. It is in rough
+      condition, but it will do the job. Now you just need to find something to brew
+      with.
+  - guidHash: 212299198
+    text: Exploding Skulls
+  - guidHash: -1979667702
+    text: Some skulls turn into skullmines.
+  - guidHash: -1984810009
+    text: Uncertain Elixir
+  - guidHash: -530726502
+    text: Drinks a random potion.
+  - guidHash: -1323287236
+    text: A strange living brew that doesn`t know what it is. You wounder if it is
+      even safe to drink.
+  - guidHash: 944998563
+    text: The skulls are mindblown after seeing Silksong release.
+  - guidHash: -1452121465
+    text: Ingredients
+  - guidHash: 797723776
+    text: Allow you to brew potions using the cauldron.
+  - guidHash: -590886530
+    text: Choose what to brew.
+  - guidHash: 1102591738
+    text: Healing Potion
+  - guidHash: -1722359605
+    text: Shield+
+  - guidHash: 1062289849
+    text: Permanently gives you an armor point.
+  - guidHash: -1201049302
+    text: This brew is said to make flesh as hard as steel.
+  - guidHash: -461383102
+    text: Ascender`s Bane
+  - guidHash: 1440820202
+    text: Has a chance to increase the level of one of your Ascendant Curses after
+      clearing a room. If you don`t have an Ascendant curse, you gain one.
+  - guidHash: -1686783852
+    text: The stairway to succes is blocked by many obstacles.
+  - guidHash: -1753300289
+    text: Booster Shot
+  - guidHash: -379518440
+    text: Heals a great amount and gives a big boosts to stats that decays over time.
+      There is now a chance to find small boosters in chests that restart this effect.
+  - guidHash: 1387534447
+    text: '"Sore throat? Broken bones? Had a bad sleep? Don`t worry, one tiny dose
+      of this mixture fixes everything.  (Side effects include: uncontrollable laughter,
+      depression, reincarnation, blindness, firebreath, lizard eyes, death, X1T3PO
+      and headaches)"'
+  - guidHash: 2117975759
+    text: Cracked Vials
+  - guidHash: 1962649897
+    text: Some potions are now empty.
+  - guidHash: -1891384301
+    text: You should have handled these delicate glass bottles with more cautiousness
+  - guidHash: -2008890055
+    text: Empty Vial
+  - guidHash: 840904051
+    text: Does nothing.
+  - guidHash: 1386675008
+    text: The contents of this potion leaked out because there were cracks on the
+      bottle.
+  - guidHash: 1322930669
+    text: Gardening Tools
+  - guidHash: -66518776
+    text: Makes Berry Bushes randomly appear in rooms. Picking up berries gives you
+      temporary boosts.
+  - guidHash: -207012784
+    text: TromBone
+  - guidHash: -801810071
+    text: Raises a skeleton servant.
+  - guidHash: -48727306
+    text: This finely crafted insturement makes every note bone chilling.
+  - guidHash: 2131799932
+    text: Growing a fine garden is hard work, especially when you are doing it underground.
+  - guidHash: 1880895732
+    text: Guillotine
+  - guidHash: -522589264
+    text: Enemies sometimes drop skulls when they die.
+  - guidHash: -526498288
+    text: Encrusted Cranium
+  - guidHash: -7610856
+    text: Breaking skulls now drops some gold.
+  - guidHash: 833414341
+    text: From the most ancient times people always liked shiny things. Someone liked
+      them so much that they carved them into their skulls.
+  - guidHash: 726587114
+    text: Pack Of Goodies
+  - guidHash: -871912501
+    text: Drops some usefull stuff, also drops some more when it is removed.
+  - guidHash: 687139583
+    text: Isn`t it a bit too early for christmass?
+  - guidHash: 1171970070
+    text: Embiggener
+  - guidHash: -1521375507
+    text: You projectiles grow in size with time and deal bonus damage depending
+      on how big they are.
+  - guidHash: 1830855627
+    text: Eye Of Horus
+  - guidHash: -638886367
+    text: Removing a Curse heals the owner. Has a chance to immediately remove a
+      curse upon receiving it.
+  - guidHash: -2037836171
+    text: The Pact
+  - guidHash: 1658861709
+    text: Lowers most of your stats, treasure rooms are now replaced with a special
+      variants.
+  - guidHash: 1087000018
+    text: It will just cost you your soul.
+  - guidHash: 1440129371
+    text: Both will be your reward, should you complete the challenge.
+  - guidHash: 890975758
+    text: Brew something to help mend your wounds.
+  - guidHash: 1382155085
+    text: Brew something to help you fight.
+  - guidHash: -1279285479
+    text: Brew something rare.
+  - guidHash: -15927909
+    text: Brew an All-Potion
+  - guidHash: -991840199
+    text: Anti curse
+  - guidHash: -164338048
+    text: Brew something against curses.
+  - guidHash: 2094599872
+    text: +3 <color=#D3C7A9>reagent</color>
+  - guidHash: -335367827
+    text: The Eye Of Horus represents power, protection and good health. May it ward
+      of any evil that comes your way.
+  - guidHash: -1338926540
+    text: Arcade Pistol
+  - guidHash: -680463168
+    text: Use it to shoot the targets in the arcade. Has limited ammo.
+  - guidHash: -2121024769
+    text: Well hello there traveler, interested in playing a game? All you need to
+      do is shoot the targets over there. I will reward you depending on how well
+      you do.
+  - guidHash: 246690553
+    text: 'It is going to cost you {flag:0f1a392d66e74129824819419181d571}<sprite
+      name=gold>. Want to start now?[?]'
+  - guidHash: 266179096
+    text: Hah hah! Now that`s the spirit! Take this and let your aim be true.
+  - guidHash: -1604100098
+    text: If you change your mind, i am always here.
+  - guidHash: -1100086377
+    text: Good luck!
+  - guidHash: -1407527175
+    text: Arcade Master
+  - guidHash: 523420320
+    text: I hope you are happy with what you got, no second chances.
+  - guidHash: 1157537984
+    text: Take your shot, and when you are done, you can get the reward from my chest.
+  - guidHash: 430071363
+    text: It seems like your pockets are quite dry, come back when you have the gold.
+  - guidHash: 2001997796
+    text: No bullets
+  - guidHash: 1868077253
+    text: '{flag:ff35d19e9e294a38887f084641e3cbde} Bullets left'
+  - guidHash: -122014490
+    text: Bullets
+  - guidHash: -72593658
+    text: +Bullet
+  - guidHash: -345847674
+    text: Arcade Ticket
+  - guidHash: 1635426197
+    text: Enbales the spawn of arcades during this run. You need to pick this up
+      at the start of each run.
+  - guidHash: -680363311
+    text: Arcades activated
+  - guidHash: 775473763
+    text: Lucky Bullet
+  - guidHash: 1250477589
+    text: Makes the Arcade Minigame spawn more often. Gives an extra bullet to shoot
+      in the minigame. Grants a small amount of Luck.
+  - guidHash: -165173212
+    text: Due to a manufacturing error, this bullet has no gunpowder inside. Normally
+      people will just throw this away, but you feel like you should keep it.
+  - guidHash: 1694569806
+    text: Merchant`s Brew
+  - guidHash: 1560790939
+    text: Sells food, keys, bombs and potion that lay on the ground.
+  - guidHash: -399236800
+    text: '"I am telling you, buying such quality meat for this price is a steal.
+      What do you mean you saw me picking a random piece of meat from the floor?"'
+  - guidHash: -1934629558
+    text: Armor Pad
+  - guidHash: -143065200
+    text: Forgeable
+  - guidHash: -889180000
+    text: Can be forged to increase it`s effects.
+  - guidHash: 550398301
+    text: Forged
+  - guidHash: 1759566448
+    text: Effect upgraded.
+  - guidHash: -976481585
+    text: 'Grants 1 armor point. Releases a knockback blast when an Armor Point is
+      damaged. <br><color=grey>Forged Effect: +1 Armor Point. Releases a fiery blast
+      instead</color>'
+  - guidHash: 1059011036
+    text: Grants 2 armor points. Releases a releases a fiery blast when an Armor
+      Point is damaged.
+  - guidHash: 806468024
+    text: Hammer In A Bottle
+  - guidHash: -664369207
+    text: Upgrade a Forgeable relic
+  - guidHash: -588606516
+    text: Jera
+  - guidHash: 1521163369
+    text: 'Gives rewards on floor start.<br><color=grey>Forged Effect: Better room
+      clear rewards.</color>'
+  - guidHash: 579493280
+    text: Gives rewards on floor start. Better room clear rewards.
+  - guidHash: -1527601366
+    text: Loved by Kings, Emperors and French people.
+  - guidHash: -16973071
+    text: Lantern Powder
+  - guidHash: 367644736
+    text: Makes the fireballs from your lantern fly further and explode, dealing
+      bonus damage in an area.
+  - guidHash: 1311554136
+    text: Nothing to Forge
+  - guidHash: 793298101
+    text: Gebo
+  - guidHash: 1896190021
+    text: 'Increases the stats of your followers. <br><color=grey>Forged Effect:
+      Increases your Max Follower count.</color>'
+  - guidHash: -67343827
+    text: Harvest.
+  - guidHash: -1599678138
+    text: Partnership.
+  - guidHash: 154026567
+    text: Increases the stats of your followers and your Max Follower count
+  - guidHash: 185996898
+    text: Empty Pack Of Goodies
+  - guidHash: 1709492854
+    text: Doesn`t have anything left inside.
+  - guidHash: -637310157
+    text: Will reseal itself on your next run.
+  - guidHash: 1476054839
+    text: Two-Ton Tunic
+  - guidHash: -1302413987
+    text: Adds 2 Armor Points. Adds a cooldown to your jump/dash. When you land/your
+      dash ends, create a huge shockwave.
+  - guidHash: 612955308
+    text: A strange purple masked ghost sometimes appears at the edge of your vision,
+      i wonder what this is about?
+  - guidHash: -1731627490
+    text: Choose a relic to upgrade.
+  - guidHash: 1722037196
+    text: It seems like you have nothing to upgrade.
+  - guidHash: 1791766263
+    text: Dagaz
+  - guidHash: -1135906109
+    text: 'Intelligence now also grants Max Mana. <br><color=grey>Forged Effect:
+      Increases the effectivenes of Intelligence blessings.</color>'
+  - guidHash: 297889865
+    text: Enlightenment.
+  - guidHash: -922854202
+    text: Inteligence now also grants Max Mana. Increases the effectivenes of Intelligence
+      blessings.
+  - guidHash: -350069960
+    text: Fancy Dinner
+  - guidHash: 866273231
+    text: Adds 120 Maximum Health. Heals you to full health.
+  - guidHash: 779859706
+    text: '"Would you like some vine Sir?"'
+  - guidHash: 1981674744
+    text: Berserk`s Claw
+  - guidHash: 1858000683
+    text: Each melee hit on an enemy grants bonus Alacrity. This bonus resets if
+      no enemy is hit for a while.
+  - guidHash: -953157410
+    text: '"I am not scared of a man who does 1 heavy swing every minute. I am terrified
+      of a man who does 100 swings a second."'
+  - guidHash: -99747051
+    text: Blank
+  - guidHash: 1958754595
+    text: Knocks back nearby enemies and deals damage to them. Clears out all enemy
+      projectiles on the screen and prevents new ones from appearing for a short
+      time. <br><color=red>Screenflash Warning</color>
+  - guidHash: 792635691
+    text: Brought to you from a shady place called The Gungeon. What a weird name....
+  - guidHash: 1830849791
+    text: Experimental Formula
+  - guidHash: -636699826
+    text: Increases 2 random stats, then decreases 1 random stat.
+  - guidHash: 1978938891
+    text: I am not exactly sure what this will do.
+  - guidHash: 23945956
+    text: Shrine Of Greed
+  - guidHash: 1376774573
+    text: 'As you stare at a giant floating piece of gold, strange voices begin to
+      fill your head. Surely nothing bad will happen if you touch it for just a second....
+      <br>Do you take it?<br> [?]'
+  - guidHash: 2051386039
+    text: Greed
+  - guidHash: -314455499
+    text: Picking up gold nuggets damages you. The damage increases with each floor.
+      Destroys itself after you pick up 75 nuggets.
+  - guidHash: 1819695490
+    text: Time to pay for your choices.
+  - guidHash: -1463027668
+    text: Shrine Of Sho`guul
+  - guidHash: 115465560
+    text: A shrine devoted to Sho`guul stands before you. You feel as if it awaits
+      an offering.
+  - guidHash: -1849864590
+    text: Nothing to offer.
+  - guidHash: 1343607241
+    text: Choose what to sacrifice as an offering.
+  - guidHash: -987347426
+    text: Blessing Of Order
+  - guidHash: -1430421482
+    text: Order
+  - guidHash: -1937544582
+    text: Increases the effectiveness of 2 randomly chosen blessings.
+  - guidHash: 2027374146
+    text: Due to your generosity, Order herself has decided that you are worthy.
+  - guidHash: -6887257
+    text: Blood Vial
+  - guidHash: -1464916221
+    text: Fills up all Blood Offering statues in the room.
+  - guidHash: -1757158763
+    text: You don`t want to know where this blood is from.
+  - guidHash: -852082947
+    text: Heavy Pickaxe
+  - guidHash: -744859677
+    text: Adds 1 Armor Point. Each Armor Point now increases your strength.
+  - guidHash: -854610375
+    text: It might be a little hard to swing, but MAN does it pack a punch.
+  - guidHash: -1506227987
+    text: Rotten Elderseeds
+  - guidHash: -752664610
+    text: Elderseeds now damage you when picked up.
+  - guidHash: -2116350556
+    text: Due to a recent pest invasion in the kingdom, all the Elderseeds have gone
+      bad.
+  - guidHash: 338236064
+    text: Mirror Shard
+  - guidHash: 609238563
+    text: Single Use! Duplicates EVERYTHING in the room.
+  - guidHash: 1018353382
+    text: Look
+  - guidHash: -2033682547
+    text: Boom Flask
+  - guidHash: 1754818609
+    text: Explodes on landing. <br>Has 2 uses.
+  - guidHash: -1760586393
+    text: Don`t drop this by accident.
+  - guidHash: 711318234
+    text: Flask
+  - guidHash: -452119076
+    text: A subtype of potions that are thrown instead of drunk. Usually have several
+      uses.
+  - guidHash: -899569352
+    text: Greek Fire
+  - guidHash: -1651197552
+    text: Creates burning oil and ignites everything on landing. <br>Has 4 uses.
+  - guidHash: 1761924806
+    text: The salesmal convinced you that this fire lasts 99x longer than normal,
+      but you are not sure if it is true.
+  - guidHash: -780828716
+    text: Inverse
+  - guidHash: -160872264
+    text: Phisycally attacking enemies sometimes heals them instead.
+  - guidHash: -1530031345
+    text: Look at the bright side, if you learn to contor this, then you are going
+      to be an awesome healer.
+  - guidHash: -1759834105
+    text: Snow Globe
+  - guidHash: 1226270022
+    text: Appllies freeze to enemies in an area on landing. <br>Has 3 uses.
+  - guidHash: 1167568602
+    text: It looks beautiful when you shake it.
+  - guidHash: 2068066549
+    text: Lightning In A Bottle
+  - guidHash: -185997757
+    text: Creates a thundercloud that shocks enemies, stunning them briefly and dealing
+      high damage. <br>Has 2 uses.
+  - guidHash: 633585577
+    text: '"You can`t catch lighting in a bottle they said, then what is this?"'
+  - guidHash: 323694328
+    text: Adventurer`s Revolver
+  - guidHash: -730166479
+    text: Fires deadly precise bullets that pierce infinitelly. Needs a reload every
+      4 shots.
+  - guidHash: -387306276
+    text: Don`t bring a pickaxe to a gunfight.
+  - guidHash: 33303959
+    text: Old Metronome
+  - guidHash: -56122719
+    text: Every 3s deals damage to every enemy in the room.
+  - guidHash: -1892661688
+    text: It also helps you keep your rhytm!
+  - guidHash: 215935902
+    text: Vampiric Flask
+  - guidHash: 1238944908
+    text: Creates a swarm of bats that follow and steal life from enemies, giving
+      it to the owner. <br>Has 3 uses.
+  - guidHash: 1420459913
+    text: Awwww they just want some blood.
+  - guidHash: 701199328
+    text: White Moon
+  - guidHash: -1824881574
+    text: Creates a wave of slashes.
+  - guidHash: -1272700729
+    text: Anime Style
+  - guidHash: -332612558
+    text: Skully
+  - guidHash: 1295367233
+    text: Orbits enemies and shoots at them.
+  - guidHash: 1159427291
+    text: Stone Mask
+  - guidHash: -26787016
+    text: You were turned into a vampire by the stone mask. Halves you MaxHP, but
+      grants lifesteal on attacks.
+  - guidHash: 601328554
+    text: 'You see a strange stone mask lying on a table. Should you put it on?[?]'
+  - guidHash: -1582309590
+    text: You are already a vampire, the mask has no use for you.
+  - guidHash: -1519116854
+    text: Enable Minigame Spawn (Disabled fully in the current version, this does
+      nothing)
+  - guidHash: -1092739043
+    text: D6
+  - guidHash: -1927453049
+    text: Spawns a dice when you enter a relic room. Picking up the dice rerols items
+      in the room for free.
+  - guidHash: -1101554888
+    text: '"ISAAC!!!" - Mom'
+  - guidHash: 1254107431
+    text: Rerolls every relic in the room.
+  - guidHash: -717277111
+    text: Entropic Brew
+  - guidHash: -1570662803
+    text: Fill all your available potion slots with random potions.
+  - guidHash: 1979829479
+    text: Concentrated entropy. DO NOT INGEST!!!
+  - guidHash: -1570680800
+    text: Ambergris
+  - guidHash: 2114299578
+    text: Make a selected one of your Curses Sticky.
+  - guidHash: 1861813069
+    text: A foul smelling liquid of questionable origins. You can probably find a
+      use for it.
+  - guidHash: 572670490
+    text: You don`t have any curses!
+  - guidHash: -1187137587
+    text: Hearth Locket
+  - guidHash: -1114518308
+    text: Taking damage launches a temporary <color=red>Hearth Crystal</color> pickup
+      that restores a portion of the damage taken. Has a brief cooldown.
+  - guidHash: -1439128877
+    text: Helps those who are good on their feet to keep themselves healthy.
+  - guidHash: -502829776
+    text: Hidden Pocket
+  - guidHash: -347466023
+    text: Periodically throws out daggers whenever you use your ranged attack.
+  - guidHash: 845114310
+    text: '"Daggers can solve a lot of problems, especially if you have a lot of
+      them"'
+  - guidHash: 1712694073
+    text: Blessed Curse Necklace
+  - guidHash: -387545119
+    text: Counts as 3 curses. Find Cursed Pearls in chests to incease the curse count
+      further(up to 10 Max)
+  - guidHash: 1597461384
+    text: Sometimes, even curses can be helpful.
+  - guidHash: -1034464094
+    text: Does nothing. Counts as 3 curses. Additional Cursed Pearls could be found
+      in chests that increase the curse count of this relic further(up to 10).
+  - guidHash: 173498081
+    text: Cursed Pearl
+  - guidHash: 1945862755
+    text: Increases the curse count of the Blessed Cursed Necklace.
+  - guidHash: -1598507142
+    text: "Coin Of Court\xE9s"
+  - guidHash: -305869208
+    text: On pickup, obtain 2 random curses. Increases gold gain from Gold Nuggets
+      proportional to your Curses. Chance to drop a curse when breaking gold ore.
+  - guidHash: -1752169056
+    text: A single piece of gold from the cursed treasury. Despite everyone saying
+      that you should return it, you are strangely compelled to keep it to yourself.
+  - guidHash: -1452698726
+    text: Cursestriker
+  - guidHash: 483822223
+    text: Rarely applies Curse Burn to enemies attacked in melee. Chance and damage
+      increase with your curses.
+  - guidHash: -1383024649
+    text: Legends tell about a master Warlock, who was able to revert any curse sent
+      at him back at his enemies. This blade is one of his creations.
+  - guidHash: -605510479
+    text: Taunting Face
+  - guidHash: 974598845
+    text: Throwing Axe Bundle
+  - guidHash: -817549414
+    text: Performing a swing periodically fires out an Axe.
+  - guidHash: -1285956107
+    text: From your experience, carrying around an Axe in your second hand is always
+      a good idea.
+  - guidHash: 1315149792
+    text: Potion Possessiveness
+  - guidHash: 1143158055
+    text: Potion you pick up will have "possessive". "Possessive" potions can`t be
+      dropped.
+  - guidHash: -1061612744
+    text: '"After all, why not? Why shouldn`t i keep it"'
+  - guidHash: -971689969
+    text: Possessive
+  - guidHash: -1617647112
+    text: Can not be dropped.
+  - guidHash: -1413013135
+    text: Thorns
+  - guidHash: 517151040
+    text: Throw out a flurry of thorns. Deals damage based on your Dexterity.
+  - guidHash: -224901609
+    text: Druid
+  - guidHash: -1695439842
+    text: Transformed
+  - guidHash: -748094316
+    text: Soul Burning Ink
+  - guidHash: 1795759350
+    text: Upgrades some talismans, giving them the ability to choose which curse
+      gets removed.
+  - guidHash: -1557426140
+    text: Soul Burning Talisman
+  - guidHash: -965396319
+    text: Removes a selected Curse.
+  - guidHash: -2107800926
+    text: Bear
+  - guidHash: 251370440
+    text: Transform into a mighty Bear, gaining Physical damage resistance and MaxHP.
+  - guidHash: 712844982
+    text: Steel Spider
+  - guidHash: -1747570633
+    text: Tri-Whip
+  - guidHash: -1114376367
+    text: Your whip is now tripled.
+  - guidHash: -307729938
+    text: When enemies are many, the Inquisitor adapts.
+  - guidHash: -2053337152
+    text: Ornament Fan
+  - guidHash: 1744708490
+    text: Create a razor sharp gust of wind that pushes enemies away and damages
+      them.
+  - guidHash: 1837550058
+    text: Unique <sprite name=dante>
+  - guidHash: 1470760558
+    text: This item will only drop for and can only be picked up by Dante.
+  - guidHash: 527214832
+    text: Exploding Barrel
+  - guidHash: -421560033
+    text: Throw out a barrel thar rolls forward with a short fuse. The barrel eplodes
+      instantly if it is damaged or collides with an enemy.
+  - guidHash: -60536820
+    text: Empty Spell Book
+  - guidHash: -1076636440
+    text: Craft an Arcana with a custom effect.
+  - guidHash: 1664826460
+    text: In order to finish his apprenticeship, a young mage is tasked with creating
+      his own spell from scratch.
+  - guidHash: 2013548775
+    text: 10 Mana
+  - guidHash: -586555909
+    text: 100 Mana
+  - guidHash: -1679894113
+    text: '{flag:1543aa89a58e4c3f80bc0c52dd6a6e16}'
+  - guidHash: -710310422
+    text: Simple Page
+  - guidHash: 798162055
+    text: Tome
+  - guidHash: 1212115793
+    text: Mending Stone
+  - guidHash: -1953481664
+    text: Slowly regenerates HP and Armor Shards while held. Breaks after reaching
+      a threshold.
+  - guidHash: 1189115764
+    text: Mends both the body and the spirit(AND ARMOR TOO!!!)
+  - guidHash: 1106094271
+    text: Relic Shard
+  - guidHash: 845139072
+    text: <color=#0047AB>+1 Relic Shard</color>
+  - guidHash: 1323198069
+    text: Not enought shards
+  - guidHash: 175904981
+    text: 0
+  - guidHash: 573713697
+    text: Girya
+  - guidHash: -1027516686
+    text: 'Gives {flag:e411ec7865144a4f92c9116ff5a3f1a1} strength. Can be forged
+      indefinitely.</color><br><color=grey>Forged Effect: Increases strength gained.
+      </color>'
+  - guidHash: -61605475
+    text: Awakened Dagaz
+  - guidHash: 998497568
+    text: Awakened Gebo
+  - guidHash: 6579380
+    text: Awakened Jera
+  - guidHash: 260609746
+    text: Lift Girya, increasing the Str bonus by {flag:0e6c6be57bc44a549e9aabbdbeceb41b}.
+  - guidHash: 969207223
+    text: Lift
+  - guidHash: -1915997389
+    text: The Twins
+  - guidHash: 1235799746
+    text: A pair of constructs that complement your attacks.
+  - guidHash: 729451091
+    text: They are experts at doing "Pew Pew".
+  - guidHash: 32213596
+    text: Complement your Melee and Ranged attacks.
+  - guidHash: 1673128487
+    text: Improved base attacks.
+  - guidHash: -1639773000
+    text: New special attacks.
+  - guidHash: 1376543934
+    text: Have more than 25 Ingenuity.
+  - guidHash: -1146991925
+    text: New special attacks.
+  - guidHash: -49971236
+    text: Forge an upgrade module at the Foundry.
+  - guidHash: -1988427079
+    text: Forge an upgrade module at the Rune Anvil.
+  - guidHash: -2081644926
+    text: Ah, this is a new acquisition. I don`t quite have the materials to use
+      it, but if you got any spare Shards laying around, and Relics in need of some
+      forging, feel free to use it.
+  - guidHash: 213957365
+    text: Shatter
+  - guidHash: 1654529452
+    text: Please select a Relic or Arcana you would wish to break to receive Relic
+      Shards.
+  - guidHash: -100839604
+    text: You don`t have any Relics.
+  - guidHash: -482376858
+    text: Choose a Relic that you want to Forge.
+  - guidHash: -700661814
+    text: Golden Horseshoe
+  - guidHash: 97677182
+    text: Increases Jump Height. Removes damage from falling.
+  - guidHash: 569372517
+    text: Aren`t these things supposed to give Luck?
+  - guidHash: 1787500833
+    text: Charge Left
+  - guidHash: 1011090469
+    text: Even if made out of cardboard, this shield can take a hit.
+  - guidHash: -2001824384
+    text: Cardboard Shield
+  - guidHash: -1247152071
+    text: Adds an Armor Point. Prevents the first time you take damage each Floor.
+  - guidHash: -216516677
+    text: Bibliophobia
+  - guidHash: 1185894701
+    text: Spellpages now frequently appear in rooms.
+  - guidHash: -814074726
+    text: Fearing books seems normal when they can lob a fireball at you.
+  - guidHash: 782166482
+    text: Pin Needle
+  - guidHash: -376770557
+    text: Does exactly 1 non combat damage to you.
+  - guidHash: 752674185
+    text: '"The pain is what makes us human"'
+  - guidHash: 208291028
+    text: "Bone App\xE9tit"
+  - guidHash: -2013979355
+    text: Killing skeletons sometimes drops skeletal food.
+  - guidHash: -1893302120
+    text: You aren`t actually going to eat that, right?
+  - guidHash: 1773290450
+    text: Bone Marrow
+  - guidHash: 1169363613
+    text: Restores a tiny bit of Health
+  - guidHash: 617870440
+    text: Food for the most desperate.
+  - guidHash: 973422434
+    text: Dessert Stash
+  - guidHash: -629334536
+    text: Eating Food and Elderseeds sometimes spawns Desserts that restore both
+      Health and Mana.
+  - guidHash: -296209549
+    text: There is ALWAYS room for dessert.
+  - guidHash: 1950327454
+    text: Cake
+  - guidHash: 1022343900
+    text: Cookies
+  - guidHash: 706634517
+    text: Milkshake
+  - guidHash: -1618630922
+    text: Waffle
+  - guidHash: -301204375
+    text: Supply Drop
+  - guidHash: -1153742664
+    text: Spawns a special Supply Drop room on every floor. Receive revards if you
+      get to the Supply Drop in time.
+  - guidHash: -971149806
+    text: A supply drop via a helicopter in a fantasy setting seems fine to me.
+  - guidHash: -2062140059
+    text: Supply drop will disappear in 30 seconds
+  - guidHash: -438512781
+    text: Supply drop lost
+  - guidHash: -2005701719
+    text: Swift Strike Kunai
+  - guidHash: 251256106
+    text: Gain temporary bonus Speed and Alacrity after killing an enemy.
+  - guidHash: -479896350
+    text: '"Fly like a butterfly, sting like a bee."'
+  - guidHash: -1916692801
+    text: Degull`s Pyramid
+  - guidHash: -1681289501
+    text: Improves Ingenuity gain from Ingenuity Blessings by 1.
+  - guidHash: 460228293
+    text: '"Degull inventor. Degull twist the glowing triangle" - Degull'
+  - guidHash: 1749282404
+    text: Supply Drop Secured
+  - guidHash: 1562201005
+    text: Activate
+  - guidHash: -1243281983
+    text: Ranbiggener
+  - guidHash: -1675072760
+    text: Mass Releaser
+  - guidHash: 1592982044
+    text: Create an infinitely ricocheting slow moving projectile. Projectiles increase
+      in size and damage when colliding with eachother. Activating the second ability
+      detonates all projectiles.
+  - guidHash: -649705566
+    text: Mass Releaser (Detonate)
+  - guidHash: -1155809945
+    text: Detonates all active Mass Releaser projectiles.
+  - guidHash: 1126987429
+    text: The Orb
+  - guidHash: -1157657074
+    text: Grants +1 Max HP, Max Mana, Armor, Str, Dex, Ing, Int, Reck, Char, Speed,
+      Luck, Alacrity, Reach, Caliber, Pierce, Ricochet, Bounce and Fork.
+  - guidHash: 47041363
+    text: Leeching Seed
+  - guidHash: 14604302
+    text: Slowly saps away your Health when entering a new room. Transforms after
+      draining enough health.
+  - guidHash: 1387909737
+    text: A tiny seedling that needs care, love and blood to bloom.
+  - guidHash: 1842215352
+    text: Leeching Seed is blooming.
+  - guidHash: 938915583
+    text: Take Root
+  - guidHash: -2010472859
+    text: Gain Max Health and improve Healing received.
+  - guidHash: 200378241
+    text: Sturdy roots are necessary for survival.
+  - guidHash: 2072926821
+    text: Produce Fruit
+  - guidHash: -504193015
+    text: Gain Max Mana and increase effectiveness of Elder Seeds.
+  - guidHash: -147081858
+    text: A delicios fruit, grown with your own blood.
+  - guidHash: 550572341
+    text: Spread Branches
+  - guidHash: -1372361083
+    text: Increases Str, Reach, Dex and Bounce
+  - guidHash: -1706063936
+    text: Let your branches reach the sky.
+  - guidHash: 2081736673
+    text: Reading Glasses
+  - guidHash: -1532511480
+    text: Increases inteligence and decreases manacost on all Book Arcanas.
+  - guidHash: -1004457700
+    text: With these you will be able to read at light speed.
+  - guidHash: -1427362246
+    text: Adds a stacking Charisma and Luck boonus each time you clear a room without
+      taking damage. Boonus resets when you take combat damage.
+  - guidHash: -305396183
+    text: Ruby Shades
+  - guidHash: 142883975
+    text: Sadly doesn`t allow you to shoot beams of red concentrated concussive force
+      from your eyes.
+  - guidHash: -1303871419
+    text: Sigil Of Frost
+  - guidHash: 415514751
+    text: Freeze a random enemy at the start of a combat encouter.
+  - guidHash: 1782788583
+    text: '"Frost, mark of the bitter."'
+  - guidHash: -1319123548
+    text: Sigil Of Blood
+  - guidHash: 661952534
+    text: Drain health from a random enemy at the start of every combat encounter.
+  - guidHash: 110093752
+    text: '"Blood, remnants of life."'
+  - guidHash: -612992809
+    text: Sigil Of Unholy
+  - guidHash: 1926151415
+    text: Summon a skeleton to attack a random enemy at the start of each combat
+      encounter.
+  - guidHash: 994239373
+    text: '"Unholy, symbol of death."'
+  - guidHash: -204908930
+    text: Desecrated Wraps
+  - guidHash: -836278648
+    text: Heals a percentage of missing health. Chance to gain a curse depending
+      on the ammount of health healed.
+  - guidHash: -1602882323
+    text: Used by practitioners of dark magic, these bangades reek of damnation.
+  - guidHash: 625941014
+    text: A special powder made by a master alchemist that enhances most chemical
+      reactions.
+  - guidHash: 205728985
+    text: Dueling Wand Mk12
+  - guidHash: 1821443576
+    text: Shoots out a random effect.
+  - guidHash: 1311710867
+    text: Your opponent can`t predict what you are going to do if you have no idea
+      what you are doing.
+  - guidHash: -620331439
+    text: Sharpshooter
+  - guidHash: 1995443503
+    text: Grants a big bonus to Dexterity. Bonus is reduced by each enemy nearby.
+  - guidHash: -9134980
+    text: The best archers in the kindgom can hit a butterflies wings...FROM ANOTHER
+      KINGDOM.
+  - guidHash: 1998459176
+    text: Top Ways To Conquer The Spire
+  - guidHash: 2108466771
+    text: '"You find this manuscript highly suspicious, because it is covered in
+      blood."'
+  - guidHash: -988279858
+    text: Increases ALL damage you deal to the enemies.
+  - guidHash: 102868196
+    text: Antique Tea Set
+  - guidHash: -278480513
+    text: Restores a portion of your health when you enter shops and boss rooms.
+  - guidHash: 1006582128
+    text: A cup of jasmine tea is the best way to relax mid adventure.
+  - guidHash: 1020982239
+    text: Crow Cultist Mask
+  - guidHash: -499957123
+    text: Gradually increases your Str during combat. Resets after clearing a room.
+  - guidHash: -817885092
+    text: CA CAW!!!
+  - guidHash: -55070249
+    text: Key Synthesizer
+  - guidHash: 585654028
+    text: Sometimes creates a key after you clear a room.
+  - guidHash: 1448487638
+    text: Why hope for a key when you can simply make one?
+  - guidHash: 488613534
+    text: Golden Scales
+  - guidHash: 1746137790
+    text: Contantly averages your number of keys and bombs.
+  - guidHash: -937544425
+    text: '"Perfectly balanced, as all things should be."'
+  - guidHash: -1790270560
+    text: The most OP relic
+  - guidHash: -1649439694
+    text: Does insane stuff
+  - guidHash: 1621002864
+    text: wow
+  - guidHash: 1566856005
+    text: Warhammer
+  - guidHash: 2029853771
+    text: First melee hit agains an enemy deals increased damage.
+  - guidHash: 977732504
+    text: A big hammer is perfect to bash someones head before the actual fight begins.
+  - guidHash: -1794931540
+    text: Excited Spellbook
+  - guidHash: 711301636
+    text: Periodically casts random spells at enemies nearby.
+  - guidHash: -1402627278
+    text: '"Who wants to cast a spell? I want to cast a spell!"'
+  - guidHash: -146470866
+    text: Gamora`s Lesson
+  - guidHash: -1765562512
+    text: Grants bonus stats depending on how close your key and bomb count are to
+      each other.
+  - guidHash: 1539490790
+    text: '"Seventeen silver Sickles to a Galleon and twenty-nine Knuts to a Sickle,
+      it''s easy enough."'
+  - guidHash: 1803746506
+    text: PERFECTLY Balanced Shiv
+  - guidHash: -84639909
+    text: PERFECTLY Balanced Mode
+  - guidHash: -31942371
+    text: Enables Perfect Balance.
+  - guidHash: -182911569
+    text: Draconic Scales
+  - guidHash: 1234547162
+    text: Drastically reduces elemental damage taken by enemies.
+  - guidHash: -40265664
+    text: A bronze dragon`s scales, even corrupted by dark rituals are still a perfect
+      defense against elemental magic.
+  - guidHash: 1573658190
+    text: Lightshow Gauntlet
+  - guidHash: 1976847388
+    text: Launch a barrage of holy light missiles at the targeted direction.
+  - guidHash: -922856333
+    text: A shiny guntlet with a simple yet flashy spell ethched into it.
+  - guidHash: -1208462548
+    text: Rem`s Pillow
+  - guidHash: 958719406
+    text: Lob a pillow that deals damage and temporarily sleeps enemies.
+  - guidHash: -908379274
+    text: Some say the pillow is filled to the brim with bricks and stones.
+  - guidHash: 332682409
+    text: Adventurer`s Hat???
+  - guidHash: -1524046636
+    text: Recovers a small amount of Health when you enter a room.
+  - guidHash: -603747623
+    text: Battle Axe???
+  - guidHash: 678026010
+    text: An imitation of a real Relic.
+  - guidHash: -24716435
+    text: Slightly increases Reach, but decreases Strength.
+  - guidHash: 715513800
+    text: Rotham`s Fractal???
+  - guidHash: -926472742
+    text: Recovers 25% of Mana spent. Increases the cost of Arcana.
+  - guidHash: 1621441041
+    text: Mediocre Ring???
+  - guidHash: 594381707
+    text: Grants a minor increase to Max Health, Strength, Dexterity and Intelligence.
+  - guidHash: -540869111
+    text: Dirk`s Locket???
+  - guidHash: -790135545
+    text: Transmutes all Basic Items in the room, and one Relic in your inventory.
+  - guidHash: -1181751255
+    text: Fluffy Hat
+  - guidHash: 1694982007
+    text: Reduces Ice damage taken and Chill buildup. You recover faster from being
+      Chilled and Frozen.
+  - guidHash: 1014461416
+    text: This hat will surely keep your ears from freezing, even during the most
+      harsh snow storms.
+  - guidHash: 625980689
+    text: Glue Gun
+  - guidHash: -276230504
+    text: Shoots out a projectile that Glues enemies, heavily restricting movement.
+  - guidHash: 928900648
+    text: First Aid Kit???
+  - guidHash: -577506514
+    text: Sometimes recovers 20% of the received damage. Also works on enemies.
+  - guidHash: -2050644061
+    text: Look at the bright side, if you learn to controll this, then you are going
+      to be an awesome healer.
+  - guidHash: -1126535631
+    text: 1
+  - guidHash: -374834427
+    text: Mina
+  - guidHash: 1440425733
+    text: Bob`s Brain
+  - guidHash: -1010241834
+    text: Flies forward with your throw and Explodes on impact with an enemy.
+  - guidHash: 1864235985
+    text: Heavy with thoughts...and possibly C4.
+  - guidHash: -1575783593
+    text: Spawns a Poison Cloud on Explosion.
+  - guidHash: -433671329
+    text: Kill enemies with Bob`s Brain Explosion
+  - guidHash: -1991242309
+    text: Increased Size, Damage and Explosion Radius. Grants you immunity to Bob`s
+      Brain explosion.
+  - guidHash: -1458410610
+    text: Increased Fly Speed and Faster Respawn.
+  - guidHash: -1404226858
+    text: Get damaged by Bob`s Brain explosion.
+  - guidHash: 371287850
+    text: Metamorphizer.
+  - guidHash: 1223668249
+    text: Rerols all your relics.
+  - guidHash: -2073878342
+    text: Heavy thoughts
+  - guidHash: 1363030694
+    text: Discovered Bob`s Brain Stem.
+  - guidHash: 1953822156
+    text: Map Of Infinity
+  - guidHash: -1466263549
+    text: Spawns an Eternal Chest each floor. Eternal Chests now have a higher chance
+      to be reset.
+  - guidHash: 613208248
+    text: The Map of Infinity is a complete map of space-time, extending through
+      17 dimensions. Whoever has the map could travel anywhere in the universe.
+  - guidHash: -1197555604
+    text: Eternal Chest
+  - guidHash: 639610339
+    text: Gambling Chest

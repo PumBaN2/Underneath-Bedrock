@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 533445182, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: AchievementStat_Quest_Twins
+  m_EditorClassIdentifier: 
+  m_guid: 69fa559ebab94ac1a4d31410fc6c6e95
+  m_guidHash: 1954867938
+  m_commonModule: {fileID: 0}
+  m_requirementModule: {fileID: 6467317930210607380}
+  m_trackWhileCheating: 1
+  m_defaultValue: 0
+  m_min: 0
+  m_max: 999999
+  m_round: 0
+  m_killee:
+    guid: 
+    guidHash: 0
+--- !u!114 &6467317930210607380
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 502712824, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: RequirementModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_alwaysFail: 0
+  m_requirements:
+    operation: 0
+    expression: '{0}'
+    values:
+      m_values:
+      - negate: 0
+        type: 8
+        check:
+          rid: 7375285641272361556
+  m_description:
+    m_id: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 7375285641272361556
+      type: {class: RequirementCheckItemDiscovered, ns: Thor.Core, asm: Lithium.Core}
+      data:
+        item:
+          guid: 
+          guidHash: 0

@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1459843690, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: CommonCost_ShadyRelic_VeryHigh
+  m_EditorClassIdentifier: 
+  m_guid: 6367ea76c73f40ef835c564a7a8f3ea7
+  m_guidHash: -1244245802
+  m_costGroups:
+    m_values:
+    - m_category: 1
+      m_inheritedCosts:
+        m_values: []
+      m_costs:
+        m_values:
+        - m_costable:
+            guid: e2fa349028f7d0e449219e0b4098ca82
+            guidHash: -129955455
+          m_source: 1
+          m_amount: 0
+          m_category: Relic Very High
+          m_categoryHash: 106828863
+          m_operator:
+            name: "\u2215"
+            hash: 372021673
+          m_operand: 1.25
+          m_transactionType: 0
+          m_requirementOnly: 0
+    - m_category: 2
+      m_inheritedCosts:
+        m_values: []
+      m_costs:
+        m_values:
+        - m_costable:
+            guid: 86194e7362b54534eb1fbb29287b2b0a
+            guidHash: -1869780405
+          m_source: 1
+          m_amount: 0
+          m_category: Relic Very High
+          m_categoryHash: 106828863
+          m_operator:
+            name: "\u2215"
+            hash: 372021673
+          m_operand: 1.25
+          m_transactionType: 0
+          m_requirementOnly: 0
+    - m_category: 4
+      m_inheritedCosts:
+        m_values: []
+      m_costs:
+        m_values:
+        - m_costable:
+            guid: 11ea2df3262dcd74fb43fb2b0a36888b
+            guidHash: -1466129504
+          m_source: 1
+          m_amount: 0
+          m_category: Average
+          m_categoryHash: 120297091
+          m_operator:
+            name: +
+            hash: 372029319
+          m_operand: 0
+          m_transactionType: 0
+          m_requirementOnly: 0
+    - m_category: 4096
+      m_inheritedCosts:
+        m_values: []
+      m_costs:
+        m_values:
+        - m_costable:
+            guid: 8663b7298ee6f2a4cad7fed5a00c0a5d
+            guidHash: 1980474055
+          m_source: 1
+          m_amount: 0
+          m_category: Relic Very High
+          m_categoryHash: 106828863
+          m_operator:
+            name: "\u2215"
+            hash: 372021673
+          m_operand: 1.25
+          m_transactionType: 0
+          m_requirementOnly: 0
+    - m_category: 128
+      m_inheritedCosts:
+        m_values: []
+      m_costs:
+        m_values:
+        - m_costable:
+            guid: e2fa349028f7d0e449219e0b4098ca82
+            guidHash: -129955455
+          m_source: 1
+          m_amount: 0
+          m_category: Relic Very High
+          m_categoryHash: 106828863
+          m_operator:
+            name: "\u2215"
+            hash: 372021673
+          m_operand: 2.5
+          m_transactionType: 1
+          m_requirementOnly: 0
+    - m_category: 8
+      m_inheritedCosts:
+        m_values: []
+      m_costs:
+        m_values:
+        - m_costable:
+            guid: 60fe060cc6b017b4aabf576bdd164382
+            guidHash: -2101429757
+          m_source: 1
+          m_amount: 0
+          m_category: Relic Very High
+          m_categoryHash: 106828863
+          m_operator:
+            name: "\u2215"
+            hash: 372021673
+          m_operand: 1.25
+          m_transactionType: 1
+          m_requirementOnly: 0
+    - m_category: 8
+      m_inheritedCosts:
+        m_values: []
+      m_costs:
+        m_values:
+        - m_costable:
+            guid: 90c8971a27e57f049a0588e8540669de
+            guidHash: 2010981065
+          m_source: 1
+          m_amount: 0
+          m_category: Relic Very High
+          m_categoryHash: 106828863
+          m_operator:
+            name: "\u2215"
+            hash: 372021673
+          m_operand: 1.25
+          m_transactionType: 1
+          m_requirementOnly: 0

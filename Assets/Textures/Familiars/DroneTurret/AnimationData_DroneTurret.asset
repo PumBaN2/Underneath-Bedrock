@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1783077148, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: AnimationData_DroneTurret
+  m_EditorClassIdentifier: 
+  m_guid: cb55c7f85a1c40edbcc05e322bfb960a
+  m_guidHash: -733955535
+  m_facingMode: 2
+  m_blendMask:
+    value: 5
+  m_includeCommon: 1
+  m_controller: {fileID: 0}
+  m_fastAnimations:
+    m_values:
+    - animation:
+        value: 1
+      facing: 1
+      clip:
+        guid: 2c87eb86fee0d3d468de987633d8977c
+        guidHash: 1556507227
+      flipX: 2
+      unscaledTime: 0
+      fps: 12
+    - animation:
+        value: 1
+      facing: 4
+      clip:
+        guid: 2c87eb86fee0d3d468de987633d8977c
+        guidHash: 1556507227
+      flipX: 1
+      unscaledTime: 0
+      fps: 12
+    - animation:
+        value: 2
+      facing: 1
+      clip:
+        guid: 2c87eb86fee0d3d468de987633d8977c
+        guidHash: 1556507227
+      flipX: 2
+      unscaledTime: 0
+      fps: 18
+    - animation:
+        value: 2
+      facing: 4
+      clip:
+        guid: 2c87eb86fee0d3d468de987633d8977c
+        guidHash: 1556507227
+      flipX: 1
+      unscaledTime: 0
+      fps: 18
+  m_markerSpace: 1
+  m_markers:
+    m_values: []

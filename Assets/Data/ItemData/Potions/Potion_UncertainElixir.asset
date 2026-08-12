@@ -1,0 +1,301 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8966594037810181363
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1370092402, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: CommonModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_commonProperties:
+    common:
+      guid: c22e4c1d2bc8971498efc405f316fdd8
+      guidHash: -730396892
+    properties:
+      icons:
+        m_sprites:
+        - {fileID: 0}
+        - {fileID: 0}
+        - {fileID: 0}
+      displayName:
+        m_id: 0
+      description:
+        m_id: 0
+      flavor:
+        m_id: 0
+      color:
+        guid: 
+        guidHash: 0
+      palette:
+        guid: 
+        guidHash: 0
+      tags:
+        m_tags:
+          m_values: []
+--- !u!114 &-7097357004046053154
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1205558768, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: MiniMapModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_mapIcon:
+    guid: 88c50f0d920877b4597481016633ab6f
+    guidHash: 188049637
+--- !u!114 &-7071846051929533511
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1249944787, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: CostModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_isFree: 0
+  m_isSilent: 0
+  m_inheritCostModifiers: 0
+  m_activeCosts: 0
+  m_commonCosts:
+    guid: 35c0b5fe52932af4b9f59dc1f8ebe0bf
+    guidHash: 661959816
+  m_costGroups:
+    m_values: []
+--- !u!114 &-4282694041243388041
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 173507967, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: PickedUp
+  m_EditorClassIdentifier: 
+  _serializedGraph: '{"type":"Thor.Core.ExtendedBehaviorTree","nodes":[{"_action":{"m_target":{"_name":"Target","_targetVariableID":"da562af0-9d11-4b20-b25c-7cac452cb7b2"},"m_data":{"guid":"6c9d89a06529a2e4b86a10bc9eb0e9f8","guidHash":-1411093721},"m_level":{"target":{"_name":"Owner"},"property":{"guid":""},"lookupKey":{"_value":""},"value":{},"operand":{}},"m_doppeled":{"type":1,"target":{"_name":"Self","_targetVariableID":"af80bcaf-e79c-4d52-bd0d-6997b1101908"},"property":{"guid":"65a0f906a7fbdb54abf055852729ef9b","guidHash":-2102246584},"lookupKey":{"_value":""},"boolValue":{}},"$type":"Thor.Core.AddPotion"},"_position":{"x":524.0,"y":405.0},"$type":"NodeCanvas.BehaviourTrees.ActionNode"}],"connections":[],"canvasGroups":[],"localBlackboard":{"_variables":{"Self":{"_value":{},"_name":"Self","_id":"af80bcaf-e79c-4d52-bd0d-6997b1101908","_isPublic":true,"$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Target":{"_value":{},"_name":"Target","_id":"da562af0-9d11-4b20-b25c-7cac452cb7b2","_isPublic":true,"$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"}}},"derivedData":{"autoVariables":{"m_values":[]},"$type":"Thor.Core.ExtendedBehaviorTree+DerivedSerializationData"}}'
+  _objectReferences: []
+  _graphSource:
+    _version: 3.3
+    _category: 
+    _comments: 
+    _translation: {x: 0, y: 0}
+    _zoomFactor: 1
+  _haltSerialization: 0
+  _externalSerializationFile: {fileID: 0}
+  m_preProcess: 0
+  m_processOnEnable: 0
+  m_uninterruptible: 0
+  m_proxy: 0
+  m_restartOnDisable: 0
+  m_autoVariables:
+    m_values: []
+--- !u!114 &-3510463108968388079
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -6582100, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: SaveLoadModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_autosave: 1
+  m_loadPriority: 0
+--- !u!114 &-2416695553146004080
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1504850968, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: UIModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_showInJournal: 1
+  m_sortIndex: 0
+  m_icon: {fileID: 0}
+  m_maskShape: 0
+  m_mask: {fileID: 0}
+  m_animationSource: 0
+  m_animation:
+    m_values: []
+  m_fps: 0
+  m_iconPivot: {x: 0, y: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1719053581, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Potion_UncertainElixir
+  m_EditorClassIdentifier: 
+  m_guid: 291a7f85a41a4c4a8047883a050b4325
+  m_guidHash: -930103482
+  m_commonModule: {fileID: -8966594037810181363}
+  m_tagModule: {fileID: 0}
+  m_behaviorModule: {fileID: 0}
+  m_itemModule: {fileID: 2669878731353829449}
+  m_costModule: {fileID: -7071846051929533511}
+  m_miniMapModule: {fileID: -7097357004046053154}
+  m_swapModule: {fileID: 0}
+  m_shadowModule: {fileID: 0}
+  m_requirementModule: {fileID: 0}
+  m_itemAnimationModule: {fileID: 0}
+  m_itemDeathModule: {fileID: 0}
+  m_uiModule: {fileID: -2416695553146004080}
+  m_activationModule: {fileID: 1128617854991332016}
+  m_saveLoadModule: {fileID: -3510463108968388079}
+--- !u!114 &1128617854991332016
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359394656, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: ActivationModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_activationAbility:
+    guid: eb9f7b20e6c7fee4fba3d6e3e2fd6aba
+    guidHash: -1659892179
+  m_ability:
+    guid: 1318b2d57644b684f93666b9993e5579
+    guidHash: -2106675216
+  m_pairedItem:
+    guid: 
+    guidHash: 0
+  m_cooldown: 0
+--- !u!114 &2669878731353829449
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1616187677, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: ItemModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_isPromptable: 1
+  m_isGildable: 0
+  m_maxSpawnCount: -1
+  m_pickupBehavior: {fileID: -4282694041243388041}
+  m_pickupRequirements:
+    operation: 0
+    expression: '{0}'
+    values:
+      m_values:
+      - negate: 0
+        type: 5
+        check:
+          rid: 6008179410526535944
+  m_entityDataOverride:
+    guid: 
+    guidHash: 0
+  m_sparklesFX:
+    guid: 
+    guidHash: 0
+  m_invertUnlockSemantics: 0
+  m_isUnlockedByDefault: 1
+  m_unlockOnSee: 0
+  m_unlockOnPickup: 0
+  m_isDiscoveredByDefault: 0
+  m_discoverOnSee: 0
+  m_discoverOnPickup: 0
+  m_pickupAudio:
+    guid: db30f9e5d1c3b804c9b2887147fb84a6
+    guidHash: 913572641
+  m_landAudio:
+    guid: 771ce83d39a5da142a49099ab7404bdf
+    guidHash: 243699662
+  m_removalWeight:
+    m_weight: 1
+    m_luck:
+      m_type: 0
+      m_max: 0
+    m_requirements:
+      operation: 0
+      expression: '{0}'
+      values:
+        m_values: []
+    m_passAdjust:
+      m_behavior: 0
+      m_adjust: 0
+      m_luckBehavior: 0
+      m_luckAdjust:
+        m_type: 0
+        m_max: 0
+      m_assignmentOp:
+        name: =
+        hash: 372029329
+      m_property:
+        guid: 
+        guidHash: 0
+      m_arithmeticOp:
+        name: +
+        hash: 372029319
+      m_value: 0
+    m_failAdjust:
+      m_behavior: 0
+      m_adjust: 0
+      m_luckBehavior: 0
+      m_luckAdjust:
+        m_type: 0
+        m_max: 0
+      m_assignmentOp:
+        name: =
+        hash: 372029329
+      m_property:
+        guid: 
+        guidHash: 0
+      m_arithmeticOp:
+        name: +
+        hash: 372029319
+      m_value: 0
+    serialized: 1
+  references:
+    version: 2
+    RefIds:
+    - rid: 6008179410526535944
+      type: {class: RequirementCheckProperty, ns: Thor.Core, asm: Lithium.Core}
+      data:
+        property:
+          guid: bab17b121fd7ccf47a531bdab483be53
+          guidHash: -608237992
+        op:
+          name: '>'
+          hash: 372029332
+        value: 0

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1783077148, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: AnimationData_ShadyPilfer
+  m_EditorClassIdentifier: 
+  m_guid: 9f2e2315462049eaa88e9fda339a2cd1
+  m_guidHash: -1774429994
+  m_facingMode: 0
+  m_blendMask:
+    value: 0
+  m_includeCommon: 0
+  m_controller: {fileID: 0}
+  m_fastAnimations:
+    m_values:
+    - animation:
+        value: 1
+      facing: 0
+      clip:
+        guid: 8f5984e2514479549add60703c85fedc
+        guidHash: 135653832
+      flipX: 0
+      unscaledTime: 0
+      fps: 6
+  m_markerSpace: 1
+  m_markers:
+    m_values: []

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -143053857, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Common_ShadyDirksLocket_Revealed
+  m_EditorClassIdentifier: 
+  m_guid: 2d791b8ff82f42e3928e40da5b1dc315
+  m_guidHash: 266010276
+  m_properties:
+    icons:
+      m_sprites:
+      - {fileID: 21300000, guid: 156bf4e2820ec244b989710023b3e08e, type: 3}
+      - {fileID: 0}
+      - {fileID: 0}
+    displayName:
+      m_id: -540869111
+    description:
+      m_id: -790135545
+    flavor:
+      m_id: 678026010
+    color:
+      guid: 
+      guidHash: 0
+    palette:
+      guid: 
+      guidHash: 0
+    tags:
+      m_tags:
+        m_values:
+        - guid: 06ea209540120a44abfb8b5558922be7
+          guidHash: 1153590675
+        - guid: e2811021f5c8a244e9e598052457032c
+          guidHash: 1966562525
+        - guid: 50ecd3ef522f23e448c3412073b0a444
+          guidHash: -1518131214
+        - guid: a20c5ea4d93f3924cbcce8681280bfd7
+          guidHash: -237278429
+        - guid: 1702ba4ac7749d247abbdd3a6977cbd0
+          guidHash: -2033729002
+        - guid: 3f57c99cf7f747045ab1175e0016c80a
+          guidHash: -516962260

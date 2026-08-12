@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -143053857, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Common_Ingredient
+  m_EditorClassIdentifier: 
+  m_guid: 7da7d457dea7467bacb395eab8f931e2
+  m_guidHash: -1712825518
+  m_properties:
+    icons:
+      m_sprites:
+      - {fileID: 21300000, guid: 7bb3de08e6b3f4d488caf45d71336184, type: 3}
+      - {fileID: 0}
+      - {fileID: 0}
+    displayName:
+      m_id: -1452121465
+    description:
+      m_id: 797723776
+    flavor:
+      m_id: 0
+    color:
+      guid: 
+      guidHash: 0
+    palette:
+      guid: 
+      guidHash: 0
+    tags:
+      m_tags:
+        m_values:
+        - guid: b3e02739f0ff98e4cac2a2dcab3c4f87
+          guidHash: -896732828

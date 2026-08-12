@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1783077148, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: AnimationData_Chest_Gambling
+  m_EditorClassIdentifier: 
+  m_guid: 326631c029ae4daba189af093f1f2c6d
+  m_guidHash: 2113883114
+  m_facingMode: 2
+  m_blendMask:
+    value: 0
+  m_includeCommon: 1
+  m_controllerOverride:
+    guid: 
+    guidHash: 0
+  m_fastAnimations:
+    m_values:
+    - animation:
+        value: 0
+      facing: 0
+      clip:
+        guid: 395e3332f0157b94ca5d39e201597d7b
+        guidHash: 555216854
+      flipX: 2
+      unscaledTime: 0
+      fps: 8
+    - animation:
+        value: 4
+      facing: 0
+      clip:
+        guid: 92980ec74f4d54b47896f5f755523997
+        guidHash: -1946097177
+      flipX: 2
+      unscaledTime: 0
+      fps: 14
+    - animation:
+        value: 512
+      facing: 0
+      clip:
+        guid: 3a00895a074c5f249b3078b45174a458
+        guidHash: -995655694
+      flipX: 2
+      unscaledTime: 0
+      fps: 8
+    - animation:
+        value: 1024
+      facing: 0
+      clip:
+        guid: f8d3d2923a3fad14184f38bee46ae97f
+        guidHash: -1208690129
+      flipX: 2
+      unscaledTime: 0
+      fps: 8
+    - animation:
+        value: 2048
+      facing: 0
+      clip:
+        guid: 0e1924bcae6f3fd4eb6c09c9432905c0
+        guidHash: 598585142
+      flipX: 2
+      unscaledTime: 0
+      fps: 8
+    - animation:
+        value: 4096
+      facing: 0
+      clip:
+        guid: 4df879771941bd143a55d8fad227c325
+        guidHash: -1348101913
+      flipX: 2
+      unscaledTime: 0
+      fps: 8
+    - animation:
+        value: 8192
+      facing: 0
+      clip:
+        guid: fadd827bdeb98624eaf41ce0840c7956
+        guidHash: -1961037975
+      flipX: 2
+      unscaledTime: 0
+      fps: 8
+    - animation:
+        value: 16384
+      facing: 0
+      clip:
+        guid: a6d70a0d4d414eb48a895f6d29d94ab4
+        guidHash: -1835245017
+      flipX: 2
+      unscaledTime: 0
+      fps: 8
+    - animation:
+        value: 8
+      facing: 0
+      clip:
+        guid: 8a12515e3db77b54f85f9047a7e67440
+        guidHash: 294677453
+      flipX: 2
+      unscaledTime: 0
+      fps: 8
+    - animation:
+        value: 16
+      facing: 0
+      clip:
+        guid: 50b29d0a76716214db85bf2c39284faf
+        guidHash: -1668581772
+      flipX: 2
+      unscaledTime: 0
+      fps: 8
+  m_markerSpace: 1
+  m_markers:
+    m_values: []

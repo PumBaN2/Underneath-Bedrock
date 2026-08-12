@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1783077148, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: AnimationData_BatSwarm
+  m_EditorClassIdentifier: 
+  m_guid: 607f397889274a85875310ff67b42206
+  m_guidHash: 1787794203
+  m_facingMode: 2
+  m_blendMask:
+    value: 0
+  m_includeCommon: 1
+  m_controller: {fileID: 0}
+  m_fastAnimations:
+    m_values:
+    - animation:
+        value: 2
+      facing: 1
+      clip:
+        guid: 714511b138a8e0b41b32d75708141c6e
+        guidHash: 892613904
+      flipX: 2
+      unscaledTime: 0
+      fps: 10
+    - animation:
+        value: 2
+      facing: 4
+      clip:
+        guid: 714511b138a8e0b41b32d75708141c6e
+        guidHash: 892613904
+      flipX: 1
+      unscaledTime: 0
+      fps: 10
+    - animation:
+        value: 1
+      facing: 1
+      clip:
+        guid: 714511b138a8e0b41b32d75708141c6e
+        guidHash: 892613904
+      flipX: 0
+      unscaledTime: 0
+      fps: 10
+    - animation:
+        value: 1
+      facing: 4
+      clip:
+        guid: 714511b138a8e0b41b32d75708141c6e
+        guidHash: 892613904
+      flipX: 1
+      unscaledTime: 0
+      fps: 10
+    - animation:
+        value: 512
+      facing: 0
+      clip:
+        guid: 60eb2f026cdff56418e19776486a07db
+        guidHash: -1173760631
+      flipX: 0
+      unscaledTime: 0
+      fps: 1
+  m_markerSpace: 1
+  m_markers:
+    m_values: []
