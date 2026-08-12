@@ -202,70 +202,6 @@ MonoBehaviour:
     guidHash: -1941561287
   - guid: a208db521b9e89a42b9aba61f7d67e85
     guidHash: -1941561287
---- !u!1 &377617198934103630
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1588478272732963415}
-  - component: {fileID: 4827336383903363882}
-  m_Layer: 0
-  m_Name: Relic_Embiggener_Shim
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1588478272732963415
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 377617198934103630}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 11.2, y: 0, z: 10}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1425907247033739355}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &4827336383903363882
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 377617198934103630}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -610550449, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_data:
-    guid: 2a4723d841ca33d499161d1fe1fb68ac
-    guidHash: 22667963
-  m_talkData:
-    guid: 
-    guidHash: 0
-  m_entityDataOverride:
-    guid: 
-    guidHash: 0
-  m_requirements:
-    operation: 0
-    expression: '{0}'
-    values:
-      m_values: []
-  m_retryPolicy: 0
-  m_offset: {x: 0, y: 0, z: 0}
-  m_poof: 0
-  references:
-    version: 2
-    RefIds: []
 --- !u!1 &507315818396709860
 GameObject:
   m_ObjectHideFlags: 0
@@ -327,70 +263,8 @@ MonoBehaviour:
   m_retryPolicy: 0
   m_offset: {x: 0, y: 0, z: 0}
   m_poof: 0
-  references:
-    version: 2
-    RefIds: []
---- !u!1 &545465334711786164
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 3677855646074419886}
-  - component: {fileID: 6879792510551806775}
-  m_Layer: 0
-  m_Name: Relic_Pact_Shim
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &3677855646074419886
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 545465334711786164}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 16, y: 0, z: 10}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1425907247033739355}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &6879792510551806775
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 545465334711786164}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -610550449, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_data:
-    guid: c9c8cee613e09b0469d5c2cf158ddbbc
-    guidHash: -626758507
-  m_talkData:
-    guid: 
-    guidHash: 0
-  m_entityDataOverride:
-    guid: 
-    guidHash: 0
-  m_requirements:
-    operation: 0
-    expression: '{0}'
-    values:
-      m_values: []
-  m_retryPolicy: 0
-  m_offset: {x: 0, y: 0, z: 0}
-  m_poof: 0
+  m_doppeled: 0
+  m_startingAge: 0
   references:
     version: 2
     RefIds: []
@@ -455,6 +329,8 @@ MonoBehaviour:
   m_retryPolicy: 0
   m_offset: {x: 0, y: 0, z: 0}
   m_poof: 0
+  m_doppeled: 0
+  m_startingAge: 0
   references:
     version: 2
     RefIds: []
@@ -519,70 +395,8 @@ MonoBehaviour:
   m_retryPolicy: 0
   m_offset: {x: 0, y: 0, z: 0}
   m_poof: 0
-  references:
-    version: 2
-    RefIds: []
---- !u!1 &1508288159951163981
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 3526478417063053684}
-  - component: {fileID: 5552638156120907373}
-  m_Layer: 0
-  m_Name: Relic_ArcadeTicket_Shim
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &3526478417063053684
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1508288159951163981}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 16, y: 0, z: 3.6}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1425907247033739355}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &5552638156120907373
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1508288159951163981}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -610550449, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_data:
-    guid: d890cc365da13cf45aeece00bad91c58
-    guidHash: -24302352
-  m_talkData:
-    guid: 
-    guidHash: 0
-  m_entityDataOverride:
-    guid: 
-    guidHash: 0
-  m_requirements:
-    operation: 0
-    expression: '{0}'
-    values:
-      m_values: []
-  m_retryPolicy: 0
-  m_offset: {x: 0, y: 0, z: 0}
-  m_poof: 0
+  m_doppeled: 0
+  m_startingAge: 0
   references:
     version: 2
     RefIds: []
@@ -647,6 +461,8 @@ MonoBehaviour:
   m_retryPolicy: 0
   m_offset: {x: 0, y: 0, z: 0}
   m_poof: 0
+  m_doppeled: 0
+  m_startingAge: 0
   references:
     version: 2
     RefIds: []
@@ -711,6 +527,8 @@ MonoBehaviour:
   m_retryPolicy: 0
   m_offset: {x: 0, y: 0, z: 0}
   m_poof: 0
+  m_doppeled: 0
+  m_startingAge: 0
   references:
     version: 2
     RefIds: []
@@ -775,6 +593,8 @@ MonoBehaviour:
   m_retryPolicy: 0
   m_offset: {x: 0, y: 0, z: 0}
   m_poof: 0
+  m_doppeled: 0
+  m_startingAge: 0
   references:
     version: 2
     RefIds: []
@@ -839,6 +659,8 @@ MonoBehaviour:
   m_retryPolicy: 0
   m_offset: {x: 0, y: 0, z: 0}
   m_poof: 0
+  m_doppeled: 0
+  m_startingAge: 0
   references:
     version: 2
     RefIds: []
@@ -903,6 +725,8 @@ MonoBehaviour:
   m_retryPolicy: 0
   m_offset: {x: 0, y: 0, z: 0}
   m_poof: 0
+  m_doppeled: 0
+  m_startingAge: 0
   references:
     version: 2
     RefIds: []
@@ -967,6 +791,8 @@ MonoBehaviour:
   m_retryPolicy: 0
   m_offset: {x: 0, y: 0, z: 0}
   m_poof: 0
+  m_doppeled: 0
+  m_startingAge: 0
   references:
     version: 2
     RefIds: []
@@ -1031,6 +857,8 @@ MonoBehaviour:
   m_retryPolicy: 0
   m_offset: {x: 0, y: 0, z: 0}
   m_poof: 0
+  m_doppeled: 0
+  m_startingAge: 0
   references:
     version: 2
     RefIds: []
@@ -1095,6 +923,8 @@ MonoBehaviour:
   m_retryPolicy: 0
   m_offset: {x: 0, y: 0, z: 0}
   m_poof: 0
+  m_doppeled: 0
+  m_startingAge: 0
   references:
     version: 2
     RefIds: []
@@ -1159,6 +989,8 @@ MonoBehaviour:
   m_retryPolicy: 0
   m_offset: {x: 0, y: 0, z: 0}
   m_poof: 0
+  m_doppeled: 0
+  m_startingAge: 0
   references:
     version: 2
     RefIds: []
@@ -1223,6 +1055,8 @@ MonoBehaviour:
   m_retryPolicy: 0
   m_offset: {x: 0, y: 0, z: 0}
   m_poof: 0
+  m_doppeled: 0
+  m_startingAge: 0
   references:
     version: 2
     RefIds: []
@@ -1287,6 +1121,8 @@ MonoBehaviour:
   m_retryPolicy: 0
   m_offset: {x: 0, y: 0, z: 0}
   m_poof: 0
+  m_doppeled: 0
+  m_startingAge: 0
   references:
     version: 2
     RefIds: []
@@ -1351,6 +1187,8 @@ MonoBehaviour:
   m_retryPolicy: 0
   m_offset: {x: 0, y: 0, z: 0}
   m_poof: 0
+  m_doppeled: 0
+  m_startingAge: 0
   references:
     version: 2
     RefIds: []
@@ -1415,6 +1253,8 @@ MonoBehaviour:
   m_retryPolicy: 0
   m_offset: {x: 0, y: 0, z: 0}
   m_poof: 0
+  m_doppeled: 0
+  m_startingAge: 0
   references:
     version: 2
     RefIds: []
@@ -1479,6 +1319,8 @@ MonoBehaviour:
   m_retryPolicy: 0
   m_offset: {x: 0, y: 0, z: 0}
   m_poof: 0
+  m_doppeled: 0
+  m_startingAge: 0
   references:
     version: 2
     RefIds: []
@@ -1543,70 +1385,8 @@ MonoBehaviour:
   m_retryPolicy: 0
   m_offset: {x: 0, y: 0, z: 0}
   m_poof: 0
-  references:
-    version: 2
-    RefIds: []
---- !u!1 &6766698279419353501
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 3647537426831063543}
-  - component: {fileID: 5431366262345608022}
-  m_Layer: 0
-  m_Name: Arcana_Trombone_Shim
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &3647537426831063543
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6766698279419353501}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.6, y: 0, z: 3.6}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1425907247033739355}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &5431366262345608022
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6766698279419353501}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -610550449, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_data:
-    guid: f1289ccf5bcd1a6439e0902e3197ff33
-    guidHash: -1048908607
-  m_talkData:
-    guid: 
-    guidHash: 0
-  m_entityDataOverride:
-    guid: 
-    guidHash: 0
-  m_requirements:
-    operation: 0
-    expression: '{0}'
-    values:
-      m_values: []
-  m_retryPolicy: 0
-  m_offset: {x: 0, y: 0, z: 0}
-  m_poof: 0
+  m_doppeled: 0
+  m_startingAge: 0
   references:
     version: 2
     RefIds: []
@@ -1671,6 +1451,8 @@ MonoBehaviour:
   m_retryPolicy: 0
   m_offset: {x: 0, y: 0, z: 0}
   m_poof: 0
+  m_doppeled: 0
+  m_startingAge: 0
   references:
     version: 2
     RefIds: []
@@ -1735,6 +1517,8 @@ MonoBehaviour:
   m_retryPolicy: 0
   m_offset: {x: 0, y: 0, z: 0}
   m_poof: 0
+  m_doppeled: 0
+  m_startingAge: 0
   references:
     version: 2
     RefIds: []
@@ -1799,6 +1583,8 @@ MonoBehaviour:
   m_retryPolicy: 0
   m_offset: {x: 0, y: 0, z: 0}
   m_poof: 0
+  m_doppeled: 0
+  m_startingAge: 0
   references:
     version: 2
     RefIds: []
@@ -1841,8 +1627,6 @@ Transform:
   - {fileID: 2780476187113887842}
   - {fileID: 4364668481911489885}
   - {fileID: 7580260987295344953}
-  - {fileID: 1588478272732963415}
-  - {fileID: 3677855646074419886}
   - {fileID: 262377301443950875}
   - {fileID: 7849143480851149176}
   - {fileID: 2674470770754770295}
@@ -1851,10 +1635,8 @@ Transform:
   - {fileID: 5686525486914870678}
   - {fileID: 799538594406907527}
   - {fileID: 8994914259579709155}
-  - {fileID: 3647537426831063543}
   - {fileID: 2570190188814428840}
   - {fileID: 6400749638467268729}
-  - {fileID: 3526478417063053684}
   - {fileID: 9065449654140437173}
   - {fileID: 6373681579272630508}
   - {fileID: 6827896191939608206}
@@ -1892,6 +1674,7 @@ MonoBehaviour:
     guid: 
     guidHash: 0
   m_showRoomPreview: 1
+  m_suppressSpawnAnimation: 0
   m_extraWeight: 1
   m_isHidden: 0
   m_isSafeSpace: 1
@@ -1900,6 +1683,7 @@ MonoBehaviour:
   m_popcapMultiplier: 1
   m_frequency: 0
   m_spawnPosition: {x: 0, y: 0, z: 0}
+  m_cameraBias: {x: 0, y: 0, z: 0}
   m_tags:
     m_tags:
       m_values:
@@ -2036,6 +1820,8 @@ MonoBehaviour:
   m_retryPolicy: 0
   m_offset: {x: 0, y: 0, z: 0}
   m_poof: 0
+  m_doppeled: 0
+  m_startingAge: 0
   references:
     version: 2
     RefIds: []
@@ -2100,6 +1886,8 @@ MonoBehaviour:
   m_retryPolicy: 0
   m_offset: {x: 0, y: 0, z: 0}
   m_poof: 0
+  m_doppeled: 0
+  m_startingAge: 0
   references:
     version: 2
     RefIds: []
@@ -2164,6 +1952,8 @@ MonoBehaviour:
   m_retryPolicy: 0
   m_offset: {x: 0, y: 0, z: 0}
   m_poof: 0
+  m_doppeled: 0
+  m_startingAge: 0
   references:
     version: 2
     RefIds: []

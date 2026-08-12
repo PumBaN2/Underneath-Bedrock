@@ -1006,6 +1006,72 @@ MonoBehaviour:
   references:
     version: 2
     RefIds: []
+--- !u!1 &2304995490006268817
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6150215713617909563}
+  - component: {fileID: 5644419178387444990}
+  m_Layer: 0
+  m_Name: StatusEffect_FrozenOver_Shim
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6150215713617909563
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2304995490006268817}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -6.88, y: 0, z: -4.43}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1425907247033739355}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5644419178387444990
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2304995490006268817}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -610550449, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_data:
+    guid: 40c375c39aa7d564597108763c874f7d
+    guidHash: 626498276
+  m_talkData:
+    guid: 
+    guidHash: 0
+  m_entityDataOverride:
+    guid: 
+    guidHash: 0
+  m_requirements:
+    operation: 0
+    expression: '{0}'
+    values:
+      m_values: []
+  m_retryPolicy: 0
+  m_offset: {x: 0, y: 0, z: 0}
+  m_poof: 0
+  m_doppeled: 0
+  m_startingAge: 0
+  references:
+    version: 2
+    RefIds: []
 --- !u!1 &2359679559482757052
 GameObject:
   m_ObjectHideFlags: 0
@@ -1383,6 +1449,138 @@ MonoBehaviour:
   m_data:
     guid: 9545f8e26106eac438bacd03c69cbdfe
     guidHash: 1944574682
+  m_talkData:
+    guid: 
+    guidHash: 0
+  m_entityDataOverride:
+    guid: 
+    guidHash: 0
+  m_requirements:
+    operation: 0
+    expression: '{0}'
+    values:
+      m_values: []
+  m_retryPolicy: 0
+  m_offset: {x: 0, y: 0, z: 0}
+  m_poof: 0
+  m_doppeled: 0
+  m_startingAge: 0
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &3690208287350692582
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4232982323839040936}
+  - component: {fileID: 711178445225876592}
+  m_Layer: 0
+  m_Name: Chest_FrozenIced_Shim_01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4232982323839040936
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3690208287350692582}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -8.8, y: 0, z: -0.8}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1425907247033739355}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &711178445225876592
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3690208287350692582}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -610550449, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_data:
+    guid: 3ce99fb3e0256ac4aa631847603e5ded
+    guidHash: 950575751
+  m_talkData:
+    guid: 
+    guidHash: 0
+  m_entityDataOverride:
+    guid: 
+    guidHash: 0
+  m_requirements:
+    operation: 0
+    expression: '{0}'
+    values:
+      m_values: []
+  m_retryPolicy: 0
+  m_offset: {x: 0, y: 0, z: 0}
+  m_poof: 0
+  m_doppeled: 0
+  m_startingAge: 0
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &3763057134334882363
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7613138360401429110}
+  - component: {fileID: 5900008415160925193}
+  m_Layer: 0
+  m_Name: Chest_FrozenIced_Shim
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7613138360401429110
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3763057134334882363}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -12, y: 0, z: -0.8}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1425907247033739355}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5900008415160925193
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3763057134334882363}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -610550449, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_data:
+    guid: 3ce99fb3e0256ac4aa631847603e5ded
+    guidHash: 950575751
   m_talkData:
     guid: 
     guidHash: 0
@@ -1864,6 +2062,72 @@ MonoBehaviour:
   references:
     version: 2
     RefIds: []
+--- !u!1 &4934351508975474617
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5729892597463291286}
+  - component: {fileID: 2209143417961918664}
+  m_Layer: 0
+  m_Name: Arcana_Pyrogrimoire_Shim
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5729892597463291286
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934351508975474617}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -4.98, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1425907247033739355}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2209143417961918664
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4934351508975474617}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -610550449, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_data:
+    guid: d0313b0136b963a45a1ba25725d20f17
+    guidHash: 2093149531
+  m_talkData:
+    guid: 
+    guidHash: 0
+  m_entityDataOverride:
+    guid: 
+    guidHash: 0
+  m_requirements:
+    operation: 0
+    expression: '{0}'
+    values:
+      m_values: []
+  m_retryPolicy: 0
+  m_offset: {x: 0, y: 0, z: 0}
+  m_poof: 0
+  m_doppeled: 0
+  m_startingAge: 0
+  references:
+    version: 2
+    RefIds: []
 --- !u!1 &5222704760836876871
 GameObject:
   m_ObjectHideFlags: 0
@@ -2109,6 +2373,72 @@ MonoBehaviour:
   m_data:
     guid: 1e595573b5026a04eb192d82b8e8411b
     guidHash: 970096010
+  m_talkData:
+    guid: 
+    guidHash: 0
+  m_entityDataOverride:
+    guid: 
+    guidHash: 0
+  m_requirements:
+    operation: 0
+    expression: '{0}'
+    values:
+      m_values: []
+  m_retryPolicy: 0
+  m_offset: {x: 0, y: 0, z: 0}
+  m_poof: 0
+  m_doppeled: 0
+  m_startingAge: 0
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &6417705323122010551
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1144622294235962729}
+  - component: {fileID: 6521729054027465587}
+  m_Layer: 0
+  m_Name: Chest_Frozen_Shim
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1144622294235962729
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6417705323122010551}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -12, y: 0, z: 2.4}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1425907247033739355}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6521729054027465587
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6417705323122010551}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -610550449, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_data:
+    guid: 259ebf2eec0e3ac41b1e1ce3b6ac502e
+    guidHash: 2103853317
   m_talkData:
     guid: 
     guidHash: 0
@@ -2851,6 +3181,12 @@ Transform:
   - {fileID: 3041472867342524464}
   - {fileID: 5279622523746463562}
   - {fileID: 5039875351059244293}
+  - {fileID: 1144622294235962729}
+  - {fileID: 6696718724118479617}
+  - {fileID: 7613138360401429110}
+  - {fileID: 4232982323839040936}
+  - {fileID: 5729892597463291286}
+  - {fileID: 6150215713617909563}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &4158576461438857951
@@ -3212,6 +3548,72 @@ MonoBehaviour:
   m_data:
     guid: 049701d821d72b5498b488041a59db06
     guidHash: -1728501783
+  m_talkData:
+    guid: 
+    guidHash: 0
+  m_entityDataOverride:
+    guid: 
+    guidHash: 0
+  m_requirements:
+    operation: 0
+    expression: '{0}'
+    values:
+      m_values: []
+  m_retryPolicy: 0
+  m_offset: {x: 0, y: 0, z: 0}
+  m_poof: 0
+  m_doppeled: 0
+  m_startingAge: 0
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &8595972346890609628
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6696718724118479617}
+  - component: {fileID: 5193804590823797532}
+  m_Layer: 0
+  m_Name: Chest_Frozen_Shim_01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6696718724118479617
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8595972346890609628}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -8.8, y: 0, z: 2.4}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1425907247033739355}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5193804590823797532
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8595972346890609628}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -610550449, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_data:
+    guid: 259ebf2eec0e3ac41b1e1ce3b6ac502e
+    guidHash: 2103853317
   m_talkData:
     guid: 
     guidHash: 0
