@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -143053857, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Common_Fan
+  m_EditorClassIdentifier: 
+  m_guid: 5dc45506b720481b9663b74f64a3c3c0
+  m_guidHash: -1492319436
+  m_properties:
+    icons:
+      m_sprites:
+      - {fileID: 6247923054290574484, guid: 8e3ea0e3d110de248bb68253cf9d7bd3, type: 3}
+      - {fileID: 0}
+      - {fileID: 0}
+    displayName:
+      m_id: -2053337152
+    description:
+      m_id: 1744708490
+    flavor:
+      m_id: 0
+    color:
+      guid: 
+      guidHash: 0
+    palette:
+      guid: 
+      guidHash: 0
+    tags:
+      m_tags:
+        m_values:
+        - guid: 06ea209540120a44abfb8b5558922be7
+          guidHash: 1153590675
+        - guid: e2811021f5c8a244e9e598052457032c
+          guidHash: 1966562525
+        - guid: 479db49c7bff1ed42a0c257ba6aa6322
+          guidHash: -1875801177

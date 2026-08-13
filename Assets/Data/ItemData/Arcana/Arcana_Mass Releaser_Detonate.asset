@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8966594037810181363
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1370092402, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: CommonModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_commonProperties:
+    common:
+      guid: debbdfed32fe5f847b22855f06199579
+      guidHash: -51340298
+    properties:
+      icons:
+        m_sprites:
+        - {fileID: 0}
+        - {fileID: 0}
+        - {fileID: 0}
+      displayName:
+        m_id: 0
+      description:
+        m_id: 0
+      flavor:
+        m_id: 0
+      color:
+        guid: 
+        guidHash: 0
+      palette:
+        guid: 
+        guidHash: 0
+      tags:
+        m_tags:
+          m_values: []
+--- !u!114 &-7914835634620944695
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 502712824, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: RequirementModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_alwaysFail: 1
+  m_requirements:
+    operation: 0
+    expression: '{0}'
+    values:
+      m_values: []
+  m_description:
+    m_id: 0
+  references:
+    version: 2
+    RefIds: []
+--- !u!114 &-7218346434495961585
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1504850968, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: UIModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_showInJournal: 0
+  m_sortIndex: 0
+  m_icon: {fileID: 0}
+  m_maskShape: 0
+  m_mask: {fileID: 0}
+  m_animationSource: 0
+  m_animation:
+    m_values: []
+  m_fps: 0
+  m_iconPivot: {x: 0, y: 0}
+--- !u!114 &-5669003788065558184
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -6582100, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: SaveLoadModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_autosave: 1
+  m_loadPriority: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1719053581, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Arcana_Mass Releaser_Detonate
+  m_EditorClassIdentifier: 
+  m_guid: 30b706880bcb4291bd7ee65ab934415c
+  m_guidHash: -695634635
+  m_commonModule: {fileID: -8966594037810181363}
+  m_tagModule: {fileID: 0}
+  m_behaviorModule: {fileID: 0}
+  m_itemModule: {fileID: 0}
+  m_costModule: {fileID: 0}
+  m_miniMapModule: {fileID: 0}
+  m_swapModule: {fileID: 0}
+  m_shadowModule: {fileID: 0}
+  m_requirementModule: {fileID: -7914835634620944695}
+  m_itemAnimationModule: {fileID: 0}
+  m_itemDeathModule: {fileID: 0}
+  m_uiModule: {fileID: -7218346434495961585}
+  m_activationModule: {fileID: 1128617854991332016}
+  m_saveLoadModule: {fileID: -5669003788065558184}
+--- !u!114 &1128617854991332016
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359394656, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: ActivationModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_activationAbility:
+    guid: bdb93a9b8b636da469fea65529bd68fe
+    guidHash: -815378389
+  m_ability:
+    guid: 3be3ecb156098f640a8a46fd1b9b94c3
+    guidHash: 828237693
+  m_pairedItem:
+    guid: 8a3125ea779979d419702cb96c2f8a28
+    guidHash: -890332131
+  m_cooldown: 0

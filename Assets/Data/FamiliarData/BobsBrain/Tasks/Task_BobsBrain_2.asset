@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1049800828, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Task_BobsBrain_2
+  m_EditorClassIdentifier: 
+  m_guid: 8c5f1f1159c947ce88346845c9fa8295
+  m_guidHash: -301974197
+  m_abilityStatusEffect:
+    guid: c6602d223f8c96047949db22c282e78c
+    guidHash: 1605339631
+  m_taskStatusEffect:
+    guid: 6bc03918a46446f428f7f76870a6a1c7
+    guidHash: 1845684683
+  m_taskThreshold: 8
+  m_taskRepeatable: 0
+  m_showTaskProgress: 1

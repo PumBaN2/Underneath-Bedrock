@@ -1,0 +1,247 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 907538420, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Clip_MassReleaser
+  m_EditorClassIdentifier: 
+  m_guid: 4ce6cb23bf964035a8ced40e5f2e6883
+  m_guidHash: 1896094614
+  m_type: 0
+  m_loop: 0
+  m_loopIndex: 0
+  m_color: {r: 1, g: 1, b: 1, a: 1}
+  m_texture: {fileID: 0}
+  m_strength: 0
+  m_length: 21
+  m_sprites:
+    m_sprites:
+    - {fileID: 21300000, guid: 603f23f29a02a0c4eb7c68b150659f11, type: 3}
+    - {fileID: 21300000, guid: 826aa689a5fec1e4bac7fd29e4be904c, type: 3}
+    - {fileID: 21300000, guid: 7d93f478917154a449f93f1d6bad93fa, type: 3}
+    - {fileID: 21300000, guid: 309bbc41d2fbe924cbf1df0f3689127d, type: 3}
+    - {fileID: 21300000, guid: db0e15990e99a714bbb28b4ef707dc4c, type: 3}
+    - {fileID: 21300000, guid: 783eb57cc247dcd499f279dea17a742c, type: 3}
+    - {fileID: 21300000, guid: 011102ac4496ce74381b691ce251cdf9, type: 3}
+    - {fileID: 21300000, guid: 76fb01685dd6da84ba2bb57f1991c82b, type: 3}
+    - {fileID: 21300000, guid: 89ea72b4198ce4a44ac77dee0f578494, type: 3}
+    - {fileID: 21300000, guid: 2f5f51fab3b357340a5b5f14b433c1c8, type: 3}
+    - {fileID: 21300000, guid: 347726661f5da374ab62bbdb33f5f44f, type: 3}
+    - {fileID: 21300000, guid: f0568d59ad2c3ad41a1c913616ea7288, type: 3}
+    - {fileID: 21300000, guid: 38166e764fa76d74eb7393c5f688e07f, type: 3}
+    - {fileID: 21300000, guid: cc351645879909e4c82c928b755d5590, type: 3}
+    - {fileID: 21300000, guid: 0d17354be8586324f8a88c5a7c10c31f, type: 3}
+    - {fileID: 21300000, guid: e60dfcd40eae295438d71657858b10fb, type: 3}
+    - {fileID: 21300000, guid: d521817ca72e2684fbffdcfacd4f2569, type: 3}
+    - {fileID: 21300000, guid: 85602809ee8713c48a3a9cb697ebc7f7, type: 3}
+    - {fileID: 21300000, guid: 7e252e967ee571446aeae95936dfdf1e, type: 3}
+    - {fileID: 21300000, guid: 75ecfcdfe09ffa7499881fa2f60efe3d, type: 3}
+    - {fileID: 21300000, guid: f06404ae90d7112469d42fc1c902ce9b, type: 3}
+  m_exitEvent: 
+  m_animateColor: 0
+  m_colorAnimation: 0
+  m_gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_ColorSpace: -1
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+  m_animatePosition: 0
+  m_positionCurveX:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  m_positionCurveXMultiplier: 1
+  m_positionCurveZ:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  m_positionCurveZMultiplier: 1
+  m_animateScale: 0
+  m_scaleCurveX:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  m_scaleCurveXMultiplier: 1
+  m_scaleCurveZ:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  m_scaleCurveZMultiplier: 1
+  m_animateRotation: 0
+  m_rotationType: 0
+  m_rotationSpeed: 0
+  m_rotateAround: 0
+  m_rotationAmount: 0
+  m_rotationCurveY:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  m_rotationCurveYMultiplier: 0
+  m_resetRotationOnComplete: 1
+  m_animateShadowScale: 0
+  m_shadowScaleCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  m_syncShadow: 0
+  m_events:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_secondaryEvents:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_emitterStates: 000000000000000000000000000000000000000000

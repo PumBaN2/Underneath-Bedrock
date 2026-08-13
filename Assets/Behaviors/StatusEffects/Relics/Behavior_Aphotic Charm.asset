@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 173507967, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Behavior_Aphotic Charm
+  m_EditorClassIdentifier: 
+  _serializedGraph: '{"type":"Thor.Core.ExtendedBehaviorTree","nodes":[{"_position":{"x":889.0,"y":584.0},"$type":"NodeCanvas.BehaviourTrees.Sequencer","$id":"0"},{"_action":{"m_data":{"target":{"_name":"Owner","_targetVariableID":"ebbe98d6-150b-4b76-b084-8ca1727b07af"},"source":{"_name":"Self","_targetVariableID":"6c0a08eb-af1c-4e72-9065-6fe42b22d328"},"tags":{"m_tags":{"m_values":[]}},"dataLookup":{"m_data":{"guid":"85059aa095d998f469519e19cb7b823d","guidHash":1629356849},"m_target":{"_name":"Self","_targetVariableID":"6c0a08eb-af1c-4e72-9065-6fe42b22d328"},"m_key":{},"m_variable":{}},"guid":"17afe859e8284748","op":{"name":"+=","hash":502129286},"propertyValueData":{"type":1,"target":{"_name":"Owner","_targetVariableID":"ebbe98d6-150b-4b76-b084-8ca1727b07af"},"property":{"guid":"34a85d7ab340c5e4ebab5ba4383ef3cf","guidHash":-1812389888},"lookupKey":{"_value":""},"op":{"name":"*","hash":372029320},"value":{},"operand":{"_value":1.25}},"removeOnComplete":true},"$type":"Thor.Core.AddModifier"},"_position":{"x":678.0278,"y":757.344},"$type":"NodeCanvas.BehaviourTrees.ActionNode","$id":"1"},{"m_target":{"_name":"Owner","_targetVariableID":"ebbe98d6-150b-4b76-b084-8ca1727b07af"},"m_property":{"guid":"34a85d7ab340c5e4ebab5ba4383ef3cf","guidHash":-1812389888},"m_timeout":{},"m_endOnFailure":{},"m_endOnSuccess":{},"m_runOnceOnStartup":{},"_position":{"x":986.0278,"y":771.344},"$type":"Thor.Core.WaitForPropertyChange","$id":"2"},{"_action":{"m_data":{"target":{"_name":"Owner","_targetVariableID":"ebbe98d6-150b-4b76-b084-8ca1727b07af"},"source":{"_name":"Self","_targetVariableID":"6c0a08eb-af1c-4e72-9065-6fe42b22d328"},"tags":{"m_tags":{"m_values":[]}},"dataLookup":{"m_data":{"guid":"85059aa095d998f469519e19cb7b823d","guidHash":1629356849},"m_target":{"_name":"Self","_targetVariableID":"6c0a08eb-af1c-4e72-9065-6fe42b22d328"},"m_key":{},"m_variable":{}},"guid":"17afe859e8284748","op":{"name":"+=","hash":502129286},"propertyValueData":{"type":1,"target":{"_name":"Owner","_targetVariableID":"ebbe98d6-150b-4b76-b084-8ca1727b07af"},"property":{"guid":"34a85d7ab340c5e4ebab5ba4383ef3cf","guidHash":-1812389888},"lookupKey":{"_value":""},"op":{"name":"*","hash":372029320},"value":{},"operand":{"_value":1.25}},"removeOnComplete":true},"$type":"Thor.Core.AddModifier"},"_position":{"x":953.0278,"y":938.344},"$type":"NodeCanvas.BehaviourTrees.ActionNode","$id":"3"}],"connections":[{"_sourceNode":{"$ref":"0"},"_targetNode":{"$ref":"1"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"0"},"_targetNode":{"$ref":"2"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"2"},"_targetNode":{"$ref":"3"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"}],"canvasGroups":[],"localBlackboard":{"_variables":{"Self":{"_value":{},"_name":"Self","_id":"6c0a08eb-af1c-4e72-9065-6fe42b22d328","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Owner":{"_value":{},"_name":"Owner","_id":"ebbe98d6-150b-4b76-b084-8ca1727b07af","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Root":{"_value":{},"_name":"Root","_id":"526435dc-4821-47f4-9e1c-4201d14caa60","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Target":{"_value":{},"_name":"Target","_id":"534ce4ed-eb2f-432d-bdde-54c5c6a20348","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Targets":{"_value":{},"_name":"Targets","_id":"ae60ece3-a9c1-4e55-b6f0-251b234a5adc","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRefList,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Iterator":{"_value":{},"_name":"Iterator","_id":"68be15ad-0416-4683-815d-c925a6272d3c","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Source":{"_value":{},"_name":"Source","_id":"795b224f-b7ea-48c2-9c02-21c3c536ef8d","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Level":{"_name":"Level","_id":"de43cc3d-039d-454f-9e87-25c59fbfaa7f","$type":"NodeCanvas.Framework.Variable`1[[System.Single,
+    mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"}}},"derivedData":{"autoVariables":{"m_values":[]},"$type":"Thor.Core.ExtendedBehaviorTree+DerivedSerializationData"}}'
+  _objectReferences: []
+  _graphSource:
+    _version: 3.3
+    _category: 
+    _comments: 
+    _translation: {x: -3, y: -149}
+    _zoomFactor: 1
+  _haltSerialization: 0
+  _externalSerializationFile: {fileID: 0}
+  m_preProcess: 0
+  m_processOnEnable: 0
+  m_uninterruptible: 0
+  m_proxy: 0
+  m_autoVariables:
+    m_values: []

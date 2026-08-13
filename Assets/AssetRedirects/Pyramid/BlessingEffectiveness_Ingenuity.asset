@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1987265830, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: BlessingEffectiveness_Ingenuity
+  m_EditorClassIdentifier: 
+  m_guid: 5370dc1824b34c54b963552e453d0db5
+  m_guidHash: -1267176040
+  m_commonModule: {fileID: 0}
+  m_comments: 
+  m_type: 1
+  m_inspectorHint: 0
+  m_group: 1
+  m_dependencies:
+    m_values: []
+  m_dependents:
+    m_values: []
+  m_externalDefault: 0
+  m_defaultProvider: 
+  m_default: 3
+  m_min: 0
+  m_max: 99
+  m_round: 0
+  m_categories:
+    m_values: []

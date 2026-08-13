@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 173507967, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Behavior_Regeneration
+  m_EditorClassIdentifier: 
+  _serializedGraph: '{"type":"Thor.Core.ExtendedBehaviorTree","nodes":[{"m_message":{"_value":"pathfind"},"m_sourceOutput":{"_name":""},"m_author":{"_name":"Owner","_targetVariableID":"ebbe98d6-150b-4b76-b084-8ca1727b07af"},"m_timeout":{},"m_endOnSuccess":{},"m_endOnFailure":{},"m_endOnInvalidAuthor":{},"m_runOnceOnStartup":{},"m_flushEvents":{"_value":true},"_position":{"x":365.0,"y":702.0},"$type":"Thor.Core.WaitForCustomEvent","$id":"0"},{"_position":{"x":400.0,"y":853.0},"$type":"NodeCanvas.BehaviourTrees.Sequencer","$id":"1"},{"_action":{"m_min":{"target":{"_name":"Owner","_targetVariableID":"ebbe98d6-150b-4b76-b084-8ca1727b07af"},"property":{"guid":""},"lookupKey":{"_value":""},"value":{},"operand":{}},"m_max":{"target":{"_name":"Owner","_targetVariableID":"ebbe98d6-150b-4b76-b084-8ca1727b07af"},"property":{"guid":""},"lookupKey":{"_value":""},"value":{"_value":0.5},"operand":{}},"m_output":{"_name":"Delay","_targetVariableID":"598b2cc3-037e-4ac6-afbf-c78069a01adf"},"$type":"Thor.Core.GetRandomFloat"},"_position":{"x":303.0,"y":943.0},"$type":"NodeCanvas.BehaviourTrees.ActionNode","$id":"2"},{"_action":{"m_target":{"_name":"Owner","_targetVariableID":"ebbe98d6-150b-4b76-b084-8ca1727b07af"},"m_source":{"_name":"Self","_targetVariableID":"6c0a08eb-af1c-4e72-9065-6fe42b22d328"},"m_changeResourceData":{"transactionType":1,"category":1,"resource":{"m_data":{"guid":"86194e7362b54534eb1fbb29287b2b0a","guidHash":-1869780405},"m_target":{"_name":"Self","_targetVariableID":"6c0a08eb-af1c-4e72-9065-6fe42b22d328"},"m_key":{},"m_variable":{}},"attribute":{"m_data":{},"m_target":{"_name":"Self","_targetVariableID":"6c0a08eb-af1c-4e72-9065-6fe42b22d328"},"m_key":{},"m_variable":{}},"combatant":{"_name":"Owner","_targetVariableID":"ebbe98d6-150b-4b76-b084-8ca1727b07af"},"canCrit":{},"direct":{},"variance":{"_value":true},"ignoreGracePeriod":{},"gracePeriod":{},"gracePeriodGUID":{"m_guid":"a4e2c159b40c4f62ac11ede19865181a","m_hash":40561855}},"m_propertyValueData":{"target":{"_name":"Root","_targetVariableID":"526435dc-4821-47f4-9e1c-4201d14caa60"},"property":{"guid":""},"lookupKey":{"_value":""},"op":{"name":"*","hash":372029320},"value":{"_value":1.0},"operand":{"_name":"Level","_targetVariableID":"e84ebe26-ba42-4f0d-bceb-dac15cbd0ba5"}},"m_position":{"_value":{"entity":{"_name":"Target","_targetVariableID":"534ce4ed-eb2f-432d-bdde-54c5c6a20348"},"directionContext":{"_name":"Self","_targetVariableID":"6c0a08eb-af1c-4e72-9065-6fe42b22d328"},"target":{},"scale":{"_value":1.0},"offset":{},"marker":{},"visual":{},"flatten":{},"constrain":{},"gridData":{},"walkableFor":{"_name":""},"walkableForData":{},"variance":{"random":{},"value":{"target":{"_name":"Owner","_targetVariableID":"ebbe98d6-150b-4b76-b084-8ca1727b07af"},"property":{},"lookupKey":{},"value":{},"operand":{}},"min":{"target":{"_name":"Owner","_targetVariableID":"ebbe98d6-150b-4b76-b084-8ca1727b07af"},"property":{},"lookupKey":{},"value":{},"operand":{}},"max":{"target":{"_name":"Owner","_targetVariableID":"ebbe98d6-150b-4b76-b084-8ca1727b07af"},"property":{},"lookupKey":{},"value":{},"operand":{}}}}},"m_tags":{"m_tags":{"m_values":[{"guid":"b5a5ce04f5827ad4fbaa00c6428b9d45","guidHash":-162146121}]}},"m_delay":{"_name":"Delay","_targetVariableID":"598b2cc3-037e-4ac6-afbf-c78069a01adf"},"m_showDrop":{},"$type":"Thor.Core.ChangeResource"},"_position":{"x":440.0,"y":939.0},"$type":"NodeCanvas.BehaviourTrees.ActionNode","$id":"3"},{"_action":{"m_target":{"_name":"Self","_targetVariableID":"6c0a08eb-af1c-4e72-9065-6fe42b22d328"},"m_showKicker":{},"$type":"Thor.Core.Proc"},"_position":{"x":623.0,"y":942.0},"$type":"NodeCanvas.BehaviourTrees.ActionNode","$id":"4"}],"connections":[{"_sourceNode":{"$ref":"0"},"_targetNode":{"$ref":"1"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"1"},"_targetNode":{"$ref":"2"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"1"},"_targetNode":{"$ref":"3"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"1"},"_targetNode":{"$ref":"4"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"}],"canvasGroups":[],"localBlackboard":{"_variables":{"Self":{"_value":{},"_name":"Self","_id":"6c0a08eb-af1c-4e72-9065-6fe42b22d328","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Owner":{"_value":{},"_name":"Owner","_id":"ebbe98d6-150b-4b76-b084-8ca1727b07af","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Root":{"_value":{},"_name":"Root","_id":"526435dc-4821-47f4-9e1c-4201d14caa60","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Target":{"_value":{},"_name":"Target","_id":"534ce4ed-eb2f-432d-bdde-54c5c6a20348","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Targets":{"_value":{},"_name":"Targets","_id":"ae60ece3-a9c1-4e55-b6f0-251b234a5adc","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRefList,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Iterator":{"_value":{},"_name":"Iterator","_id":"3a680919-54dc-4050-bd99-83bc03502f00","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Source":{"_value":{},"_name":"Source","_id":"9e6bbfe8-d83b-49c7-9fe5-f0de320274c1","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Level":{"_value":1.0,"_name":"Level","_id":"e84ebe26-ba42-4f0d-bceb-dac15cbd0ba5","$type":"NodeCanvas.Framework.Variable`1[[System.Single,
+    mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"},"Delay":{"_name":"Delay","_id":"598b2cc3-037e-4ac6-afbf-c78069a01adf","$type":"NodeCanvas.Framework.Variable`1[[System.Single,
+    mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"}}},"derivedData":{"autoVariables":{"m_values":[]},"$type":"Thor.Core.ExtendedBehaviorTree+DerivedSerializationData"}}'
+  _objectReferences: []
+  _graphSource:
+    _version: 3.3
+    _category: 
+    _comments: 
+    _translation: {x: 135, y: -228}
+    _zoomFactor: 1
+  _haltSerialization: 0
+  _externalSerializationFile: {fileID: 0}
+  m_preProcess: 0
+  m_processOnEnable: 0
+  m_uninterruptible: 0
+  m_proxy: 0
+  m_autoVariables:
+    m_values: []

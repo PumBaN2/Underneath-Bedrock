@@ -1,0 +1,1179 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 825131332, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: LootTable_Relic_Shop_Common_Mod
+  m_EditorClassIdentifier: 
+  m_guid: 988768e129f24718b1a37515f8bd089c
+  m_guidHash: 1256078296
+  m_stabilizeResults: 0
+  m_locked: 0
+  m_dataStoreKey: 
+  m_fallback:
+    guid: 
+    guidHash: 0
+  m_comments: 
+  m_reRollTags:
+    m_values: []
+  m_spawnTables:
+    m_values:
+    - count:
+        min: 1
+        max: 1
+      percent: 0
+      requirements:
+        operation: 0
+        expression: 
+        values:
+          m_values: []
+      spawnables:
+        m_values:
+        - weight:
+            m_weight: 1
+            m_luck:
+              m_type: 0
+              m_max: 0
+            m_requirements:
+              operation: 0
+              expression: 
+              values:
+                m_values: []
+            m_passAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            m_failAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            serialized: 1
+          spawnable:
+            guid: 478c2f3c92e7b744e852834c1214f4a6
+            guidHash: -1436271211
+        - weight:
+            m_weight: 0
+            m_luck:
+              m_type: 0
+              m_max: 0
+            m_requirements:
+              operation: 0
+              expression: 
+              values:
+                m_values: []
+            m_passAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            m_failAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            serialized: 1
+          spawnable:
+            guid: 5998351b3ebed534090c6443c2ce7de8
+            guidHash: -969933903
+        - weight:
+            m_weight: 1
+            m_luck:
+              m_type: 0
+              m_max: 0
+            m_requirements:
+              operation: 0
+              expression: 
+              values:
+                m_values: []
+            m_passAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            m_failAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            serialized: 1
+          spawnable:
+            guid: 72ec2b28adfeabb4599c7a6c015ecac4
+            guidHash: -1228529509
+        - weight:
+            m_weight: 1
+            m_luck:
+              m_type: 0
+              m_max: 0
+            m_requirements:
+              operation: 0
+              expression: 
+              values:
+                m_values: []
+            m_passAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            m_failAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            serialized: 1
+          spawnable:
+            guid: 5917f3fb12e61a64cac42c0a5e0a5f86
+            guidHash: -162289024
+        - weight:
+            m_weight: 1
+            m_luck:
+              m_type: 0
+              m_max: 0
+            m_requirements:
+              operation: 0
+              expression: 
+              values:
+                m_values: []
+            m_passAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            m_failAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            serialized: 1
+          spawnable:
+            guid: 26dbc40690206a04dae8cea3dde3af1a
+            guidHash: -630767972
+        - weight:
+            m_weight: 1
+            m_luck:
+              m_type: 0
+              m_max: 0
+            m_requirements:
+              operation: 0
+              expression: 
+              values:
+                m_values: []
+            m_passAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            m_failAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            serialized: 1
+          spawnable:
+            guid: 5c8e06d953e4e954fa46ba35fa0e3174
+            guidHash: 546018113
+        - weight:
+            m_weight: 1
+            m_luck:
+              m_type: 0
+              m_max: 0
+            m_requirements:
+              operation: 0
+              expression: 
+              values:
+                m_values: []
+            m_passAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            m_failAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            serialized: 1
+          spawnable:
+            guid: 16f2854688dcd974f9be759c0ed53b6f
+            guidHash: -887780228
+        - weight:
+            m_weight: 1
+            m_luck:
+              m_type: 0
+              m_max: 0
+            m_requirements:
+              operation: 0
+              expression: 
+              values:
+                m_values: []
+            m_passAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            m_failAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            serialized: 1
+          spawnable:
+            guid: 47a1d154948a12446a44530a09395827
+            guidHash: 1394672151
+        - weight:
+            m_weight: 1
+            m_luck:
+              m_type: 0
+              m_max: 0
+            m_requirements:
+              operation: 0
+              expression: 
+              values:
+                m_values: []
+            m_passAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            m_failAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            serialized: 1
+          spawnable:
+            guid: b6fa416183bd39c46916234e8b35c393
+            guidHash: 1523349687
+        - weight:
+            m_weight: 1
+            m_luck:
+              m_type: 0
+              m_max: 0
+            m_requirements:
+              operation: 0
+              expression: 
+              values:
+                m_values: []
+            m_passAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            m_failAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            serialized: 1
+          spawnable:
+            guid: a884871b0e54d16419ded332dad03f2f
+            guidHash: 935902069
+        - weight:
+            m_weight: 1
+            m_luck:
+              m_type: 0
+              m_max: 0
+            m_requirements:
+              operation: 0
+              expression: 
+              values:
+                m_values: []
+            m_passAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            m_failAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            serialized: 1
+          spawnable:
+            guid: 67df7ccb2f0e47c4bab305dbeec0f863
+            guidHash: -114799078
+        - weight:
+            m_weight: 1
+            m_luck:
+              m_type: 0
+              m_max: 0
+            m_requirements:
+              operation: 0
+              expression: 
+              values:
+                m_values:
+                - negate: 0
+                  type: 3
+                  check:
+                    rid: 6008179410516836739
+            m_passAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            m_failAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            serialized: 1
+          spawnable:
+            guid: 869d04b03ede27f4799a1bbfb70c6859
+            guidHash: 1437523030
+        - weight:
+            m_weight: 1
+            m_luck:
+              m_type: 0
+              m_max: 0
+            m_requirements:
+              operation: 0
+              expression: 
+              values:
+                m_values:
+                - negate: 0
+                  type: 3
+                  check:
+                    rid: 6008179410516836740
+            m_passAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            m_failAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            serialized: 1
+          spawnable:
+            guid: 3794c25cdb17f4f4a8831d29d4512db3
+            guidHash: 1864071509
+        - weight:
+            m_weight: 1
+            m_luck:
+              m_type: 0
+              m_max: 0
+            m_requirements:
+              operation: 0
+              expression: 
+              values:
+                m_values: []
+            m_passAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            m_failAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            serialized: 1
+          spawnable:
+            guid: 3253d8a18f05fad429d7bbc909bfd262
+            guidHash: -272099264
+        - weight:
+            m_weight: 1
+            m_luck:
+              m_type: 0
+              m_max: 0
+            m_requirements:
+              operation: 0
+              expression: 
+              values:
+                m_values: []
+            m_passAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            m_failAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            serialized: 1
+          spawnable:
+            guid: 9fb9ce86b3df4614a89b899200f30faf
+            guidHash: -1905398188
+        - weight:
+            m_weight: 1
+            m_luck:
+              m_type: 0
+              m_max: 0
+            m_requirements:
+              operation: 0
+              expression: 
+              values:
+                m_values: []
+            m_passAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            m_failAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            serialized: 1
+          spawnable:
+            guid: 7f2e4cf7cea90bb489c71f57a0460918
+            guidHash: 943157129
+        - weight:
+            m_weight: 0.2
+            m_luck:
+              m_type: 0
+              m_max: 0
+            m_requirements:
+              operation: 0
+              expression: 
+              values:
+                m_values:
+                - negate: 0
+                  type: 11
+                  check:
+                    rid: 6008179410516836741
+            m_passAdjust:
+              m_behavior: 1
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: =
+                hash: 372029329
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 1.5
+            m_failAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            serialized: 1
+          spawnable:
+            guid: 6b21aeb01f55ebc42bc676a1e3f7daed
+            guidHash: -734211287
+        - weight:
+            m_weight: 1
+            m_luck:
+              m_type: 0
+              m_max: 0
+            m_requirements:
+              operation: 0
+              expression: 
+              values:
+                m_values: []
+            m_passAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: =
+                hash: 372029329
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 1.5
+            m_failAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            serialized: 1
+          spawnable:
+            guid: 4775d1a05727cbd40b945b42b297990e
+            guidHash: 260060868
+        - weight:
+            m_weight: 1
+            m_luck:
+              m_type: 0
+              m_max: 0
+            m_requirements:
+              operation: 0
+              expression: 
+              values:
+                m_values: []
+            m_passAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: =
+                hash: 372029329
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 1.5
+            m_failAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            serialized: 1
+          spawnable:
+            guid: c3ed120525d844a4293a8121a65ec8ac
+            guidHash: -1502597052
+        - weight:
+            m_weight: 1
+            m_luck:
+              m_type: 0
+              m_max: 0
+            m_requirements:
+              operation: 0
+              expression: 
+              values:
+                m_values: []
+            m_passAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: =
+                hash: 372029329
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 1.5
+            m_failAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            serialized: 1
+          spawnable:
+            guid: 5b1eebc4058d9ba4780ab74fb3496d5c
+            guidHash: -1921158687
+        - weight:
+            m_weight: 1
+            m_luck:
+              m_type: 0
+              m_max: 0
+            m_requirements:
+              operation: 0
+              expression: 
+              values:
+                m_values: []
+            m_passAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: =
+                hash: 372029329
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 1.5
+            m_failAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            serialized: 1
+          spawnable:
+            guid: 6b0e66c1091c1b64594e2d2fc7457f8f
+            guidHash: -457905166
+        - weight:
+            m_weight: 1
+            m_luck:
+              m_type: 0
+              m_max: 0
+            m_requirements:
+              operation: 0
+              expression: 
+              values:
+                m_values: []
+            m_passAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: =
+                hash: 372029329
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 1.5
+            m_failAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            serialized: 1
+          spawnable:
+            guid: 9b08ec741bc38184e81e3f1e1036ede4
+            guidHash: -1744440228
+        - weight:
+            m_weight: 0.6
+            m_luck:
+              m_type: 0
+              m_max: 0
+            m_requirements:
+              operation: 0
+              expression: 
+              values:
+                m_values: []
+            m_passAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: =
+                hash: 372029329
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 1.5
+            m_failAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            serialized: 1
+          spawnable:
+            guid: 2c64cf76c68ea7e4ca406570ec0ed147
+            guidHash: 981263511
+      guid: c13a397e2e0e4e14bf352eb929e89efb
+  m_weightedSpawnTables:
+    m_values: []
+  m_previewIcon: {fileID: 0}
+  references:
+    version: 2
+    RefIds:
+    - rid: 6008179410516836739
+      type: {class: RequirementCheckPlayerTag, ns: Thor.Core, asm: Lithium.Core}
+      data:
+        tag:
+          guid: 33571f72e64e9ef47bef5af201188656
+          guidHash: -45167789
+    - rid: 6008179410516836740
+      type: {class: RequirementCheckPlayerTag, ns: Thor.Core, asm: Lithium.Core}
+      data:
+        tag:
+          guid: 6cc60a64d846cd64993933f27169e332
+          guidHash: -1924540038
+    - rid: 6008179410516836741
+      type: {class: RequirementCheckPlayerItemTag, ns: Thor.Core, asm: Lithium.Core}
+      data:
+        tag:
+          guid: 9735874fe8cf2e142ae447ccea3d201d
+          guidHash: 1807743104

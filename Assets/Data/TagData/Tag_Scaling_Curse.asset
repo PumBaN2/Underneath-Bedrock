@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-3077940520291423587
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1370092402, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: CommonModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_commonProperties:
+    common:
+      guid: 
+      guidHash: 0
+    properties:
+      icons:
+        m_sprites:
+        - {fileID: 4279139603643515184, guid: a9c2bdf9dc05f25458fdab6a89979507, type: 3}
+        - {fileID: 4279139603643515184, guid: a9c2bdf9dc05f25458fdab6a89979507, type: 3}
+        - {fileID: 4279139603643515184, guid: a9c2bdf9dc05f25458fdab6a89979507, type: 3}
+      displayName:
+        m_id: 0
+      description:
+        m_id: 0
+      flavor:
+        m_id: 0
+      color:
+        guid: 
+        guidHash: 0
+      palette:
+        guid: 
+        guidHash: 0
+      tags:
+        m_tags:
+          m_values: []
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 597294653, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Tag_Scaling_Curse
+  m_EditorClassIdentifier: 
+  m_guid: a0e2e4dd966f410094d64bab75ecdd20
+  m_guidHash: 224489093
+  m_type: 4
+  m_scalingProperty:
+    guid: a498505744e0a754c9b3e86300f3259b
+    guidHash: -1511390813
+  m_scalingBlessing:
+    guid: 
+    guidHash: 0
+  m_priority: 0
+  m_subTag:
+    guid: 
+    guidHash: 0
+  m_comments: 
+  m_commonModule: {fileID: -3077940520291423587}
+--- !u!114 &3451539149270159206
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1370092402, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: CommonModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_commonProperties:
+    common:
+      guid: 
+      guidHash: 0
+    properties:
+      icons:
+        m_sprites:
+        - {fileID: 0}
+        - {fileID: 0}
+        - {fileID: 0}
+      displayName:
+        m_id: 0
+      description:
+        m_id: 0
+      flavor:
+        m_id: 0
+      color:
+        guid: 
+        guidHash: 0
+      palette:
+        guid: 
+        guidHash: 0
+      tags:
+        m_tags:
+          m_values: []

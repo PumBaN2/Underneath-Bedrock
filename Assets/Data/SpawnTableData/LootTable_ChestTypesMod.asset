@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 825131332, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: LootTable_ChestTypesMod
+  m_EditorClassIdentifier: 
+  m_guid: b81b96cd3eb8451eaad63f1be9bbe3d3
+  m_guidHash: -495000927
+  m_stabilizeResults: 0
+  m_locked: 0
+  m_dataStoreKey: 
+  m_fallback:
+    guid: 
+    guidHash: 0
+  m_comments: 
+  m_reRollTags:
+    m_values: []
+  m_spawnTables:
+    m_values:
+    - count:
+        min: 1
+        max: 1
+      percent: 0
+      requirements:
+        operation: 0
+        expression: 
+        values:
+          m_values: []
+      spawnables:
+        m_values:
+        - weight:
+            m_weight: 2
+            m_luck:
+              m_type: 0
+              m_max: 0
+            m_requirements:
+              operation: 0
+              expression: 
+              values:
+                m_values: []
+            m_passAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            m_failAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            serialized: 1
+          spawnable:
+            guid: 1e595573b5026a04eb192d82b8e8411b
+            guidHash: 970096010
+        - weight:
+            m_weight: 18
+            m_luck:
+              m_type: 0
+              m_max: 0
+            m_requirements:
+              operation: 0
+              expression: 
+              values:
+                m_values: []
+            m_passAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            m_failAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            serialized: 1
+          spawnable:
+            guid: d8443d169cb762c4fa075cde9b610a91
+            guidHash: -1560856550
+      guid: 1a1420c617d44ae89115130acb3e6583
+  m_weightedSpawnTables:
+    m_values: []
+  m_previewIcon: {fileID: 0}
+  references:
+    version: 2
+    RefIds: []

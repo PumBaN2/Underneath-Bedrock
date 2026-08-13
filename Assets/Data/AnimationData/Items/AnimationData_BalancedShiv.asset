@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1783077148, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: AnimationData_BalancedShiv
+  m_EditorClassIdentifier: 
+  m_guid: 10b480b550864ff1adc64eef4b030a44
+  m_guidHash: -1029777312
+  m_facingMode: 2
+  m_blendMask:
+    value: 0
+  m_includeCommon: 1
+  m_controller: {fileID: 0}
+  m_fastAnimations:
+    m_values:
+    - animation:
+        value: 512
+      facing: 0
+      clip:
+        guid: bc9665d658eb8fe4c962edb1ba38bcf8
+        guidHash: -107234871
+      flipX: 0
+      unscaledTime: 0
+      fps: 8
+    - animation:
+        value: 1024
+      facing: 0
+      clip:
+        guid: 725e3502360cf2a4d85afa9536640177
+        guidHash: 187272471
+      flipX: 0
+      unscaledTime: 0
+      fps: 8
+  m_markerSpace: 1
+  m_markers:
+    m_values: []

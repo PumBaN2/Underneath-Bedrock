@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -143053857, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Common_Blank
+  m_EditorClassIdentifier: 
+  m_guid: c153c1ba792845aaa250cf1034764345
+  m_guidHash: -2126165958
+  m_properties:
+    icons:
+      m_sprites:
+      - {fileID: 21300000, guid: d6bc91973d769924e8e3a0d44279da15, type: 3}
+      - {fileID: 0}
+      - {fileID: 0}
+    displayName:
+      m_id: -99747051
+    description:
+      m_id: 1958754595
+    flavor:
+      m_id: 792635691
+    color:
+      guid: 
+      guidHash: 0
+    palette:
+      guid: 
+      guidHash: 0
+    tags:
+      m_tags:
+        m_values:
+        - guid: 06ea209540120a44abfb8b5558922be7
+          guidHash: 1153590675
+        - guid: e2811021f5c8a244e9e598052457032c
+          guidHash: 1966562525
+        - guid: 3f8e638523512024e81a7a44fdfb6dd7
+          guidHash: -906201795
+        - guid: a77a4c84c9ba4ed4caf747fdc8a9c21e
+          guidHash: 234566719
+        - guid: 70886e59fd442a74ab34794cb3f8f687
+          guidHash: 1045620111
+        - guid: fe9eba3dad6d5124e9a2787da4943735
+          guidHash: 1079384439
+        - guid: 50ecd3ef522f23e448c3412073b0a444
+          guidHash: -1518131214
+        - guid: 1702ba4ac7749d247abbdd3a6977cbd0
+          guidHash: -2033729002

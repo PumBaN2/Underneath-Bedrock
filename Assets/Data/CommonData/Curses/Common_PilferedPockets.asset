@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -143053857, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Common_PilferedPockets
+  m_EditorClassIdentifier: 
+  m_guid: 3ff3b65908034b2987c18183e1c9ebab
+  m_guidHash: -43548665
+  m_properties:
+    icons:
+      m_sprites:
+      - {fileID: 21300000, guid: dd38483091ed74d4599ea12bb660ca20, type: 3}
+      - {fileID: 0}
+      - {fileID: 0}
+    displayName:
+      m_id: -1782119105
+    description:
+      m_id: 1239495119
+    flavor:
+      m_id: -717052596
+    color:
+      guid: 
+      guidHash: 0
+    palette:
+      guid: 
+      guidHash: 0
+    tags:
+      m_tags:
+        m_values:
+        - guid: fd37905a25368b54a9d5996eb45443c4
+          guidHash: -250985165
+        - guid: a20c5ea4d93f3924cbcce8681280bfd7
+          guidHash: -237278429

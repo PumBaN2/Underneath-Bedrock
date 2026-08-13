@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -143053857, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Common_Merchant
+  m_EditorClassIdentifier: 
+  m_guid: ff794f9e9ebd415a95ccbde133714964
+  m_guidHash: -1925595604
+  m_properties:
+    icons:
+      m_sprites:
+      - {fileID: 21300000, guid: d9a7f7770d756dc44ac483f61dee25a4, type: 3}
+      - {fileID: 0}
+      - {fileID: 0}
+    displayName:
+      m_id: 1694569806
+    description:
+      m_id: 1560790939
+    flavor:
+      m_id: -399236800
+    color:
+      guid: 
+      guidHash: 0
+    palette:
+      guid: 
+      guidHash: 0
+    tags:
+      m_tags:
+        m_values:
+        - guid: 211e6b23edfbcba4298bca4bfc03e7f2
+          guidHash: 1611923356
+        - guid: 29fcd0df3aca2614994a35c7e533d594
+          guidHash: 1795452930
+        - guid: fe9eba3dad6d5124e9a2787da4943735
+          guidHash: 1079384439

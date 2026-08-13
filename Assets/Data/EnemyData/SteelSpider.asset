@@ -1,0 +1,1041 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9112049590085274058
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -157816456, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: ShadowModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_shadow:
+    m_isEnabled: 1
+    m_type: 0
+    m_sprite: {fileID: 0}
+    m_scale:
+      autoAspectRatio: 1
+      x: 0.32
+      y: 0.23
+      serialized: 1
+    m_offset: {x: 0, y: -0.2}
+    m_counterRotate: 1
+    m_isComplex: 0
+    m_layerMask:
+      serializedVersion: 2
+      m_Bits: 0
+    m_radius: 0.25
+    m_heightAdjustScale: 1
+--- !u!114 &-8462821161034738619
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1687690090, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: PerimeterModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_heightThreshold: 2
+  m_perimeter:
+    m_points:
+    - {x: 0, y: 0, z: 0.42299998}
+    - {x: 0.30211017, y: 0, z: 0.31304088}
+    - {x: 0.46285963, y: 0, z: 0.034614664}
+    - {x: 0.40703192, y: 0, z: -0.28200004}
+    - {x: 0.1607495, y: 0, z: -0.48865554}
+    - {x: -0.16074947, y: 0, z: -0.48865554}
+    - {x: -0.40703195, y: 0, z: -0.28199995}
+    - {x: -0.46285963, y: 0, z: 0.03461463}
+    - {x: -0.30211025, y: 0, z: 0.31304082}
+  m_scatterMap:
+    m_points: []
+--- !u!114 &-7056741980072493681
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1414459987, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: PopupModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_decorator:
+    guid: 2ae8fc78b9f37f3439f86c0158c9a3ed
+    guidHash: 597680452
+  m_costDecoratorMask: 39
+  m_popupOffsets:
+    m_values: []
+--- !u!114 &-7021386188675967244
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -754050826, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: HazardModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_agent:
+    m_isHazardAgent: 1
+    m_contactOffset: 0
+    m_contactHeight: 0.025
+  m_hazard:
+    guid: 
+    guidHash: 0
+  m_hazardFillSprite: {fileID: 0}
+--- !u!114 &-5136304501555039327
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 141032809, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: NavigationModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_agentTypeID: -1372625422
+  m_avoidTraps: 0
+  m_invertState: 0
+  m_followBehavior:
+    guid: eb487a52b7b1c9e488a1b47aa8ab35c2
+    guidHash: 1161150794
+  m_area: 1
+  m_groundObstacle: 0
+  m_airObstacle: 0
+  m_floorObstacle: 0
+--- !u!114 &-3315392374368480700
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1470154796, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: PrefabModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_prefab:
+    guid: 3c7cd6ba3f5d30c469c37e72f50bf90f
+    guidHash: -26286967
+--- !u!114 &-2601021536738535878
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 328415546, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: VisualModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_visualLayer: -1048789403
+  m_autosort: 1
+  m_sortOrder: 0
+  m_counterRotate: 1
+  m_reflectionEnabled: 1
+  m_rightsideUpReflection: 0
+  m_reflectionOffset: 0
+  m_occlusionEnabled: 1
+  m_prohibitItemShadow: 0
+  m_sortPivot: 0
+  m_scaleAround: 0
+  m_overrideVisualOffset: 0
+  m_visualOffset: {x: 0, y: 0, z: 0}
+  m_fx:
+    guid: 
+    guidHash: 0
+  m_fxOffset: {x: 0, y: 0, z: 0}
+  m_fxRotation: {x: 0, y: 0, z: 0}
+  m_color: {r: 1, g: 1, b: 1, a: 1}
+  m_emissionColor: {r: 0, g: 0, b: 0, a: 0}
+  m_materials:
+    m_values: []
+  m_highStatusOffset: {x: 0, y: 0.8}
+  m_midStatusOffset: {x: 0, y: 0}
+  m_lowStatusOffset: {x: 0, y: 0}
+--- !u!114 &-2446633815137055708
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1663507818, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: PhysicsModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_isKinematic: 0
+  m_massCategory: 0
+  m_projectileBlock: 1
+  m_projectileBounce: 1
+  m_beamBlock: 1
+  m_ricochet: 0
+  m_supportsBallistics: 1
+  m_processMode: 0
+  m_counterRotate: 1
+  m_maxColliderScale: 0
+  m_groundDetectorZOffset: 0
+  m_landRadius: 0.5
+  m_gravityWell:
+    guid: 
+    guidHash: 0
+  m_collisionLayer: 10
+  m_excludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_customLaunchLayer: 1
+  m_launchCollisionLayer: 22
+  m_colliderConfigurations:
+    m_values:
+    - m_type: 1
+      m_center: {x: 0, y: 0, z: 0}
+      m_size: {x: 0, y: 0, z: 0}
+      m_radius: 0.3
+      m_height: 0
+      m_axis: 0
+      m_name: 
+  m_triggerConfigurations:
+    m_values: []
+--- !u!114 &-1300048808810356422
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1099699905, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: EnemyModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_showInConsole: 1
+  m_isCombatant: 1
+  m_maxPerEncounter: -1
+  m_maxPerFloor: -1
+  m_population: 1.5
+--- !u!114 &-864679389539691716
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1654315321, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: AllianceModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_inheritFromOwner: 0
+  m_inheritFromRoot: 0
+  m_team: 1
+--- !u!114 &-857757382581966393
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1222615185, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: AudioModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_music:
+    guid: 
+    guidHash: 0
+  m_talkAudio:
+    guid: 
+    guidHash: 0
+  m_commonAudio:
+    m_values:
+    - guid: cdf2c10773205ee4597f358006848a68
+      guidHash: 252176487
+  m_audioEvents:
+    m_values:
+    - m_eventMatcher:
+        m_eventType: 4
+        m_dataHint:
+          guid: 86194e7362b54534eb1fbb29287b2b0a
+          guidHash: -1869780405
+        m_stringHint: 
+        m_polarity: 1
+        m_polaritySecondary: 0
+        m_tags:
+          m_tags:
+            m_values: []
+        m_tagGrammar: 
+      m_action: 0
+      m_audio:
+        guid: 4747153029487db41a5b39e9692c1683
+        guidHash: -1716218356
+      m_requirements:
+        operation: 0
+        expression: '{0}'
+        values:
+          m_values: []
+    - m_eventMatcher:
+        m_eventType: 27
+        m_dataHint:
+          guid: 
+          guidHash: 0
+        m_stringHint: launch
+        m_polarity: 1
+        m_polaritySecondary: 0
+        m_tags:
+          m_tags:
+            m_values: []
+        m_tagGrammar: 
+      m_action: 0
+      m_audio:
+        guid: bcfc63705a9a6ec4aa2d57ab05613852
+        guidHash: -33365493
+      m_requirements:
+        operation: 0
+        expression: '{0}'
+        values:
+          m_values: []
+    - m_eventMatcher:
+        m_eventType: 12
+        m_dataHint:
+          guid: 
+          guidHash: 0
+        m_stringHint: 
+        m_polarity: 1
+        m_polaritySecondary: 0
+        m_tags:
+          m_tags:
+            m_values: []
+        m_tagGrammar: 
+      m_action: 0
+      m_audio:
+        guid: 5a29a8ca1e05d4646bae7feb4b64ad68
+        guidHash: -514431852
+      m_requirements:
+        operation: 0
+        expression: '{0}'
+        values:
+          m_values: []
+  references:
+    version: 2
+    RefIds: []
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1072518882, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: SteelSpider
+  m_EditorClassIdentifier: 
+  m_guid: 7888c8bda8b04225953fda39cd98a029
+  m_guidHash: -1212886974
+  m_commonModule: {fileID: 6988207478109772986}
+  m_tagModule: {fileID: 5119533179217322922}
+  m_lifespanModule: {fileID: 0}
+  m_mixedModule: {fileID: 3257856547348007102}
+  m_allianceModule: {fileID: -864679389539691716}
+  m_popupModule: {fileID: -7056741980072493681}
+  m_interactionModule: {fileID: 0}
+  m_toggleModule: {fileID: 0}
+  m_timerModule: {fileID: 0}
+  m_behaviorModule: {fileID: 6668059649213979464}
+  m_dataStoreModule: {fileID: 0}
+  m_inventoryModule: {fileID: 8850501571909275204}
+  m_resourceRedirectModule: {fileID: 0}
+  m_statModule: {fileID: 4464241320970359092}
+  m_modifierModule: {fileID: 0}
+  m_casterModule: {fileID: 5877435135479801814}
+  m_resistanceModule: {fileID: 0}
+  m_costModule: {fileID: 0}
+  m_animationModule: {fileID: 2731048118604172082}
+  m_visualModule: {fileID: -2601021536738535878}
+  m_shadowModule: {fileID: -9112049590085274058}
+  m_audioModule: {fileID: -857757382581966393}
+  m_portalModule: {fileID: 0}
+  m_teleporterModule: {fileID: 0}
+  m_physicsModule: {fileID: -2446633815137055708}
+  m_jumpModule: {fileID: 0}
+  m_lightModule: {fileID: 0}
+  m_facingModule: {fileID: 0}
+  m_navigationModule: {fileID: -5136304501555039327}
+  m_hazardModule: {fileID: -7021386188675967244}
+  m_footstepModule: {fileID: 0}
+  m_deathModule: {fileID: 3739465404958697642}
+  m_perimeterModule: {fileID: -8462821161034738619}
+  m_spawnModule: {fileID: 0}
+  m_miniMapModule: {fileID: 0}
+  m_carryModule: {fileID: 0}
+  m_gridModule: {fileID: 8125494205605049373}
+  m_prefabModule: {fileID: -3315392374368480700}
+  m_swapModule: {fileID: 0}
+  m_requirementModule: {fileID: 0}
+  m_tileModule: {fileID: 0}
+  m_bridgeModule: {fileID: 0}
+  m_enemyModule: {fileID: -1300048808810356422}
+--- !u!114 &2731048118604172082
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1697557607, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: AnimationModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_startingAnimationState:
+    value: 0
+  m_animation:
+    guid: 856213f908b895940b1627275ee02df6
+    guidHash: 1583699725
+  m_ownerSyncMask:
+    value: 0
+  m_animationMaskSource: 0
+  m_animationMask:
+    value: -1
+--- !u!114 &3257856547348007102
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -289490069, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: MixedModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_isStatic: 0
+  m_filterMask: 2
+  m_critable: 1
+  m_doorBlocker: 1
+  m_constrain: 1
+  m_trackSpawnCount: 0
+  m_trackSeenCount: 0
+  m_capture:
+    guid: 
+    guidHash: 0
+  m_scatterScale: 1
+--- !u!114 &3739465404958697642
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -548710148, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: DeathModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_autoDestroy: 1
+  m_exileOnDeath: 0
+  m_inheritFromItemData: 0
+  m_suppressFXWhileDead: 0
+  m_dieOnOwnerEvent: 0
+  m_dieOnSourceEvent: 0
+  m_followerPolicy: 0
+  m_deathFXOffset: {x: 0, y: 0, z: 0}
+  m_deaths:
+    m_values:
+    - guid: fb220c758a7280f409a85c542b0e7b9c
+      guidHash: 955346926
+--- !u!114 &4464241320970359092
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 222165115, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: StatModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_baseStatKeys:
+    m_values:
+    - m_stat:
+        guid: 7e964ea50ba2882458dd56f5facc5430
+        guidHash: 817646035
+      m_source: 1
+      m_operator:
+        name: +
+        hash: 372029319
+      m_value: 0
+      m_category: Low
+      m_categoryHash: 1502599728
+      m_inherit: 0
+    - m_stat:
+        guid: 5485876435f5caa4fb87668e6c0aa4bf
+        guidHash: -1389647464
+      m_source: 1
+      m_operator:
+        name: +
+        hash: 372029319
+      m_value: 0
+      m_category: Very Low
+      m_categoryHash: 137832440
+      m_inherit: 0
+    - m_stat:
+        guid: 08d248dc97ce6c749804a459b5150d37
+        guidHash: -1078610362
+      m_source: 1
+      m_operator:
+        name: +
+        hash: 372029319
+      m_value: 0
+      m_category: Very Low
+      m_categoryHash: 137832440
+      m_inherit: 0
+    - m_stat:
+        guid: 17b975a4b85fddd41a0bf0336a683350
+        guidHash: 1391288635
+      m_source: 1
+      m_operator:
+        name: +
+        hash: 372029319
+      m_value: 0
+      m_category: Very Low
+      m_categoryHash: 137832440
+      m_inherit: 0
+    - m_stat:
+        guid: 30cd0a1e54966c641887082ae8d68d9a
+        guidHash: -575476348
+      m_source: 1
+      m_operator:
+        name: +
+        hash: 372029319
+      m_value: 0
+      m_category: Average
+      m_categoryHash: 120297091
+      m_inherit: 0
+    - m_stat:
+        guid: c039a92f992025448aa909706833e32a
+        guidHash: -333456890
+      m_source: 1
+      m_operator:
+        name: +
+        hash: 372029319
+      m_value: 0
+      m_category: Low
+      m_categoryHash: 1502599728
+      m_inherit: 0
+    - m_stat:
+        guid: 6386fe9531c21da4da8331ddada11334
+        guidHash: -1003791381
+      m_source: 1
+      m_operator:
+        name: +
+        hash: 372029319
+      m_value: 0
+      m_category: Low
+      m_categoryHash: 1502599728
+      m_inherit: 0
+    - m_stat:
+        guid: ba01a51e4598a8444a934e62a7279bd1
+        guidHash: -396392648
+      m_source: 0
+      m_operator:
+        name: +
+        hash: 372029319
+      m_value: 3
+      m_category: 
+      m_categoryHash: 0
+      m_inherit: 0
+    - m_stat:
+        guid: 6604b185fcd2ed34c8ed52acbd8b0949
+        guidHash: -1145454898
+      m_source: 1
+      m_operator:
+        name: +
+        hash: 372029319
+      m_value: 0
+      m_category: Average
+      m_categoryHash: 120297091
+      m_inherit: 0
+    - m_stat:
+        guid: 6112768dc78c8924693317fa8cfccf7f
+        guidHash: -1532127431
+      m_source: 1
+      m_operator:
+        name: +
+        hash: 372029319
+      m_value: 0
+      m_category: Average
+      m_categoryHash: 120297091
+      m_inherit: 0
+    - m_stat:
+        guid: b7a765acfc5b537448559d0585e156f4
+        guidHash: -1555726671
+      m_source: 1
+      m_operator:
+        name: +
+        hash: 372029319
+      m_value: 0
+      m_category: Average
+      m_categoryHash: 120297091
+      m_inherit: 0
+    - m_stat:
+        guid: cbf1ae8fd3b67604f88047669e3c738c
+        guidHash: 168732642
+      m_source: 1
+      m_operator:
+        name: +
+        hash: 372029319
+      m_value: 0
+      m_category: High
+      m_categoryHash: -77932258
+      m_inherit: 0
+    - m_stat:
+        guid: 89ac27a5e390fef489e64fe77bf7d6ee
+        guidHash: -339642622
+      m_source: 1
+      m_operator:
+        name: +
+        hash: 372029319
+      m_value: 0
+      m_category: Very Low
+      m_categoryHash: 137832440
+      m_inherit: 0
+    - m_stat:
+        guid: 5b453ffd0d501a74ca49b384b1b093d2
+        guidHash: -808436344
+      m_source: 1
+      m_operator:
+        name: +
+        hash: 372029319
+      m_value: 0
+      m_category: Very Low
+      m_categoryHash: 137832440
+      m_inherit: 0
+    - m_stat:
+        guid: 60e3edd5a78934c40b7dc1d5346b6a2e
+        guidHash: 1728214892
+      m_source: 1
+      m_operator:
+        name: +
+        hash: 372029319
+      m_value: 0
+      m_category: Very Low
+      m_categoryHash: 137832440
+      m_inherit: 0
+    - m_stat:
+        guid: 4ded5ac6ee55258499100af6a16bf22f
+        guidHash: -165703609
+      m_source: 1
+      m_operator:
+        name: +
+        hash: 372029319
+      m_value: 0
+      m_category: Average
+      m_categoryHash: 120297091
+      m_inherit: 0
+    - m_stat:
+        guid: a47572e4dd0d09d43969c4e62d427ea2
+        guidHash: 287567822
+      m_source: 1
+      m_operator:
+        name: +
+        hash: 372029319
+      m_value: 0
+      m_category: Very Low
+      m_categoryHash: 137832440
+      m_inherit: 0
+    - m_stat:
+        guid: 63e1e839a09251844b9aee019f3427c7
+        guidHash: 735537098
+      m_source: 0
+      m_operator:
+        name: +
+        hash: 372029319
+      m_value: 1
+      m_category: 
+      m_categoryHash: 0
+      m_inherit: 0
+    - m_stat:
+        guid: fcceb82ac1e800b4e857af32c3b1140b
+        guidHash: 2057989502
+      m_source: 1
+      m_operator:
+        name: +
+        hash: 372029319
+      m_value: 0
+      m_category: Average
+      m_categoryHash: 120297091
+      m_inherit: 0
+    - m_stat:
+        guid: 7323353e1a36f66489468556dd4d465b
+        guidHash: 466234234
+      m_source: 0
+      m_operator:
+        name: +
+        hash: 372029319
+      m_value: 1
+      m_category: 
+      m_categoryHash: 0
+      m_inherit: 0
+    - m_stat:
+        guid: 9fdfc868cbc981a4c8cc201354b3edff
+        guidHash: -1932441791
+      m_source: 0
+      m_operator:
+        name: +
+        hash: 372029319
+      m_value: 1
+      m_category: 
+      m_categoryHash: 0
+      m_inherit: 0
+    - m_stat:
+        guid: 288037940e16aeb48969377e013fae84
+        guidHash: -1339513681
+      m_source: 1
+      m_operator:
+        name: +
+        hash: 372029319
+      m_value: 0
+      m_category: Very Low
+      m_categoryHash: 137832440
+      m_inherit: 0
+    - m_stat:
+        guid: b383da3d72e4982459f4df5f5e59a2d4
+        guidHash: 1824289639
+      m_source: 1
+      m_operator:
+        name: +
+        hash: 372029319
+      m_value: 0
+      m_category: Very Low
+      m_categoryHash: 137832440
+      m_inherit: 0
+--- !u!114 &5119533179217322922
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1727174509, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: TagModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_addToEncounter: 0
+  m_commonTags:
+    m_values:
+    - guid: 2587f754349e654439af08539c85af56
+      guidHash: -1325430124
+  m_exclusions:
+    m_tags:
+      m_values:
+      - guid: 4ae17021a5883134e98142ec81805d01
+        guidHash: 829581558
+  m_tags:
+    m_tags:
+      m_values: []
+--- !u!114 &5877435135479801814
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 57149593, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: CasterModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_preventReverseFire: 0
+  m_reverseFireThreshold: 0
+  m_projectileTriggerMask: 4
+  m_startingAbilities:
+    m_values:
+    - m_slot: attack
+      m_ability:
+        guid: e8f57ceff2dd9dc45a8817d60a20df1c
+        guidHash: -493423194
+      m_staggerBehavior: 2
+      m_showStaggerPopup: 1
+      m_initialCooldown:
+        min: 0.4
+        max: 0.8
+      m_cooldown:
+        min: 0.5
+        max: 1
+      m_costGroups:
+        m_values: []
+      m_parameters:
+        m_values:
+        - name: AOE_VisualEffect
+          floatValue: 0
+          dataValue:
+            guid: 7bc0f9fb4806a5042b5cb783cf21c538
+            guidHash: -191378332
+          animationValue:
+            value: 0
+        - name: AOE_Stat
+          floatValue: 0
+          dataValue:
+            guid: f6d2702d106116f4b878d09bd590f1a8
+            guidHash: -798787768
+          animationValue:
+            value: 0
+  m_charmedAbilities:
+    m_values:
+    - m_slot: attack
+      m_ability:
+        guid: e8f57ceff2dd9dc45a8817d60a20df1c
+        guidHash: -493423194
+      m_staggerBehavior: 2
+      m_showStaggerPopup: 0
+      m_initialCooldown:
+        min: 0
+        max: 0
+      m_cooldown:
+        min: 0
+        max: 0
+      m_costGroups:
+        m_values: []
+      m_parameters:
+        m_values:
+        - name: AOE_VisualEffect
+          floatValue: 0
+          dataValue:
+            guid: 7bc0f9fb4806a5042b5cb783cf21c538
+            guidHash: -191378332
+          animationValue:
+            value: 0
+        - name: AOE_Stat
+          floatValue: 0
+          dataValue:
+            guid: f6d2702d106116f4b878d09bd590f1a8
+            guidHash: -798787768
+          animationValue:
+            value: 0
+--- !u!114 &6668059649213979464
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1425980735, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: BehaviorModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_behavior:
+    guid: d7c5e589ed3e2ce4db2027b90d0fc28b
+    guidHash: -110213406
+  m_startDelay: 0
+  m_stunRecoverDuration: 0
+  m_interrupt: 0
+  m_tickDuringNIS: 1
+--- !u!114 &6988207478109772986
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1370092402, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: CommonModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_commonProperties:
+    common:
+      guid: 
+      guidHash: 0
+    properties:
+      icons:
+        m_sprites:
+        - {fileID: 21300000, guid: a542dfc886f7e7742b0e4fb4b2b765b6, type: 3}
+        - {fileID: 0}
+        - {fileID: 0}
+      displayName:
+        m_id: 712844982
+      description:
+        m_id: 0
+      flavor:
+        m_id: 0
+      color:
+        guid: 
+        guidHash: 0
+      palette:
+        guid: 
+        guidHash: 0
+      tags:
+        m_tags:
+          m_values:
+          - guid: 7e4b67bbeccc65548afa711ec4b4f3e6
+            guidHash: -1662001616
+          - guid: 84b6e5eacd0fa084f9f3cd44a995d750
+            guidHash: -955717185
+          - guid: 74104b4b636ff6145969048a634d7613
+            guidHash: 665749136
+--- !u!114 &8125494205605049373
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1673160330, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: GridModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_isReadOnly: 0
+  m_destroyOnMerge:
+    m_values: []
+  m_destroyOnMergeMask:
+    m_values: []
+  m_destroyOnUnmerge:
+    m_values: []
+  m_gridMap:
+    origin: {x: 0, y: 0}
+    offset: {x: 0, y: 0}
+    size: {x: 1, y: 1}
+    gridMap:
+    - guid: 60b096d544e7aea4d99e509f0a8eaad7
+      guidHash: 1965903997
+--- !u!114 &8850501571909275204
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 292649660, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: InventoryModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_defaultPotion:
+    guid: 
+    guidHash: 0
+  m_defaultArcana:
+    guid: 
+    guidHash: 0
+  m_defaultBomb:
+    guid: 
+    guidHash: 0
+  m_inventory:
+    m_values:
+    - guid: 86194e7362b54534eb1fbb29287b2b0a
+      guidHash: -1869780405
+    - guid: a9e383d7dc7637f4b809b1f983f8df59
+      guidHash: -381908222
+    - guid: 92b60bfc4ad16e646bbe204af9734f38
+      guidHash: -182686453
+    - guid: ec9629b6010e8d248a13bbaa88d96cbe
+      guidHash: 1184540450
+    - guid: 6e4796c83bc8dd1409fe3232b23499e5
+      guidHash: 884440476
+  m_initialValueOverrides:
+    m_values: []
+  m_proxyHit: 1
+  m_hitFXOverrides:
+    m_values: []
+  m_changeFXOverrides:
+    m_values:
+    - resource:
+        guid: 86194e7362b54534eb1fbb29287b2b0a
+        guidHash: -1869780405
+      changeFX:
+        transactionType: 0
+        zeroType: 2
+        critType: 1
+        combatOnly: 0
+        nonCombatOnly: 0
+        animation:
+          value: 2097152
+        kicker:
+          guid: 302a830a0bb3edd449ef16b6aab37e09
+          guidHash: -1221819353
+        changeFX:
+          guid: 
+          guidHash: 0
+        audio:
+          guid: 
+          guidHash: 0
+    - resource:
+        guid: 86194e7362b54534eb1fbb29287b2b0a
+        guidHash: -1869780405
+      changeFX:
+        transactionType: 0
+        zeroType: 2
+        critType: 2
+        combatOnly: 0
+        nonCombatOnly: 0
+        animation:
+          value: 2097152
+        kicker:
+          guid: 3fc2aebc39a035b40a01a88e518680c3
+          guidHash: 2080062440
+        changeFX:
+          guid: 
+          guidHash: 0
+        audio:
+          guid: 
+          guidHash: 0
+    - resource:
+        guid: 86194e7362b54534eb1fbb29287b2b0a
+        guidHash: -1869780405
+      changeFX:
+        transactionType: 1
+        zeroType: -1
+        critType: -1
+        combatOnly: 0
+        nonCombatOnly: 0
+        animation:
+          value: 4194304
+        kicker:
+          guid: 302a830a0bb3edd449ef16b6aab37e09
+          guidHash: -1221819353
+        changeFX:
+          guid: 246a07f036801c44280d621197ddb44f
+          guidHash: 786435471
+        audio:
+          guid: 
+          guidHash: 0

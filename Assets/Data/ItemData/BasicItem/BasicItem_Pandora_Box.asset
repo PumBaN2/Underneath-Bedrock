@@ -1,0 +1,247 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7464010314354415025
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -157816456, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: ShadowModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_shadow:
+    m_isEnabled: 1
+    m_type: 0
+    m_sprite: {fileID: 0}
+    m_scale:
+      autoAspectRatio: 1
+      x: 0.33
+      y: 0.23
+      serialized: 1
+    m_offset: {x: -0.02, y: -0.28}
+    m_counterRotate: 1
+    m_isComplex: 0
+    m_layerMask:
+      serializedVersion: 2
+      m_Bits: 0
+    m_radius: 0.25
+    m_heightAdjustScale: 1
+--- !u!114 &-4236075336112018151
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1370092402, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: CommonModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_commonProperties:
+    common:
+      guid: 403d12d363add834a885877d97474ca3
+      guidHash: 754990706
+    properties:
+      icons:
+        m_sprites:
+        - {fileID: -3701517036803935803, guid: 4838ba00c30a29b4aa135fed1c72943e, type: 3}
+        - {fileID: 0}
+        - {fileID: 0}
+      displayName:
+        m_id: -1184285166
+      description:
+        m_id: 1368410945
+      flavor:
+        m_id: 0
+      color:
+        guid: 
+        guidHash: 0
+      palette:
+        guid: 
+        guidHash: 0
+      tags:
+        m_tags:
+          m_values:
+          - guid: ed168aa9e3517fc479997dcf15006bf3
+            guidHash: 558860884
+          - guid: b3e02739f0ff98e4cac2a2dcab3c4f87
+            guidHash: -896732828
+          - guid: dd4740af59c87e14f83d7ee994999b45
+            guidHash: -1405522484
+--- !u!114 &-4013768519838056262
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1616187677, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: ItemModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_isPromptable: 0
+  m_isGildable: 0
+  m_maxSpawnCount: -1
+  m_pickupBehavior: {fileID: 517756284236573170}
+  m_pickupRequirements:
+    operation: 0
+    expression: '{0}'
+    values:
+      m_values: []
+  m_entityDataOverride:
+    guid: 
+    guidHash: 0
+  m_sparklesFX:
+    guid: ece5b9ec92bb9c44882c48b0835d245e
+    guidHash: -1180683639
+  m_invertUnlockSemantics: 0
+  m_isUnlockedByDefault: 1
+  m_unlockOnSee: 0
+  m_unlockOnPickup: 0
+  m_isDiscoveredByDefault: 0
+  m_discoverOnSee: 0
+  m_discoverOnPickup: 0
+  m_pickupAudio:
+    guid: 
+    guidHash: 0
+  m_landAudio:
+    guid: 81b7cf63cf150294988fc0b9f84fb29f
+    guidHash: 252962894
+  m_removalWeight:
+    m_weight: 1
+    m_luck:
+      m_type: 0
+      m_max: 0
+    m_requirements:
+      operation: 0
+      expression: '{0}'
+      values:
+        m_values: []
+    m_passAdjust:
+      m_behavior: 0
+      m_adjust: 0
+      m_luckBehavior: 0
+      m_luckAdjust:
+        m_type: 0
+        m_max: 0
+      m_assignmentOp:
+        name: =
+        hash: 372029329
+      m_property:
+        guid: 
+        guidHash: 0
+      m_arithmeticOp:
+        name: +
+        hash: 372029319
+      m_value: 0
+    m_failAdjust:
+      m_behavior: 0
+      m_adjust: 0
+      m_luckBehavior: 0
+      m_luckAdjust:
+        m_type: 0
+        m_max: 0
+      m_assignmentOp:
+        name: =
+        hash: 372029329
+      m_property:
+        guid: 
+        guidHash: 0
+      m_arithmeticOp:
+        name: +
+        hash: 372029319
+      m_value: 0
+    serialized: 1
+  references:
+    version: 2
+    RefIds: []
+--- !u!114 &-3255662923996061974
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1249944787, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: CostModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_isFree: 0
+  m_isSilent: 0
+  m_inheritCostModifiers: 0
+  m_activeCosts: 0
+  m_commonCosts:
+    guid: 6934e82bc3a322546861dcf881d8b92e
+    guidHash: -1869205957
+  m_costGroups:
+    m_values: []
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 517854022, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: BasicItem_Pandora_Box
+  m_EditorClassIdentifier: 
+  m_guid: f026d6bbd97648969efb3dfac9c6c138
+  m_guidHash: 681448749
+  m_commonModule: {fileID: -4236075336112018151}
+  m_tagModule: {fileID: 11400000, guid: 873abd8c837f108478f167681c7990bf, type: 2}
+  m_behaviorModule: {fileID: 11400000, guid: 9ebcefa3fd874444c9e8ee9c74851aa4, type: 2}
+  m_itemModule: {fileID: -4013768519838056262}
+  m_costModule: {fileID: -3255662923996061974}
+  m_miniMapModule: {fileID: 0}
+  m_swapModule: {fileID: 11400000, guid: 7427974414abc664480cd30ce0c54362, type: 2}
+  m_shadowModule: {fileID: -7464010314354415025}
+  m_requirementModule: {fileID: 11400000, guid: 8436ed46a7e8f9848a1fb5c22d883cab, type: 2}
+  m_itemAnimationModule: {fileID: 0}
+  m_itemDeathModule: {fileID: 11400000, guid: b1c315a605e312f48b6b88f6990c5144, type: 2}
+  m_uiModule: {fileID: 0}
+--- !u!114 &517756284236573170
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 173507967, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: PickedUp
+  m_EditorClassIdentifier: 
+  _serializedGraph: '{"type":"Thor.Core.ExtendedBehaviorTree","nodes":[{"_position":{"x":238.4827,"y":34.10428},"$type":"NodeCanvas.BehaviourTrees.Sequencer","$id":"0"},{"_condition":{"m_source":{"_name":"Owner","_targetVariableID":"d7e1b256-580d-4ccb-a119-0d9e247f23b0"},"m_context":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_data":{"luck":1,"maxChance":{"_value":0.6},"baseChance":{"_value":0.4}},"$type":"Thor.Core.Chance"},"_position":{"x":220.0,"y":102.0},"$type":"NodeCanvas.BehaviourTrees.BinarySelector","$id":"1"},{"repeaterMode":1,"repeatTimes":{"_value":1},"_position":{"x":19.04303,"y":267.4433},"$type":"NodeCanvas.BehaviourTrees.Repeater","$id":"2"},{"random":true,"_position":{"x":-192.6566,"y":365.8332},"$type":"NodeCanvas.BehaviourTrees.Selector","$id":"3"},{"m_source":{"_name":"Owner","_targetVariableID":"d7e1b256-580d-4ccb-a119-0d9e247f23b0"},"m_context":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_data":{"maxChance":{"_value":1.0},"baseChance":{"_value":0.7}},"m_chanceFailStatus":0,"_position":{"x":-531.322,"y":504.5017},"$type":"Thor.Core.ChanceContext","$id":"4"},{"_action":{"m_dataLookup":{"m_data":{"guid":"7d847af6d63e9ed49b1d575cd4a917a6","guidHash":929689314},"m_target":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_key":{},"m_variable":{}},"m_target":{"_name":"Target","_targetVariableID":"3d65495c-3ba0-48ab-bddc-212f6a92b7aa"},"m_self":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"$type":"Thor.Core.RunAsyncBehavior"},"_position":{"x":-524.8322,"y":620.4479},"$type":"NodeCanvas.BehaviourTrees.ActionNode","$id":"5"},{"m_source":{"_name":"Owner","_targetVariableID":"d7e1b256-580d-4ccb-a119-0d9e247f23b0"},"m_context":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_data":{"maxChance":{"_value":1.0},"baseChance":{"_value":0.3}},"m_chanceFailStatus":0,"_position":{"x":-380.322,"y":504.5017},"$type":"Thor.Core.ChanceContext","$id":"6"},{"_action":{"m_dataLookup":{"m_data":{"guid":"e9be2e044d37f624f9fcb275b717d4f9","guidHash":3791684},"m_target":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_key":{},"m_variable":{}},"m_target":{"_name":"Target","_targetVariableID":"3d65495c-3ba0-48ab-bddc-212f6a92b7aa"},"m_self":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"$type":"Thor.Core.RunAsyncBehavior"},"_position":{"x":-374.0,"y":623.0},"$type":"NodeCanvas.BehaviourTrees.ActionNode","$id":"7"},{"m_source":{"_name":"Owner","_targetVariableID":"d7e1b256-580d-4ccb-a119-0d9e247f23b0"},"m_context":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_data":{"maxChance":{"_value":1.0},"baseChance":{"_value":0.6}},"m_chanceFailStatus":0,"_position":{"x":-227.3221,"y":504.5017},"$type":"Thor.Core.ChanceContext","$id":"8"},{"_action":{"m_dataLookup":{"m_data":{"guid":"95f1aae320674e54ca030831aa12a345","guidHash":-681258299},"m_target":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_key":{},"m_variable":{}},"m_target":{"_name":"Target","_targetVariableID":"3d65495c-3ba0-48ab-bddc-212f6a92b7aa"},"m_self":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"$type":"Thor.Core.RunAsyncBehavior"},"_position":{"x":-226.0,"y":621.0},"$type":"NodeCanvas.BehaviourTrees.ActionNode","$id":"9"},{"m_source":{"_name":"Owner","_targetVariableID":"d7e1b256-580d-4ccb-a119-0d9e247f23b0"},"m_context":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_data":{"maxChance":{"_value":1.0},"baseChance":{"_value":0.4}},"m_chanceFailStatus":0,"_position":{"x":-69.32208,"y":503.5017},"$type":"Thor.Core.ChanceContext","$id":"10"},{"_action":{"m_dataLookup":{"m_data":{"guid":"3800808f2d87166469d1c6d51f42125f","guidHash":1577172420},"m_target":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_key":{},"m_variable":{}},"m_target":{"_name":"Target","_targetVariableID":"3d65495c-3ba0-48ab-bddc-212f6a92b7aa"},"m_self":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"$type":"Thor.Core.RunAsyncBehavior"},"_position":{"x":-75.0,"y":619.0},"$type":"NodeCanvas.BehaviourTrees.ActionNode","$id":"11"},{"m_source":{"_name":"Owner","_targetVariableID":"d7e1b256-580d-4ccb-a119-0d9e247f23b0"},"m_context":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_data":{"maxChance":{"_value":1.0},"baseChance":{"_value":0.15}},"m_chanceFailStatus":0,"_position":{"x":81.67828,"y":501.5017},"$type":"Thor.Core.ChanceContext","$id":"12"},{"_position":{"x":119.6783,"y":617.5017},"$type":"NodeCanvas.BehaviourTrees.Sequencer","$id":"13"},{"_action":{"m_data":{"dataLookup":{"m_data":{"guid":"7e55cdf9553ee734f8c634a27509950a","guidHash":2009821986},"m_target":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_key":{},"m_variable":{}},"tag":{},"target":{"_name":"Target","_targetVariableID":"3d65495c-3ba0-48ab-bddc-212f6a92b7aa"},"dropBehavior":2,"reroll":{"m_data":{},"m_target":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_key":{},"m_variable":{}}},"m_forceRemove":{},"$type":"Thor.Core.RemoveItem"},"_position":{"x":-33.32169,"y":746.1685},"$type":"NodeCanvas.BehaviourTrees.ActionNode","$id":"14"},{"_action":{"m_target":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_data":{"text":{"m_id":-847559478},"dataLookup":{"m_data":{},"m_target":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_key":{},"m_variable":{}},"duration":{},"argument":{}},"m_repeat":{},"$type":"Thor.Core.Say"},"_position":{"x":94.67828,"y":745.5017},"$type":"NodeCanvas.BehaviourTrees.ActionNode","$id":"15"},{"_action":{"m_source":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_dataLookup":{"m_data":{"guid":"269826961f69bcd48895c653c8cff66d","guidHash":-825804154},"m_target":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_key":{},"m_variable":{}},"m_handleOutput":{"_name":""},"$type":"Thor.Core.PlayAudio"},"_position":{"x":222.0,"y":751.0},"$type":"NodeCanvas.BehaviourTrees.ActionNode","$id":"16"},{"repeaterMode":1,"repeatTimes":{"_value":1},"_position":{"x":407.7239,"y":262.332},"$type":"NodeCanvas.BehaviourTrees.Repeater","$id":"17"},{"random":true,"_position":{"x":717.7268,"y":379.3285},"$type":"NodeCanvas.BehaviourTrees.Selector","$id":"18"},{"m_source":{"_name":"Owner","_targetVariableID":"d7e1b256-580d-4ccb-a119-0d9e247f23b0"},"m_context":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_data":{"maxChance":{"_value":1.0},"baseChance":{"_value":0.2}},"m_chanceFailStatus":0,"_position":{"x":235.3929,"y":502.9988},"$type":"Thor.Core.ChanceContext","$id":"19"},{"_action":{"m_dataLookup":{"m_data":{"guid":"365ff8c6809e14945ad9ab1cc2cdcc1e","guidHash":-85732705},"m_target":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_key":{},"m_variable":{}},"m_target":{"_name":"Target","_targetVariableID":"3d65495c-3ba0-48ab-bddc-212f6a92b7aa"},"m_self":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"$type":"Thor.Core.RunAsyncBehavior"},"_position":{"x":246.0,"y":619.0},"$type":"NodeCanvas.BehaviourTrees.ActionNode","$id":"20"},{"m_source":{"_name":"Owner","_targetVariableID":"d7e1b256-580d-4ccb-a119-0d9e247f23b0"},"m_context":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_data":{"maxChance":{"_value":1.0},"baseChance":{"_value":0.2}},"m_chanceFailStatus":0,"_position":{"x":383.3929,"y":503.9988},"$type":"Thor.Core.ChanceContext","$id":"21"},{"_action":{"m_dataLookup":{"m_data":{"guid":"308bf3b43bb55f646bfda1eae7e8a027","guidHash":-1431292778},"m_target":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_key":{},"m_variable":{}},"m_target":{"_name":"Target","_targetVariableID":"3d65495c-3ba0-48ab-bddc-212f6a92b7aa"},"m_self":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"$type":"Thor.Core.RunAsyncBehavior"},"_position":{"x":390.0,"y":618.0},"$type":"NodeCanvas.BehaviourTrees.ActionNode","$id":"22"},{"m_source":{"_name":"Owner","_targetVariableID":"d7e1b256-580d-4ccb-a119-0d9e247f23b0"},"m_context":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_data":{"maxChance":{"_value":1.0},"baseChance":{"_value":0.6}},"m_chanceFailStatus":0,"_position":{"x":531.3929,"y":505.9988},"$type":"Thor.Core.ChanceContext","$id":"23"},{"_action":{"m_dataLookup":{"m_data":{"guid":"e2bea9576ad53d2499c548b660a6192e","guidHash":-232100291},"m_target":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_key":{},"m_variable":{}},"m_target":{"_name":"Target","_targetVariableID":"3d65495c-3ba0-48ab-bddc-212f6a92b7aa"},"m_self":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"$type":"Thor.Core.RunAsyncBehavior"},"_position":{"x":540.0,"y":622.0},"$type":"NodeCanvas.BehaviourTrees.ActionNode","$id":"24"},{"m_source":{"_name":"Owner","_targetVariableID":"d7e1b256-580d-4ccb-a119-0d9e247f23b0"},"m_context":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_data":{"maxChance":{"_value":1.0},"baseChance":{"_value":0.3}},"m_chanceFailStatus":0,"_position":{"x":682.3929,"y":507.9988},"$type":"Thor.Core.ChanceContext","$id":"25"},{"_action":{"m_dataLookup":{"m_data":{"guid":"2951bc674c1ba82439acc16691345691","guidHash":-1520616072},"m_target":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_key":{},"m_variable":{}},"m_target":{"_name":"Target","_targetVariableID":"3d65495c-3ba0-48ab-bddc-212f6a92b7aa"},"m_self":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"$type":"Thor.Core.RunAsyncBehavior"},"_position":{"x":686.0,"y":619.0},"$type":"NodeCanvas.BehaviourTrees.ActionNode","$id":"26"},{"m_source":{"_name":"Owner","_targetVariableID":"d7e1b256-580d-4ccb-a119-0d9e247f23b0"},"m_context":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_data":{"maxChance":{"_value":1.0},"baseChance":{"_value":0.5}},"m_chanceFailStatus":0,"_position":{"x":836.3929,"y":509.9988},"$type":"Thor.Core.ChanceContext","$id":"27"},{"_action":{"m_dataLookup":{"m_data":{"guid":"20690a7f26f8f004c81fa8ae30339356","guidHash":1224968366},"m_target":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_key":{},"m_variable":{}},"m_target":{"_name":"Target","_targetVariableID":"3d65495c-3ba0-48ab-bddc-212f6a92b7aa"},"m_self":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"$type":"Thor.Core.RunAsyncBehavior"},"_position":{"x":844.0,"y":621.0},"$type":"NodeCanvas.BehaviourTrees.ActionNode","$id":"28"},{"m_source":{"_name":"Owner","_targetVariableID":"d7e1b256-580d-4ccb-a119-0d9e247f23b0"},"m_context":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_data":{"maxChance":{"_value":1.0},"baseChance":{"_value":0.5}},"m_chanceFailStatus":0,"_position":{"x":992.3929,"y":512.9988},"$type":"Thor.Core.ChanceContext","$id":"29"},{"_action":{"m_dataLookup":{"m_data":{"guid":"9adbb55ef3c892f478a4402e91617bc1","guidHash":1968558195},"m_target":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_key":{},"m_variable":{}},"m_target":{"_name":"Target","_targetVariableID":"3d65495c-3ba0-48ab-bddc-212f6a92b7aa"},"m_self":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"$type":"Thor.Core.RunAsyncBehavior"},"_position":{"x":991.0,"y":623.0},"$type":"NodeCanvas.BehaviourTrees.ActionNode","$id":"30"},{"m_source":{"_name":"Owner","_targetVariableID":"d7e1b256-580d-4ccb-a119-0d9e247f23b0"},"m_context":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_data":{"maxChance":{"_value":1.0},"baseChance":{"_value":0.3}},"m_chanceFailStatus":0,"_position":{"x":1144.393,"y":513.9988},"$type":"Thor.Core.ChanceContext","$id":"31"},{"_action":{"m_target":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_data":{"text":{"m_id":-341094718},"dataLookup":{"m_data":{},"m_target":{"_name":"Self","_targetVariableID":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9"},"m_key":{},"m_variable":{}},"duration":{},"argument":{}},"m_repeat":{},"$type":"Thor.Core.Say"},"_position":{"x":1178.393,"y":618.332},"$type":"NodeCanvas.BehaviourTrees.ActionNode","$id":"32"}],"connections":[{"_sourceNode":{"$ref":"0"},"_targetNode":{"$ref":"1"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"1"},"_targetNode":{"$ref":"2"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"1"},"_targetNode":{"$ref":"17"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"2"},"_targetNode":{"$ref":"3"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"3"},"_targetNode":{"$ref":"4"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"3"},"_targetNode":{"$ref":"6"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"3"},"_targetNode":{"$ref":"8"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"3"},"_targetNode":{"$ref":"10"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"3"},"_targetNode":{"$ref":"12"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"4"},"_targetNode":{"$ref":"5"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"6"},"_targetNode":{"$ref":"7"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"8"},"_targetNode":{"$ref":"9"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"10"},"_targetNode":{"$ref":"11"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"12"},"_targetNode":{"$ref":"13"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"13"},"_targetNode":{"$ref":"14"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"13"},"_targetNode":{"$ref":"15"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"13"},"_targetNode":{"$ref":"16"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"17"},"_targetNode":{"$ref":"18"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"18"},"_targetNode":{"$ref":"19"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"18"},"_targetNode":{"$ref":"21"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"18"},"_targetNode":{"$ref":"23"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"18"},"_targetNode":{"$ref":"25"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"18"},"_targetNode":{"$ref":"27"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"18"},"_targetNode":{"$ref":"29"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"18"},"_targetNode":{"$ref":"31"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"19"},"_targetNode":{"$ref":"20"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"21"},"_targetNode":{"$ref":"22"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"23"},"_targetNode":{"$ref":"24"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"25"},"_targetNode":{"$ref":"26"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"27"},"_targetNode":{"$ref":"28"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"29"},"_targetNode":{"$ref":"30"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"31"},"_targetNode":{"$ref":"32"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"}],"canvasGroups":[],"localBlackboard":{"_variables":{"Self":{"_value":{},"_name":"Self","_id":"b3bd08ac-031b-4230-bc0f-826bf78e2ed9","_isPublic":true,"$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Target":{"_value":{},"_name":"Target","_id":"3d65495c-3ba0-48ab-bddc-212f6a92b7aa","_isPublic":true,"$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Owner":{"_value":{},"_name":"Owner","_id":"d7e1b256-580d-4ccb-a119-0d9e247f23b0","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Output":{"_name":"Output","_id":"773520e1-8c1e-4122-9b5e-07c9076ff6ae","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.DataObject,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Targets":{"_value":{},"_name":"Targets","_id":"34f095b6-f140-4f8a-b3e7-8e8d9eaaa07c","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRefList,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"}}},"derivedData":{"autoVariables":{"m_values":[]},"$type":"Thor.Core.ExtendedBehaviorTree+DerivedSerializationData"}}'
+  _objectReferences: []
+  _graphSource:
+    _version: 3.3
+    _category: 
+    _comments: 
+    _translation: {x: 741.8548, y: 159.36717}
+    _zoomFactor: 1
+  _haltSerialization: 0
+  _externalSerializationFile: {fileID: 0}
+  m_preProcess: 0
+  m_processOnEnable: 0
+  m_uninterruptible: 0
+  m_proxy: 0
+  m_restartOnDisable: 0
+  m_autoVariables:
+    m_values: []

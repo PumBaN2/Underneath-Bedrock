@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -143053857, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Common_Giant's Toe
+  m_EditorClassIdentifier: 
+  m_guid: 4290963f1a8649848ddfc96a721e5df5
+  m_guidHash: -426139056
+  m_properties:
+    icons:
+      m_sprites:
+      - {fileID: 21300000, guid: 6029935f024c4c44cac3a3989652e182, type: 3}
+      - {fileID: 21300000, guid: 6029935f024c4c44cac3a3989652e182, type: 3}
+      - {fileID: 21300000, guid: 6029935f024c4c44cac3a3989652e182, type: 3}
+    displayName:
+      m_id: 10095820
+    description:
+      m_id: -1178399722
+    flavor:
+      m_id: -782171836
+    color:
+      guid: 
+      guidHash: 0
+    palette:
+      guid: 
+      guidHash: 0
+    tags:
+      m_tags:
+        m_values:
+        - guid: e2811021f5c8a244e9e598052457032c
+          guidHash: 1966562525
+        - guid: a20c5ea4d93f3924cbcce8681280bfd7
+          guidHash: -237278429
+        - guid: 1702ba4ac7749d247abbdd3a6977cbd0
+          guidHash: -2033729002
+        - guid: 805263dff7f86e941a83f6a3c3981990
+          guidHash: 437698758

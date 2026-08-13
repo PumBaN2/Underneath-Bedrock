@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1416674712, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: FlagData_ForgeGiryaCurrent
+  m_EditorClassIdentifier: 
+  m_guid: e411ec7865144a4f92c9116ff5a3f1a1
+  m_guidHash: -1616613540
+  m_type: 1
+  m_resetOnHubUnload: 0
+  m_defaultValue: 6
+  m_min: 1
+  m_max: 99999
+  m_namedValues:
+    m_values: []
+  m_round: 0
+  m_comments: ArmorPadFOrging

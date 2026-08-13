@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1783077148, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: AnimationData_ProjectileMassReleaser
+  m_EditorClassIdentifier: 
+  m_guid: 1398210b17b546e1a0ec54e8b9ecc117
+  m_guidHash: 81770163
+  m_facingMode: 0
+  m_blendMask:
+    value: 0
+  m_includeCommon: 0
+  m_controller: {fileID: 0}
+  m_fastAnimations:
+    m_values:
+    - animation:
+        value: 0
+      facing: 0
+      clip:
+        guid: a4312ce8ef3731e479a1fca5b912dce8
+        guidHash: -730549528
+      flipX: 0
+      unscaledTime: 0
+      fps: 16
+  m_markerSpace: 1
+  m_markers:
+    m_values: []

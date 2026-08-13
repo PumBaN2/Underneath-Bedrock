@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -143053857, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Common_Empty Vial
+  m_EditorClassIdentifier: 
+  m_guid: 5fa269c680bf4390b2bce46f6efa59ba
+  m_guidHash: -104177141
+  m_properties:
+    icons:
+      m_sprites:
+      - {fileID: 21300000, guid: 3984194a59cb8be449015bfabe6fb407, type: 3}
+      - {fileID: 0}
+      - {fileID: 0}
+    displayName:
+      m_id: -2008890055
+    description:
+      m_id: 840904051
+    flavor:
+      m_id: 1386675008
+    color:
+      guid: 
+      guidHash: 0
+    palette:
+      guid: 
+      guidHash: 0
+    tags:
+      m_tags:
+        m_values:
+        - guid: 211e6b23edfbcba4298bca4bfc03e7f2
+          guidHash: 1611923356
+        - guid: a20c5ea4d93f3924cbcce8681280bfd7
+          guidHash: -237278429
+        - guid: 479db49c7bff1ed42a0c257ba6aa6322
+          guidHash: -1875801177

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1416674712, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: FlagData_MinigameBullets
+  m_EditorClassIdentifier: 
+  m_guid: ff35d19e9e294a38887f084641e3cbde
+  m_guidHash: -97354186
+  m_type: 1
+  m_defaultValue: 0
+  m_min: 0
+  m_max: 9999999
+  m_namedValues:
+    m_values: []
+  m_round: 0
+  m_comments: Bullets Left

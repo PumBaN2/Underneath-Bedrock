@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 825131332, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: LootTable_CrackedVial
+  m_EditorClassIdentifier: 
+  m_guid: 1dd275950fce42328bcb2aa6da693feb
+  m_guidHash: -1281520595
+  m_stabilizeResults: 0
+  m_dataStoreKey: 
+  m_fallback:
+    guid: 
+    guidHash: 0
+  m_reRollTags:
+    m_values: []
+  m_spawnTables:
+    m_values:
+    - count:
+        min: 1
+        max: 1
+      percent: 0
+      requirements:
+        operation: 0
+        expression: 
+        values:
+          m_values: []
+      spawnables:
+        m_values:
+        - weight:
+            m_weight: 4
+            m_luck:
+              m_type: 2
+              m_max: 20
+            m_requirements:
+              operation: 0
+              expression: 
+              values:
+                m_values:
+                - negate: 0
+                  type: 1
+                  check:
+                    rid: 6397139393247183742
+            m_passAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            m_failAdjust:
+              m_behavior: 0
+              m_adjust: 0
+              m_luckBehavior: 0
+              m_luckAdjust:
+                m_type: 0
+                m_max: 0
+              m_assignmentOp:
+                name: 
+                hash: 0
+              m_property:
+                guid: 
+                guidHash: 0
+              m_arithmeticOp:
+                name: 
+                hash: 0
+              m_value: 0
+            serialized: 1
+          spawnable:
+            guid: cace6a5f252dea147be7b7c124d9315c
+            guidHash: 748308695
+      guid: 3f0ef0b7ecc54c68983cf37161e42334
+  m_weightedSpawnTables:
+    m_values: []
+  m_previewIcon: {fileID: 0}
+  references:
+    version: 2
+    RefIds:
+    - rid: 6397139393247183742
+      type: {class: RequirementCheckPlayerStatusEffect, ns: Thor.Core, asm: Lithium.Core}
+      data:
+        statusEffect:
+          guid: b7ca211aaeb9c0f46aac58429bacf793
+          guidHash: -1497757794

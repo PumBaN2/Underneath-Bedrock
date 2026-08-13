@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -143053857, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Common_Pandora_box
+  m_EditorClassIdentifier: 
+  m_guid: 49668ba4f533402e90ea7174179c3979
+  m_guidHash: 539911080
+  m_properties:
+    icons:
+      m_sprites:
+      - {fileID: 21300000, guid: 40f41d9720da5cb48b2c9fd5290f6613, type: 3}
+      - {fileID: 0}
+      - {fileID: 0}
+    displayName:
+      m_id: -795893828
+    description:
+      m_id: 1368410945
+    flavor:
+      m_id: 0
+    color:
+      guid: 
+      guidHash: 0
+    palette:
+      guid: 
+      guidHash: 0
+    tags:
+      m_tags:
+        m_values:
+        - guid: ed168aa9e3517fc479997dcf15006bf3
+          guidHash: 558860884
+        - guid: dd4740af59c87e14f83d7ee994999b45
+          guidHash: -1405522484
+        - guid: b3e02739f0ff98e4cac2a2dcab3c4f87
+          guidHash: -896732828

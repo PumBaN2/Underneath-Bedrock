@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1783077148, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: AnimationData_Mina
+  m_EditorClassIdentifier: 
+  m_guid: d080a91445da413290fc241ff2e5fc5f
+  m_guidHash: -1002953506
+  m_facingMode: 3
+  m_blendMask:
+    value: 0
+  m_includeCommon: 1
+  m_controller: {fileID: 22100000, guid: 7867359c4382a3c4fb2f746be154ba35, type: 2}
+  m_fastAnimations:
+    m_values: []
+  m_markerSpace: 1
+  m_markers:
+    m_values: []

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -143053857, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Common_EncrustedSkull_Fixed
+  m_EditorClassIdentifier: 
+  m_guid: 6e577b881bdf408fa20ac43ea00ac21f
+  m_guidHash: 143161642
+  m_properties:
+    icons:
+      m_sprites:
+      - {fileID: 21300000, guid: 30fdfde65b67e4740aba11ea1cbd6acf, type: 3}
+      - {fileID: 0}
+      - {fileID: 0}
+    displayName:
+      m_id: -526498288
+    description:
+      m_id: -7610856
+    flavor:
+      m_id: 833414341
+    color:
+      guid: 
+      guidHash: 0
+    palette:
+      guid: 
+      guidHash: 0
+    tags:
+      m_tags:
+        m_values:
+        - guid: e2811021f5c8a244e9e598052457032c
+          guidHash: 1966562525
+        - guid: 29fcd0df3aca2614994a35c7e533d594
+          guidHash: 1795452930
+        - guid: a20c5ea4d93f3924cbcce8681280bfd7
+          guidHash: -237278429
+        - guid: 805263dff7f86e941a83f6a3c3981990
+          guidHash: 437698758

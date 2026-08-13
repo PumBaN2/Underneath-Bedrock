@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1783077148, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: AnimationData_BobsBrain_Egg
+  m_EditorClassIdentifier: 
+  m_guid: 5abd108b00ce4dd58a6c18cf07eb2e68
+  m_guidHash: -1429683713
+  m_facingMode: 0
+  m_blendMask:
+    value: 0
+  m_includeCommon: 1
+  m_controller: {fileID: 0}
+  m_fastAnimations:
+    m_values:
+    - animation:
+        value: 1
+      facing: 0
+      clip:
+        guid: e20628f5dfb2f814a822075305abab61
+        guidHash: 1776290171
+      flipX: 2
+      unscaledTime: 0
+      fps: 1
+    - animation:
+        value: 4
+      facing: 0
+      clip:
+        guid: 313fc2e3234e29b4c992797ac06db4cc
+        guidHash: 1077456787
+      flipX: 2
+      unscaledTime: 0
+      fps: 2
+    - animation:
+        value: 512
+      facing: 0
+      clip:
+        guid: bd13aa08c04726a4698e0ff4bfad8cca
+        guidHash: 370862819
+      flipX: 2
+      unscaledTime: 0
+      fps: 1
+  m_markerSpace: 1
+  m_markers:
+    m_values: []

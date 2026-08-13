@@ -1,0 +1,427 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8905438746644736386
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 141032809, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: NavigationModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_agentTypeID: 0
+  m_avoidTraps: 0
+  m_invertState: 0
+  m_followBehavior:
+    guid: 
+    guidHash: 0
+  m_area: 1
+  m_groundObstacle: 1
+  m_airObstacle: 1
+  m_floorObstacle: 0
+--- !u!114 &-8498578121411724735
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1687690090, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: PerimeterModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_heightThreshold: 2
+  m_perimeter:
+    m_points:
+    - {x: -0.8, y: 0, z: 0.8}
+    - {x: -0.8, y: 0, z: -0.8}
+    - {x: 0.8, y: 0, z: -0.8}
+    - {x: -0.8, y: 0, z: -0.8}
+    - {x: 0, y: 0, z: 0.8}
+    - {x: 0, y: 0, z: -0.8}
+    - {x: 0.8, y: 0, z: 0}
+    - {x: -0.8, y: 0, z: 0}
+    - {x: 0.8, y: 0, z: 0.8}
+    - {x: 0.8, y: 0, z: -0.8}
+    - {x: 0.8, y: 0, z: 0.8}
+    - {x: -0.8, y: 0, z: 0.8}
+  m_scatterMap:
+    m_points: []
+--- !u!114 &-8022906965334612084
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1663507818, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: PhysicsModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_isKinematic: 1
+  m_massCategory: 0
+  m_projectileBlock: 0
+  m_projectileBounce: 0
+  m_beamBlock: 1
+  m_ricochet: 1
+  m_supportsBallistics: 1
+  m_processMode: 0
+  m_counterRotate: 0
+  m_maxColliderScale: 0
+  m_groundDetectorZOffset: 0
+  m_landRadius: 0.5
+  m_gravityWell:
+    guid: 
+    guidHash: 0
+  m_collisionLayer: 8
+  m_excludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_customLaunchLayer: 0
+  m_launchCollisionLayer: 0
+  m_colliderConfigurations:
+    m_values:
+    - m_type: 0
+      m_center: {x: -0.68, y: 0, z: -0.065}
+      m_size: {x: 0.2, y: 50, z: 1.4}
+      m_radius: 2
+      m_height: 0
+      m_axis: 0
+      m_name: 
+  m_triggerConfigurations:
+    m_values: []
+--- !u!114 &-7365744323118837247
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -289490069, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: MixedModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_isStatic: 0
+  m_filterMask: 1
+  m_critable: 0
+  m_doorBlocker: 0
+  m_constrain: 0
+  m_trackSpawnCount: 0
+  m_trackSeenCount: 0
+  m_capture:
+    guid: 
+    guidHash: 0
+  m_scatterScale: 1
+--- !u!114 &-6567895048750520051
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1470154796, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: PrefabModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_prefab:
+    guid: c2c4ca1a8f10d7f4087c71e3d4a44b59
+    guidHash: 223161521
+--- !u!114 &-4067980749834878416
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 328415546, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: VisualModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_visualLayer: -1048789403
+  m_autosort: 1
+  m_sortOrder: 0
+  m_counterRotate: 0
+  m_reflectionEnabled: 0
+  m_rightsideUpReflection: 0
+  m_reflectionOffset: 0
+  m_occlusionEnabled: 0
+  m_sortPivot: 0
+  m_scaleAround: 0
+  m_overrideVisualOffset: 0
+  m_visualOffset: {x: 0, y: 0, z: 0}
+  m_fx:
+    guid: 
+    guidHash: 0
+  m_fxOffset: {x: 0, y: 0, z: -1}
+  m_fxRotation: {x: 0, y: 0, z: 0}
+  m_color: {r: 1, g: 1, b: 1, a: 1}
+  m_emissionColor: {r: 0, g: 0, b: 0, a: 0}
+  m_materials:
+    m_values:
+    - guid: ea5e1db09b50d3449abe339da36e549b
+      guidHash: -1898937329
+  m_highStatusOffset: {x: 0, y: 0}
+  m_midStatusOffset: {x: 0, y: 0}
+  m_lowStatusOffset: {x: 0, y: 0}
+--- !u!114 &-3431949347102854752
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 221154539, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: TileModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_tilePalette: 
+  m_icon: {fileID: 21300000, guid: ba342a3562520084594d94c13b4097f5, type: 3}
+  m_useIconInSceneView: 1
+--- !u!114 &-1343645232071218272
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1370092402, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: CommonModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_commonProperties:
+    common:
+      guid: 
+      guidHash: 0
+    properties:
+      icons:
+        m_sprites:
+        - {fileID: 21300000, guid: ba342a3562520084594d94c13b4097f5, type: 3}
+        - {fileID: 0}
+        - {fileID: 0}
+      displayName:
+        m_id: 0
+      description:
+        m_id: 0
+      flavor:
+        m_id: 0
+      color:
+        guid: 
+        guidHash: 0
+      palette:
+        guid: 
+        guidHash: 0
+      tags:
+        m_tags:
+          m_values:
+          - guid: 93110e33d5559aa458443734b1d6eedf
+            guidHash: 1202120684
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -507257532, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Prop_MinigameCorner_Green
+  m_EditorClassIdentifier: 
+  m_guid: e9ce02ecee9f458dbf446b52aa78ccd6
+  m_guidHash: -442710842
+  m_commonModule: {fileID: -1343645232071218272}
+  m_tagModule: {fileID: 0}
+  m_lifespanModule: {fileID: 0}
+  m_mixedModule: {fileID: -7365744323118837247}
+  m_allianceModule: {fileID: 0}
+  m_popupModule: {fileID: 0}
+  m_interactionModule: {fileID: 0}
+  m_toggleModule: {fileID: 0}
+  m_timerModule: {fileID: 0}
+  m_behaviorModule: {fileID: 0}
+  m_dataStoreModule: {fileID: 0}
+  m_inventoryModule: {fileID: 0}
+  m_statModule: {fileID: 0}
+  m_modifierModule: {fileID: 0}
+  m_casterModule: {fileID: 0}
+  m_resistanceModule: {fileID: 0}
+  m_costModule: {fileID: 0}
+  m_animationModule: {fileID: 0}
+  m_visualModule: {fileID: -4067980749834878416}
+  m_shadowModule: {fileID: 0}
+  m_audioModule: {fileID: 886693251340254885}
+  m_portalModule: {fileID: 0}
+  m_teleporterModule: {fileID: 0}
+  m_physicsModule: {fileID: -8022906965334612084}
+  m_jumpModule: {fileID: 0}
+  m_lightModule: {fileID: 0}
+  m_facingModule: {fileID: 0}
+  m_navigationModule: {fileID: -8905438746644736386}
+  m_hazardModule: {fileID: 0}
+  m_footstepModule: {fileID: 0}
+  m_deathModule: {fileID: 0}
+  m_perimeterModule: {fileID: -8498578121411724735}
+  m_spawnModule: {fileID: 0}
+  m_miniMapModule: {fileID: 0}
+  m_carryModule: {fileID: 0}
+  m_gridModule: {fileID: 1010947255254398790}
+  m_prefabModule: {fileID: -6567895048750520051}
+  m_swapModule: {fileID: 0}
+  m_requirementModule: {fileID: 0}
+  m_tileModule: {fileID: -3431949347102854752}
+  m_skinModule: {fileID: 0}
+--- !u!114 &886693251340254885
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1222615185, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: AudioModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_music:
+    guid: 
+    guidHash: 0
+  m_talkAudio:
+    guid: 
+    guidHash: 0
+  m_commonAudio:
+    m_values: []
+  m_audioEvents:
+    m_values:
+    - m_eventMatcher:
+        m_eventType: 27
+        m_dataHint:
+          guid: 
+          guidHash: 0
+        m_stringHint: play
+        m_polarity: 0
+        m_polaritySecondary: 0
+        m_tags:
+          m_tags:
+            m_values: []
+        m_tagGrammar: 
+      m_action: 0
+      m_audio:
+        guid: fd90b14ebe1cc0c40bbd5d290797df8b
+        guidHash: -1293219529
+      m_requirements:
+        operation: 0
+        expression: '{0}'
+        values:
+          m_values: []
+    - m_eventMatcher:
+        m_eventType: 27
+        m_dataHint:
+          guid: 
+          guidHash: 0
+        m_stringHint: play
+        m_polarity: 0
+        m_polaritySecondary: 0
+        m_tags:
+          m_tags:
+            m_values: []
+        m_tagGrammar: 
+      m_action: 0
+      m_audio:
+        guid: 99cc8944eea462b489983ee9cbe42536
+        guidHash: 1104632692
+      m_requirements:
+        operation: 0
+        expression: '{0}'
+        values:
+          m_values: []
+    - m_eventMatcher:
+        m_eventType: 27
+        m_dataHint:
+          guid: 
+          guidHash: 0
+        m_stringHint: stop
+        m_polarity: 0
+        m_polaritySecondary: 0
+        m_tags:
+          m_tags:
+            m_values: []
+        m_tagGrammar: 
+      m_action: 0
+      m_audio:
+        guid: 364718fb704abd4499225e5d9a4deb9a
+        guidHash: -587861735
+      m_requirements:
+        operation: 0
+        expression: '{0}'
+        values:
+          m_values: []
+    - m_eventMatcher:
+        m_eventType: 27
+        m_dataHint:
+          guid: 
+          guidHash: 0
+        m_stringHint: stop
+        m_polarity: 0
+        m_polaritySecondary: 0
+        m_tags:
+          m_tags:
+            m_values: []
+        m_tagGrammar: 
+      m_action: 1
+      m_audio:
+        guid: 99cc8944eea462b489983ee9cbe42536
+        guidHash: 1104632692
+      m_requirements:
+        operation: 0
+        expression: '{0}'
+        values:
+          m_values: []
+  references:
+    version: 2
+    RefIds: []
+--- !u!114 &1010947255254398790
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1673160330, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: GridModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_isReadOnly: 0
+  m_destroyOnMerge:
+    m_values: []
+  m_destroyOnMergeMask:
+    m_values: []
+  m_destroyOnUnmerge:
+    m_values: []
+  m_gridMap:
+    origin: {x: 0, y: 0}
+    offset: {x: 0, y: 0}
+    size: {x: 1, y: 1}
+    gridMap:
+    - guid: 3af07bbff2b88f548963da980fad633b
+      guidHash: -632287117

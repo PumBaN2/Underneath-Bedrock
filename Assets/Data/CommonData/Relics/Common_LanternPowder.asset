@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -143053857, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Common_LanternPowder
+  m_EditorClassIdentifier: 
+  m_guid: 81f8d714eb9845c4a2bcf2639979d00a
+  m_guidHash: 876602677
+  m_properties:
+    icons:
+      m_sprites:
+      - {fileID: 21300000, guid: 46fd935266e2b494098658208df23ccf, type: 3}
+      - {fileID: 0}
+      - {fileID: 0}
+    displayName:
+      m_id: -16973071
+    description:
+      m_id: 367644736
+    flavor:
+      m_id: 625941014
+    color:
+      guid: 
+      guidHash: 0
+    palette:
+      guid: 
+      guidHash: 0
+    tags:
+      m_tags:
+        m_values:
+        - guid: e2811021f5c8a244e9e598052457032c
+          guidHash: 1966562525
+        - guid: 1702ba4ac7749d247abbdd3a6977cbd0
+          guidHash: -2033729002
+        - guid: fe9eba3dad6d5124e9a2787da4943735
+          guidHash: 1079384439
+        - guid: 426dc7d9c10df7a46838b11f3399cb40
+          guidHash: 314727763
+        - guid: 3dd4f832681d104429b991943105f878
+          guidHash: 1485235909
+        - guid: a77a4c84c9ba4ed4caf747fdc8a9c21e
+          guidHash: 234566719

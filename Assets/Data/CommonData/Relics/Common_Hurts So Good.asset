@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -143053857, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Common_Hurts So Good
+  m_EditorClassIdentifier: 
+  m_guid: ad29fd98a6aa46cba14f955b8d260eee
+  m_guidHash: -1453218559
+  m_properties:
+    icons:
+      m_sprites:
+      - {fileID: 21300000, guid: 70843dc95495bce4cbaeb29426506738, type: 3}
+      - {fileID: 0}
+      - {fileID: 0}
+    displayName:
+      m_id: -450620636
+    description:
+      m_id: -564606197
+    flavor:
+      m_id: -1453147761
+    color:
+      guid: 
+      guidHash: 0
+    palette:
+      guid: 
+      guidHash: 0
+    tags:
+      m_tags:
+        m_values:
+        - guid: e2811021f5c8a244e9e598052457032c
+          guidHash: 1966562525
+        - guid: a20c5ea4d93f3924cbcce8681280bfd7
+          guidHash: -237278429
+        - guid: 29fcd0df3aca2614994a35c7e533d594
+          guidHash: 1795452930

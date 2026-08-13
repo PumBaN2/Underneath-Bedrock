@@ -1,0 +1,357 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7498994320741419268
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1727174509, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: TagModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_addToEncounter: 0
+  m_commonTags:
+    m_values: []
+  m_exclusions:
+    m_tags:
+      m_values: []
+  m_tags:
+    m_tags:
+      m_values: []
+--- !u!114 &-6234154279163226529
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1370092402, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: CommonModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_commonProperties:
+    common:
+      guid: 
+      guidHash: 0
+    properties:
+      icons:
+        m_sprites:
+        - {fileID: 21300000, guid: 1fe60d06ce6997c418b4c9614c04856a, type: 3}
+        - {fileID: 0}
+        - {fileID: 0}
+      displayName:
+        m_id: 606738836
+      description:
+        m_id: -1065593332
+      flavor:
+        m_id: -754791869
+      color:
+        guid: 
+        guidHash: 0
+      palette:
+        guid: 
+        guidHash: 0
+      tags:
+        m_tags:
+          m_values: []
+--- !u!114 &-5759445569962597086
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1205558768, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: MiniMapModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_category: 1
+  m_visibility: 0
+  m_priority: 0
+  m_icon: {fileID: 21300000, guid: 848364277ce568a4bb7efc66a5fe1794, type: 3}
+--- !u!114 &-2924890181202786094
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1616187677, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: ItemModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_isPromptable: 0
+  m_maxSpawnCount: -1
+  m_pickupBehavior: {fileID: -325711531485555303}
+  m_pickupRequirements:
+    operation: 1
+    expression: '{0}'
+    values:
+      m_values:
+      - negate: 0
+        type: 25
+        check:
+          rid: 5307569825515569505
+      - negate: 0
+        type: 5
+        check:
+          rid: 5307569825515569506
+  m_entityDataOverride:
+    guid: 
+    guidHash: 0
+  m_sparklesFX:
+    guid: 
+    guidHash: 0
+  m_invertUnlockSemantics: 0
+  m_isUnlockedByDefault: 1
+  m_unlockOnSee: 0
+  m_unlockOnPickup: 0
+  m_isDiscoveredByDefault: 0
+  m_discoverOnSee: 0
+  m_discoverOnPickup: 0
+  m_pickupAudio:
+    guid: 0e6468cfbc911454fa62da5f85e97ba6
+    guidHash: 1712836551
+  m_landAudio:
+    guid: fb60c98d7f265b542a7aea15e283346c
+    guidHash: -780558040
+  m_removalWeight:
+    m_weight: 1
+    m_luck:
+      m_type: 0
+      m_max: 0
+    m_requirements:
+      operation: 0
+      expression: '{0}'
+      values:
+        m_values: []
+    m_passAdjust:
+      m_behavior: 0
+      m_adjust: 0
+      m_luckBehavior: 0
+      m_luckAdjust:
+        m_type: 0
+        m_max: 0
+      m_assignmentOp:
+        name: =
+        hash: 372029329
+      m_property:
+        guid: 
+        guidHash: 0
+      m_arithmeticOp:
+        name: +
+        hash: 372029319
+      m_value: 0
+    m_failAdjust:
+      m_behavior: 0
+      m_adjust: 0
+      m_luckBehavior: 0
+      m_luckAdjust:
+        m_type: 0
+        m_max: 0
+      m_assignmentOp:
+        name: =
+        hash: 372029329
+      m_property:
+        guid: 
+        guidHash: 0
+      m_arithmeticOp:
+        name: +
+        hash: 372029319
+      m_value: 0
+    serialized: 1
+  references:
+    version: 2
+    RefIds:
+    - rid: 5307569825515569505
+      type: {class: RequirementCheckSetting, ns: Thor.Core, asm: Lithium.Core}
+      data:
+        setting:
+          guid: 97fc35b5c13ec4f4f921b6419c08c8ed
+          guidHash: 1307759060
+        op:
+          name: ==
+          hash: 502129296
+        boolValue: 1
+        floatValue: 0
+        stringValue: 
+    - rid: 5307569825515569506
+      type: {class: RequirementCheckProperty, ns: Thor.Core, asm: Lithium.Core}
+      data:
+        property:
+          guid: 610134da009380b4083c1d0864386051
+          guidHash: 1001782612
+        op:
+          name: <
+          hash: 372029330
+        value: 1
+--- !u!114 &-325711531485555303
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 173507967, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: PickedUp
+  m_EditorClassIdentifier: 
+  _serializedGraph: '{"type":"Thor.Core.ExtendedBehaviorTree","nodes":[{"_position":{"x":466.0167,"y":447.6562},"$type":"NodeCanvas.BehaviourTrees.Sequencer","$id":"0"},{"_action":{"m_property":{"guid":"8d36d3f66e3c2c149bbed11feefec771","guidHash":939054716},"m_target":{"_name":"Self","_targetVariableID":"154cf9b5-6958-4aae-be49-3f7874d7f39d"},"m_output":{"_name":"Scale","_targetVariableID":"7031b812-75e4-45f4-897e-c0a276aa8aef"},"$type":"Thor.Core.GetPropertyValue"},"_position":{"x":356.0167,"y":547.6562},"$type":"NodeCanvas.BehaviourTrees.ActionNode","$id":"1"},{"_action":{"m_target":{"_name":"Target","_targetVariableID":"1c43ce69-4523-49d4-8fc7-44ff2f40271f"},"m_source":{"_name":"Self","_targetVariableID":"154cf9b5-6958-4aae-be49-3f7874d7f39d"},"m_changeResourceData":{"transactionType":1,"category":1,"resource":{"m_data":{"guid":"86194e7362b54534eb1fbb29287b2b0a","guidHash":-1869780405},"m_target":{"_name":"Self","_targetVariableID":"154cf9b5-6958-4aae-be49-3f7874d7f39d"},"m_key":{},"m_variable":{}},"attribute":{"m_data":{},"m_target":{"_name":"Self","_targetVariableID":"154cf9b5-6958-4aae-be49-3f7874d7f39d"},"m_key":{},"m_variable":{}},"combatant":{"_name":"Owner"},"canCrit":{},"direct":{},"variance":{"_value":true},"ignoreGracePeriod":{},"gracePeriod":{},"ignoreResistances":{},"gracePeriodGUID":{"m_guid":"f54dc76287f34eebac0d79967b0a62ad","m_hash":1305085485}},"m_propertyValueData":{"target":{"_name":"Owner"},"property":{"guid":""},"lookupKey":{"_value":""},"op":{"name":"*","hash":372029320},"value":{"_value":5.0},"operand":{"_name":"Scale","_targetVariableID":"7031b812-75e4-45f4-897e-c0a276aa8aef"}},"m_position":{"_value":{"entity":{"_name":"Target","_targetVariableID":"1c43ce69-4523-49d4-8fc7-44ff2f40271f"},"directionContext":{"_name":"Self","_targetVariableID":"154cf9b5-6958-4aae-be49-3f7874d7f39d"},"target":{},"scale":{"_value":1.0},"offset":{},"marker":{},"visual":{},"flatten":{},"constrain":{},"gridData":{},"walkableFor":{"_name":""},"walkableForData":{},"variance":{"random":{},"value":{"target":{"_name":"Owner"},"property":{},"lookupKey":{},"value":{},"operand":{}},"min":{"target":{"_name":"Owner"},"property":{},"lookupKey":{},"value":{},"operand":{}},"max":{"target":{"_name":"Owner"},"property":{},"lookupKey":{},"value":{},"operand":{}}}}},"m_tags":{"m_tags":{"m_values":[{"guid":"b5a5ce04f5827ad4fbaa00c6428b9d45","guidHash":-162146121}]}},"m_delay":{},"m_showDrop":{},"$type":"Thor.Core.ChangeResource"},"_position":{"x":502.0167,"y":544.6562},"$type":"NodeCanvas.BehaviourTrees.ActionNode","$id":"2"}],"connections":[{"_sourceNode":{"$ref":"0"},"_targetNode":{"$ref":"1"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"0"},"_targetNode":{"$ref":"2"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"}],"canvasGroups":[],"localBlackboard":{"_variables":{"Self":{"_value":{},"_name":"Self","_id":"154cf9b5-6958-4aae-be49-3f7874d7f39d","_isPublic":true,"$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Target":{"_value":{},"_name":"Target","_id":"1c43ce69-4523-49d4-8fc7-44ff2f40271f","_isPublic":true,"$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Scale":{"_name":"Scale","_id":"7031b812-75e4-45f4-897e-c0a276aa8aef","$type":"NodeCanvas.Framework.Variable`1[[System.Double,
+    mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"}}},"derivedData":{"autoVariables":{"m_values":[]},"$type":"Thor.Core.ExtendedBehaviorTree+DerivedSerializationData"}}'
+  _objectReferences: []
+  _graphSource:
+    _version: 3.3
+    _category: 
+    _comments: 
+    _translation: {x: 59.707645, y: 56.054626}
+    _zoomFactor: 0.94479954
+  _haltSerialization: 0
+  _externalSerializationFile: {fileID: 0}
+  m_preProcess: 0
+  m_processOnEnable: 0
+  m_uninterruptible: 0
+  m_proxy: 0
+  m_autoVariables:
+    m_values: []
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 517854022, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Item_PlantLeaf2
+  m_EditorClassIdentifier: 
+  m_guid: 759cdd7d9bbf4178b28fceff292f49f0
+  m_guidHash: 706680456
+  m_commonModule: {fileID: -6234154279163226529}
+  m_tagModule: {fileID: -7498994320741419268}
+  m_behaviorModule: {fileID: 729014866370715335}
+  m_itemModule: {fileID: -2924890181202786094}
+  m_costModule: {fileID: 7105827610743401994}
+  m_miniMapModule: {fileID: -5759445569962597086}
+  m_swapModule: {fileID: 5952813122340698575}
+  m_shadowModule: {fileID: 0}
+  m_requirementModule: {fileID: 0}
+  m_itemAnimationModule: {fileID: 0}
+  m_itemDeathModule: {fileID: 0}
+--- !u!114 &729014866370715335
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1425980735, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: BehaviorModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_behavior:
+    guid: e1084ce124eda1a48b38751f62a5b1ec
+    guidHash: -974034722
+  m_startDelay: 0
+  m_stunRecoverDuration: 0
+  m_interrupt: 0
+  m_tickDuringNIS: 1
+--- !u!114 &5952813122340698575
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1276104949, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: SwapModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_swaps:
+    m_values: []
+  m_duplicates:
+    m_values: []
+  references:
+    version: 2
+    RefIds: []
+--- !u!114 &7105827610743401994
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1249944787, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: CostModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_isFree: 0
+  m_isSilent: 0
+  m_inheritCostModifiers: 0
+  m_activeCosts: 0
+  m_commonCosts:
+    guid: 
+    guidHash: 0
+  m_costGroups:
+    m_values:
+    - m_category: 1
+      m_inheritedCosts:
+        m_values: []
+      m_costs:
+        m_values:
+        - m_costable:
+            guid: e2fa349028f7d0e449219e0b4098ca82
+            guidHash: -129955455
+          m_source: 1
+          m_amount: 50
+          m_category: Food Very Low
+          m_categoryHash: -1197772028
+          m_transactionType: 0
+          m_requirementOnly: 0
+    - m_category: 128
+      m_inheritedCosts:
+        m_values: []
+      m_costs:
+        m_values:
+        - m_costable:
+            guid: e2fa349028f7d0e449219e0b4098ca82
+            guidHash: -129955455
+          m_source: 1
+          m_amount: 50
+          m_category: Food Very Low
+          m_categoryHash: -1197772028
+          m_transactionType: 0
+          m_requirementOnly: 0
+    - m_category: 2
+      m_inheritedCosts:
+        m_values: []
+      m_costs:
+        m_values:
+        - m_costable:
+            guid: 86194e7362b54534eb1fbb29287b2b0a
+            guidHash: -1869780405
+          m_source: 0
+          m_amount: 25
+          m_category: Food Very Low
+          m_categoryHash: -1197772028
+          m_transactionType: 0
+          m_requirementOnly: 0

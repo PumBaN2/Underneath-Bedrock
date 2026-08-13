@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1783077148, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: AnimationData_Twins_Egg
+  m_EditorClassIdentifier: 
+  m_guid: e35fb226dcd94a719a0d38629cc4c8f9
+  m_guidHash: 611545880
+  m_facingMode: 0
+  m_blendMask:
+    value: 0
+  m_includeCommon: 1
+  m_controller: {fileID: 0}
+  m_fastAnimations:
+    m_values:
+    - animation:
+        value: 1
+      facing: 0
+      clip:
+        guid: a825351af9d9d674d971269638963234
+        guidHash: 98871245
+      flipX: 2
+      unscaledTime: 0
+      fps: 1
+    - animation:
+        value: 4
+      facing: 0
+      clip:
+        guid: f34bf68e1ffef0548821d9d8ab0e5d5b
+        guidHash: -1848673789
+      flipX: 2
+      unscaledTime: 0
+      fps: 2
+    - animation:
+        value: 512
+      facing: 0
+      clip:
+        guid: b008cee1dd45ba14689bef3539139f39
+        guidHash: 1028971912
+      flipX: 2
+      unscaledTime: 0
+      fps: 1
+  m_markerSpace: 1
+  m_markers:
+    m_values: []

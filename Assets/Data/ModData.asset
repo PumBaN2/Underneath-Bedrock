@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -20201445, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: ModData
+  m_EditorClassIdentifier: 
+  m_guid: 8a375e25cc7a450c847f7e7f32f5a6b7
+  m_guidHash: 1294630016
+  m_version: 1
+  m_workshopID: 0
+  m_lastPublishedAt: 0
+  m_name: Mod Name
+  m_description: This is the greatest and best mod in the world
+  m_tags: undermine,undermine2
+  m_previewImage: {fileID: 2800000, guid: 69a2a2e79aad29e4c9024187755d7190, type: 3}
+  m_additionalEncounters:
+    m_values: []
+  m_additionalSpawnTables:
+    m_values: []
+  m_additionalEnemyLists:
+    m_values: []

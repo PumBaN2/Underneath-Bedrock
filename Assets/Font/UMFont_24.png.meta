@@ -1,0 +1,3759 @@
+fileFormatVersion: 2
+guid: dd452801e62f80c49aeae20690264a7e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7070031569022632029
+    second: UMFont_24_0
+  - first:
+      213: 548231834170404193
+    second: UMFont_24_1
+  - first:
+      213: 2650388925217628579
+    second: UMFont_24_2
+  - first:
+      213: -3122542958695085159
+    second: UMFont_24_3
+  - first:
+      213: 115624751209506185
+    second: UMFont_24_4
+  - first:
+      213: -8272900769369466543
+    second: UMFont_24_5
+  - first:
+      213: -4790313604242381554
+    second: UMFont_24_6
+  - first:
+      213: -683216991808005563
+    second: UMFont_24_7
+  - first:
+      213: 2430038883551202774
+    second: UMFont_24_8
+  - first:
+      213: -904072533659862247
+    second: UMFont_24_9
+  - first:
+      213: -5326335091707192105
+    second: UMFont_24_10
+  - first:
+      213: -5960523606784230359
+    second: UMFont_24_11
+  - first:
+      213: 4426933032503670894
+    second: UMFont_24_12
+  - first:
+      213: -1807221255218568308
+    second: UMFont_24_13
+  - first:
+      213: -592791128223645408
+    second: UMFont_24_14
+  - first:
+      213: 3043208572199788936
+    second: UMFont_24_15
+  - first:
+      213: -2039309983087724491
+    second: UMFont_24_16
+  - first:
+      213: 6793626064427564861
+    second: UMFont_24_17
+  - first:
+      213: -4268635810250076069
+    second: UMFont_24_18
+  - first:
+      213: 3765667015768911882
+    second: UMFont_24_19
+  - first:
+      213: 3233758244348025867
+    second: UMFont_24_20
+  - first:
+      213: -6616826447066903454
+    second: UMFont_24_21
+  - first:
+      213: 4931465458742328297
+    second: UMFont_24_22
+  - first:
+      213: -4006097722117821347
+    second: UMFont_24_23
+  - first:
+      213: 5061211224902238780
+    second: UMFont_24_24
+  - first:
+      213: 6741546313706991318
+    second: UMFont_24_25
+  - first:
+      213: 4957086029138923510
+    second: UMFont_24_26
+  - first:
+      213: 2247145269369803619
+    second: UMFont_24_27
+  - first:
+      213: -6978470315792467857
+    second: UMFont_24_28
+  - first:
+      213: -9071017081487273850
+    second: UMFont_24_29
+  - first:
+      213: -1680421702206015238
+    second: UMFont_24_30
+  - first:
+      213: -8262801103684842889
+    second: UMFont_24_31
+  - first:
+      213: 187074392470355961
+    second: UMFont_24_32
+  - first:
+      213: 4407554177224483004
+    second: UMFont_24_33
+  - first:
+      213: 5308436249771842724
+    second: UMFont_24_34
+  - first:
+      213: -8845412577099511346
+    second: UMFont_24_35
+  - first:
+      213: 6881772911442465344
+    second: UMFont_24_36
+  - first:
+      213: 452590903004176779
+    second: UMFont_24_37
+  - first:
+      213: -3583957990842079959
+    second: UMFont_24_38
+  - first:
+      213: 2780257201829979150
+    second: UMFont_24_39
+  - first:
+      213: -1205559472859495307
+    second: UMFont_24_40
+  - first:
+      213: -488582562607025688
+    second: UMFont_24_41
+  - first:
+      213: 1223392043109846386
+    second: UMFont_24_42
+  - first:
+      213: 6513873975128546891
+    second: UMFont_24_43
+  - first:
+      213: 9211273231196054958
+    second: UMFont_24_44
+  - first:
+      213: -3194715554524777587
+    second: UMFont_24_45
+  - first:
+      213: -3436072743766205927
+    second: UMFont_24_46
+  - first:
+      213: -7941999638798713181
+    second: UMFont_24_47
+  - first:
+      213: -7168788868176427158
+    second: UMFont_24_48
+  - first:
+      213: -1187552600757107525
+    second: UMFont_24_49
+  - first:
+      213: 142236965738273482
+    second: UMFont_24_50
+  - first:
+      213: 1519532511981359445
+    second: UMFont_24_51
+  - first:
+      213: 1736876864544914096
+    second: UMFont_24_52
+  - first:
+      213: 709238621411480409
+    second: UMFont_24_53
+  - first:
+      213: 5791010537239271
+    second: UMFont_24_54
+  - first:
+      213: -3984316401244753002
+    second: UMFont_24_55
+  - first:
+      213: 7005199317133244313
+    second: UMFont_24_56
+  - first:
+      213: -470087365243314345
+    second: UMFont_24_57
+  - first:
+      213: 2711602611155369212
+    second: UMFont_24_58
+  - first:
+      213: -6287245730415592628
+    second: UMFont_24_59
+  - first:
+      213: 4065736505887572515
+    second: UMFont_24_60
+  - first:
+      213: -8789824604099014387
+    second: UMFont_24_61
+  - first:
+      213: -7625169423201502028
+    second: UMFont_24_62
+  - first:
+      213: -4992242533773708581
+    second: UMFont_24_63
+  - first:
+      213: -5595534662941396974
+    second: UMFont_24_64
+  - first:
+      213: 3272889851231941685
+    second: UMFont_24_65
+  - first:
+      213: -5346384428016521963
+    second: UMFont_24_66
+  - first:
+      213: 1111490619826545415
+    second: UMFont_24_67
+  - first:
+      213: 912970712369792627
+    second: UMFont_24_68
+  - first:
+      213: 403094497111263406
+    second: UMFont_24_69
+  - first:
+      213: -1771729243361463930
+    second: UMFont_24_70
+  - first:
+      213: -6800677170268943334
+    second: UMFont_24_71
+  - first:
+      213: 7195236914570370089
+    second: UMFont_24_72
+  - first:
+      213: -6223226363456791039
+    second: UMFont_24_73
+  - first:
+      213: 6509612634285572163
+    second: UMFont_24_74
+  - first:
+      213: -4023937312316010398
+    second: UMFont_24_75
+  - first:
+      213: -2635732994010693097
+    second: UMFont_24_76
+  - first:
+      213: -3956903603899992448
+    second: UMFont_24_77
+  - first:
+      213: -1369398229026434015
+    second: UMFont_24_78
+  - first:
+      213: -180614690284662012
+    second: UMFont_24_79
+  - first:
+      213: 3950451962049858692
+    second: UMFont_24_80
+  - first:
+      213: -4110377033548832390
+    second: UMFont_24_81
+  - first:
+      213: 773591117186001130
+    second: UMFont_24_82
+  - first:
+      213: -6185705332204775616
+    second: UMFont_24_83
+  - first:
+      213: 7880406226717261182
+    second: UMFont_24_84
+  - first:
+      213: -2026437508446866641
+    second: UMFont_24_85
+  - first:
+      213: -8725029559085454635
+    second: UMFont_24_86
+  - first:
+      213: 2921726686113505757
+    second: UMFont_24_87
+  - first:
+      213: 3882428806310898791
+    second: UMFont_24_88
+  - first:
+      213: 646224261030160402
+    second: UMFont_24_89
+  - first:
+      213: -4639302379847660563
+    second: UMFont_24_90
+  - first:
+      213: 5383417571019733722
+    second: UMFont_24_91
+  - first:
+      213: -4263373933766672326
+    second: UMFont_24_92
+  - first:
+      213: -8076245290292709912
+    second: UMFont_24_93
+  - first:
+      213: -6415220873100129341
+    second: UMFont_24_94
+  - first:
+      213: 3796171059171696181
+    second: UMFont_24_95
+  - first:
+      213: -7087458542834240653
+    second: UMFont_24_96
+  - first:
+      213: 6764510307833572763
+    second: UMFont_24_97
+  - first:
+      213: -6884320675943329626
+    second: UMFont_24_98
+  - first:
+      213: -7404329811307991724
+    second: UMFont_24_99
+  - first:
+      213: 6550308903014779909
+    second: UMFont_24_100
+  - first:
+      213: 8742147376992423686
+    second: UMFont_24_101
+  - first:
+      213: 7000704282897814717
+    second: UMFont_24_102
+  - first:
+      213: 313395193409063137
+    second: UMFont_24_103
+  - first:
+      213: 8677455271599159810
+    second: UMFont_24_104
+  - first:
+      213: -2372362634194982658
+    second: UMFont_24_105
+  - first:
+      213: -3881347290806031579
+    second: UMFont_24_106
+  - first:
+      213: 9181055622418764739
+    second: UMFont_24_107
+  - first:
+      213: -2162404527922471034
+    second: UMFont_24_108
+  - first:
+      213: 4304841474787270738
+    second: UMFont_24_109
+  - first:
+      213: -7624159799314560483
+    second: UMFont_24_110
+  - first:
+      213: 4312559414801217584
+    second: UMFont_24_111
+  - first:
+      213: 7377964062650741105
+    second: UMFont_24_112
+  - first:
+      213: -226433219240500125
+    second: UMFont_24_113
+  - first:
+      213: 6067299070455092891
+    second: UMFont_24_114
+  - first:
+      213: 373901994305986004
+    second: UMFont_24_115
+  - first:
+      213: -2033356337578556571
+    second: UMFont_24_116
+  - first:
+      213: 1318742912572207635
+    second: UMFont_24_117
+  - first:
+      213: 3768131708128085750
+    second: UMFont_24_118
+  - first:
+      213: -6082219350608236298
+    second: UMFont_24_119
+  - first:
+      213: -4579892698967915800
+    second: UMFont_24_120
+  - first:
+      213: 5445399834955720126
+    second: UMFont_24_121
+  - first:
+      213: 2462584569839823715
+    second: UMFont_24_122
+  - first:
+      213: 7720498187233242081
+    second: UMFont_24_123
+  - first:
+      213: 7538515838919281870
+    second: UMFont_24_124
+  - first:
+      213: -3672192446868777084
+    second: UMFont_24_125
+  - first:
+      213: 6851568910639790762
+    second: UMFont_24_126
+  - first:
+      213: 5415414460680428193
+    second: UMFont_24_127
+  - first:
+      213: -4854611863220737564
+    second: UMFont_24_128
+  - first:
+      213: 2260733381647625565
+    second: UMFont_24_129
+  - first:
+      213: 1421169639004980624
+    second: UMFont_24_130
+  - first:
+      213: 795500536934322370
+    second: UMFont_24_131
+  - first:
+      213: 8226820480091389592
+    second: UMFont_24_132
+  - first:
+      213: 1406125422509037555
+    second: UMFont_24_133
+  - first:
+      213: 1852338344398668191
+    second: UMFont_24_134
+  - first:
+      213: -4603636765654097070
+    second: UMFont_24_135
+  - first:
+      213: -4952751896040212681
+    second: UMFont_24_136
+  - first:
+      213: -5729381991723009431
+    second: UMFont_24_137
+  - first:
+      213: 6976542388815081887
+    second: UMFont_24_138
+  - first:
+      213: -4671731537236146378
+    second: UMFont_24_139
+  - first:
+      213: 8907707438629046738
+    second: UMFont_24_140
+  - first:
+      213: 2894725168673905656
+    second: UMFont_24_141
+  - first:
+      213: -9143806154574594092
+    second: UMFont_24_142
+  - first:
+      213: 3542072338972986092
+    second: UMFont_24_143
+  - first:
+      213: -8983927201492160092
+    second: UMFont_24_144
+  - first:
+      213: 6128604507183936005
+    second: UMFont_24_145
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UMFont_24_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 239
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afbb912fb332ed90800000000000000
+      internalID: -7070031569022632029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 236
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16da942d2f5bb9700800000000000000
+      internalID: 548231834170404193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 228
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1e9346fa218c420800000000000000
+      internalID: 2650388925217628579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 226
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b051719bf7aa4d0800000000000000
+      internalID: -3122542958695085159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 226
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985e51f3918ca9100800000000000000
+      internalID: 115624751209506185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_5
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 226
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1595dabf490c03d80800000000000000
+      internalID: -8272900769369466543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 226
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0569683823658db0800000000000000
+      internalID: -4790313604242381554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_7
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 226
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ad5ca04c9b486f0800000000000000
+      internalID: -683216991808005563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 143
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddc47c5d7b39b120800000000000000
+      internalID: 2430038883551202774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 215
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b340412d61473f0800000000000000
+      internalID: -904072533659862247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 212
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc5818447e0516b0800000000000000
+      internalID: -5326335091707192105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 206
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cbb4e1c57f74da0800000000000000
+      internalID: -5960523606784230359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_12
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 204
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68f2de5320af6d30800000000000000
+      internalID: 4426933032503670894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 204
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83692ce7d57be6e0800000000000000
+      internalID: -1807221255218568308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_14
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 204
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0210a301c9bf5c7f0800000000000000
+      internalID: -592791128223645408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_15
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 204
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8816463a216ab3a20800000000000000
+      internalID: 3043208572199788936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 204
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538f527006ae2b3e0800000000000000
+      internalID: -2039309983087724491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_17
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 204
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f3a0359eec74e50800000000000000
+      internalID: 6793626064427564861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 191
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b505886c852c2c4c0800000000000000
+      internalID: -4268635810250076069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 188
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00bf411336524430800000000000000
+      internalID: 3765667015768911882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_20
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 248
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cdad37dfd90ec20800000000000000
+      internalID: 3233758244348025867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_21
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 184
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26cca22676f4c24a0800000000000000
+      internalID: -6616826447066903454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 164
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebf17ae4b5107440800000000000000
+      internalID: 4931465458742328297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_23
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 182
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c6aa1d85b7768c0800000000000000
+      internalID: -4006097722117821347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_24
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 182
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3284892bc80d3640800000000000000
+      internalID: 5061211224902238780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_25
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 182
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de695177a8ce8d50800000000000000
+      internalID: 6741546313706991318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_26
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 182
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff80efca7b1bc440800000000000000
+      internalID: 4957086029138923510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_27
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 182
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3639c7377b67f2f10800000000000000
+      internalID: 2247145269369803619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_28
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 182
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68f497a83e772f90800000000000000
+      internalID: -6978470315792467857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_29
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 176
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680537256064d1280800000000000000
+      internalID: -9071017081487273850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_30
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 164
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af837277d51fda8e0800000000000000
+      internalID: -1680421702206015238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_31
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 248
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ac825ac22a45d80800000000000000
+      internalID: -8262801103684842889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_32
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 226
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff74c53b2f989200800000000000000
+      internalID: 187074392470355961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb021c50c27ca2d30800000000000000
+      internalID: 4407554177224483004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_34
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 160
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac1574d4aa5ba940800000000000000
+      internalID: 5308436249771842724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_35
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 160
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9063a4028ce3580800000000000000
+      internalID: -8845412577099511346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_36
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 160
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0421f637008f08f50800000000000000
+      internalID: 6881772911442465344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_37
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 160
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b812322470de74600800000000000000
+      internalID: 452590903004176779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_38
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 160
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9256fe92239334ec0800000000000000
+      internalID: -3583957990842079959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_39
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 161
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e042c43d135759620800000000000000
+      internalID: 2780257201829979150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_40
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 158
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5744a98fb0ef44fe0800000000000000
+      internalID: -1205559472859495307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_41
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 158
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1bb587fb43839f0800000000000000
+      internalID: -488582562607025688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_42
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 158
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d0a96d49c5af010800000000000000
+      internalID: 1223392043109846386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_43
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 158
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ed23f4edde56a50800000000000000
+      internalID: 6513873975128546891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_44
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 154
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5618a433405df70800000000000000
+      internalID: 9211273231196054958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 142
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83b22621271aa3d0800000000000000
+      internalID: -3194715554524777587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_46
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 139
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ad96d6b0e9050d0800000000000000
+      internalID: -3436072743766205927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_47
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 144
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae3f13386958c190800000000000000
+      internalID: -7941999638798713181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_48
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 138
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67c19a9188538c90800000000000000
+      internalID: -7168788868176427158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_49
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 145
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb408c79337f48fe0800000000000000
+      internalID: -1187552600757107525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_50
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 123
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca52c844c359f100800000000000000
+      internalID: 142236965738273482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_51
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 145
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5515e41d4c6761510800000000000000
+      internalID: 1519532511981359445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_52
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 144
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba3bc15e40aa1810800000000000000
+      internalID: 1736876864544914096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_53
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 139
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953183ab4c8b7d900800000000000000
+      internalID: 709238621411480409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_54
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 139
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e276f5b4e2941000800000000000000
+      internalID: 5791010537239271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_55
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 135
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6933b07c75dd4b8c0800000000000000
+      internalID: -3984316401244753002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_56
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 118
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997398ee9a7773160800000000000000
+      internalID: 7005199317133244313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_57
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 224
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fd54d280ae979f0800000000000000
+      internalID: -470087365243314345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_58
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 115
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcffe9453c81a520800000000000000
+      internalID: 2711602611155369212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_59
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 122
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bbcf6c1573fb8a0800000000000000
+      internalID: -6287245730415592628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_60
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 122
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32244c79fc56c6830800000000000000
+      internalID: 4065736505887572515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 116
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0190b2d715440680800000000000000
+      internalID: -8789824604099014387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_62
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 123
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc77e93fc4fd2690800000000000000
+      internalID: -7625169423201502028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_63
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 122
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd272d59dddf7bab0800000000000000
+      internalID: -4992242533773708581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_64
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 122
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2103ef6dedaa852b0800000000000000
+      internalID: -5595534662941396974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_65
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 120
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53439abaaf3ab6d20800000000000000
+      internalID: 3272889851231941685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_66
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 120
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d256760b3ddc5b0800000000000000
+      internalID: -5346384428016521963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_67
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703a0fd64decc6f00800000000000000
+      internalID: 1111490619826545415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_68
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 116
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376032996068bac00800000000000000
+      internalID: 912970712369792627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_69
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 94
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea84b373f44189500800000000000000
+      internalID: 403094497111263406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_70
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 98
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681b443e3ad8967e0800000000000000
+      internalID: -1771729243361463930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_71
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 98
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1cc20a25242f91a0800000000000000
+      internalID: -6800677170268943334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_72
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 180
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c9ebf0add9ad360800000000000000
+      internalID: 7195236914570370089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_73
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 177
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10edf413898a2a9a0800000000000000
+      internalID: -6223226363456791039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_74
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 101
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3408cf3933ac65a50800000000000000
+      internalID: 6509612634285572163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_75
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 102
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260d6fc855a1828c0800000000000000
+      internalID: -4023937312316010398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_76
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 102
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71247318ecefb6bd0800000000000000
+      internalID: -2635732994010693097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_77
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 190
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086f31703214619c0800000000000000
+      internalID: -3956903603899992448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_78
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 101
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12494dae09beefce0800000000000000
+      internalID: -1369398229026434015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_79
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 101
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4039d5865e35e7df0800000000000000
+      internalID: -180614690284662012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_80
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 101
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c0a3c0123d2d630800000000000000
+      internalID: 3950451962049858692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_81
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 94
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71e56e9dd105f6c0800000000000000
+      internalID: -4110377033548832390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_82
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 91
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8e44db5095cba00800000000000000
+      internalID: 773591117186001130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_83
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 92
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047d1bc06c5f72aa0800000000000000
+      internalID: -6185705332204775616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_84
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 101
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d324506b3dc5d60800000000000000
+      internalID: 7880406226717261182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_85
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 74
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f233f7592d5a0e3e0800000000000000
+      internalID: -2026437508446866641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_86
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 74
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5daadebd7d77ae680800000000000000
+      internalID: -8725029559085454635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_87
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 77
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd12398e0fe0c8820800000000000000
+      internalID: 2921726686113505757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_88
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 202
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ca7e9ed6821e530800000000000000
+      internalID: 3882428806310898791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_89
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 80
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21821f3aa89d7f800800000000000000
+      internalID: 646224261030160402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_90
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 79
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb4e8bc013ed9fb0800000000000000
+      internalID: -4639302379847660563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_91
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 79
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada3a3e12cdb5ba40800000000000000
+      internalID: 5383417571019733722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_92
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 79
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a308d2ddef375d4c0800000000000000
+      internalID: -4263373933766672326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_93
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 79
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e57e21c2b96bef80800000000000000
+      internalID: -8076245290292709912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_94
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 78
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb023fea9e88f6a0800000000000000
+      internalID: -6415220873100129341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_95
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 67
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e1c802775bea430800000000000000
+      internalID: 3796171059171696181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_96
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 64
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373be0a910a44ad90800000000000000
+      internalID: -7087458542834240653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_97
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 65
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d63e9f84e50ed50800000000000000
+      internalID: 6764510307833572763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_98
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 246
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a05586e1daf570a0800000000000000
+      internalID: -6884320675943329626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_99
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 70
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45de62534498e3990800000000000000
+      internalID: -7404329811307991724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_100
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c46450e3f57ea50800000000000000
+      internalID: 6550308903014779909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_101
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 47
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f0fb3b8b8525970800000000000000
+      internalID: 8742147376992423686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_102
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 53
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db41ea7347f772160800000000000000
+      internalID: 7000704282897814717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_103
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 56
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e846799447695400800000000000000
+      internalID: 313395193409063137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_104
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 55
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a320a28938c6870800000000000000
+      internalID: 8677455271599159810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_105
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 55
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8e566e0cca31fd0800000000000000
+      internalID: -2372362634194982658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_106
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 55
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52be499043fa22ac0800000000000000
+      internalID: -3881347290806031579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_107
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 55
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c39f5df179a96f70800000000000000
+      internalID: 9181055622418764739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_108
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 145
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f1c7ce9889df1e0800000000000000
+      internalID: -2162404527922471034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_109
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 54
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2506017638eddbb30800000000000000
+      internalID: 4304841474787270738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_111
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 45
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0383ef750f949db30800000000000000
+      internalID: 4312559414801217584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_112
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 42
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17135ef893bc36660800000000000000
+      internalID: 7377964062650741105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_113
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 47
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36462d1df2c8bdcf0800000000000000
+      internalID: -226433219240500125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_114
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 47
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b969880db50633450800000000000000
+      internalID: 6067299070455092891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_115
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 31
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd1b6ff1ed503500800000000000000
+      internalID: 373901994305986004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_116
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 48
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56347d42f2118c3e0800000000000000
+      internalID: -2033356337578556571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_117
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 26
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3123ee521bd1d4210800000000000000
+      internalID: 1318742912572207635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_118
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 31
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f64cd9f2d71b4430800000000000000
+      internalID: 3768131708128085750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_119
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 31
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f03df0c9bd979ba0800000000000000
+      internalID: -6082219350608236298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_120
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 31
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2cc980bd3f070c0800000000000000
+      internalID: -4579892698967915800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_122
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 31
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b29a27e9bdc2220800000000000000
+      internalID: 2462584569839823715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_124
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 29
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc8078f6303e9860800000000000000
+      internalID: 7538515838919281870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_125
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 26
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4879389fc60c90dc0800000000000000
+      internalID: -3672192446868777084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_126
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 23
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa7bc08f99a51f50800000000000000
+      internalID: 6851568910639790762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_127
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 26
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aade5882ca672b40800000000000000
+      internalID: 5415414460680428193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_129
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 25
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d69f0680dbf5f10800000000000000
+      internalID: 2260733381647625565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_130
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 26
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095467ac14209b310800000000000000
+      internalID: 1421169639004980624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_131
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c05a9a068f2a0b00800000000000000
+      internalID: 795500536934322370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_132
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 4
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e71ca93a98b2270800000000000000
+      internalID: 8226820480091389592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_133
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 4
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f71c4e2f9f838310800000000000000
+      internalID: 1406125422509037555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_135
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 4
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2536244b0c89c10c0800000000000000
+      internalID: -4603636765654097070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_136
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 4
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73771ef246a444bb0800000000000000
+      internalID: -4952751896040212681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_137
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 4
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a74d02f652d70b0800000000000000
+      internalID: -5729381991723009431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_139
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 4
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637cc053becaa2fb0800000000000000
+      internalID: -4671731537236146378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_140
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 4
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9c69a68b88e9b70800000000000000
+      internalID: 8907707438629046738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_142
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 4
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dffc859fbcaa1180800000000000000
+      internalID: -9143806154574594092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_143
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 4
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceac83d8608f72130800000000000000
+      internalID: 3542072338972986092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_144
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 4
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a137132fcda25380800000000000000
+      internalID: -8983927201492160092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UMFont_24_145
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 4
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5027e8b145d2d0550800000000000000
+      internalID: 6128604507183936005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 78d9967cae156264583f0be475c5d161
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UMFont_24_0: -7070031569022632029
+      UMFont_24_1: 548231834170404193
+      UMFont_24_10: -5326335091707192105
+      UMFont_24_100: 6550308903014779909
+      UMFont_24_101: 8742147376992423686
+      UMFont_24_102: 7000704282897814717
+      UMFont_24_103: 313395193409063137
+      UMFont_24_104: 8677455271599159810
+      UMFont_24_105: -2372362634194982658
+      UMFont_24_106: -3881347290806031579
+      UMFont_24_107: 9181055622418764739
+      UMFont_24_108: -2162404527922471034
+      UMFont_24_109: 4304841474787270738
+      UMFont_24_11: -5960523606784230359
+      UMFont_24_110: -7624159799314560483
+      UMFont_24_111: 4312559414801217584
+      UMFont_24_112: 7377964062650741105
+      UMFont_24_113: -226433219240500125
+      UMFont_24_114: 6067299070455092891
+      UMFont_24_115: 373901994305986004
+      UMFont_24_116: -2033356337578556571
+      UMFont_24_117: 1318742912572207635
+      UMFont_24_118: 3768131708128085750
+      UMFont_24_119: -6082219350608236298
+      UMFont_24_12: 4426933032503670894
+      UMFont_24_120: -4579892698967915800
+      UMFont_24_121: 5445399834955720126
+      UMFont_24_122: 2462584569839823715
+      UMFont_24_123: 7720498187233242081
+      UMFont_24_124: 7538515838919281870
+      UMFont_24_125: -3672192446868777084
+      UMFont_24_126: 6851568910639790762
+      UMFont_24_127: 5415414460680428193
+      UMFont_24_128: -4854611863220737564
+      UMFont_24_129: 2260733381647625565
+      UMFont_24_13: -1807221255218568308
+      UMFont_24_130: 1421169639004980624
+      UMFont_24_131: 795500536934322370
+      UMFont_24_132: 8226820480091389592
+      UMFont_24_133: 1406125422509037555
+      UMFont_24_134: 1852338344398668191
+      UMFont_24_135: -4603636765654097070
+      UMFont_24_136: -4952751896040212681
+      UMFont_24_137: -5729381991723009431
+      UMFont_24_138: 6976542388815081887
+      UMFont_24_139: -4671731537236146378
+      UMFont_24_14: -592791128223645408
+      UMFont_24_140: 8907707438629046738
+      UMFont_24_141: 2894725168673905656
+      UMFont_24_142: -9143806154574594092
+      UMFont_24_143: 3542072338972986092
+      UMFont_24_144: -8983927201492160092
+      UMFont_24_145: 6128604507183936005
+      UMFont_24_15: 3043208572199788936
+      UMFont_24_16: -2039309983087724491
+      UMFont_24_17: 6793626064427564861
+      UMFont_24_18: -4268635810250076069
+      UMFont_24_19: 3765667015768911882
+      UMFont_24_2: 2650388925217628579
+      UMFont_24_20: 3233758244348025867
+      UMFont_24_21: -6616826447066903454
+      UMFont_24_22: 4931465458742328297
+      UMFont_24_23: -4006097722117821347
+      UMFont_24_24: 5061211224902238780
+      UMFont_24_25: 6741546313706991318
+      UMFont_24_26: 4957086029138923510
+      UMFont_24_27: 2247145269369803619
+      UMFont_24_28: -6978470315792467857
+      UMFont_24_29: -9071017081487273850
+      UMFont_24_3: -3122542958695085159
+      UMFont_24_30: -1680421702206015238
+      UMFont_24_31: -8262801103684842889
+      UMFont_24_32: 187074392470355961
+      UMFont_24_33: 4407554177224483004
+      UMFont_24_34: 5308436249771842724
+      UMFont_24_35: -8845412577099511346
+      UMFont_24_36: 6881772911442465344
+      UMFont_24_37: 452590903004176779
+      UMFont_24_38: -3583957990842079959
+      UMFont_24_39: 2780257201829979150
+      UMFont_24_4: 115624751209506185
+      UMFont_24_40: -1205559472859495307
+      UMFont_24_41: -488582562607025688
+      UMFont_24_42: 1223392043109846386
+      UMFont_24_43: 6513873975128546891
+      UMFont_24_44: 9211273231196054958
+      UMFont_24_45: -3194715554524777587
+      UMFont_24_46: -3436072743766205927
+      UMFont_24_47: -7941999638798713181
+      UMFont_24_48: -7168788868176427158
+      UMFont_24_49: -1187552600757107525
+      UMFont_24_5: -8272900769369466543
+      UMFont_24_50: 142236965738273482
+      UMFont_24_51: 1519532511981359445
+      UMFont_24_52: 1736876864544914096
+      UMFont_24_53: 709238621411480409
+      UMFont_24_54: 5791010537239271
+      UMFont_24_55: -3984316401244753002
+      UMFont_24_56: 7005199317133244313
+      UMFont_24_57: -470087365243314345
+      UMFont_24_58: 2711602611155369212
+      UMFont_24_59: -6287245730415592628
+      UMFont_24_6: -4790313604242381554
+      UMFont_24_60: 4065736505887572515
+      UMFont_24_61: -8789824604099014387
+      UMFont_24_62: -7625169423201502028
+      UMFont_24_63: -4992242533773708581
+      UMFont_24_64: -5595534662941396974
+      UMFont_24_65: 3272889851231941685
+      UMFont_24_66: -5346384428016521963
+      UMFont_24_67: 1111490619826545415
+      UMFont_24_68: 912970712369792627
+      UMFont_24_69: 403094497111263406
+      UMFont_24_7: -683216991808005563
+      UMFont_24_70: -1771729243361463930
+      UMFont_24_71: -6800677170268943334
+      UMFont_24_72: 7195236914570370089
+      UMFont_24_73: -6223226363456791039
+      UMFont_24_74: 6509612634285572163
+      UMFont_24_75: -4023937312316010398
+      UMFont_24_76: -2635732994010693097
+      UMFont_24_77: -3956903603899992448
+      UMFont_24_78: -1369398229026434015
+      UMFont_24_79: -180614690284662012
+      UMFont_24_8: 2430038883551202774
+      UMFont_24_80: 3950451962049858692
+      UMFont_24_81: -4110377033548832390
+      UMFont_24_82: 773591117186001130
+      UMFont_24_83: -6185705332204775616
+      UMFont_24_84: 7880406226717261182
+      UMFont_24_85: -2026437508446866641
+      UMFont_24_86: -8725029559085454635
+      UMFont_24_87: 2921726686113505757
+      UMFont_24_88: 3882428806310898791
+      UMFont_24_89: 646224261030160402
+      UMFont_24_9: -904072533659862247
+      UMFont_24_90: -4639302379847660563
+      UMFont_24_91: 5383417571019733722
+      UMFont_24_92: -4263373933766672326
+      UMFont_24_93: -8076245290292709912
+      UMFont_24_94: -6415220873100129341
+      UMFont_24_95: 3796171059171696181
+      UMFont_24_96: -7087458542834240653
+      UMFont_24_97: 6764510307833572763
+      UMFont_24_98: -6884320675943329626
+      UMFont_24_99: -7404329811307991724
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 173507967, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Behavior_Cracked Vials
+  m_EditorClassIdentifier: 
+  _serializedGraph: '{"type":"Thor.Core.ExtendedBehaviorTree","nodes":[{"_action":{"$type":"Thor.Core.DoNothing"},"_position":{"x":1264.0,"y":383.0},"$type":"NodeCanvas.BehaviourTrees.ActionNode"},{"_position":{"x":892.0,"y":387.0},"$type":"NodeCanvas.BehaviourTrees.Sequencer","$id":"1"},{"_action":{"m_taskData":{"from":{"m_data":{"guid":"a30e30b95edaf4a478058244ffd8c3bb","guidHash":1794994397},"m_target":{"_name":"Self","_targetVariableID":"e87e4511-7714-41ec-9b6c-6aacbeb7246d"},"m_key":{},"m_variable":{}},"to":{"m_data":{"guid":"90c9c3b70f4135b40ab7ca6de7688e28","guidHash":1416927792},"m_target":{"_name":"Self","_targetVariableID":"e87e4511-7714-41ec-9b6c-6aacbeb7246d"},"m_key":{},"m_variable":{}},"source":{"_name":"Owner","_targetVariableID":"70ba2467-799d-4cbd-9f1d-7c49f28be594"},"chance":{"m_weight":0.6,"m_luck":{},"m_requirements":{"values":{"m_values":[]}},"m_passAdjust":{"m_property":{}},"m_failAdjust":{"m_property":{}},"serialized":true},"guid":"7bd82e2bf3374b4e","removeOnComplete":true},"$type":"Thor.Core.AddGlobalSwap"},"_position":{"x":739.0,"y":478.0},"$type":"NodeCanvas.BehaviourTrees.ActionNode","$id":"2"},{"_action":{"$type":"Thor.Core.Idle"},"_position":{"x":915.0,"y":474.0},"$type":"NodeCanvas.BehaviourTrees.ActionNode","$id":"3"},{"_action":{"m_target":{"_name":"Self","_targetVariableID":"e87e4511-7714-41ec-9b6c-6aacbeb7246d"},"m_playDeathFX":{},"$type":"Thor.Core.Destroy"},"_position":{"x":1085.0,"y":485.0},"$type":"NodeCanvas.BehaviourTrees.ActionNode"}],"connections":[{"_sourceNode":{"$ref":"1"},"_targetNode":{"$ref":"2"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"1"},"_targetNode":{"$ref":"3"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"}],"canvasGroups":[],"localBlackboard":{"_variables":{"Self":{"_value":{},"_name":"Self","_id":"e87e4511-7714-41ec-9b6c-6aacbeb7246d","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Owner":{"_value":{},"_name":"Owner","_id":"70ba2467-799d-4cbd-9f1d-7c49f28be594","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Root":{"_value":{},"_name":"Root","_id":"d96b7d14-6399-4b33-935e-8a7530a03d22","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Target":{"_value":{},"_name":"Target","_id":"7e3a7e16-0486-4b14-961f-42084a8fec1b","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Iterator":{"_value":{},"_name":"Iterator","_id":"74edc764-4731-4130-9c71-5e8c54f3ce76","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Targets":{"_value":{},"_name":"Targets","_id":"4d733c1c-c645-47f7-900d-f6ae09f8b82e","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRefList,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Source":{"_value":{},"_name":"Source","_id":"a121afa3-695f-4f98-8566-e5068a01fe81","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Level":{"_name":"Level","_id":"50d17da5-2d63-485e-aff0-c73e0e39607c","$type":"NodeCanvas.Framework.Variable`1[[System.Single,
+    mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"},"UserValue":{"_name":"UserValue","_id":"d0affbe7-6ac1-4f84-a94b-053eb77b20ed","$type":"NodeCanvas.Framework.Variable`1[[System.Single,
+    mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"}}},"derivedData":{"autoVariables":{"m_values":[]},"$type":"Thor.Core.ExtendedBehaviorTree+DerivedSerializationData"}}'
+  _objectReferences: []
+  _graphSource:
+    _version: 3.3
+    _category: 
+    _comments: 
+    _translation: {x: -20, y: -15}
+    _zoomFactor: 1
+  _haltSerialization: 0
+  _externalSerializationFile: {fileID: 0}
+  m_preProcess: 0
+  m_processOnEnable: 0
+  m_uninterruptible: 0
+  m_proxy: 0
+  m_autoVariables:
+    m_values: []

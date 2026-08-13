@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 938102294, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Suck
+  m_EditorClassIdentifier: 
+  m_guid: b4f11aa8f0fa48108fec3e407d789f9d
+  m_guidHash: -88686700
+  m_distance: -3
+  m_speed: 15
+  m_angle: 65

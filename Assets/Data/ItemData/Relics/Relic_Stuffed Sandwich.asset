@@ -1,0 +1,176 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-5748734239218498433
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 173507967, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: PickedUp
+  m_EditorClassIdentifier: 
+  _serializedGraph: '{"type":"Thor.Core.ExtendedBehaviorTree","nodes":[{"_action":{"m_taskData":{"owner":{"_value":{}},"tags":{"m_tags":{"m_values":[]}},"guid":"485e2857ba2c4be7","data":{},"dataLookup":{"m_data":{"guid":"174d4bfe5a91aad498f94f40625bbbaa","guidHash":-659046604},"m_target":{"_name":"Self","_targetVariableID":"5a0c7ed4-48d7-4ee7-b81a-a1c9c8fa2b77"},"m_key":{},"m_variable":{}},"target":{"_name":"Target","_targetVariableID":"eb9cd4b9-7149-4b9e-8528-b72d6bd9ec6c"},"source":{"_name":"Self","_targetVariableID":"5a0c7ed4-48d7-4ee7-b81a-a1c9c8fa2b77"},"itemDataLookup":{"m_data":{},"m_target":{"_name":"Self","_targetVariableID":"5a0c7ed4-48d7-4ee7-b81a-a1c9c8fa2b77"},"m_key":{},"m_variable":{}},"level":{"target":{"_name":"Owner"},"property":{"guid":""},"lookupKey":{"_value":""},"value":{"_value":1.0},"operand":{}},"duration":{"target":{"_name":"Owner"},"property":{"guid":""},"lookupKey":{"_value":""},"value":{},"operand":{}},"baseChance":{"target":{"_name":"Owner"},"property":{},"lookupKey":{},"value":{"_value":1.0},"operand":{}},"maxChance":{"target":{"_name":"Owner"},"property":{},"lookupKey":{},"value":{"_value":1.0},"operand":{}},"offset":{}},"m_output":{"_value":{}},"$type":"Thor.Core.AddStatusEffect"},"_position":{"x":555.0,"y":405.0},"$type":"NodeCanvas.BehaviourTrees.ActionNode"}],"connections":[],"canvasGroups":[],"localBlackboard":{"_variables":{"Self":{"_value":{},"_name":"Self","_id":"5a0c7ed4-48d7-4ee7-b81a-a1c9c8fa2b77","_isPublic":true,"$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Target":{"_value":{},"_name":"Target","_id":"eb9cd4b9-7149-4b9e-8528-b72d6bd9ec6c","_isPublic":true,"$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"}}},"derivedData":{"autoVariables":{"m_values":[]},"$type":"Thor.Core.ExtendedBehaviorTree+DerivedSerializationData"}}'
+  _objectReferences: []
+  _graphSource:
+    _version: 3.3
+    _category: 
+    _comments: 
+    _translation: {x: 0, y: 0}
+    _zoomFactor: 1
+  _haltSerialization: 0
+  _externalSerializationFile: {fileID: 0}
+  m_preProcess: 0
+  m_processOnEnable: 0
+  m_uninterruptible: 0
+  m_proxy: 0
+  m_autoVariables:
+    m_values: []
+--- !u!114 &-2806300602835023972
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1370092402, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: CommonModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_commonProperties:
+    common:
+      guid: a16178977bc91234ca2340bc557fb9af
+      guidHash: 213771662
+    properties:
+      icons:
+        m_sprites:
+        - {fileID: 0}
+        - {fileID: 0}
+        - {fileID: 0}
+      displayName:
+        m_id: 0
+      description:
+        m_id: 0
+      flavor:
+        m_id: 0
+      color:
+        guid: 
+        guidHash: 0
+      palette:
+        guid: 
+        guidHash: 0
+      tags:
+        m_tags:
+          m_values: []
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 517854022, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Relic_Stuffed Sandwich
+  m_EditorClassIdentifier: 
+  m_guid: ed4df6b960254505b985621538b2bea2
+  m_guidHash: -1491395748
+  m_commonModule: {fileID: -2806300602835023972}
+  m_tagModule: {fileID: 0}
+  m_behaviorModule: {fileID: 0}
+  m_itemModule: {fileID: 495070051988342987}
+  m_costModule: {fileID: 8110205521410625035}
+  m_miniMapModule: {fileID: 0}
+  m_swapModule: {fileID: 0}
+  m_shadowModule: {fileID: 0}
+  m_requirementModule: {fileID: 0}
+  m_itemAnimationModule: {fileID: 0}
+  m_itemDeathModule: {fileID: 4025434843380960127}
+--- !u!114 &495070051988342987
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1616187677, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: ItemModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_isPromptable: 1
+  m_maxSpawnCount: 1
+  m_pickupBehavior: {fileID: -5748734239218498433}
+  m_pickupRequirements:
+    operation: 0
+    expression: '{0}'
+    values:
+      m_values: []
+  m_entityDataOverride:
+    guid: 
+    guidHash: 0
+  m_sparklesFX:
+    guid: ece5b9ec92bb9c44882c48b0835d245e
+    guidHash: -1180683639
+  m_invertUnlockSemantics: 0
+  m_isUnlockedByDefault: 1
+  m_unlockOnSee: 0
+  m_unlockOnPickup: 0
+  m_isDiscoveredByDefault: 0
+  m_discoverOnSee: 0
+  m_discoverOnPickup: 0
+  m_pickupAudio:
+    guid: 
+    guidHash: 0
+  m_landAudio:
+    guid: 57468226072922f45b5e3b2b348ed0dc
+    guidHash: -1709923917
+  references:
+    version: 2
+    RefIds: []
+--- !u!114 &4025434843380960127
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 921815886, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: ItemDeathModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_deathFXOffset: {x: 0, y: 0, z: 0}
+  m_deaths:
+    m_values: []
+--- !u!114 &8110205521410625035
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1249944787, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: CostModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_isFree: 0
+  m_isSilent: 0
+  m_inheritCostModifiers: 0
+  m_activeCosts: 0
+  m_commonCosts:
+    guid: c27758f4faa492345ac091d7d26ebb4e
+    guidHash: 1653456120
+  m_costGroups:
+    m_values: []

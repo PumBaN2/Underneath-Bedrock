@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1783077148, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: AnimationData_Chest_Eternal
+  m_EditorClassIdentifier: 
+  m_guid: dba3b69f1d674c92b0dd6796e4995982
+  m_guidHash: -1912249966
+  m_facingMode: 2
+  m_blendMask:
+    value: 0
+  m_includeCommon: 1
+  m_controllerOverride:
+    guid: 
+    guidHash: 0
+  m_fastAnimations:
+    m_values:
+    - animation:
+        value: 512
+      facing: 0
+      clip:
+        guid: 340f7e43a09ba384084e8ecd9a3ba61f
+        guidHash: -790389848
+      flipX: 2
+      unscaledTime: 0
+      fps: 8
+    - animation:
+        value: 1024
+      facing: 0
+      clip:
+        guid: 14952817b89391a41998e30b5e83a24f
+        guidHash: -412728485
+      flipX: 2
+      unscaledTime: 0
+      fps: 8
+    - animation:
+        value: 2048
+      facing: 0
+      clip:
+        guid: 67f5d228dc6c0fa42b4e28faa6aeddf8
+        guidHash: 646419638
+      flipX: 2
+      unscaledTime: 0
+      fps: 8
+    - animation:
+        value: 4096
+      facing: 0
+      clip:
+        guid: 42016a340ff37aa4782f4965740edec6
+        guidHash: -974309294
+      flipX: 2
+      unscaledTime: 0
+      fps: 8
+  m_markerSpace: 1
+  m_markers:
+    m_values: []

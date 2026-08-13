@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -143053857, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Common_Bibliophobia
+  m_EditorClassIdentifier: 
+  m_guid: b4c662a622804c5bb5ac6cd82dde72ad
+  m_guidHash: -617818613
+  m_properties:
+    icons:
+      m_sprites:
+      - {fileID: 21300000, guid: e81cc4d620df93840af3afe2242699d5, type: 3}
+      - {fileID: 0}
+      - {fileID: 0}
+    displayName:
+      m_id: -216516677
+    description:
+      m_id: 1185894701
+    flavor:
+      m_id: -814074726
+    color:
+      guid: 
+      guidHash: 0
+    palette:
+      guid: 
+      guidHash: 0
+    tags:
+      m_tags:
+        m_values:
+        - guid: fd37905a25368b54a9d5996eb45443c4
+          guidHash: -250985165
+        - guid: a20c5ea4d93f3924cbcce8681280bfd7
+          guidHash: -237278429
+        - guid: 6d0e314921dffde4292a5cd3d0dfdbe8
+          guidHash: -1196329236

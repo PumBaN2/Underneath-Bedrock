@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1783077148, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: AnimationData_SteelSpider
+  m_EditorClassIdentifier: 
+  m_guid: 40290df08501451abace2236d7c1db5a
+  m_guidHash: 1736684271
+  m_facingMode: 0
+  m_blendMask:
+    value: 0
+  m_includeCommon: 1
+  m_controller: {fileID: 0}
+  m_fastAnimations:
+    m_values:
+    - animation:
+        value: 1
+      facing: 0
+      clip:
+        guid: 4ffac86cc8571954a98e894d6f280c83
+        guidHash: 93289581
+      flipX: 2
+      unscaledTime: 0
+      fps: 8
+    - animation:
+        value: 2
+      facing: 0
+      clip:
+        guid: d0831edcd6537844ebd798f27a061d70
+        guidHash: 1716166026
+      flipX: 2
+      unscaledTime: 0
+      fps: 16
+    - animation:
+        value: 4
+      facing: 0
+      clip:
+        guid: 26cbb911bb40fb049baec85f005e0297
+        guidHash: -1941433847
+      flipX: 2
+      unscaledTime: 0
+      fps: 24
+  m_markerSpace: 1
+  m_markers:
+    m_values: []

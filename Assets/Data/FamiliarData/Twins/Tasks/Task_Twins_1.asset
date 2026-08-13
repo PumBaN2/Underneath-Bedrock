@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1049800828, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Task_Twins_1
+  m_EditorClassIdentifier: 
+  m_guid: 0b8807976bbf4571932f48abd7c90be6
+  m_guidHash: 1658408433
+  m_abilityStatusEffect:
+    guid: b09f3b0b4d815e045bb4026935e6a613
+    guidHash: 1455925727
+  m_taskStatusEffect:
+    guid: f34c60b9eecb237498840287e9c30617
+    guidHash: -118942780
+  m_taskThreshold: 25
+  m_taskRepeatable: 0
+  m_showTaskProgress: 0

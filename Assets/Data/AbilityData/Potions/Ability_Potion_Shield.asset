@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-4817512287530942769
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1100374468, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: AbilityModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_cooldown: 0
+  m_reactivationPolicy: 0
+  m_activationAudio:
+    guid: 
+    guidHash: 0
+  m_activationBehavior: {fileID: 2707723568982267259}
+  m_targetingBehavior: {fileID: 6448995758593222819}
+  m_rangeSource: 0
+  m_rangeProperty:
+    guid: 
+    guidHash: 0
+  m_rangeOperator:
+    name: 
+    hash: 0
+  m_rangeValue: 0
+  m_parameterDefinitions:
+    m_values: []
+--- !u!114 &-2645158299653624477
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1370092402, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: CommonModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_commonProperties:
+    common:
+      guid: 9584c3ccc948c7747945cc3052d3fdb4
+      guidHash: 1771709785
+    properties:
+      icons:
+        m_sprites:
+        - {fileID: 0}
+        - {fileID: 0}
+        - {fileID: 0}
+      displayName:
+        m_id: 0
+      description:
+        m_id: 0
+      flavor:
+        m_id: 0
+      color:
+        guid: 
+        guidHash: 0
+      palette:
+        guid: 
+        guidHash: 0
+      tags:
+        m_tags:
+          m_values: []
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 509706529, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Ability_Potion_Shield
+  m_EditorClassIdentifier: 
+  m_guid: 4b1aa3aa057944a2b40bf3fe487bc85c
+  m_guidHash: 988306032
+  m_commonModule: {fileID: -2645158299653624477}
+  m_tagModule: {fileID: 0}
+  m_lifespanModule: {fileID: 0}
+  m_mixedModule: {fileID: 0}
+  m_allianceModule: {fileID: 0}
+  m_popupModule: {fileID: 0}
+  m_interactionModule: {fileID: 0}
+  m_toggleModule: {fileID: 0}
+  m_timerModule: {fileID: 0}
+  m_behaviorModule: {fileID: 0}
+  m_dataStoreModule: {fileID: 0}
+  m_inventoryModule: {fileID: 0}
+  m_statModule: {fileID: 0}
+  m_modifierModule: {fileID: 0}
+  m_casterModule: {fileID: 0}
+  m_resistanceModule: {fileID: 0}
+  m_costModule: {fileID: 0}
+  m_animationModule: {fileID: 0}
+  m_visualModule: {fileID: 0}
+  m_shadowModule: {fileID: 0}
+  m_audioModule: {fileID: 0}
+  m_portalModule: {fileID: 0}
+  m_teleporterModule: {fileID: 0}
+  m_physicsModule: {fileID: 0}
+  m_jumpModule: {fileID: 0}
+  m_lightModule: {fileID: 0}
+  m_facingModule: {fileID: 0}
+  m_navigationModule: {fileID: 0}
+  m_hazardModule: {fileID: 0}
+  m_footstepModule: {fileID: 0}
+  m_deathModule: {fileID: 0}
+  m_perimeterModule: {fileID: 0}
+  m_spawnModule: {fileID: 0}
+  m_miniMapModule: {fileID: 0}
+  m_carryModule: {fileID: 0}
+  m_gridModule: {fileID: 0}
+  m_prefabModule: {fileID: 3277705391834601049}
+  m_swapModule: {fileID: 0}
+  m_requirementModule: {fileID: 0}
+  m_tileModule: {fileID: 0}
+  m_abilityModule: {fileID: -4817512287530942769}
+--- !u!114 &2707723568982267259
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 173507967, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: AbilityModule_Activate
+  m_EditorClassIdentifier: 
+  _serializedGraph: '{"type":"Thor.Core.ExtendedBehaviorTree","nodes":[{"_action":{"m_data":{"target":{"_name":"Owner","_targetVariableID":"ab0ffc45-36b7-4085-9bb5-37ce6e1cf582"},"source":{"_name":"Self","_targetVariableID":"5630e923-ba4a-40bc-8095-426a6aa12520"},"tags":{"m_tags":{"m_values":[]}},"dataLookup":{"m_data":{"guid":"d1b7ff2ce29535545a725faad21632fa","guidHash":-1755376502},"m_target":{"_name":"Self","_targetVariableID":"5630e923-ba4a-40bc-8095-426a6aa12520"},"m_key":{},"m_variable":{}},"guid":"98658866a4e8405b","op":{"name":"+=","hash":502129286},"propertyValueData":{"target":{"_name":"Owner","_targetVariableID":"ab0ffc45-36b7-4085-9bb5-37ce6e1cf582"},"property":{"guid":""},"lookupKey":{"_value":""},"value":{"_value":1.0},"operand":{}}},"$type":"Thor.Core.AddModifier"},"_position":{"x":982.0,"y":431.0},"$type":"NodeCanvas.BehaviourTrees.ActionNode"}],"connections":[],"canvasGroups":[],"localBlackboard":{"_variables":{"Self":{"_value":{},"_name":"Self","_id":"5630e923-ba4a-40bc-8095-426a6aa12520","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Owner":{"_value":{},"_name":"Owner","_id":"ab0ffc45-36b7-4085-9bb5-37ce6e1cf582","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Root":{"_value":{},"_name":"Root","_id":"94308835-147b-4d14-8759-827d9fb5bd93","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Target":{"_value":{},"_name":"Target","_id":"ab2da9fb-b16a-492e-8f79-7fb114fde9b1","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Targets":{"_value":{},"_name":"Targets","_id":"d318f39b-6675-4c9e-a0d4-4346fa91a738","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRefList,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"TargetPosition":{"_value":{"entity":{"_name":"Target","_targetVariableID":"ab2da9fb-b16a-492e-8f79-7fb114fde9b1"},"directionContext":{"_name":"Self","_targetVariableID":"5630e923-ba4a-40bc-8095-426a6aa12520"},"target":{},"scale":{"_value":1.0},"offset":{},"marker":{},"visual":{},"flatten":{},"constrain":{},"gridData":{},"walkableFor":{"_value":{}},"walkableForData":{},"variance":{"random":{},"value":{"target":{"_name":"Owner","_targetVariableID":"ab0ffc45-36b7-4085-9bb5-37ce6e1cf582"},"property":{},"lookupKey":{},"value":{},"operand":{}},"min":{"target":{"_name":"Owner","_targetVariableID":"ab0ffc45-36b7-4085-9bb5-37ce6e1cf582"},"property":{},"lookupKey":{},"value":{},"operand":{}},"max":{"target":{"_name":"Owner","_targetVariableID":"ab0ffc45-36b7-4085-9bb5-37ce6e1cf582"},"property":{},"lookupKey":{},"value":{},"operand":{}}}},"_name":"TargetPosition","_id":"1449213f-a539-4776-9c7d-afaf101f7929","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.TaskTargetData,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Range":{"_name":"Range","_id":"7b1a4da2-aa7c-4aff-aaa5-8c6f4df91277","$type":"NodeCanvas.Framework.Variable`1[[System.Single,
+    mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"}}},"derivedData":{"autoVariables":{"m_values":[]},"$type":"Thor.Core.ExtendedBehaviorTree+DerivedSerializationData"}}'
+  _objectReferences: []
+  _graphSource:
+    _version: 3.3
+    _category: 
+    _comments: 
+    _translation: {x: 0, y: 0}
+    _zoomFactor: 1
+  _haltSerialization: 0
+  _externalSerializationFile: {fileID: 0}
+  m_preProcess: 0
+  m_processOnEnable: 0
+  m_uninterruptible: 0
+  m_proxy: 0
+  m_autoVariables:
+    m_values: []
+--- !u!114 &3277705391834601049
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1470154796, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: PrefabModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_prefab:
+    guid: a9b0e8f804eabc240ab70715313442b3
+    guidHash: 1258745435
+--- !u!114 &6448995758593222819
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 173507967, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: AbilityModule_FindTargets
+  m_EditorClassIdentifier: 
+  _serializedGraph: '{"type":"Thor.Core.ExtendedBehaviorTree","nodes":[{"_action":{"$type":"Thor.Core.DoNothing"},"_position":{"x":660.0,"y":480.0},"$type":"NodeCanvas.BehaviourTrees.ActionNode"}],"connections":[],"canvasGroups":[],"localBlackboard":{"_variables":{"Self":{"_value":{},"_name":"Self","_id":"4913d350-7d12-4b7d-96ac-576ee98be152","_isPublic":true,"$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Owner":{"_value":{},"_name":"Owner","_id":"944f444a-b13c-40b3-b74f-2aaaa84053a7","_isPublic":true,"$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Root":{"_value":{},"_name":"Root","_id":"ee1d9ebd-555f-4011-870f-97412b3dec09","_isPublic":true,"$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Targets":{"_value":{},"_name":"Targets","_id":"b57752db-a435-4999-aafb-30e4c1585775","_isPublic":true,"$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRefList,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Range":{"_name":"Range","_id":"b420e8ad-1e9a-49b1-9524-ba85077b548c","_isPublic":true,"$type":"NodeCanvas.Framework.Variable`1[[System.Single,
+    mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"}}},"derivedData":{"autoVariables":{"m_values":[]},"$type":"Thor.Core.ExtendedBehaviorTree+DerivedSerializationData"}}'
+  _objectReferences: []
+  _graphSource:
+    _version: 3.3
+    _category: 
+    _comments: 
+    _translation: {x: 0, y: 0}
+    _zoomFactor: 1
+  _haltSerialization: 0
+  _externalSerializationFile: {fileID: 0}
+  m_preProcess: 0
+  m_processOnEnable: 0
+  m_uninterruptible: 0
+  m_proxy: 0
+  m_autoVariables:
+    m_values: []

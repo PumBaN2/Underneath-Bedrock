@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 173507967, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Behavior_FoolsGold
+  m_EditorClassIdentifier: 
+  _serializedGraph: '{"type":"Thor.Core.ExtendedBehaviorTree","nodes":[{"m_eventMatcher":{"m_eventType":71,"m_dataHint":{}},"m_authorOutput":{"_name":"Target","_targetVariableID":"534ce4ed-eb2f-432d-bdde-54c5c6a20348"},"m_sourceOutput":{"_name":""},"m_sourceRootOutput":{"_name":""},"m_positionOutput":{},"m_valueOutput":{},"m_timeout":{},"m_endOnFailure":{},"m_endOnSuccess":{},"m_runOnceOnStartup":{},"m_flushEvents":{"_value":true},"_position":{"x":400.0,"y":605.0},"$type":"Thor.Core.WaitForGlobalEvent","$id":"0"},{"m_source":{"_name":"Owner","_targetVariableID":"ebbe98d6-150b-4b76-b084-8ca1727b07af"},"m_context":{"_name":"Target","_targetVariableID":"534ce4ed-eb2f-432d-bdde-54c5c6a20348"},"m_data":{"maxChance":{"_value":0.2},"baseChance":{"_value":0.2}},"_position":{"x":421.0,"y":775.0},"$type":"Thor.Core.ChanceContext","$id":"1"},{"_position":{"x":454.0,"y":890.0},"$type":"NodeCanvas.BehaviourTrees.Sequencer","$id":"2"},{"_condition":{"m_tags":{"m_tags":{"m_values":[{"guid":"38db3723309460049a20eece2d199c0c","guidHash":-931334293}]}},"m_tagGrammar":{"_value":"{0}&&{!1}"},"m_filterData":{"type":0,"input":{"_name":"Target","_targetVariableID":"534ce4ed-eb2f-432d-bdde-54c5c6a20348"},"inputList":{"_name":"Targets","_targetVariableID":"ae60ece3-a9c1-4e55-b6f0-251b234a5adc"},"output":{"_name":"Targets","_targetVariableID":"ae60ece3-a9c1-4e55-b6f0-251b234a5adc"},"exclude":{"_name":"Owner","_targetVariableID":"ebbe98d6-150b-4b76-b084-8ca1727b07af"},"restrictDuplicates":{},"skipClear":{},"alwaysSucceed":{}},"$type":"Thor.Core.TagsFilter"},"_position":{"x":323.0,"y":973.0},"$type":"NodeCanvas.BehaviourTrees.ConditionNode","$id":"3"},{"_action":{"m_target":{"_name":"Target","_targetVariableID":"534ce4ed-eb2f-432d-bdde-54c5c6a20348"},"m_playDeathFX":{},"$type":"Thor.Core.Destroy"},"_position":{"x":462.085,"y":982.55},"$type":"NodeCanvas.BehaviourTrees.ActionNode","$id":"4"},{"_action":{"m_target":{"_name":"Self","_targetVariableID":"6c0a08eb-af1c-4e72-9065-6fe42b22d328"},"m_showKicker":{},"$type":"Thor.Core.Proc"},"_position":{"x":574.0,"y":973.0},"$type":"NodeCanvas.BehaviourTrees.ActionNode","$id":"5"}],"connections":[{"_sourceNode":{"$ref":"0"},"_targetNode":{"$ref":"1"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"1"},"_targetNode":{"$ref":"2"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"2"},"_targetNode":{"$ref":"3"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"2"},"_targetNode":{"$ref":"4"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"2"},"_targetNode":{"$ref":"5"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"}],"canvasGroups":[],"localBlackboard":{"_variables":{"Self":{"_value":{},"_name":"Self","_id":"6c0a08eb-af1c-4e72-9065-6fe42b22d328","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Owner":{"_value":{},"_name":"Owner","_id":"ebbe98d6-150b-4b76-b084-8ca1727b07af","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Root":{"_value":{},"_name":"Root","_id":"526435dc-4821-47f4-9e1c-4201d14caa60","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Target":{"_value":{},"_name":"Target","_id":"534ce4ed-eb2f-432d-bdde-54c5c6a20348","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Targets":{"_value":{},"_name":"Targets","_id":"ae60ece3-a9c1-4e55-b6f0-251b234a5adc","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRefList,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Level":{"_value":1.0,"_name":"Level","_id":"adf9bb03-2438-42e8-b358-915e217e9101","$type":"NodeCanvas.Framework.Variable`1[[System.Single,
+    mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"},"Iterator":{"_value":{},"_name":"Iterator","_id":"4680276e-7f8d-42b8-b51e-f672dedb94b4","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Source":{"_value":{},"_name":"Source","_id":"4c2c9310-52ff-40a2-bdb8-a2a276926b65","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"}}},"derivedData":{"autoVariables":{"m_values":[]},"$type":"Thor.Core.ExtendedBehaviorTree+DerivedSerializationData"}}'
+  _objectReferences: []
+  _graphSource:
+    _version: 3.3
+    _category: 
+    _comments: 
+    _translation: {x: 304, y: -203}
+    _zoomFactor: 1
+  _haltSerialization: 0
+  _externalSerializationFile: {fileID: 0}
+  m_preProcess: 0
+  m_processOnEnable: 0
+  m_uninterruptible: 0
+  m_proxy: 0
+  m_autoVariables:
+    m_values: []

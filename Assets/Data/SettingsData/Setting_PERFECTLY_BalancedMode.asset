@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-835595836882715273
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1370092402, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: CommonModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_commonProperties:
+    common:
+      guid: 
+      guidHash: 0
+    properties:
+      icons:
+        m_sprites:
+        - {fileID: 0}
+        - {fileID: 0}
+        - {fileID: 0}
+      displayName:
+        m_id: -84639909
+      description:
+        m_id: -31942371
+      flavor:
+        m_id: 0
+      color:
+        guid: 
+        guidHash: 0
+      palette:
+        guid: 
+        guidHash: 0
+      tags:
+        m_tags:
+          m_values: []
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1071041044, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Setting_PERFECTLY_BalancedMode
+  m_EditorClassIdentifier: 
+  m_guid: 41fad89012e54ced9ed3b02b3bffbca7
+  m_guidHash: 1557472961
+  m_type: 0
+  m_defaultProviderClassName: 
+  m_defaultBool: 0
+  m_defaultFloat: 0
+  m_floatRange:
+    min: 0
+    max: 0
+  m_defaultString: 
+  m_options:
+    m_values: []
+  m_commonModule: {fileID: -835595836882715273}
+  m_requirementModule: {fileID: 0}

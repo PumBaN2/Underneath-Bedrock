@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 173507967, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Behavior_BobsBrain_2_Tracker
+  m_EditorClassIdentifier: 
+  _serializedGraph: '{"type":"Thor.Core.ExtendedBehaviorTree","nodes":[{"_position":{"x":961.0,"y":366.0},"$type":"NodeCanvas.BehaviourTrees.Parallel","$id":"0"},{"m_data":{"guid":"86194e7362b54534eb1fbb29287b2b0a","guidHash":-1869780405},"m_polarity":1,"m_combatOnly":{},"m_nonCombatOnly":{},"m_damageTags":{"m_tags":{"m_values":[{"guid":"3349700b3e995d14e8de32a50df0ee7c","guidHash":2012902009}]}},"m_tagGrammar":{"_value":"{0}"},"m_sourceOutput":{"_name":""},"m_sourceRootOutput":{"_name":""},"m_combatantOutput":{"_name":""},"m_deltaOutput":{"_name":""},"m_effectiveDeltaOutput":{"_name":"Delta","_targetVariableID":"74722e7b-2ca5-4967-87a5-a3d89d05a4d8"},"m_author":{"_name":"Root","_targetVariableID":"979770c2-71c3-4f7d-9449-e0e12764a457"},"m_timeout":{},"m_endOnSuccess":{},"m_endOnFailure":{},"m_endOnInvalidAuthor":{},"m_runOnceOnStartup":{},"m_flushEvents":{"_value":true},"_position":{"x":605.0,"y":607.0},"$type":"Thor.Core.WaitForResourceChangeEvent","$id":"1"},{"_position":{"x":890.0,"y":846.0},"$type":"NodeCanvas.BehaviourTrees.Merge","$id":"2"},{"_action":{"m_target":{"_name":"Self","_targetVariableID":"394f9528-ed29-4dca-8fd3-72aa2063ed32"},"m_level":{"type":1,"target":{"_name":"Self","_targetVariableID":"394f9528-ed29-4dca-8fd3-72aa2063ed32"},"property":{"guid":"1688a8875cace624eb5705eea1db5b9a","guidHash":-1884312167},"lookupKey":{"_value":""},"value":{},"operand":{"_value":1.0}},"$type":"Thor.Core.SetLevel"},"_position":{"x":880.0,"y":906.0},"$type":"NodeCanvas.BehaviourTrees.ActionNode","$id":"3"},{"m_data":{"guid":"92b60bfc4ad16e646bbe204af9734f38","guidHash":-182686453},"m_polarity":1,"m_combatOnly":{},"m_nonCombatOnly":{},"m_damageTags":{"m_tags":{"m_values":[{"guid":"3349700b3e995d14e8de32a50df0ee7c","guidHash":2012902009}]}},"m_tagGrammar":{"_value":"{0}"},"m_sourceOutput":{"_name":""},"m_sourceRootOutput":{"_name":""},"m_combatantOutput":{"_name":""},"m_deltaOutput":{"_name":""},"m_effectiveDeltaOutput":{"_name":"Delta","_targetVariableID":"74722e7b-2ca5-4967-87a5-a3d89d05a4d8"},"m_author":{"_name":"Root","_targetVariableID":"979770c2-71c3-4f7d-9449-e0e12764a457"},"m_timeout":{},"m_endOnSuccess":{},"m_endOnFailure":{},"m_endOnInvalidAuthor":{},"m_runOnceOnStartup":{},"m_flushEvents":{"_value":true},"_position":{"x":827.0,"y":605.0},"$type":"Thor.Core.WaitForResourceChangeEvent","$id":"4"},{"m_data":{"guid":"a9e383d7dc7637f4b809b1f983f8df59","guidHash":-381908222},"m_polarity":1,"m_combatOnly":{},"m_nonCombatOnly":{},"m_damageTags":{"m_tags":{"m_values":[{"guid":"3349700b3e995d14e8de32a50df0ee7c","guidHash":2012902009}]}},"m_tagGrammar":{"_value":"{0}"},"m_sourceOutput":{"_name":""},"m_sourceRootOutput":{"_name":""},"m_combatantOutput":{"_name":""},"m_deltaOutput":{"_name":""},"m_effectiveDeltaOutput":{"_name":"Delta","_targetVariableID":"74722e7b-2ca5-4967-87a5-a3d89d05a4d8"},"m_author":{"_name":"Root","_targetVariableID":"979770c2-71c3-4f7d-9449-e0e12764a457"},"m_timeout":{},"m_endOnSuccess":{},"m_endOnFailure":{},"m_endOnInvalidAuthor":{},"m_runOnceOnStartup":{},"m_flushEvents":{"_value":true},"_position":{"x":1045.0,"y":603.0},"$type":"Thor.Core.WaitForResourceChangeEvent","$id":"5"},{"m_message":{"_value":"lvlmax"},"m_sourceOutput":{"_name":""},"m_executeImmediately":{},"m_author":{"_name":"Owner","_targetVariableID":"cc865d55-81a7-45be-8802-7c3b58968828"},"m_timeout":{},"m_endOnSuccess":{},"m_endOnFailure":{},"m_endOnInvalidAuthor":{},"m_runOnceOnStartup":{},"m_flushEvents":{"_value":true},"_position":{"x":1266.0,"y":605.0},"$type":"Thor.Core.WaitForCustomEvent","$id":"6"},{"_action":{"m_target":{"_name":"Self","_targetVariableID":"394f9528-ed29-4dca-8fd3-72aa2063ed32"},"m_level":{"target":{"_name":"Self","_targetVariableID":"394f9528-ed29-4dca-8fd3-72aa2063ed32"},"property":{"guid":""},"lookupKey":{"_value":""},"value":{"_value":8.0},"operand":{}},"$type":"Thor.Core.SetLevel"},"_position":{"x":1291.0,"y":782.0},"$type":"NodeCanvas.BehaviourTrees.ActionNode","$id":"7"}],"connections":[{"_sourceNode":{"$ref":"0"},"_targetNode":{"$ref":"1"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"0"},"_targetNode":{"$ref":"4"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"0"},"_targetNode":{"$ref":"5"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"0"},"_targetNode":{"$ref":"6"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"1"},"_targetNode":{"$ref":"2"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"2"},"_targetNode":{"$ref":"3"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"4"},"_targetNode":{"$ref":"2"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"5"},"_targetNode":{"$ref":"2"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"},{"_sourceNode":{"$ref":"6"},"_targetNode":{"$ref":"7"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"}],"canvasGroups":[],"localBlackboard":{"_variables":{"Self":{"_value":{},"_name":"Self","_id":"394f9528-ed29-4dca-8fd3-72aa2063ed32","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Owner":{"_value":{},"_name":"Owner","_id":"cc865d55-81a7-45be-8802-7c3b58968828","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Root":{"_value":{},"_name":"Root","_id":"979770c2-71c3-4f7d-9449-e0e12764a457","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Target":{"_value":{},"_name":"Target","_id":"6cae139b-7858-4839-a35b-7035361a46c4","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Targets":{"_value":{},"_name":"Targets","_id":"6b1a3fe2-a23f-43c1-9782-5ecc0328373c","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRefList,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Iterator":{"_value":{},"_name":"Iterator","_id":"b5bd81c2-5277-4106-bf52-3c0221627103","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Source":{"_value":{},"_name":"Source","_id":"81f4f222-1696-4436-a24c-4b75222ef270","$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+    Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Level":{"_name":"Level","_id":"501f0981-1619-4d72-a32c-15aaa72bf88a","$type":"NodeCanvas.Framework.Variable`1[[System.Single,
+    mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"},"UserValue":{"_name":"UserValue","_id":"dd236225-414b-4403-9c31-8bd90adaf97a","$type":"NodeCanvas.Framework.Variable`1[[System.Single,
+    mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"},"Delta":{"_name":"Delta","_id":"74722e7b-2ca5-4967-87a5-a3d89d05a4d8","$type":"NodeCanvas.Framework.Variable`1[[System.Single,
+    mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"}}},"derivedData":{"autoVariables":{"m_values":[]},"$type":"Thor.Core.ExtendedBehaviorTree+DerivedSerializationData"}}'
+  _objectReferences: []
+  _graphSource:
+    _version: 3.3
+    _category: 
+    _comments: 
+    _translation: {x: 40, y: -53}
+    _zoomFactor: 1
+  _haltSerialization: 0
+  _externalSerializationFile: {fileID: 0}
+  m_preProcess: 0
+  m_processOnEnable: 0
+  m_uninterruptible: 0
+  m_proxy: 0
+  m_restartOnDisable: 0
+  m_autoVariables:
+    m_values: []

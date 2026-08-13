@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - NavMesh
+  - Water
+  - UI
+  - Ground
+  - Wall
+  - Block
+  - Player
+  - Enemy
+  - Item
+  - Prop
+  - Projectile
+  - 
+  - Bomb
+  - Aura
+  - Charmed
+  - Interactable
+  - Grenade
+  - Hole
+  - Floor
+  - EnemyFlying
+  - PlayerFlying
+  - Boss
+  - 
+  - Exiled
+  - Debris
+  - Blend
+  - Blocker
+  - Spike
+  - Surface
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 331276307
+    locked: 0
+  - name: Underground
+    uniqueID: 1530666817
+    locked: 0
+  - name: Falling
+    uniqueID: 945806063
+    locked: 0
+  - name: Ground
+    uniqueID: 4003483265
+    locked: 0
+  - name: GroundDetail
+    uniqueID: 2665473833
+    locked: 0
+  - name: Hole
+    uniqueID: 1520408723
+    locked: 0
+  - name: Hazard
+    uniqueID: 2621210841
+    locked: 0
+  - name: Static
+    uniqueID: 206987661
+    locked: 0
+  - name: Dynamic
+    uniqueID: 3246177893
+    locked: 0
+  - name: DynamicFX
+    uniqueID: 4106009807
+    locked: 0
+  - name: Foreground
+    uniqueID: 1228624157
+    locked: 0

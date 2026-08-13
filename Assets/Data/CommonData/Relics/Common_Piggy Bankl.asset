@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -143053857, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Common_Piggy Bankl
+  m_EditorClassIdentifier: 
+  m_guid: 37fb13a474124c9190140041a846d0cd
+  m_guidHash: 1741944097
+  m_properties:
+    icons:
+      m_sprites:
+      - {fileID: 21300000, guid: 69c62baaa70458849b066e06640558de, type: 3}
+      - {fileID: 0}
+      - {fileID: 0}
+    displayName:
+      m_id: -1108866584
+    description:
+      m_id: 1930611847
+    flavor:
+      m_id: -1655286976
+    color:
+      guid: 
+      guidHash: 0
+    palette:
+      guid: 
+      guidHash: 0
+    tags:
+      m_tags:
+        m_values:
+        - guid: e2811021f5c8a244e9e598052457032c
+          guidHash: 1966562525
+        - guid: 29fcd0df3aca2614994a35c7e533d594
+          guidHash: 1795452930
+        - guid: fe9eba3dad6d5124e9a2787da4943735
+          guidHash: 1079384439
+        - guid: 439e255500bbe6049b25b820d9e207f6
+          guidHash: -351208014
+        - guid: d29878b0fc08712408407cab7a1f892d
+          guidHash: -1861413422
+        - guid: d61acdf8d1319d14785cf16710a4ce61
+          guidHash: 521830108
+        - guid: 42eb38180f83fcd49bff83631e966810
+          guidHash: -1717044310
+        - guid: a8a259cf02fb21942a59db3f4276a786
+          guidHash: -594124816

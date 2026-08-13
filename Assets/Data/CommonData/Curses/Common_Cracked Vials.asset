@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -143053857, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Common_Cracked Vials
+  m_EditorClassIdentifier: 
+  m_guid: 98b9328c3e774bdb884f61e431c0e4e4
+  m_guidHash: 476063039
+  m_properties:
+    icons:
+      m_sprites:
+      - {fileID: 21300000, guid: 3984194a59cb8be449015bfabe6fb407, type: 3}
+      - {fileID: 0}
+      - {fileID: 0}
+    displayName:
+      m_id: 2117975759
+    description:
+      m_id: 1962649897
+    flavor:
+      m_id: -1891384301
+    color:
+      guid: 
+      guidHash: 0
+    palette:
+      guid: 
+      guidHash: 0
+    tags:
+      m_tags:
+        m_values:
+        - guid: fd37905a25368b54a9d5996eb45443c4
+          guidHash: -250985165
+        - guid: a20c5ea4d93f3924cbcce8681280bfd7
+          guidHash: -237278429
