@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -20201445, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: ModData
+  m_EditorClassIdentifier: 
+  m_guid: 35b6f284f4f14a74831dde938ee66cbd
+  m_guidHash: -1194405139
+  m_version: 79
+  m_workshopID: 3540295981
+  m_lastPublishedAt: 639221508666901361
+  m_name: Under 'Neath (Adds 50 Relics, 10 Curses and 5 Blessings!)
+  m_description: "[h1] Under 'Neath The First UnderMine 2 Content Pack! [/h1]   
+    [b]Under 'Neath[/b] is content mod pack for UnderMine 2 adding new relics, blessings,
+    curses and hopefully a whole lot more coming soon! UnderMine 2 has some really
+    powerful modding tools and I wanted to explore what i could do with them, here
+    are some of the cool things I've managed to make so far!    Make sure to [b]enable
+    mods[/b] on your UnderMine 2 profile, this can be done when selecting your profile!  
+    [h2] Features [/h2]  [list] [*] 50 Brand new relics to find! [*] 10 New curses
+    to add a little trouble! [*] 5 New blessings to help you in the mines! [*] A
+    whole new room in the Hub to customise the game's difficulty to your liking!
+    [*] Full Chinese and German translations! [/list]  [h2] Credits [/h2]  [list]
+    [*] [b]Nevernamed[/b] for creating the sprites! [*] [b]PumBa \u21162[/b] for
+    helping and answering questions. [*] [b]The Thorium devs[/b] for making the modding
+    tools and helping with issues!  [/list]"
+  m_tags: undermine,undermine2
+  m_previewImage: {fileID: 2800000, guid: 0660f9aeff2dd5c4eb14cd6dee5eae5a, type: 3}
+  m_additionalEncounters:
+    m_values: []
+  m_additionalSpawnTables:
+    m_values:
+    - originalSpawnTable:
+        guid: 51184bf77f1ac784fbb6e4cb60e0b5b8
+        guidHash: -101351207
+      addSpawnTable:
+        guid: d7ccb3d029a910f4483d1b5ef53f0da4
+        guidHash: 71070093
+    - originalSpawnTable:
+        guid: 9ec44e69f77a32d4cb998e1ff30d2547
+        guidHash: -1109297087
+      addSpawnTable:
+        guid: 8a2f3b8b9bd1abf488db3b0773aad580
+        guidHash: -1457244282
+    - originalSpawnTable:
+        guid: bb148f9b791b3b446b8a909e20ae4d39
+        guidHash: -2058596192
+      addSpawnTable:
+        guid: 6d5c43165a8ad7f44ba1a338d4515ddb
+        guidHash: 1195201062
+    - originalSpawnTable:
+        guid: c13913dbcbdcf69489e184f7252e4a31
+        guidHash: 1369619200
+      addSpawnTable:
+        guid: 79c9e4d97f741be42a0e5d8d00301120
+        guidHash: 440563064
+    - originalSpawnTable:
+        guid: 9ff73814eba97f7498510027184ed4c9
+        guidHash: 1098561915
+      addSpawnTable:
+        guid: 8b6a943ff7150f047b8cc00007833328
+        guidHash: -933082987
+    - originalSpawnTable:
+        guid: 0df7f3d44a4484a4d976de4587ae093b
+        guidHash: -397813717
+      addSpawnTable:
+        guid: c2026f65e3e324b439e8e763ed6ce1ef
+        guidHash: -402049409
+  m_additionalEnemyLists:
+    m_values: []

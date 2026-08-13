@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1783077148, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: AnimationData_PilferSteal
+  m_EditorClassIdentifier: 
+  m_guid: 9f16ce5f99ac407997a1dee38785491e
+  m_guidHash: -924648717
+  m_facingMode: 2
+  m_blendMask:
+    value: 0
+  m_includeCommon: 1
+  m_controller: {fileID: 0}
+  m_fastAnimations:
+    m_values:
+    - animation:
+        value: 1
+      facing: 1
+      clip:
+        guid: 9095ddee14fd51e419310eb72387e31b
+        guidHash: -720826956
+      flipX: 2
+      unscaledTime: 0
+      fps: 8
+    - animation:
+        value: 1
+      facing: 4
+      clip:
+        guid: 9095ddee14fd51e419310eb72387e31b
+        guidHash: -720826956
+      flipX: 1
+      unscaledTime: 0
+      fps: 8
+    - animation:
+        value: 2
+      facing: 1
+      clip:
+        guid: 9addb47d8fa675a4ebe1c6bf1844f5e5
+        guidHash: 1989373067
+      flipX: 2
+      unscaledTime: 0
+      fps: 8
+    - animation:
+        value: 2
+      facing: 4
+      clip:
+        guid: 9addb47d8fa675a4ebe1c6bf1844f5e5
+        guidHash: 1989373067
+      flipX: 1
+      unscaledTime: 0
+      fps: 8
+    - animation:
+        value: 4
+      facing: 1
+      clip:
+        guid: ebbf38f24649bb44c83e1c8cf5747995
+        guidHash: -1453637103
+      flipX: 2
+      unscaledTime: 0
+      fps: 8
+    - animation:
+        value: 4
+      facing: 4
+      clip:
+        guid: ebbf38f24649bb44c83e1c8cf5747995
+        guidHash: -1453637103
+      flipX: 1
+      unscaledTime: 0
+      fps: 8
+  m_markerSpace: 1
+  m_markers:
+    m_values: []

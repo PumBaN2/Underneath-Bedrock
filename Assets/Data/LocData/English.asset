@@ -1,0 +1,495 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -94742530, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: English
+  m_EditorClassIdentifier: 
+  m_guid: 1a4021fe9421439aa22fba21ae847eb0
+  m_guidHash: -2068944752
+  m_type: 1
+  m_isoName: 
+  m_target:
+    guid: 1d602605affb1ef4ea82a35dcfbdd272
+    guidHash: 357552592
+  m_icon: {fileID: 0}
+  m_elements:
+  - guidHash: 540778221
+    text: Everyone has gold in their pockets, just gotta beat it out of em.
+  - guidHash: -782171836
+    text: You found a oddly large toe, seems lucky?
+  - guidHash: 622652962
+    text: What could go better with a nice refreshing potion?
+  - guidHash: 24740854
+    text: A lovely warm bath, in what appears to be...cream?
+  - guidHash: 1251865343
+    text: Nothing is quite as holy as the simple chest.
+  - guidHash: 1233549183
+    text: Destroy relics for blessings.
+  - guidHash: -39074577
+    text: At their core, relics are just blessings with extra steps.
+  - guidHash: -1770773694
+    text: 'The jacket itself is fine, but for some reason, a bunch of the peasents
+      here got super weird about me wearing it. '
+  - guidHash: -1680524717
+    text: 'Curiosity and exploration can rejuvenate the soul. '
+  - guidHash: -2000754098
+    text: Peasants are issued one pair of boots a year. The boots never last an entire
+      year.
+  - guidHash: -1840453806
+    text: Tasty rainbow
+  - guidHash: -650230487
+    text: An old explorer once said that gold can be found in hidden places.
+  - guidHash: -2139671564
+    text: 'The most magic wand in the known world, but also the most fragile. '
+  - guidHash: 1918558942
+    text: The Emperor shines his light down on you.
+  - guidHash: -1655286976
+    text: Pilfers are known for stealing gold, but storing it for you, well thats
+      new.
+  - guidHash: 1670328365
+    text: Why would you keep these sharp blades in your pockets? Seems unwise.
+  - guidHash: 1874654790
+    text: Gilded Gauntlets
+  - guidHash: -1421196385
+    text: Worn by Sanctum sculptors to appear regal and powerful, trying to mask
+      the philistine lies.
+  - guidHash: -615636160
+    text: Due fly related accident during its forging, the handle of this massive
+      tool is quite a bit shorter than it should be.
+  - guidHash: 2111729323
+    text: A novelty keychain found on the keys to Black Rabbit's cell.
+  - guidHash: 1567832749
+    text: Due to a fly related accident during it's forging, the handle of this massive
+      tool is quite a bit shorter than it should be.
+  - guidHash: -1005969797
+    text: 'In the darkness there is light. '
+  - guidHash: -1304172307
+    text: Sometimes the mines unearth ancient secrets not meant for any being to
+      lay their eyes upon. This is one such horror.
+  - guidHash: 43963526
+    text: 'An ingenious inventor came to the faith late, and made the most of his
+      second life. '
+  - guidHash: 1860610704
+    text: Beltrame creates some wonderful potions, but I do wonder where all the
+      waste goes?
+  - guidHash: 1732413302
+    text: 'A totem depicting an ancient god of life and the natural order. '
+  - guidHash: 584029238
+    text: 'Normally a healthy lifestyle makes for a healthy body, but peasants make
+      due with what they got. '
+  - guidHash: -180616374
+    text: Hoarding gold has always been a tatic of the wealthy and elite, no wonder
+      they seem so powerful.
+  - guidHash: -67876275
+    text: Every little helps.
+  - guidHash: -37702875
+    text: The shop holds many secrets, and you've just been let in on one.
+  - guidHash: -1536217873
+    text: A key that looks like it could open any door.
+  - guidHash: -1124808619
+    text: Nothing quite says fool like some fool's gold.
+  - guidHash: 303701289
+    text: 'This Elderseed seems to have mutated, it oozes something that doesn''t
+      look very nice. '
+  - guidHash: -717052596
+    text: These pilfers will shake down anyone who crosses their path if it means
+      a little extra gold.
+  - guidHash: 232501871
+    text: The plague is a familar blight of the peasant and with that comes the rats.
+  - guidHash: -1923232017
+    text: Nothing quite like helping out a local business.
+  - guidHash: 700904090
+    text: The best things in life are those that are free!
+  - guidHash: -1922036168
+    text: A kernel of corn, blessed by a mighty priest who thought it may bring good
+      luck to the future harvest.
+  - guidHash: 606738836
+    text: Plant Leaf
+  - guidHash: -754791869
+    text: These little leaves look like they are quite edible.
+  - guidHash: 276503105
+    text: These gold pieces would have prefered to stay lodged with the rocks.
+  - guidHash: -439612761
+    text: A token of friendship between the pilfers and peasants of Delvemore.
+  - guidHash: -1305441280
+    text: RIP AND TEAR UNTIL IT IS DONE.
+  - guidHash: -1372392542
+    text: I wonder who these skulls used to belong to?
+  - guidHash: 735039217
+    text: 'This thief''s tool bears the engraving of a rabbit. Also, an engraving
+      that reads "Black Rabbit''s, hands off!" Further down it also reads "Seriously!" '
+  - guidHash: -526797796
+    text: Always eat your veggies!
+  - guidHash: -923546745
+    text: Transmute Statue Cost Increase
+  - guidHash: 1983987256
+    text: Its too cheap in the base game.
+  - guidHash: -754573880
+    text: Too much gold in the base game.
+  - guidHash: 1192452755
+    text: Enemies are too weak in the base game.
+  - guidHash: 470154009
+    text: Dont take enough damage in the base game.
+  - guidHash: -1503613438
+    text: HP too high in base game.
+  - guidHash: 452927784
+    text: 'Strength and Dexterity are too high in the base game. '
+  - guidHash: 2135772902
+    text: Deals with the devil are never quite worth the price you pay.
+  - guidHash: -1065593332
+    text: A tasty little leaf.
+  - guidHash: -2060143959
+    text: Gloves worn by the old guard to ward off evil spirits.
+  - guidHash: 1160186849
+    text: This candle protects from danger but something about it seems unnatural.
+  - guidHash: 1466046654
+    text: Wealth, but at what cost?
+  - guidHash: 1137579462
+    text: Seems like Sho'guul and the shopkeeper made a deal.
+  - guidHash: 258623003
+    text: Coffee, straight into the veins, all the time.
+  - guidHash: -1422381718
+    text: Shroud your body in metal so that you may feel no pain.
+  - guidHash: -1453147761
+    text: No pain no gain.
+  - guidHash: 967036207
+    text: This gift comes at a cost.
+  - guidHash: -2043486611
+    text: Food just doesnt taste the same without your special seasoning.
+  - guidHash: -48610449
+    text: These boots seem strange.
+  - guidHash: 208914220
+    text: Baggledag has a bounty on his head, will you be the one to claim it?
+  - guidHash: 888883818
+    text: To desecrate an altar of worship is to laugh in the face of the greater
+      powers.
+  - guidHash: -527607219
+    text: These shockwaves really do pack quite the punch.
+  - guidHash: 1495782128
+    text: The metal this pickaxe is made from seems strange?
+  - guidHash: 289416233
+    text: The master's wear these hats to hone their magical powers.
+  - guidHash: 1147454776
+    text: A force to be reckoned with.
+  - guidHash: -1195403896
+    text: All donations are welcome. But who is collecting them?
+  - guidHash: -391569514
+    text: Chrysopoeia
+  - guidHash: -1707543074
+    text: Gold nuggets have a chance to be upgraded when the land.
+  - guidHash: 1424617820
+    text: Chrysopoeia is the art of creating gold from nothing, an endless cycle
+      to be repeated.
+  - guidHash: 1610991395
+    text: Expert Explorer
+  - guidHash: -1916633534
+    text: Secret rooms have a chance to contain more than usual.
+  - guidHash: -1102772234
+    text: These worn papers can still be of some use.
+  - guidHash: 682646194
+    text: Perfect Blend
+  - guidHash: 91360686
+    text: Using a potion actives a random timed potion effect.
+  - guidHash: -726174470
+    text: This concoction can be quite deadly if you don't know what you're doing.
+  - guidHash: 1380617407
+    text: Insight
+  - guidHash: 983936473
+    text: Lowers the cost of using your Arcana.
+  - guidHash: 970320576
+    text: Through insight we gain enlightenment.
+  - guidHash: 1431548255
+    text: Corrupted Altars
+  - guidHash: 836901224
+    text: Gain an additonal curse from Altars but is always removed when using Penance.
+  - guidHash: -1225464520
+    text: These Altars seem to spew dark light from every crack.
+  - guidHash: -1596639059
+    text: Divine Touch
+  - guidHash: 1159566258
+    text: Chance to heal enemies on hit.
+  - guidHash: 127420662
+    text: Healing hand are not always the blessing they appear to be.
+  - guidHash: 424238075
+    text: Golden Touch
+  - guidHash: -1644304591
+    text: Adds a chance to knock gold nuggets out of struck enemies.
+  - guidHash: -846465979
+    text: Mini Mattock
+  - guidHash: -1968013997
+    text: Massively increases Alacrity but also heavily lowers reach.
+  - guidHash: -1026828664
+    text: Stuffed Sandwich
+  - guidHash: 1281558143
+    text: All potions heal you for a small amount on use.
+  - guidHash: -1108866584
+    text: Pilfer Bank
+  - guidHash: 1930611847
+    text: Gain lots of stats but breaks when you spend any gold.
+  - guidHash: -377645632
+    text: Add a chance to apply gilde to enemies on hit.
+  - guidHash: 1598319772
+    text: Guantes' Raincoat
+  - guidHash: -845948562
+    text: Prevents elemental status effects.
+  - guidHash: -1792935340
+    text: Cream Bath
+  - guidHash: -1016801395
+    text: Gain Physical damage resistance for a short time after being hit.
+  - guidHash: -1769657135
+    text: Blessed Chest
+  - guidHash: 479530548
+    text: Gives a 25% chance to discover a random blessing in every chest.
+  - guidHash: -1602624992
+    text: Obsidian Wand
+  - guidHash: 1609995291
+    text: Dramatically increases mana, but breaks when hit.
+  - guidHash: 1088214855
+    text: Mega Mattock
+  - guidHash: -1459315563
+    text: Give a huge boost to Reach and Strength but sets Alacrity to 1 for the
+      rest of the run.
+  - guidHash: -1671121772
+    text: Playdough Pickaxe
+  - guidHash: 1089042749
+    text: Each hit has a chance to do a different elemental damage effect.
+  - guidHash: 1127976449
+    text: Recycler V2
+  - guidHash: 2024650576
+    text: Destroy relics for blessings. Only works on relics found in relic rooms!
+  - guidHash: 10095820
+    text: Giant's Toe
+  - guidHash: -1178399722
+    text: Killing enemies has a small chance to increase your luck!
+  - guidHash: -1237065613
+    text: Sharp Pockets
+  - guidHash: -82024814
+    text: Spending gold deals damage to you.
+  - guidHash: -1938340126
+    text: Tenderfoot
+  - guidHash: -2074747749
+    text: Take damage when you land after jumping.
+  - guidHash: -622005679
+    text: Regeneration
+  - guidHash: -1731503541
+    text: Heal for 1 HP when pathfinding
+  - guidHash: -142455601
+    text: Adventurous
+  - guidHash: -1649103270
+    text: Visiting secret rooms gives gold, scales based on what floor you are on.
+  - guidHash: 1448832851
+    text: Emperor's Might
+  - guidHash: -1819620339
+    text: Gives a small % increase to Strength, Dexterity and Intelligence.
+  - guidHash: 280339030
+    text: Totem of Life
+  - guidHash: 1664160250
+    text: Heal for 6 HP when pathfinding.
+  - guidHash: -1540076425
+    text: Aphotic Charm
+  - guidHash: -962372198
+    text: Heal for every curse you have when pathfinding
+  - guidHash: 2047859672
+    text: Thunder Stuck
+  - guidHash: -19843859
+    text: Sometimes get hit by lightning, giving you potion effects for a short duration
+  - guidHash: 1635371893
+    text: Blessed popcorn
+  - guidHash: -101673242
+    text: blessings that hit the floor have a chance to duplicate.
+  - guidHash: 1145902201
+    text: Inverter
+  - guidHash: -27869745
+    text: lost curses become blessings.
+  - guidHash: 1685269973
+    text: Bottled Brimstone
+  - guidHash: -1842885268
+    text: When swinging fire a brimstone beam of fire when you are aiming, destroying
+      rocks and damaging enemies, takes away 25% of max HP.
+  - guidHash: -1317969372
+    text: Heartiness
+  - guidHash: -1467839534
+    text: Increases the effectiveness of healing.
+  - guidHash: -1126349855
+    text: Empowered Gold
+  - guidHash: -573854356
+    text: Strength increases with the amount of gold you hold.
+  - guidHash: -1379132982
+    text: Humbleing Help
+  - guidHash: 1865393030
+    text: Adds a chance for keys and bombs to be upgraded.
+  - guidHash: -918760315
+    text: Skeleton Key
+  - guidHash: 785984054
+    text: Skulls can be used as keys.
+  - guidHash: 330009733
+    text: Pilfer Club Card
+  - guidHash: 1978834012
+    text: The shop now always contains access to a special extra shop.
+  - guidHash: 111030044
+    text: Agressive Couponing
+  - guidHash: -929206894
+    text: Gain 1-3 Charism with any shop purchase.
+  - guidHash: 894832681
+    text: Free Gift
+  - guidHash: -1782761348
+    text: Get a free potion in every shop!
+  - guidHash: 275310752
+    text: Fool's Gold
+  - guidHash: 1257618839
+    text: Sometimes gold will break on hitting the ground.
+  - guidHash: -95907248
+    text: Mutated Mana
+  - guidHash: -1086066309
+    text: Loss some mana when pathfinding.
+  - guidHash: -1782119105
+    text: Pilfered Pockets
+  - guidHash: 1239495119
+    text: Bumping into pilfers costs you some gold.
+  - guidHash: -1254073212
+    text: Resourceful Rats
+  - guidHash: -24385517
+    text: Pilfers are replaced with rats.
+  - guidHash: 814718738
+    text: Yummy Veggies
+  - guidHash: 1774883278
+    text: Plants will occasionally shed edible leaves that heal you.
+  - guidHash: -222001710
+    text: Trap Disarm Toolkit
+  - guidHash: 293970505
+    text: Destroys all traps upon room entry.
+  - guidHash: -1584570444
+    text: Skull Smasher
+  - guidHash: -1827855000
+    text: Picking up a skull increases your max HP by 5.
+  - guidHash: 1305870854
+    text: Skilled Slayer
+  - guidHash: 792968762
+    text: Killing enemies increases your primary stats.
+  - guidHash: -1675605753
+    text: Gold is attracted towards you and gives a 20% shop discount.
+  - guidHash: 93597975
+    text: Scared Nuggets
+  - guidHash: -1283686459
+    text: Gold will try to run away from you.
+  - guidHash: -2016421984
+    text: Anointed Gloves
+  - guidHash: -241110271
+    text: Gain Dexterity for each unique blessing you have.
+  - guidHash: 779550364
+    text: Cursed Blessings
+  - guidHash: 590336404
+    text: Drops a copy of your lowest level blessing when you gain a curse.
+  - guidHash: -85737731
+    text: Cursed Fortune
+  - guidHash: 430377920
+    text: Gives 8000 gold but gain a random curse permanently.
+  - guidHash: -1643393907
+    text: Devil's Discount
+  - guidHash: -831717502
+    text: Gain a 70% shop discount but get a curse every 3rd purchase.
+  - guidHash: -1263866586
+    text: Drip Coffee
+  - guidHash: -396181352
+    text: Increase your Speed and Alacrity
+  - guidHash: -450620636
+    text: Hurts So Good
+  - guidHash: -564606197
+    text: After penance become immune to the next instance of damage and heal for
+      a portion of the damage taken.
+  - guidHash: -2145972307
+    text: Silver Juicer
+  - guidHash: -1142767431
+    text: Elderseeds increase max HP by 3.
+  - guidHash: -252458135
+    text: Elderseeds are full of juice but it's not so easy to get.
+  - guidHash: 1976540978
+    text: Special Seasoning
+  - guidHash: -460986270
+    text: Hitting food has a chance to reroll it.
+  - guidHash: -950523629
+    text: Full Metal Jacket
+  - guidHash: -952900758
+    text: Adds 5 armor pips. Removes all HP. Replaces all food with armor. Gives
+      immunity to damage over time effects.
+  - guidHash: 1145511058
+    text: Sho'Guul's Gift
+  - guidHash: -525751354
+    text: Removes 2 relics at random and gives 4 random new relics.
+  - guidHash: -1536546593
+    text: Desecration
+  - guidHash: 974433610
+    text: Bombing Altars gives an additonal blessing.
+  - guidHash: 1769575082
+    text: Magnetic Pickaxe
+  - guidHash: 1831498259
+    text: Pickaxe swings pull enemies closer towards you.
+  - guidHash: -1509218046
+    text: Master's Hat
+  - guidHash: -1901203545
+    text: Increase Intelligence by 15% for each relic you hold that scaling with
+      Intelligence.
+  - guidHash: -709861488
+    text: Knock Waves
+  - guidHash: -148559360
+    text: Shockwaves knock enemies back, dealing some damage when they land.
+  - guidHash: -1630707366
+    text: Tithe
+  - guidHash: -44344328
+    text: Changes the cost of Penance from health to gold.
+  - guidHash: -1989064432
+    text: Boss Bounty
+  - guidHash: 433799246
+    text: Get a relic after each boss you kill.
+  - guidHash: 1593266280
+    text: Reckfullness
+  - guidHash: -1950366414
+    text: Deal additonal damage to enemies based on your Recklessness.
+  - guidHash: 104519486
+    text: Magentized Boots
+  - guidHash: -1684241261
+    text: When you land after jumping, push gold away and suck enemies towards you.
+  - guidHash: 1970704
+    text: Enemy HP Increase
+  - guidHash: -1990637715
+    text: Increases enemy and boss HP by 20%.
+  - guidHash: 1970241786
+    text: Reduced Gold Value
+  - guidHash: 191265038
+    text: Recieved 20% less gold from all sources.
+  - guidHash: -1379285301
+    text: Reduced Max HP
+  - guidHash: 837579878
+    text: Reduces Max HP by 100.
+  - guidHash: -131383923
+    text: Reduced Damage
+  - guidHash: 33383014
+    text: Reduces Strength and Dexterity by 12. Only recommended for Peasant.
+  - guidHash: -655481644
+    text: Take More Damage
+  - guidHash: 1311981432
+    text: Increases damage taken by 20%
+  - guidHash: -891095621
+    text: Transmute Cost Increased
+  - guidHash: 1177468129
+    text: Increases the cost of trasmute statues by 2.5x and curse transmute by 3.5x.
+  - guidHash: 949143614
+    text: Pilfer Ring
+  - guidHash: 1468347851
+    text: Adjust Difficulty Here!
+  - guidHash: -1782129502
+    text: Meta Currency Replacer
+  - guidHash: -1101523867
+    text: Once you have everything unlocked, Thorium and Crowns are useless. This
+      replaces Thorium with gold, replaces blue chests with regular chests and removes
+      the chest after defeating each boss.
+  - guidHash: 828147858
+    text: Thorium and Crowns and useless after everything is unlocked.
