@@ -471,12 +471,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - prefab
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 0d3e200cec5646c4d9b8f3d3a57f7bee
-    m_Address: Common_Potion_Druid
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0d4ca74155f5d9945ab2e9a7c6484ad4
     m_Address: Arcana_ThrowSwitch
     m_ReadOnly: 0
@@ -1767,12 +1761,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - data
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 33b30431a067e414080d119dc2eb4fa7
-    m_Address: Behavior_Projectile_DruidThorn
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - behavior
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 33dccd9ae82daab42bdf473af5c50b64
     m_Address: Common_LanternPowder
     m_ReadOnly: 0
@@ -2163,12 +2151,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - data
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 40b074f68d51df140a60d588e7d911a4
-    m_Address: Ability_Potion_Potion_Druid
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 40c375c39aa7d564597108763c874f7d
     m_Address: StatusEffect_FrozenOver
     m_ReadOnly: 0
@@ -2375,12 +2357,6 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4692a2490a4233c4e9bc6d521625ede7
     m_Address: StatusEffect_Excited Book
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 471bbf635aa360e4caed7452c4bb877f
-    m_Address: Potion_Potion_Druid
     m_ReadOnly: 0
     m_SerializedLabels:
     - data
@@ -3351,12 +3327,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - data
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 649c91c722a4aba41acf6dbbc0ae8eb3
-    m_Address: Encounter_Chest
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - prefab
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 65122e34c30d9214ab42e2838d8ee85a
     m_Address: Tag_AimBox
     m_ReadOnly: 0
@@ -3503,12 +3473,6 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 69bcce98d9d386242a509db67d878d75
     m_Address: Common_TwinsMelee
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 69d18001b96f5b842b417735c941dcd8
-    m_Address: StatusEffect_Druid_Bear
     m_ReadOnly: 0
     m_SerializedLabels:
     - data
@@ -4425,12 +4389,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - data
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 8cacc1e53b3c9364bbd70ffcf0e20bbe
-    m_Address: SpawnTable_DruidTransformations
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8ce36243963cabb4aa383cab1ebde4db
     m_Address: MapIcon_EternalChest
     m_ReadOnly: 0
@@ -4821,12 +4779,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - data
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 9693ba90f972f8245a1279adb4a90f94
-    m_Address: Projectile_Druid_Thorn
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 96b989c961645e74e9d806d9ca152ec6
     m_Address: Relic_MastersHat
     m_ReadOnly: 0
@@ -4853,12 +4805,6 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 97975fea9078aa44c9cf62bc89b321d1
     m_Address: StatusEffect_CrowMask
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 97aaced4ff1be2c46842c3f103e5a204
-    m_Address: Attack_Druid_Transform
     m_ReadOnly: 0
     m_SerializedLabels:
     - data
@@ -6093,12 +6039,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - data
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: c07a14f0bd30bcd4b9c43054b1cf3348
-    m_Address: Attack_Druid_Throw
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c0cece564a811f74880a594d19693b16
     m_Address: Relic_Dagaz
     m_ReadOnly: 0
@@ -7053,12 +6993,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - behavior
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: e04eb16bbd05f9b44b8dc3b75e85a228
-    m_Address: InputMapData_Druid
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e0972a6cad97c8c46a673b0f5faf38be
     m_Address: Behavior_TransmuteCostUp
     m_ReadOnly: 0
@@ -7130,12 +7064,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - data
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: e2a93f9a54719234788179a2a701f42e
-    m_Address: Behavior_Druid_Bear
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - behavior
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e2bea9576ad53d2499c548b660a6192e
     m_Address: Pandora -1 Item
@@ -7617,12 +7545,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - data
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: f25c1a3435e745849a925430b3064e6e
-    m_Address: Tag_Player_Druid
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f26124601fad978458a0cbb2bf72d693
     m_Address: Behavior_Projectile_TunicShockWave
     m_ReadOnly: 0
@@ -7919,12 +7841,6 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: fd9dce872b3591048a698dfa11ee8116
     m_Address: Common_SkeletonKey
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: fdcf0eae498d2cc4ab160e91afbf0665
-    m_Address: Common_Druid_Bear
     m_ReadOnly: 0
     m_SerializedLabels:
     - data

@@ -115,5 +115,11 @@ MonoBehaviour:
       addSpawnTable:
         guid: bbe9d60afe0ec72468042ba7f0b8205c
         guidHash: 1863795215
+    - originalSpawnTable:
+        guid: 51184bf77f1ac784fbb6e4cb60e0b5b8
+        guidHash: -101351207
+      addSpawnTable:
+        guid: d7ccb3d029a910f4483d1b5ef53f0da4
+        guidHash: 71070093
   m_additionalEnemyLists:
     m_values: []
