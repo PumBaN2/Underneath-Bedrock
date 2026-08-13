@@ -1,5 +1,21 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-6205391931960518081
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1205558768, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: MiniMapModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_mapIcon:
+    guid: 315e8283be351e64cab5cf44c61e628c
+    guidHash: -22832376
 --- !u!114 &-5748734239218498433
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12,7 +28,7 @@ MonoBehaviour:
   m_Script: {fileID: 173507967, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
   m_Name: PickedUp
   m_EditorClassIdentifier: 
-  _serializedGraph: '{"type":"Thor.Core.ExtendedBehaviorTree","nodes":[{"_position":{"x":599.0,"y":230.0},"$type":"Thor.Core.StickyScope","$id":"0"},{"_action":{"m_taskData":{"owner":{"_value":{}},"tags":{"m_tags":{"m_values":[]}},"guid":"485e2857ba2c4be7","data":{},"dataLookup":{"m_data":{"guid":"ddb77855c95217a4483b84e3a100dd72","guidHash":1383005596},"m_target":{"_name":"Self","_targetVariableID":"5a0c7ed4-48d7-4ee7-b81a-a1c9c8fa2b77"},"m_key":{},"m_variable":{}},"target":{"_name":"Target","_targetVariableID":"eb9cd4b9-7149-4b9e-8528-b72d6bd9ec6c"},"source":{"_name":"Self","_targetVariableID":"5a0c7ed4-48d7-4ee7-b81a-a1c9c8fa2b77"},"itemDataLookup":{"m_data":{},"m_target":{"_name":"Self","_targetVariableID":"5a0c7ed4-48d7-4ee7-b81a-a1c9c8fa2b77"},"m_key":{},"m_variable":{}},"level":{"target":{"_name":"Owner"},"property":{"guid":""},"lookupKey":{"_value":""},"value":{"_value":1.0},"operand":{}},"duration":{"target":{"_name":"Owner"},"property":{"guid":""},"lookupKey":{"_value":""},"value":{},"operand":{}},"baseChance":{"target":{"_name":"Owner"},"property":{},"lookupKey":{},"value":{"_value":1.0},"operand":{}},"maxChance":{"target":{"_name":"Owner"},"property":{},"lookupKey":{},"value":{"_value":1.0},"operand":{}},"offset":{}},"m_output":{"_value":{}},"$type":"Thor.Core.AddStatusEffect"},"_position":{"x":555.0,"y":405.0},"$type":"NodeCanvas.BehaviourTrees.ActionNode","$id":"1"}],"connections":[{"_sourceNode":{"$ref":"0"},"_targetNode":{"$ref":"1"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"}],"canvasGroups":[],"localBlackboard":{"_variables":{"Self":{"_value":{},"_name":"Self","_id":"5a0c7ed4-48d7-4ee7-b81a-a1c9c8fa2b77","_isPublic":true,"$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
+  _serializedGraph: '{"type":"Thor.Core.ExtendedBehaviorTree","nodes":[{"_position":{"x":599.0,"y":230.0},"$type":"Thor.Core.StickyScope","$id":"0"},{"_action":{"m_taskData":{"owner":{"_value":{}},"tags":{"m_tags":{"m_values":[]}},"guid":"485e2857ba2c4be7","data":{},"dataLookup":{"m_data":{"guid":"ddb77855c95217a4483b84e3a100dd72","guidHash":1383005596},"m_target":{"_name":"Self","_targetVariableID":"5a0c7ed4-48d7-4ee7-b81a-a1c9c8fa2b77"},"m_key":{},"m_variable":{}},"target":{"_name":"Target","_targetVariableID":"eb9cd4b9-7149-4b9e-8528-b72d6bd9ec6c"},"source":{"_name":"Self","_targetVariableID":"5a0c7ed4-48d7-4ee7-b81a-a1c9c8fa2b77"},"itemDataLookup":{"m_data":{},"m_target":{"_name":"Self","_targetVariableID":"5a0c7ed4-48d7-4ee7-b81a-a1c9c8fa2b77"},"m_key":{},"m_variable":{}},"level":{"target":{"_name":"Owner"},"property":{"guid":""},"lookupKey":{"_value":""},"value":{"_value":1.0},"operand":{}},"duration":{"target":{"_name":"Owner"},"property":{"guid":""},"lookupKey":{"_value":""},"value":{},"operand":{}},"scale":{"_value":{"combine":{"_value":true},"xyz":{"target":{"_name":"Owner"},"property":{},"lookupKey":{},"value":{"_value":1.0},"operand":{}},"x":{"target":{"_name":"Owner"},"property":{},"lookupKey":{},"value":{"_value":1.0},"operand":{}},"y":{"target":{"_name":"Owner"},"property":{},"lookupKey":{},"value":{"_value":1.0},"operand":{}},"z":{"target":{"_name":"Owner"},"property":{},"lookupKey":{},"value":{"_value":1.0},"operand":{}}}},"baseChance":{"target":{"_name":"Owner"},"property":{},"lookupKey":{},"value":{"_value":1.0},"operand":{}},"maxChance":{"target":{"_name":"Owner"},"property":{},"lookupKey":{},"value":{"_value":1.0},"operand":{}},"offset":{}},"m_output":{"_value":{}},"$type":"Thor.Core.AddStatusEffect"},"_position":{"x":555.0,"y":405.0},"$type":"NodeCanvas.BehaviourTrees.ActionNode","$id":"1"}],"connections":[{"_sourceNode":{"$ref":"0"},"_targetNode":{"$ref":"1"},"$type":"NodeCanvas.BehaviourTrees.BTConnection"}],"canvasGroups":[],"localBlackboard":{"_variables":{"Self":{"_value":{},"_name":"Self","_id":"5a0c7ed4-48d7-4ee7-b81a-a1c9c8fa2b77","_isPublic":true,"$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
     Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"Target":{"_value":{},"_name":"Target","_id":"eb9cd4b9-7149-4b9e-8528-b72d6bd9ec6c","_isPublic":true,"$type":"NodeCanvas.Framework.Variable`1[[Thor.Core.SimEntityRef,
     Lithium.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"}}},"derivedData":{"autoVariables":{"m_values":[]},"$type":"Thor.Core.ExtendedBehaviorTree+DerivedSerializationData"}}'
   _objectReferences: []
@@ -28,6 +44,7 @@ MonoBehaviour:
   m_processOnEnable: 0
   m_uninterruptible: 0
   m_proxy: 0
+  m_restartOnDisable: 0
   m_autoVariables:
     m_values: []
 --- !u!114 &-2806300602835023972
@@ -87,12 +104,13 @@ MonoBehaviour:
   m_behaviorModule: {fileID: 0}
   m_itemModule: {fileID: 495070051988342987}
   m_costModule: {fileID: 8110205521410625035}
-  m_miniMapModule: {fileID: 0}
+  m_miniMapModule: {fileID: -6205391931960518081}
   m_swapModule: {fileID: 0}
   m_shadowModule: {fileID: 0}
   m_requirementModule: {fileID: 0}
   m_itemAnimationModule: {fileID: 0}
   m_itemDeathModule: {fileID: 4025434843380960127}
+  m_uiModule: {fileID: 0}
 --- !u!114 &495070051988342987
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -107,6 +125,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_isDefault: 0
   m_isPromptable: 1
+  m_isGildable: 0
   m_maxSpawnCount: 1
   m_pickupBehavior: {fileID: -5748734239218498433}
   m_pickupRequirements:
@@ -133,6 +152,51 @@ MonoBehaviour:
   m_landAudio:
     guid: 57468226072922f45b5e3b2b348ed0dc
     guidHash: -1709923917
+  m_removalWeight:
+    m_weight: 1
+    m_luck:
+      m_type: 0
+      m_max: 0
+    m_requirements:
+      operation: 0
+      expression: '{0}'
+      values:
+        m_values: []
+    m_passAdjust:
+      m_behavior: 0
+      m_adjust: 0
+      m_luckBehavior: 0
+      m_luckAdjust:
+        m_type: 0
+        m_max: 0
+      m_assignmentOp:
+        name: =
+        hash: 372029329
+      m_property:
+        guid: 
+        guidHash: 0
+      m_arithmeticOp:
+        name: +
+        hash: 372029319
+      m_value: 0
+    m_failAdjust:
+      m_behavior: 0
+      m_adjust: 0
+      m_luckBehavior: 0
+      m_luckAdjust:
+        m_type: 0
+        m_max: 0
+      m_assignmentOp:
+        name: =
+        hash: 372029329
+      m_property:
+        guid: 
+        guidHash: 0
+      m_arithmeticOp:
+        name: +
+        hash: 372029319
+      m_value: 0
+    serialized: 1
   references:
     version: 2
     RefIds: []

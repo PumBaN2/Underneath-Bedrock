@@ -199,7 +199,9 @@ MonoBehaviour:
   m_isDefault: 0
   m_deathFXOffset: {x: 0, y: 0, z: 0}
   m_deaths:
-    m_values: []
+    m_values:
+    - guid: 7c9c838cd71a5cf4abc12b5dae4050ec
+      guidHash: 1932243728
 --- !u!114 &5419470775627183164
 MonoBehaviour:
   m_ObjectHideFlags: 0

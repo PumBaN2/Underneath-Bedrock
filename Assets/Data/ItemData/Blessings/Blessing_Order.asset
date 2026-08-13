@@ -31,6 +31,22 @@ MonoBehaviour:
   m_restartOnDisable: 0
   m_autoVariables:
     m_values: []
+--- !u!114 &-5560378694605412826
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1205558768, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: MiniMapModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_mapIcon:
+    guid: 364eba962b953cd47a2d171667c4a319
+    guidHash: -1990218463
 --- !u!114 &-2806300602835023972
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -88,12 +104,13 @@ MonoBehaviour:
   m_behaviorModule: {fileID: 0}
   m_itemModule: {fileID: 495070051988342987}
   m_costModule: {fileID: 3224089698015536475}
-  m_miniMapModule: {fileID: 0}
+  m_miniMapModule: {fileID: -5560378694605412826}
   m_swapModule: {fileID: 0}
   m_shadowModule: {fileID: 0}
   m_requirementModule: {fileID: 0}
   m_itemAnimationModule: {fileID: 0}
   m_itemDeathModule: {fileID: 4025434843380960127}
+  m_uiModule: {fileID: 8428500796506097611}
 --- !u!114 &495070051988342987
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -108,6 +125,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_isDefault: 0
   m_isPromptable: 1
+  m_isGildable: 0
   m_maxSpawnCount: -1
   m_pickupBehavior: {fileID: -5748734239218498433}
   m_pickupRequirements:
@@ -220,3 +238,26 @@ MonoBehaviour:
   m_deathFXOffset: {x: 0, y: 0, z: 0}
   m_deaths:
     m_values: []
+--- !u!114 &8428500796506097611
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1504850968, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: UIModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_showInJournal: 1
+  m_sortIndex: 0
+  m_icon: {fileID: 0}
+  m_maskShape: 0
+  m_mask: {fileID: 0}
+  m_animationSource: 0
+  m_animation:
+    m_values: []
+  m_fps: 0
+  m_iconPivot: {x: 0, y: 0}

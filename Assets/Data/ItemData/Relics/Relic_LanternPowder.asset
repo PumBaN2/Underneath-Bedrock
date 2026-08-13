@@ -159,7 +159,7 @@ MonoBehaviour:
       - negate: 0
         type: 3
         check:
-          rid: 8149365976708678240
+          rid: 8149366093335757778
   m_entityDataOverride:
     guid: 
     guidHash: 0
@@ -227,7 +227,7 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
-    - rid: 8149365976708678240
+    - rid: 8149366093335757778
       type: {class: RequirementCheckPlayerTag, ns: Thor.Core, asm: Lithium.Core}
       data:
         tag:

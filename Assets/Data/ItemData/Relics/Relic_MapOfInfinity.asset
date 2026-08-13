@@ -53,13 +53,13 @@ MonoBehaviour:
       - negate: 0
         type: 33
         check:
-          rid: 8149365981334470783
+          rid: 8149366093335757779
   m_description:
     m_id: 0
   references:
     version: 2
     RefIds:
-    - rid: 8149365981334470783
+    - rid: 8149366093335757779
       type: {class: RequirementCheckPickupCount, ns: Thor.Core, asm: Lithium.Core}
       data:
         pickupable:

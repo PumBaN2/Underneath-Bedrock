@@ -75,12 +75,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - data
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 01c3807422c9dca429b8dfb185282d67
-    m_Address: Behavior_Embiggener
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - behavior
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 01c9a222c43727349983769549c92c64
     m_Address: Prop_MinigameCorner_Blue
     m_ReadOnly: 0
@@ -423,12 +417,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - data
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 0b8852929b08e434b88f923940806aad
-    m_Address: Behavior_Booster
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - behavior
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0b8ecaea80c8aaa45b5ec17b5ed45c95
     m_Address: Arcana_Blank
     m_ReadOnly: 0
@@ -482,12 +470,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - prefab
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 0ca711110bb12fd4f929bf43bb0d3346
-    m_Address: Cost_ListTest
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0d3e200cec5646c4d9b8f3d3a57f7bee
     m_Address: Common_Potion_Druid
@@ -941,12 +923,6 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 197f47aa398b52548ab84cc33d9ce812
     m_Address: StatusEffect_PerfectBlend
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 1a216aa23f30dcb4e9fb5b7229232bd8
-    m_Address: Common_Ingredient
     m_ReadOnly: 0
     m_SerializedLabels:
     - data
@@ -1467,12 +1443,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - data
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 2a4723d841ca33d499161d1fe1fb68ac
-    m_Address: Relic_Embiggener
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2ad8e32e6a639e54b852bf106b2f74be
     m_Address: Relic_FluffyHat
     m_ReadOnly: 0
@@ -1959,12 +1929,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - data
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 3750e2f2d44bb554faeb36f80eb87c63
-    m_Address: Relic_Metamorphizer
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3794c25cdb17f4f4a8831d29d4512db3
     m_Address: Relic_HorseShoe
     m_ReadOnly: 0
@@ -2126,12 +2090,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - behavior
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 3e030de87fe20d242b39b8ca4e701578
-    m_Address: Common_Trombone
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3e05e35c1df5f13409c47aae9074c185
     m_Address: Behavior_DroneTurret_2
@@ -2607,12 +2565,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - data
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 4c3674eed6dd71d4abae17d4513c7abd
-    m_Address: MaxIngredient
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4c38aab5f85954b4da51a7436ab3a207
     m_Address: Shrine_Shogirror
     m_ReadOnly: 0
@@ -2847,12 +2799,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - data
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 546f72d96c2481f4e933d1bd9830a0fb
-    m_Address: Tag_MetamorphizerSpawn
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 548fae8096efcfd4e8e97e4e5a695323
     m_Address: AnimationData_BobsBrain
     m_ReadOnly: 0
@@ -2873,12 +2819,6 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5529d7173f52c0b4ead911ccb7e28c25
     m_Address: EntityData_BobsBlast
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 555828e3d4ac0d6499acb01450819453
-    m_Address: StatusEffect_Embiggener
     m_ReadOnly: 0
     m_SerializedLabels:
     - data
@@ -3035,12 +2975,6 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 596a89aed59240e4e94888a4abb403ba
     m_Address: AnimationData_TwinsRanged
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 5998351b3ebed534090c6443c2ce7de8
-    m_Address: Relic_Booster
     m_ReadOnly: 0
     m_SerializedLabels:
     - data
@@ -3999,12 +3933,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - data
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 7acb83e6224c3f749b58ee7acdecdd4c
-    m_Address: Potion_Booster_potion
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7adbee7295b7e9a42b7e48e9a1c63bee
     m_Address: Tag_SupplyDropRoom
     m_ReadOnly: 0
@@ -4061,12 +3989,6 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7cf81925c4af6b040ad41ef553d581bb
     m_Address: Curse_MutatedMana
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 7d1ecc2a6effdf0469c13fa862c1e0dd
-    m_Address: Tag_TopWaysWielder
     m_ReadOnly: 0
     m_SerializedLabels:
     - data
@@ -4199,12 +4121,6 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 810d2125127609f4fbbd83a066878887
     m_Address: StatusEffect_KnockWaves
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 8157552b276f8664b8ab66c73984d1d0
-    m_Address: LootTable_Booster
     m_ReadOnly: 0
     m_SerializedLabels:
     - data
@@ -4467,12 +4383,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - data
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 8abb06c370bac404694b95537e135f94
-    m_Address: SpecialItem_ingredient
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8b01817efd440c34f890ba3fe3b71169
     m_Address: SpecialItem_pandora_skull
     m_ReadOnly: 0
@@ -4529,12 +4439,6 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8ce9470ca7c4d254dbc8fe4b092eb2a3
     m_Address: Common_Explosive Flask
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 8cf3ff7d3ff5cda4785a731a10efcc61
-    m_Address: Common_Booster
     m_ReadOnly: 0
     m_SerializedLabels:
     - data
@@ -5103,12 +5007,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - data
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 9c47dcb7f714ef94b83dd1aaf0c79711
-    m_Address: Ability_Arcana_Trombone
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9cb485b60ef57194eae58b41b64faa6f
     m_Address: Potion_SnowGlobe
     m_ReadOnly: 0
@@ -5189,12 +5087,6 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a002c4c64cc0cc344b78ef01feb672fc
     m_Address: Ability_Potion_SnowGlobe
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: a093dde6e22a4e54c99bc4b143bb02f4
-    m_Address: Ability_Potion_Booster_potion
     m_ReadOnly: 0
     m_SerializedLabels:
     - data
@@ -6183,12 +6075,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - data
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: c0315028ac9ce6c4c94ddbe147c7f577
-    m_Address: Resource_Ingredient
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c036f5a652b1afa4cbcb088fb16603bf
     m_Address: Behavior_Ingenuity_Modded
     m_ReadOnly: 0
@@ -6489,12 +6375,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - audio
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: c942804517d630347b9463ecab4ab308
-    m_Address: Behavior_Metamorphizer
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - behavior
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c9499d097dc76db4ebc8a4816c7a4f7f
     m_Address: Behavior_TrapDisarmToolkit
     m_ReadOnly: 0
@@ -6585,12 +6465,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - data
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: cb42a5810cd4f4c42bcf8ab924cfba6e
-    m_Address: StatusEffect_Metamorphizer
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: cb6d6aa4df1308a4bb9c9895a881b4eb
     m_Address: Common_Fan
     m_ReadOnly: 0
@@ -6629,12 +6503,6 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: cd29952151cde0e45b8a559b83dfacee
     m_Address: StatusEffect_Sharpshooter
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: cd829cbacf254564bba2d82247ccefe8
-    m_Address: StatusEffect_Booster
     m_ReadOnly: 0
     m_SerializedLabels:
     - data
@@ -7497,20 +7365,8 @@ MonoBehaviour:
     m_SerializedLabels:
     - data
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: e93499dc41369d44c8f07fe5abe76cfb
-    m_Address: Common_Embiggener
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e945c307a2e103147b45ceec6dd55e7c
     m_Address: EncounterGroup_Trap
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: e9556eb60dc61114eb26b7c192bf0171
-    m_Address: Common_Metamorphizer
     m_ReadOnly: 0
     m_SerializedLabels:
     - data
@@ -7641,12 +7497,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - data
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: ed24c76a4c7957f468940db30d17b3b8
-    m_Address: Common_Booster_potion
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ee153acadfda746458b9a0547dec5443
     m_Address: Common_PERFECTLYBalancedShiv
     m_ReadOnly: 0
@@ -7748,12 +7598,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - behavior
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: f1289ccf5bcd1a6439e0902e3197ff33
-    m_Address: Arcana_Trombone
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f1f03e099ed94134aa05acbab50229fc
     m_Address: CommonCost_ShadyRelic_Average

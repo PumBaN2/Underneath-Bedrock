@@ -97,7 +97,7 @@ MonoBehaviour:
                 - negate: 0
                   type: 3
                   check:
-                    rid: 6008179341657637192
+                    rid: 8149366093233521582
             m_passAdjust:
               m_behavior: 0
               m_adjust: 0
@@ -245,7 +245,7 @@ MonoBehaviour:
                 - negate: 0
                   type: 3
                   check:
-                    rid: 6008179341657637193
+                    rid: 8149366093233521583
             m_passAdjust:
               m_behavior: 0
               m_adjust: 0
@@ -345,7 +345,7 @@ MonoBehaviour:
                 - negate: 0
                   type: 3
                   check:
-                    rid: 6008179341657637194
+                    rid: 8149366093233521584
             m_passAdjust:
               m_behavior: 0
               m_adjust: 0
@@ -525,7 +525,7 @@ MonoBehaviour:
                 hash: 0
               m_value: 0
             serialized: 1
-                      spawnable:
+          spawnable:
             guid: f59880a513929b3469f238b7bbcf2d51
             guidHash: 407567473
         - weight:
@@ -817,29 +817,25 @@ MonoBehaviour:
             guid: fec03a6eb71bff0439e59aad85af76df
             guidHash: 773908513
       guid: 83c93d6790fa45a9b8528af281f0700d
-          spawnable:
-            guid: 1ed56434229b3ba40be42b5bc6a5ef27
-            guidHash: 898344062
-      guid: 83c93d6790fa45a9b8528af281f0700d
   m_weightedSpawnTables:
     m_values: []
   m_previewIcon: {fileID: 0}
   references:
     version: 2
     RefIds:
-    - rid: 6008179341657637192
+    - rid: 8149366093233521582
       type: {class: RequirementCheckPlayerTag, ns: Thor.Core, asm: Lithium.Core}
       data:
         tag:
           guid: 33571f72e64e9ef47bef5af201188656
           guidHash: -45167789
-    - rid: 6008179341657637193
+    - rid: 8149366093233521583
       type: {class: RequirementCheckPlayerTag, ns: Thor.Core, asm: Lithium.Core}
       data:
         tag:
           guid: 834a8a6f245015f4eabf07733e2f2a94
           guidHash: 389551581
-    - rid: 6008179341657637194
+    - rid: 8149366093233521584
       type: {class: RequirementCheckPlayerTag, ns: Thor.Core, asm: Lithium.Core}
       data:
         tag:
