@@ -664,7 +664,7 @@ MonoBehaviour:
     - data
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 12349e429c34c9843a5cbf9c281c704b
-    m_Address: Relic_Sho'guul'sGift
+    m_Address: Relic_ShoguulsGift
     m_ReadOnly: 0
     m_SerializedLabels:
     - data
@@ -994,7 +994,7 @@ MonoBehaviour:
     - behavior
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1d048f2d6cbe1544898f90bf9e11f5df
-    m_Address: Common_Sho'guul'sGift
+    m_Address: Common_ShoguulsGift
     m_ReadOnly: 0
     m_SerializedLabels:
     - data
@@ -1162,7 +1162,7 @@ MonoBehaviour:
     - behavior
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 22873354a2e13da45b16b73e15c070fc
-    m_Address: StatusEffect_Sho'guul'sGift
+    m_Address: StatusEffect_ShoguulsGift
     m_ReadOnly: 0
     m_SerializedLabels:
     - data
@@ -1709,6 +1709,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 32540560bf090bc4aaf10b28ce6b8688
     m_Address: Common_EmpoweredGold
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 327d3b04b27adbf40be73e9fcde10e7d
+    m_Address: Tag_ShoguulsGift
     m_ReadOnly: 0
     m_SerializedLabels:
     - data
@@ -3514,7 +3520,7 @@ MonoBehaviour:
     - data
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6b5c0d70120438f49a5785ddad47565f
-    m_Address: Behavior_Sho'guul'sGift
+    m_Address: Behavior_ShoguulsGift
     m_ReadOnly: 0
     m_SerializedLabels:
     - behavior
@@ -3596,12 +3602,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - behavior
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 6d5c43165a8ad7f44ba1a338d4515ddb
-    m_Address: SpawnTable_MyCommonRelics
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6db20b0c8294d0946893cbec0966c4d9
     m_Address: Ability_Potion_ExplodingFlask
@@ -3789,6 +3789,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - data
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 76f93b1b221456a4caac49edc461b2bb
+    m_Address: Loottable_FrozenChestLoot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 770aafd01af6a02478a1638c892e3ef9
     m_Address: StatusEffect_Magnetic Pickaxe
     m_ReadOnly: 0
@@ -3857,12 +3863,6 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 794ed891f28260040b47ef1382a1c0af
     m_Address: StatusEffect_LeechingSeedSpreadBranches
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 79c9e4d97f741be42a0e5d8d00301120
-    m_Address: SpawnTable_MyRareRelics
     m_ReadOnly: 0
     m_SerializedLabels:
     - data
@@ -4335,12 +4335,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - data
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 8a2f3b8b9bd1abf488db3b0773aad580
-    m_Address: SpawnTable_MyCurses
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8a3125ea779979d419702cb96c2f8a28
     m_Address: Arcana_Mass Releaser
     m_ReadOnly: 0
@@ -4370,12 +4364,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - behavior
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 8b6a943ff7150f047b8cc00007833328
-    m_Address: SpawnTable_MyCommonShopRelics
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8c3f9cf4e30e2e64a8aa1b9ad02dd3a5
     m_Address: Relic_TriWhip
@@ -6053,12 +6041,6 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c1f66f5a3ef6c10478e6b42d4c23fc86
     m_Address: Item_berry_green
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - data
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: c2026f65e3e324b439e8e763ed6ce1ef
-    m_Address: SpawnTable_MyRareShopRelics
     m_ReadOnly: 0
     m_SerializedLabels:
     - data
@@ -7763,6 +7745,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: fa1b3190037f64444b159f76a7183814
     m_Address: Tag_Forged
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa95792b483272948bcbbbe39370d328
+    m_Address: LootTable_ChestsTypes_Frozen
     m_ReadOnly: 0
     m_SerializedLabels:
     - data

@@ -68,7 +68,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: -545190865, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
-  m_Name: StatusEffect_Sho'guul'sGift
+  m_Name: StatusEffect_ShoguulsGift
   m_EditorClassIdentifier: 
   m_guid: e93d41568f1d45ad8e17bae6acfe468f
   m_guidHash: -1420185082

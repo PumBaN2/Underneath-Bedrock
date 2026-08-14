@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 825131332, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
-  m_Name: LootTable_ChestTypesMod
+  m_Name: LootTable_ChestsTypes_Frozen
   m_EditorClassIdentifier: 
-  m_guid: b81b96cd3eb8451eaad63f1be9bbe3d3
-  m_guidHash: -495000927
+  m_guid: 1f9d180fa03649d79839cce0f1942740
+  m_guidHash: -1964248544
   m_stabilizeResults: 0
   m_locked: 0
   m_dataStoreKey: 
@@ -37,7 +37,7 @@ MonoBehaviour:
       spawnables:
         m_values:
         - weight:
-            m_weight: 2
+            m_weight: 5
             m_luck:
               m_type: 0
               m_max: 0
@@ -82,10 +82,10 @@ MonoBehaviour:
               m_value: 0
             serialized: 1
           spawnable:
-            guid: 1e595573b5026a04eb192d82b8e8411b
-            guidHash: 970096010
+            guid: 259ebf2eec0e3ac41b1e1ce3b6ac502e
+            guidHash: 2103853317
         - weight:
-            m_weight: 18
+            m_weight: 4
             m_luck:
               m_type: 0
               m_max: 0
@@ -93,24 +93,28 @@ MonoBehaviour:
               operation: 0
               expression: 
               values:
-                m_values: []
+                m_values:
+                - negate: 0
+                  type: 11
+                  check:
+                    rid: 8149366105065128137
             m_passAdjust:
-              m_behavior: 0
+              m_behavior: 1
               m_adjust: 0
               m_luckBehavior: 0
               m_luckAdjust:
                 m_type: 0
                 m_max: 0
               m_assignmentOp:
-                name: 
-                hash: 0
+                name: =
+                hash: 372029329
               m_property:
                 guid: 
                 guidHash: 0
               m_arithmeticOp:
                 name: 
                 hash: 0
-              m_value: 0
+              m_value: 2
             m_failAdjust:
               m_behavior: 0
               m_adjust: 0
@@ -130,60 +134,18 @@ MonoBehaviour:
               m_value: 0
             serialized: 1
           spawnable:
-            guid: d8443d169cb762c4fa075cde9b610a91
-            guidHash: -1560856550
-        - weight:
-            m_weight: 10
-            m_luck:
-              m_type: 0
-              m_max: 0
-            m_requirements:
-              operation: 0
-              expression: 
-              values:
-                m_values: []
-            m_passAdjust:
-              m_behavior: 0
-              m_adjust: 0
-              m_luckBehavior: 0
-              m_luckAdjust:
-                m_type: 0
-                m_max: 0
-              m_assignmentOp:
-                name: 
-                hash: 0
-              m_property:
-                guid: 
-                guidHash: 0
-              m_arithmeticOp:
-                name: 
-                hash: 0
-              m_value: 0
-            m_failAdjust:
-              m_behavior: 0
-              m_adjust: 0
-              m_luckBehavior: 0
-              m_luckAdjust:
-                m_type: 0
-                m_max: 0
-              m_assignmentOp:
-                name: 
-                hash: 0
-              m_property:
-                guid: 
-                guidHash: 0
-              m_arithmeticOp:
-                name: 
-                hash: 0
-              m_value: 0
-            serialized: 1
-          spawnable:
-            guid: fa95792b483272948bcbbbe39370d328
-            guidHash: 1880674029
-      guid: 1a1420c617d44ae89115130acb3e6583
+            guid: 3ce99fb3e0256ac4aa631847603e5ded
+            guidHash: 950575751
+      guid: 6793742cef584441ab76a5009d582893
   m_weightedSpawnTables:
     m_values: []
   m_previewIcon: {fileID: 0}
   references:
     version: 2
-    RefIds: []
+    RefIds:
+    - rid: 8149366105065128137
+      type: {class: RequirementCheckPlayerItemTag, ns: Thor.Core, asm: Lithium.Core}
+      data:
+        tag:
+          guid: 5ecd6c3410eceb1499d7c6b6310905b6
+          guidHash: 146589306

@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: -143053857, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
-  m_Name: Common_Sho'guul'sGift
+  m_Name: Common_ShoguulsGift
   m_EditorClassIdentifier: 
   m_guid: 5bb73c58ca874c7f8cac32655efa74aa
   m_guidHash: -1011792581
@@ -41,3 +41,5 @@ MonoBehaviour:
           guidHash: -237278429
         - guid: 1702ba4ac7749d247abbdd3a6977cbd0
           guidHash: -2033729002
+        - guid: 327d3b04b27adbf40be73e9fcde10e7d
+          guidHash: 1563609237

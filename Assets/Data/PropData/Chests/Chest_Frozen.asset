@@ -136,8 +136,8 @@ MonoBehaviour:
     m_values:
     - m_key: loot
       m_data:
-        guid: 56ba2f177f7ee9f4b9bb95afa2d9fcb9
-        guidHash: 2076336591
+        guid: 76f93b1b221456a4caac49edc461b2bb
+        guidHash: -1535833157
   m_valueStore:
     m_values: []
   m_stringStore:
