@@ -15,10 +15,12 @@ MonoBehaviour:
   m_guid: e1cdd5271b3446858e6d32dc97a6db4c
   m_guidHash: 1653452253
   m_stabilizeResults: 0
+  m_locked: 0
   m_dataStoreKey: 
   m_fallback:
     guid: 
     guidHash: 0
+  m_comments: 
   m_reRollTags:
     m_values: []
   m_spawnTables:
@@ -82,7 +84,7 @@ MonoBehaviour:
           spawnable:
             guid: c1f66f5a3ef6c10478e6b42d4c23fc86
             guidHash: -59127769
-      guid: c71f52b5c2c6490d9fe59eb0d43d1051
+      guid: 7cc76df225f84501a14053d462b4bcfc
   m_weightedSpawnTables:
     m_values: []
   m_previewIcon: {fileID: 0}

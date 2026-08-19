@@ -39,6 +39,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - data
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 00832019d5d3abe4a9eb18afb0e3c8d2
+    m_Address: Material_BrimstoneTestUpper
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - material
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 008b77fdd9251da49b4d319904ee651a
     m_Address: Prop_VampirismCircle
     m_ReadOnly: 0
@@ -309,6 +315,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - behavior
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 08140bed34c622a42ba55ff9d36caa3d
+    m_Address: Material_BrimstoneTest
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - material
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 083e5d87ddad279458d69fe4193e93da
     m_Address: Behavior_Order
     m_ReadOnly: 0
@@ -569,6 +581,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0f05d8f2ec7878147ad3ca03d1682fb6
     m_Address: StatusEffect_SkilledSlayer
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0f7828acdfca3074ba5e8ed916f98d95
+    m_Address: Knockback_Waves
     m_ReadOnly: 0
     m_SerializedLabels:
     - data
@@ -3621,6 +3639,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - data
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e6605e019301e24e96deafd788aa727
+    m_Address: Material_BrimstoneTestUnder
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - material
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6e778bcac8ca34948b8909a12d3936ba
     m_Address: Relic_Girya
     m_ReadOnly: 0
@@ -5625,6 +5649,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - data
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b32034e8d38a8cb40a11cbdc7f9db758
+    m_Address: LootTable_Relic_Shoguul_Mod
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b34f5a7d1f83b1f4ea38450af0a6899b
     m_Address: StatusEffect_Goodies
     m_ReadOnly: 0
@@ -7029,6 +7059,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - data
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1fc0b2b62e77bb42ad0aff554398490
+    m_Address: Beam_Brimstone
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e20628f5dfb2f814a822075305abab61
     m_Address: Animation_BobsBrain_Egg_Idle
     m_ReadOnly: 0
@@ -7319,6 +7355,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ea60a24128a21c84da54be58450d6464
     m_Address: Ability_Arcana_FlashySlashFlash
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea6b43ac707041444ac0e492b0850ba4
+    m_Address: LootTable_Relic_Order_Mod
     m_ReadOnly: 0
     m_SerializedLabels:
     - data

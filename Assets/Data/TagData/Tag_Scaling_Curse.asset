@@ -20,9 +20,9 @@ MonoBehaviour:
     properties:
       icons:
         m_sprites:
-        - {fileID: 4279139603643515184, guid: a9c2bdf9dc05f25458fdab6a89979507, type: 3}
-        - {fileID: 4279139603643515184, guid: a9c2bdf9dc05f25458fdab6a89979507, type: 3}
-        - {fileID: 4279139603643515184, guid: a9c2bdf9dc05f25458fdab6a89979507, type: 3}
+        - {fileID: 4279139603643515184, guid: c3c91909eac7c87409e60f8ddb3d1148, type: 3}
+        - {fileID: 0}
+        - {fileID: 0}
       displayName:
         m_id: 0
       description:

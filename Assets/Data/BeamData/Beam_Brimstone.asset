@@ -1,0 +1,465 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-6557795110325830030
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1425980735, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: BehaviorModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_behavior:
+    guid: 83e9bafb892764642ab8596c63e1550c
+    guidHash: 996606204
+  m_startDelay: 0
+  m_stunRecoverDuration: 0
+  m_interrupt: 0
+  m_tickDuringNIS: 1
+--- !u!114 &-2546264565842887570
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1222615185, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: AudioModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_music:
+    guid: 
+    guidHash: 0
+  m_talkAudio:
+    guid: 
+    guidHash: 0
+  m_commonAudio:
+    m_values: []
+  m_audioEvents:
+    m_values:
+    - m_eventMatcher:
+        m_eventType: 0
+        m_dataHint:
+          guid: 
+          guidHash: 0
+        m_stringHint: 
+        m_polarity: 0
+        m_polaritySecondary: 0
+        m_tags:
+          m_tags:
+            m_values: []
+        m_tagGrammar: 
+      m_action: 0
+      m_audio:
+        guid: b8a68c3d995423144a8a557a9b9fa4a2
+        guidHash: 2002578428
+      m_requirements:
+        operation: 0
+        expression: '{0}'
+        values:
+          m_values: []
+    - m_eventMatcher:
+        m_eventType: 112
+        m_dataHint:
+          guid: 
+          guidHash: 0
+        m_stringHint: 
+        m_polarity: 0
+        m_polaritySecondary: 0
+        m_tags:
+          m_tags:
+            m_values: []
+        m_tagGrammar: 
+      m_action: 0
+      m_audio:
+        guid: f3d3603a4a565c3488fa1a29ab3199ff
+        guidHash: -55400878
+      m_requirements:
+        operation: 0
+        expression: '{0}'
+        values:
+          m_values: []
+    - m_eventMatcher:
+        m_eventType: 112
+        m_dataHint:
+          guid: 
+          guidHash: 0
+        m_stringHint: 
+        m_polarity: 0
+        m_polaritySecondary: 0
+        m_tags:
+          m_tags:
+            m_values: []
+        m_tagGrammar: 
+      m_action: 0
+      m_audio:
+        guid: 733dd5f0bc6f76246a63d841f14ce7d5
+        guidHash: -349333160
+      m_requirements:
+        operation: 0
+        expression: '{0}'
+        values:
+          m_values: []
+    - m_eventMatcher:
+        m_eventType: 113
+        m_dataHint:
+          guid: 
+          guidHash: 0
+        m_stringHint: 
+        m_polarity: 0
+        m_polaritySecondary: 0
+        m_tags:
+          m_tags:
+            m_values: []
+        m_tagGrammar: 
+      m_action: 1
+      m_audio:
+        guid: 733dd5f0bc6f76246a63d841f14ce7d5
+        guidHash: -349333160
+      m_requirements:
+        operation: 0
+        expression: '{0}'
+        values:
+          m_values: []
+    - m_eventMatcher:
+        m_eventType: 113
+        m_dataHint:
+          guid: 
+          guidHash: 0
+        m_stringHint: 
+        m_polarity: 0
+        m_polaritySecondary: 0
+        m_tags:
+          m_tags:
+            m_values: []
+        m_tagGrammar: 
+      m_action: 0
+      m_audio:
+        guid: 821d44b2d1c208644b1c673dbcca66a0
+        guidHash: -1339304855
+      m_requirements:
+        operation: 0
+        expression: '{0}'
+        values:
+          m_values: []
+  references:
+    version: 2
+    RefIds: []
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -407644577, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: Beam_Brimstone
+  m_EditorClassIdentifier: 
+  m_guid: 3e553a40dcf144df8e6bd7766cd07d08
+  m_guidHash: 250162719
+  m_commonModule: {fileID: 0}
+  m_tagModule: {fileID: 0}
+  m_lifespanModule: {fileID: 0}
+  m_mixedModule: {fileID: 0}
+  m_allianceModule: {fileID: 0}
+  m_popupModule: {fileID: 0}
+  m_interactionModule: {fileID: 0}
+  m_toggleModule: {fileID: 0}
+  m_timerModule: {fileID: 0}
+  m_behaviorModule: {fileID: -6557795110325830030}
+  m_dataStoreModule: {fileID: 0}
+  m_inventoryModule: {fileID: 0}
+  m_resourceRedirectModule: {fileID: 0}
+  m_statModule: {fileID: 6942874709667509641}
+  m_modifierModule: {fileID: 0}
+  m_casterModule: {fileID: 0}
+  m_resistanceModule: {fileID: 0}
+  m_costModule: {fileID: 0}
+  m_animationModule: {fileID: 0}
+  m_visualModule: {fileID: 728359073176751608}
+  m_shadowModule: {fileID: 0}
+  m_audioModule: {fileID: -2546264565842887570}
+  m_portalModule: {fileID: 0}
+  m_teleporterModule: {fileID: 0}
+  m_physicsModule: {fileID: 0}
+  m_jumpModule: {fileID: 0}
+  m_lightModule: {fileID: 0}
+  m_facingModule: {fileID: 0}
+  m_navigationModule: {fileID: 0}
+  m_hazardModule: {fileID: 0}
+  m_footstepModule: {fileID: 0}
+  m_deathModule: {fileID: 0}
+  m_perimeterModule: {fileID: 0}
+  m_spawnModule: {fileID: 0}
+  m_miniMapModule: {fileID: 0}
+  m_carryModule: {fileID: 0}
+  m_gridModule: {fileID: 0}
+  m_uiModule: {fileID: 0}
+  m_prefabModule: {fileID: 6358043799694350812}
+  m_swapModule: {fileID: 0}
+  m_requirementModule: {fileID: 0}
+  m_tileModule: {fileID: 0}
+  m_bridgeModule: {fileID: 0}
+  m_beamModule: {fileID: 3681117357247105274}
+--- !u!114 &728359073176751608
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 328415546, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: VisualModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_visualLayer: -188957489
+  m_autosort: 1
+  m_sortOrder: 0
+  m_counterRotate: 0
+  m_reflectionEnabled: 0
+  m_rightsideUpReflection: 0
+  m_reflectionOffset: 0
+  m_occlusionEnabled: 0
+  m_occludesBeams: 0
+  m_prohibitItemShadow: 0
+  m_sortPivot: 0
+  m_scaleAround: 0
+  m_overrideVisualOffset: 0
+  m_visualOffset: {x: 0, y: 0, z: 0}
+  m_maxVisualScale: 0
+  m_fx:
+    guid: 
+    guidHash: 0
+  m_fxOffset: {x: 0, y: 0, z: 0}
+  m_fxRotation: {x: 0, y: 0, z: 0}
+  m_color: {r: 1, g: 1, b: 1, a: 1}
+  m_emissionColor: {r: 0, g: 0, b: 0, a: 0}
+  m_materials:
+    m_values: []
+  m_highStatusOffset: {x: 0, y: 0}
+  m_midStatusOffset: {x: 0, y: 0}
+  m_lowStatusOffset: {x: 0, y: 0}
+--- !u!114 &3681117357247105274
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 980968957, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: BeamModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_pierces: 0
+  m_hitInterval: 0.3
+  m_steeringMultiplier: 10
+  m_shadowOffset: 0.2
+  m_inCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 14.461104
+      outSlope: 1
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 0.1
+      inSlope: 1
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.15
+      value: 0.1
+      inSlope: 0
+      outSlope: 32.959137
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.06122351
+    - serializedVersion: 3
+      time: 0.25
+      value: 1
+      inSlope: -23.449799
+      outSlope: -1.233643
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.0707692
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  m_outCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: -5
+      outSlope: -2.5
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.4
+      value: 0
+      inSlope: -2.5
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  m_widthCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  m_shadowWidthCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 20
+      outSlope: 10
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.9045286
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 10
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.975
+      value: 1
+      inSlope: 0
+      outSlope: -40.00004
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.8871207
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: -40.00004
+      outSlope: -40.00004
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  m_raycastLayer:
+    serializedVersion: 2
+    m_Bits: 29497216
+  m_alliance: 5
+  m_startFX:
+    guid: 60f64647a6ec66046b5f4a3786469f74
+    guidHash: 815727610
+  m_endFX:
+    guid: a9854e8f212351149bf7451f0f407639
+    guidHash: -1373725880
+  m_endFXRotation: {x: 0, y: 0, z: 0}
+  m_materials:
+    m_values:
+    - guid: 47e8228b534d0e54f96e112c7d853660
+      guidHash: 609983132
+    - guid: 0e3b83106e8f4154483c5778d649cd16
+      guidHash: -1133869203
+    - guid: faaafa48afbf71a418fb84daf3ef5a41
+      guidHash: 1211527723
+  m_shadowMaterials:
+    m_values:
+    - guid: 5740d3b1cfb3d9a45b5d9f75093e5867
+      guidHash: 759425470
+--- !u!114 &6358043799694350812
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1470154796, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: PrefabModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_prefab:
+    guid: d81dd089f20a2eb4297df331d5a0a54c
+    guidHash: 39587040
+--- !u!114 &6942874709667509641
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 222165115, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: StatModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_baseStatKeys:
+    m_values:
+    - m_stat:
+        guid: 89ac27a5e390fef489e64fe77bf7d6ee
+        guidHash: -339642622
+      m_source: 2
+      m_operator:
+        name: +
+        hash: 372029319
+      m_value: 0
+      m_category: 
+      m_categoryHash: 0
+      m_inherit: 0

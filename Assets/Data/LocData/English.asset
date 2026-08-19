@@ -16,10 +16,12 @@ MonoBehaviour:
   m_guidHash: -2068944752
   m_type: 1
   m_isoName: 
+  m_characterFile: {fileID: 0}
   m_target:
     guid: 1d602605affb1ef4ea82a35dcfbdd272
     guidHash: 357552592
   m_icon: {fileID: 0}
+  m_supportsPixelFont: 0
   m_elements:
   - guidHash: 540778221
     text: Everyone has gold in their pockets, just gotta beat it out of em.
@@ -391,7 +393,7 @@ MonoBehaviour:
   - guidHash: -85737731
     text: Cursed Fortune
   - guidHash: 430377920
-    text: Gives 8000 gold but gain a random curse permanently.
+    text: Gives a ton of gold, but grants a random curse permanently.
   - guidHash: -1643393907
     text: Devil's Discount
   - guidHash: -831717502
@@ -440,7 +442,7 @@ MonoBehaviour:
   - guidHash: -709861488
     text: Knock Waves
   - guidHash: -148559360
-    text: Shockwaves knock enemies back, dealing some damage when they land.
+    text: Your shockwaves knock enemies back, dealing some damage when they land.
   - guidHash: -1630707366
     text: Tithe
   - guidHash: -44344328

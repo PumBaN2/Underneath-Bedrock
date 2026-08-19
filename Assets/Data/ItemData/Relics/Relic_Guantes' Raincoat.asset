@@ -236,7 +236,7 @@ MonoBehaviour:
   m_inheritCostModifiers: 0
   m_activeCosts: 0
   m_commonCosts:
-    guid: eaeb729030fb03542a9f5a9175f0c915
-    guidHash: -2078264246
+    guid: f2d44e125f9a777478caf939b0323667
+    guidHash: 1569498797
   m_costGroups:
     m_values: []

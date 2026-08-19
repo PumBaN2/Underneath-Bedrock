@@ -97,7 +97,7 @@ MonoBehaviour:
                 - negate: 0
                   type: 3
                   check:
-                    rid: 8149366094278951069
+                    rid: 8149366224063037957
             m_passAdjust:
               m_behavior: 0
               m_adjust: 0
@@ -185,7 +185,7 @@ MonoBehaviour:
             guid: f283dbdb7a7120047b15edd7c31b71a9
             guidHash: 133244411
         - weight:
-            m_weight: 1
+            m_weight: 0
             m_luck:
               m_type: 0
               m_max: 0
@@ -245,7 +245,7 @@ MonoBehaviour:
                 - negate: 0
                   type: 3
                   check:
-                    rid: 8149366094278951070
+                    rid: 8149366224063037958
             m_passAdjust:
               m_behavior: 0
               m_adjust: 0
@@ -285,7 +285,7 @@ MonoBehaviour:
             guid: 8c3f9cf4e30e2e64a8aa1b9ad02dd3a5
             guidHash: 1625887731
         - weight:
-            m_weight: 1
+            m_weight: 0
             m_luck:
               m_type: 0
               m_max: 0
@@ -393,7 +393,7 @@ MonoBehaviour:
                 - negate: 0
                   type: 3
                   check:
-                    rid: 8149366094278951071
+                    rid: 8149366224063037959
             m_passAdjust:
               m_behavior: 0
               m_adjust: 0
@@ -1342,10 +1342,10 @@ MonoBehaviour:
               m_value: 0
             serialized: 1
           spawnable:
-            guid: 5ad1fef34e34e9c41b5d36a59040ad43
-            guidHash: -1733039940
+            guid: b1992b7e305664446a06ebf6e49f0a46
+            guidHash: -1188689292
         - weight:
-            m_weight: 0.5
+            m_weight: 1
             m_luck:
               m_type: 0
               m_max: 0
@@ -1390,8 +1390,8 @@ MonoBehaviour:
               m_value: 0
             serialized: 1
           spawnable:
-            guid: b1992b7e305664446a06ebf6e49f0a46
-            guidHash: -1188689292
+            guid: 96b989c961645e74e9d806d9ca152ec6
+            guidHash: 290580260
       guid: b1edb69952654f80967fb7686d4cca66
   m_weightedSpawnTables:
     m_values: []
@@ -1399,19 +1399,19 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
-    - rid: 8149366094278951069
+    - rid: 8149366224063037957
       type: {class: RequirementCheckPlayerTag, ns: Thor.Core, asm: Lithium.Core}
       data:
         tag:
           guid: 33571f72e64e9ef47bef5af201188656
           guidHash: -45167789
-    - rid: 8149366094278951070
+    - rid: 8149366224063037958
       type: {class: RequirementCheckPlayerTag, ns: Thor.Core, asm: Lithium.Core}
       data:
         tag:
           guid: 834a8a6f245015f4eabf07733e2f2a94
           guidHash: 389551581
-    - rid: 8149366094278951071
+    - rid: 8149366224063037959
       type: {class: RequirementCheckPlayerTag, ns: Thor.Core, asm: Lithium.Core}
       data:
         tag:

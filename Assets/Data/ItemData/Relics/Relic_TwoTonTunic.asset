@@ -82,7 +82,7 @@ MonoBehaviour:
   m_Name: UIModule
   m_EditorClassIdentifier: 
   m_isDefault: 0
-  m_showInJournal: 1
+  m_showInJournal: 0
   m_sortIndex: 0
   m_icon: {fileID: 0}
   m_maskShape: 0
@@ -148,7 +148,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_isDefault: 0
   m_isPromptable: 1
-  m_isGildable: 1
+  m_isGildable: 0
   m_maxSpawnCount: 1
   m_pickupBehavior: {fileID: -5748734239218498433}
   m_pickupRequirements:

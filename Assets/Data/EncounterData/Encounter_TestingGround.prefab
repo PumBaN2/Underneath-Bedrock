@@ -198,6 +198,72 @@ MonoBehaviour:
   references:
     version: 2
     RefIds: []
+--- !u!1 &568579657221270321
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2640038776080964391}
+  - component: {fileID: 2797463532358371274}
+  m_Layer: 0
+  m_Name: Relic_EchoSaber_Shim
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2640038776080964391
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 568579657221270321}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1.08, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1425907247033739355}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2797463532358371274
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 568579657221270321}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -610550449, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_data:
+    guid: 7a2a49cb354531442841b0e9621dcd5d
+    guidHash: 1079188712
+  m_talkData:
+    guid: 
+    guidHash: 0
+  m_entityDataOverride:
+    guid: 
+    guidHash: 0
+  m_requirements:
+    operation: 0
+    expression: '{0}'
+    values:
+      m_values: []
+  m_retryPolicy: 0
+  m_offset: {x: 0, y: 0, z: 0}
+  m_poof: 0
+  m_doppeled: 0
+  m_startingAge: 0
+  references:
+    version: 2
+    RefIds: []
 --- !u!1 &634805904178967055
 GameObject:
   m_ObjectHideFlags: 0
@@ -1930,6 +1996,72 @@ MonoBehaviour:
   references:
     version: 2
     RefIds: []
+--- !u!1 &4447510279719621929
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5034353213504011777}
+  - component: {fileID: 7807042057532493980}
+  m_Layer: 0
+  m_Name: Relic_KnockWaves_Shim
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5034353213504011777
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4447510279719621929}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2.03, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1425907247033739355}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7807042057532493980
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4447510279719621929}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -610550449, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_data:
+    guid: 9895b2232bf3b1f49a0c241a7fabb546
+    guidHash: 1139424944
+  m_talkData:
+    guid: 
+    guidHash: 0
+  m_entityDataOverride:
+    guid: 
+    guidHash: 0
+  m_requirements:
+    operation: 0
+    expression: '{0}'
+    values:
+      m_values: []
+  m_retryPolicy: 0
+  m_offset: {x: 0, y: 0, z: 0}
+  m_poof: 0
+  m_doppeled: 0
+  m_startingAge: 0
+  references:
+    version: 2
+    RefIds: []
 --- !u!1 &4604653211298153610
 GameObject:
   m_ObjectHideFlags: 0
@@ -3186,6 +3318,9 @@ Transform:
   - {fileID: 7518716919573170967}
   - {fileID: 3257824675437013899}
   - {fileID: 8101424119763714924}
+  - {fileID: 4996627111414554130}
+  - {fileID: 5034353213504011777}
+  - {fileID: 2640038776080964391}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &4158576461438857951
@@ -3613,6 +3748,72 @@ MonoBehaviour:
   m_data:
     guid: dd41ca6e24a3f17478847995717601a0
     guidHash: -363711358
+  m_talkData:
+    guid: 
+    guidHash: 0
+  m_entityDataOverride:
+    guid: 
+    guidHash: 0
+  m_requirements:
+    operation: 0
+    expression: '{0}'
+    values:
+      m_values: []
+  m_retryPolicy: 0
+  m_offset: {x: 0, y: 0, z: 0}
+  m_poof: 0
+  m_doppeled: 0
+  m_startingAge: 0
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &9039064125271914757
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4996627111414554130}
+  - component: {fileID: 455359331236303928}
+  m_Layer: 0
+  m_Name: Relic_CursedFortune_Shim
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4996627111414554130
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9039064125271914757}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -7.17}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1425907247033739355}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &455359331236303928
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9039064125271914757}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -610550449, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_data:
+    guid: c6c34eed12b64c148af550c7abd450dc
+    guidHash: 698925938
   m_talkData:
     guid: 
     guidHash: 0

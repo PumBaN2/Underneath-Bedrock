@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: 524b5d6a93c85e547862e3480388d9c1
   m_currentHash:
     serializedVersion: 2
-    Hash: 09ee1f6360fba4f095fec7d2624de29c
+    Hash: df89d8b10d79c557cf6426b720bbc4cc
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 0
   m_CatalogRequestsTimeout: 0
@@ -55,7 +55,7 @@ MonoBehaviour:
     m_Id: 
   m_RemoteCatalogLoadPath:
     m_Id: 
-  m_ContentStateBuildPathProfileVariableName: 
+  m_ContentStateBuildPathProfileVariableName: <default settings path>
   m_CustomContentStateBuildPath: 
   m_ContentStateBuildPath: 
   m_BuildAddressablesWithPlayerBuild: 0
@@ -107,6 +107,8 @@ MonoBehaviour:
     - module
     - audio
     - animator
+    - material
+    - vfx
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: e64e060e3bd963a4e951366bd6eb8ce7, type: 2}

@@ -37,7 +37,7 @@ MonoBehaviour:
       spawnables:
         m_values:
         - weight:
-            m_weight: 1
+            m_weight: 0
             m_luck:
               m_type: 0
               m_max: 0
@@ -85,7 +85,7 @@ MonoBehaviour:
             guid: 7e55cdf9553ee734f8c634a27509950a
             guidHash: 2009821986
         - weight:
-            m_weight: 1
+            m_weight: 0
             m_luck:
               m_type: 0
               m_max: 0

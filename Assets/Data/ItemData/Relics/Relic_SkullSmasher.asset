@@ -94,7 +94,7 @@ MonoBehaviour:
   m_requirementModule: {fileID: 0}
   m_itemAnimationModule: {fileID: 0}
   m_itemDeathModule: {fileID: 4025434843380960127}
-  m_uiModule: {fileID: 0}
+  m_uiModule: {fileID: 773303275533995556}
 --- !u!114 &495070051988342987
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -184,6 +184,29 @@ MonoBehaviour:
   references:
     version: 2
     RefIds: []
+--- !u!114 &773303275533995556
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1504850968, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: UIModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_showInJournal: 1
+  m_sortIndex: 0
+  m_icon: {fileID: 0}
+  m_maskShape: 0
+  m_mask: {fileID: 0}
+  m_animationSource: 0
+  m_animation:
+    m_values: []
+  m_fps: 0
+  m_iconPivot: {x: 0, y: 0}
 --- !u!114 &1492146478614659338
 MonoBehaviour:
   m_ObjectHideFlags: 0

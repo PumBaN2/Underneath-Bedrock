@@ -68,6 +68,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_isDefault: 0
   m_isPromptable: 1
+  m_isGildable: 0
   m_maxSpawnCount: -1
   m_pickupBehavior: {fileID: -4507991268224098507}
   m_pickupRequirements:
@@ -198,3 +199,4 @@ MonoBehaviour:
   m_requirementModule: {fileID: 11400000, guid: 8436ed46a7e8f9848a1fb5c22d883cab, type: 2}
   m_itemAnimationModule: {fileID: -8820258656848290151}
   m_itemDeathModule: {fileID: 0}
+  m_uiModule: {fileID: 0}
