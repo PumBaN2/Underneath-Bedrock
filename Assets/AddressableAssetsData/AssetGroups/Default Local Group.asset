@@ -39,12 +39,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - data
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 00832019d5d3abe4a9eb18afb0e3c8d2
-    m_Address: Material_BrimstoneTestUpper
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - material
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 008b77fdd9251da49b4d319904ee651a
     m_Address: Prop_VampirismCircle
     m_ReadOnly: 0
@@ -3639,12 +3633,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - data
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 6e6605e019301e24e96deafd788aa727
-    m_Address: Material_BrimstoneTestUnder
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - material
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6e778bcac8ca34948b8909a12d3936ba
     m_Address: Relic_Girya
     m_ReadOnly: 0
@@ -4466,6 +4454,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e6dba82b445c31478ca56213a0ca2f3
+    m_Address: Beam_Brimstone
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8e9dcb4257aac4b4a888fb6dd564eaa6
     m_Address: New Property Data

@@ -65,7 +65,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _BeamWidth: 0.4
+    - _BeamWidth: 0.2
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
@@ -76,6 +76,7 @@ Material:
     - _Glossiness: 0.5
     - _GlossyReflections: 1
     - _GlowWidth: 0.15
+    - _HotSpotDensity: 2
     - _LaserWidth: 0.15
     - _LineSize: 0.04
     - _Metallic: 0
@@ -84,10 +85,12 @@ Material:
     - _OcclusionStrength: 1
     - _Offset: 0.3
     - _Parallax: 0.02
-    - _PixelSize: 0.05
+    - _PixelSize: 0.01
     - _PulseFrequency: 5
     - _PulseIntensity: 0.8
     - _PulseSpeed: -5
+    - _ScrollSpeedX: -5
+    - _ScrollSpeedY: 0
     - _ScrollX: 0
     - _ScrollY: -2
     - _SmoothnessTextureChannel: 0
@@ -103,9 +106,10 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 0.6886792, g: 0.09420614, b: 0.09420614, a: 1}
-    - _CoreColor: {r: 0.8113208, g: 0.6671039, b: 0.12629052, a: 1}
+    - _CoreColor: {r: 0.5754717, g: 0.1014034, b: 0.04071733, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _GlowColor: {r: 0.8207547, g: 0.17324091, b: 0.034843344, a: 0.5}
+    - _GlowColor: {r: 0.6226415, g: 0.06167675, b: 0.07289363, a: 0.5}
+    - _HotSpotColor: {r: 0.7647059, g: 0.5152496, b: 0.10588235, a: 1}
     - _MainColor: {r: 1, g: 0.05, b: 0.05, a: 1}
     - _PulseColor: {r: 1, g: 0.6, b: 0, a: 0.9}
   m_BuildTextureStacks: []
