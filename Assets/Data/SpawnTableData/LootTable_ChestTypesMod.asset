@@ -141,24 +141,28 @@ MonoBehaviour:
               operation: 0
               expression: 
               values:
-                m_values: []
+                m_values:
+                - negate: 1
+                  type: 11
+                  check:
+                    rid: 8149366245322916005
             m_passAdjust:
-              m_behavior: 0
+              m_behavior: 1
               m_adjust: 0
               m_luckBehavior: 0
               m_luckAdjust:
                 m_type: 0
                 m_max: 0
               m_assignmentOp:
-                name: 
-                hash: 0
+                name: =
+                hash: 372029329
               m_property:
                 guid: 
                 guidHash: 0
               m_arithmeticOp:
                 name: 
                 hash: 0
-              m_value: 0
+              m_value: 5
             m_failAdjust:
               m_behavior: 0
               m_adjust: 0
@@ -186,4 +190,10 @@ MonoBehaviour:
   m_previewIcon: {fileID: 0}
   references:
     version: 2
-    RefIds: []
+    RefIds:
+    - rid: 8149366245322916005
+      type: {class: RequirementCheckPlayerItemTag, ns: Thor.Core, asm: Lithium.Core}
+      data:
+        tag:
+          guid: 5ecd6c3410eceb1499d7c6b6310905b6
+          guidHash: 146589306

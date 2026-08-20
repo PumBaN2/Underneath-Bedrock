@@ -94,10 +94,10 @@ MonoBehaviour:
               expression: 
               values:
                 m_values:
-                - negate: 0
+                - negate: 1
                   type: 11
                   check:
-                    rid: 8149366105065128137
+                    rid: 8149366245322916004
             m_passAdjust:
               m_behavior: 1
               m_adjust: 0
@@ -143,7 +143,7 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
-    - rid: 8149366105065128137
+    - rid: 8149366245322916004
       type: {class: RequirementCheckPlayerItemTag, ns: Thor.Core, asm: Lithium.Core}
       data:
         tag:

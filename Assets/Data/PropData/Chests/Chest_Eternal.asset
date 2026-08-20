@@ -678,6 +678,8 @@ MonoBehaviour:
         guidHash: -1486221695
       - guid: 608092227bc91ad44ad5cd8f1efc55c2
         guidHash: 481850327
+      - guid: 97a3c3ffaed93da4fb202417903270ff
+        guidHash: 90121044
 --- !u!114 &3867322299031870615
 MonoBehaviour:
   m_ObjectHideFlags: 0

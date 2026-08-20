@@ -411,10 +411,12 @@ MonoBehaviour:
   m_endFXRotation: {x: 0, y: 0, z: 0}
   m_materials:
     m_values:
+    - guid: 47e8228b534d0e54f96e112c7d853660
+      guidHash: 609983132
+    - guid: 0e3b83106e8f4154483c5778d649cd16
+      guidHash: -1133869203
     - guid: faaafa48afbf71a418fb84daf3ef5a41
       guidHash: 1211527723
-    - guid: 08140bed34c622a42ba55ff9d36caa3d
-      guidHash: -1952595424
   m_shadowMaterials:
     m_values:
     - guid: 5740d3b1cfb3d9a45b5d9f75093e5867

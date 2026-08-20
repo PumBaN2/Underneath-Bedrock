@@ -2548,7 +2548,7 @@ MonoBehaviour:
     - data
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4beeb8a7860db0f49966e1072b3cea1f
-    m_Address: Relic_Piggy Bankl
+    m_Address: Relic_Piggy Bank
     m_ReadOnly: 0
     m_SerializedLabels:
     - data
@@ -3530,6 +3530,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b4709baae041c548aac1d7a71743718
+    m_Address: Material_BrimstoneTest1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - material
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6b5c0d70120438f49a5785ddad47565f
     m_Address: Behavior_ShoguulsGift
@@ -6112,7 +6118,7 @@ MonoBehaviour:
     - data
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c314c927c48d47c4fa790088663181d4
-    m_Address: StatusEffect_Piggy Bankl
+    m_Address: StatusEffect_Piggy Bank
     m_ReadOnly: 0
     m_SerializedLabels:
     - data
@@ -6922,7 +6928,7 @@ MonoBehaviour:
     - data
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: de2b120f4cfde36469d17ca99ef43cf6
-    m_Address: Common_Piggy Bankl
+    m_Address: Common_Piggy Bank
     m_ReadOnly: 0
     m_SerializedLabels:
     - data
@@ -7498,7 +7504,7 @@ MonoBehaviour:
     - data
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ef52c7e5c0cabe946a4aff241bb76b50
-    m_Address: Behavior_Piggy Bankl
+    m_Address: Behavior_Piggy Bank
     m_ReadOnly: 0
     m_SerializedLabels:
     - behavior
