@@ -477,6 +477,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - prefab
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d04227ac60088546a270d079996389c
+    m_Address: ShopChestBasicItem
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0d4ca74155f5d9945ab2e9a7c6484ad4
     m_Address: Arcana_ThrowSwitch
     m_ReadOnly: 0
@@ -485,6 +491,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0d62d6a0633a18649b051e54524e6105
     m_Address: Common_Metal_detector
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d95fddea8f17024b859e79aa7f43884
+    m_Address: Clip_ShopChest_State3
     m_ReadOnly: 0
     m_SerializedLabels:
     - data
@@ -1575,6 +1587,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - data
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e57534ffd32b9c428dbaceb0b77a4c3
+    m_Address: ShopChestPotion
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2e6ae92d967a4554b81114359ef3cb2f
     m_Address: LootTable_Encrusted_skulls
     m_ReadOnly: 0
@@ -2139,6 +2157,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - behavior
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40271b420b20138499cb62151729b4e3
+    m_Address: Chest_Shop
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 403a9ac34358498419a1aca54d6b118b
     m_Address: Behavior_LanternPowder
     m_ReadOnly: 0
@@ -2231,6 +2255,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 427f24e15222b17458e1c80584012101
     m_Address: Behavior_Exploding_skull
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4296d19f9a811cc48a903703ac1ec782
+    m_Address: Chest_Shop
     m_ReadOnly: 0
     m_SerializedLabels:
     - behavior
@@ -2559,6 +2589,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - data
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c08b9a9281a6ab47b4bf08a1e370635
+    m_Address: Setpiece_ShopChestBasicItem
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4c38aab5f85954b4da51a7436ab3a207
     m_Address: Shrine_Shogirror
     m_ReadOnly: 0
@@ -2630,6 +2666,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e878758f7f82264d8fc028da3ac85a6
+    m_Address: ShopChestRelic
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4ea1ef069f9f3b543a2782dcf1864f51
     m_Address: StatusEffect_BerserkClaw
@@ -3741,6 +3783,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - data
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72bd7368a2c4af84ea587fa3a6f62352
+    m_Address: Clip_ShopChest_State2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 72ec2b28adfeabb4599c7a6c015ecac4
     m_Address: Relic_Goodies
     m_ReadOnly: 0
@@ -3815,6 +3863,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 770aafd01af6a02478a1638c892e3ef9
     m_Address: StatusEffect_Magnetic Pickaxe
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77131c2984781764f856bba688f16185
+    m_Address: Clip_ShopChest_State4
     m_ReadOnly: 0
     m_SerializedLabels:
     - data
@@ -4983,6 +5037,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - behavior
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d37b2db02fb05644a481147ed5a3e31
+    m_Address: Setpiece_ShopChestRelic
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9e56fbe67603d1048b80abf64c5e390e
     m_Address: Common_Expert Explorer
     m_ReadOnly: 0
@@ -5763,6 +5823,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - behavior
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b66e7ff5446a72746a88d47fbbd9f839
+    m_Address: Setpiece_ShopChestPotion
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b6700cbe0f3e11f46a7e0f46d2139f37
     m_Address: Prop_AimTarget_DownUp3
     m_ReadOnly: 0
@@ -6026,6 +6092,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - prefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf3f4eb6a89a91f43986ae4f811b240f
+    m_Address: AnimationData_Chest_Shop
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c00c0a9957e95564a8b41da46b311972
     m_Address: Common_CursedBlessings
@@ -6644,6 +6716,12 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - behavior
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d48f136785493d04ea584e6e1c7e3597
+    m_Address: Clip_ShopChest_State1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d4961ddd428e15849867566f9c5b6820
     m_Address: Relic_+1Orb

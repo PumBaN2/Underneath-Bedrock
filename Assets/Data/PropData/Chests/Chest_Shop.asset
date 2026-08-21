@@ -1,26 +1,5 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-8779259785589127798
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 1731994563, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
-  m_Name: ToggleModule
-  m_EditorClassIdentifier: 
-  m_isDefault: 0
-  m_isToggleable: 1
-  m_initialToggleState: 0
-  m_toggleOnUsed: 1
-  m_maxToggleCount: 1
-  m_onTagActions:
-    m_values: []
-  m_offTagActions:
-    m_values: []
 --- !u!114 &-8724181115508491852
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -94,6 +73,27 @@ MonoBehaviour:
   references:
     version: 2
     RefIds: []
+--- !u!114 &-8261830609901182468
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1731994563, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: ToggleModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_isToggleable: 1
+  m_initialToggleState: 0
+  m_toggleOnUsed: 1
+  m_maxToggleCount: 1
+  m_onTagActions:
+    m_values: []
+  m_offTagActions:
+    m_values: []
 --- !u!114 &-8240858338987543668
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -136,8 +136,8 @@ MonoBehaviour:
     m_values:
     - m_key: loot
       m_data:
-        guid: 76f93b1b221456a4caac49edc461b2bb
-        guidHash: -1535833157
+        guid: fff99d4f9c2478948a5466a8adb45af4
+        guidHash: -1483664200
   m_valueStore:
     m_values: []
   m_stringStore:
@@ -165,8 +165,10 @@ MonoBehaviour:
   m_deathFXOffset: {x: 0, y: 0, z: 0}
   m_deaths:
     m_values:
-    - guid: a7a237ba700bcc04c884859c45dc85de
-      guidHash: 1975644641
+    - guid: 549c84eea49ac0841aacb7163cbb9792
+      guidHash: -363688882
+    - guid: 2cd89f6a8f7425e4eba8747d642fbda3
+      guidHash: -110074144
 --- !u!114 &-6456693449546488474
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -210,7 +212,7 @@ MonoBehaviour:
     properties:
       icons:
         m_sprites:
-        - {fileID: 594935548, guid: 6e1d2180e6e73c54c84a37bbd0523ae9, type: 3}
+        - {fileID: 2054193241, guid: 1acac5e8d1133c84d8eb6eb097a473e3, type: 3}
         - {fileID: 0}
         - {fileID: 0}
       displayName:
@@ -227,7 +229,9 @@ MonoBehaviour:
         guidHash: 0
       tags:
         m_tags:
-          m_values: []
+          m_values:
+          - guid: 716e5ea56ef3c7b4faf5c3221bb5af3e
+            guidHash: -1215480230
 --- !u!114 &-4754324021483969304
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -303,10 +307,10 @@ MonoBehaviour:
     m_sprite: {fileID: 0}
     m_scale:
       autoAspectRatio: 0
-      x: 0.55
+      x: 0.57
       y: 0.3
       serialized: 1
-    m_offset: {x: 0, y: -0.3}
+    m_offset: {x: 0, y: -0.2}
     m_counterRotate: 1
     m_isComplex: 0
     m_layerMask:
@@ -420,8 +424,8 @@ MonoBehaviour:
   m_colliderConfigurations:
     m_values:
     - m_type: 0
-      m_center: {x: 0, y: 0.4, z: 0}
-      m_size: {x: 1.6, y: 0.8, z: 1}
+      m_center: {x: 0, y: 0.4, z: -0.1}
+      m_size: {x: 1.6, y: 0.8, z: 0.8}
       m_radius: 0
       m_height: 0
       m_axis: 0
@@ -429,8 +433,8 @@ MonoBehaviour:
   m_triggerConfigurations:
     m_values:
     - m_type: 0
-      m_center: {x: 0, y: 0.3, z: 0}
-      m_size: {x: 1.7, y: 0.6, z: 1.1}
+      m_center: {x: 0, y: 0.3, z: -0.1}
+      m_size: {x: 1.7, y: 0.6, z: 0.9}
       m_radius: 0
       m_height: 0
       m_axis: 0
@@ -498,10 +502,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: -507257532, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
-  m_Name: Chest_Frozen
+  m_Name: Chest_Shop
   m_EditorClassIdentifier: 
-  m_guid: 77fe16d46f8a40f2b60db7c1a7574bf8
-  m_guidHash: 2143103774
+  m_guid: 3b56a74cb48f421da206a1b91f429bce
+  m_guidHash: 1403900442
   m_commonModule: {fileID: -6265608069119269822}
   m_tagModule: {fileID: 3593001072959391154}
   m_lifespanModule: {fileID: 0}
@@ -509,7 +513,7 @@ MonoBehaviour:
   m_allianceModule: {fileID: 0}
   m_popupModule: {fileID: 5282513439625186466}
   m_interactionModule: {fileID: -8724181115508491852}
-  m_toggleModule: {fileID: -8779259785589127798}
+  m_toggleModule: {fileID: -8261830609901182468}
   m_timerModule: {fileID: 0}
   m_behaviorModule: {fileID: 2251462193985463390}
   m_dataStoreModule: {fileID: -7312239156044125675}
@@ -519,7 +523,7 @@ MonoBehaviour:
   m_modifierModule: {fileID: 0}
   m_casterModule: {fileID: 0}
   m_resistanceModule: {fileID: -2663315172911214536}
-  m_costModule: {fileID: 0}
+  m_costModule: {fileID: 4294630176465009718}
   m_animationModule: {fileID: 3212143664399886323}
   m_visualModule: {fileID: -4754324021483969304}
   m_shadowModule: {fileID: -3104522135310738131}
@@ -535,7 +539,7 @@ MonoBehaviour:
   m_footstepModule: {fileID: 0}
   m_deathModule: {fileID: -6703685406098730943}
   m_perimeterModule: {fileID: 2719730614052273743}
-  m_spawnModule: {fileID: 5822883783130554936}
+  m_spawnModule: {fileID: 0}
   m_miniMapModule: {fileID: 2038725286036457956}
   m_carryModule: {fileID: 3867322299031870615}
   m_gridModule: {fileID: -1925045469811316483}
@@ -560,8 +564,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_isDefault: 0
   m_mapIcon:
-    guid: 8ce36243963cabb4aa383cab1ebde4db
-    guidHash: 1150520377
+    guid: baf0cb862e4f0fe4ea26a95588686718
+    guidHash: -1633697092
 --- !u!114 &2251462193985463390
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -576,8 +580,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_isDefault: 0
   m_behavior:
-    guid: 30f66496c481dba419afcde6b71198c9
-    guidHash: 2018433974
+    guid: 4296d19f9a811cc48a903703ac1ec782
+    guidHash: -2028078190
   m_startDelay: 0
   m_stunRecoverDuration: 0
   m_interrupt: 0
@@ -598,18 +602,22 @@ MonoBehaviour:
   m_heightThreshold: 2
   m_perimeter:
     m_points:
-    - {x: -0.7, y: 0, z: 0.5}
-    - {x: -0.7, y: 0, z: -0.5}
-    - {x: 0.7, y: 0, z: -0.5}
-    - {x: -0.7, y: 0, z: -0.5}
-    - {x: 0, y: 0, z: 0.5}
-    - {x: 0, y: 0, z: -0.5}
-    - {x: 0.7, y: 0, z: 0}
-    - {x: -0.7, y: 0, z: 0}
-    - {x: 0.7, y: 0, z: 0.5}
-    - {x: 0.7, y: 0, z: -0.5}
-    - {x: 0.7, y: 0, z: 0.5}
-    - {x: -0.7, y: 0, z: 0.5}
+    - {x: -0.8, y: 0, z: 0.4}
+    - {x: -0.8, y: 0, z: -0.6}
+    - {x: 0.8, y: 0, z: -0.6}
+    - {x: -0.8, y: 0, z: -0.6}
+    - {x: -0.26666668, y: 0, z: 0.4}
+    - {x: -0.26666668, y: 0, z: -0.6}
+    - {x: 0.8, y: 0, z: -0.26666668}
+    - {x: -0.8, y: 0, z: -0.26666668}
+    - {x: 0.26666668, y: 0, z: 0.4}
+    - {x: 0.26666668, y: 0, z: -0.6}
+    - {x: 0.8, y: 0, z: 0.06666666}
+    - {x: -0.8, y: 0, z: 0.06666666}
+    - {x: 0.8, y: 0, z: 0.4}
+    - {x: 0.8, y: 0, z: -0.6}
+    - {x: 0.8, y: 0, z: 0.4}
+    - {x: -0.8, y: 0, z: 0.4}
   m_scatterMap:
     m_points: []
 --- !u!114 &3212143664399886323
@@ -628,8 +636,8 @@ MonoBehaviour:
   m_startingAnimationState:
     value: 0
   m_animation:
-    guid: b4e6ff2cf0bb9774689eb98cfe0c0397
-    guidHash: 1371020644
+    guid: bf3f4eb6a89a91f43986ae4f811b240f
+    guidHash: -618269709
   m_ownerSyncMask:
     value: 0
   m_animationMaskSource: 0
@@ -687,6 +695,46 @@ MonoBehaviour:
   m_stackSpacing: 1
   m_deathBehavior: 0
   m_dropBehavior: 4
+--- !u!114 &4294630176465009718
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1249944787, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: CostModule
+  m_EditorClassIdentifier: 
+  m_isDefault: 0
+  m_isFree: 0
+  m_isSilent: 0
+  m_inheritCostModifiers: 0
+  m_activeCosts: 32
+  m_commonCosts:
+    guid: 
+    guidHash: 0
+  m_costGroups:
+    m_values:
+    - m_category: 32
+      m_inheritedCosts:
+        m_values: []
+      m_costs:
+        m_values:
+        - m_costable:
+            guid: 834512cd84a8ac54ea20904bbe676c41
+            guidHash: 1262271835
+          m_source: 0
+          m_amount: 1
+          m_category: Gamble
+          m_categoryHash: -195835150
+          m_operator:
+            name: +
+            hash: 372029319
+          m_operand: 0
+          m_transactionType: 0
+          m_requirementOnly: 0
 --- !u!114 &5282513439625186466
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -709,32 +757,11 @@ MonoBehaviour:
     - m_popup:
         guid: 975eb1488247f2d41a3d2377d675d11a
         guidHash: 1856995931
-      m_offset: {x: 0, y: 0.4}
+      m_offset: {x: 0, y: 0.2}
     - m_popup:
         guid: 8829749b498b7b540b54ecf2dc7cbc94
         guidHash: -275116852
-      m_offset: {x: 0, y: 0.4}
---- !u!114 &5822883783130554936
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 289825982, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
-  m_Name: SpawnModule
-  m_EditorClassIdentifier: 
-  m_isDefault: 0
-  m_stagger: 0
-  m_spawnEvents:
-    m_values: []
-  m_statusEffects:
-    m_values: []
-  references:
-    version: 2
-    RefIds: []
+      m_offset: {x: 0, y: 0.2}
 --- !u!114 &8843206974986900980
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -749,7 +776,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_isDefault: 0
   m_tilePalette: _Common
-  m_icon: {fileID: 594935548, guid: 6e1d2180e6e73c54c84a37bbd0523ae9, type: 3}
+  m_icon: {fileID: -479450307, guid: 1acac5e8d1133c84d8eb6eb097a473e3, type: 3}
   m_useIconInSceneView: 1
 --- !u!114 &8907682151637364561
 MonoBehaviour:
@@ -777,6 +804,8 @@ MonoBehaviour:
     m_values:
     - guid: 86194e7362b54534eb1fbb29287b2b0a
       guidHash: -1869780405
+    - guid: e2fa349028f7d0e449219e0b4098ca82
+      guidHash: -129955455
   m_initialValueOverrides:
     m_values: []
   m_proxyHit: 1

@@ -765,7 +765,7 @@ GameObject:
   - component: {fileID: 1131265369451405754}
   - component: {fileID: 8313867428552043415}
   m_Layer: 0
-  m_Name: Tilemap (9)
+  m_Name: Tilemap (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1416,6 +1416,7 @@ MonoBehaviour:
     guid: 
     guidHash: 0
   m_showRoomPreview: 1
+  m_suppressSpawnAnimation: 0
   m_extraWeight: 1
   m_isHidden: 0
   m_isSafeSpace: 1
@@ -1492,8 +1493,40 @@ MonoBehaviour:
   m_doorBounds:
     m_Center: {x: 0, y: 0, z: 0}
     m_Extent: {x: 4.8, y: 0, z: 8}
-  m_hasCustomDoors: 0
-  m_doors: []
+  m_hasCustomDoors: 1
+  m_doors:
+  - guid: 
+    guidHash: 0
+  - guid: 
+    guidHash: 0
+  - guid: 
+    guidHash: 0
+  - guid: 
+    guidHash: 0
+  - guid: 
+    guidHash: 0
+  - guid: 
+    guidHash: 0
+  - guid: 
+    guidHash: 0
+  - guid: 
+    guidHash: 0
+  - guid: 
+    guidHash: 0
+  - guid: 
+    guidHash: 0
+  - guid: 
+    guidHash: 0
+  - guid: 
+    guidHash: 0
+  - guid: 
+    guidHash: 0
+  - guid: 
+    guidHash: 0
+  - guid: 
+    guidHash: 0
+  - guid: 
+    guidHash: 0
   m_hasDoorRequirements: 0
   m_doorRequirements: []
   m_hasSequence: 0
@@ -1688,6 +1721,8 @@ MonoBehaviour:
   m_triggerScale: 1
   m_overrideDefaultFacing: 0
   m_defaultFacing: {x: 0, y: 0, z: 0}
+  m_overrideDuration: 0
+  m_duration: 0
   m_overrideObstacleSettings: 0
   m_groundObstacle: 0
   m_airObstacle: 0

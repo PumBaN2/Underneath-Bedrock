@@ -1,0 +1,246 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1633267539533082594
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3726527393509009388}
+  - component: {fileID: 7659028935962503331}
+  - component: {fileID: 9153280990417663187}
+  m_Layer: 0
+  m_Name: ShopChestPotion
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3726527393509009388
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1633267539533082594}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4002834741043940032}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7659028935962503331
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1633267539533082594}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -247283998, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_manualMerge: 0
+--- !u!114 &9153280990417663187
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1633267539533082594}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2046105595, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_recycleable: 1
+  m_dataReference:
+    guid: b66e7ff5446a72746a88d47fbbd9f839
+    guidHash: 941855279
+  m_encounterPreview:
+    guid: 
+    guidHash: 0
+--- !u!1 &7152760935081807968
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4002834741043940032}
+  - component: {fileID: 5995668411214917778}
+  - component: {fileID: 9023753415911293173}
+  m_Layer: 0
+  m_Name: Rug
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4002834741043940032
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7152760935081807968}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3726527393509009388}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5995668411214917778
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7152760935081807968}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -610550449, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_data:
+    guid: 237f3177f757508409166403aa3f5d6c
+    guidHash: -683195794
+  m_talkData:
+    guid: 
+    guidHash: 0
+  m_entityDataOverride:
+    guid: 
+    guidHash: 0
+  m_requirements:
+    operation: 0
+    expression: '{0}'
+    values:
+      m_values: []
+  m_retryPolicy: 0
+  m_offset: {x: 0, y: 0, z: 0}
+  m_poof: 0
+  m_doppeled: 0
+  m_startingAge: 0
+  references:
+    version: 2
+    RefIds: []
+--- !u!114 &9023753415911293173
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7152760935081807968}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1754705964, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_owner: {fileID: 0}
+  m_link: {fileID: 0}
+  m_animationOverride:
+    guid: 
+    guidHash: 0
+  m_startingAnimationState:
+    value: 0
+  m_animationMask:
+    value: -1
+  m_tags:
+    m_tags:
+      m_values: []
+  m_dataStore:
+    m_values: []
+  m_valueStore:
+    m_values: []
+  m_stringStore:
+    m_values: []
+  m_startStunned: 0
+  m_behaviors:
+    m_values: []
+  m_baseStatKeys:
+    m_values: []
+  m_toggleStateOverride: 0
+  m_overrideMaxToggleCount: 0
+  m_maxToggleCount: 1
+  m_captureOverride:
+    guid: 
+    guidHash: 0
+  m_filterMask: 0
+  m_carry: {fileID: 0}
+  m_chase: {fileID: 0}
+  m_chaseDistance: 0
+  m_chaseOffset: {x: 0, y: 0, z: 0}
+  m_orbit: {fileID: 0}
+  m_orbitDirection: 0
+  m_triggerScale: 1
+  m_overrideDefaultFacing: 0
+  m_defaultFacing: {x: 0, y: 0, z: 0}
+  m_overrideDuration: 0
+  m_duration: 0
+  m_overrideObstacleSettings: 0
+  m_groundObstacle: 0
+  m_airObstacle: 0
+  m_floorObstacle: 0
+  m_overrideActiveCosts: 0
+  m_activeCosts: 0
+  m_costGroups:
+    m_values: []
+  m_spawnEvents:
+    m_values:
+    - m_eventMatcher:
+        m_eventType: 0
+        m_dataHint:
+          guid: 
+          guidHash: 0
+        m_stringHint: 
+        m_polarity: 0
+        m_polaritySecondary: 0
+        m_tags:
+          m_tags:
+            m_values: []
+        m_tagGrammar: 
+      m_pattern: 2
+      m_offsetMin: {x: 0, y: 0}
+      m_offsetMax: {x: 0, y: 0}
+      m_owner: 0
+      m_spawnable:
+        guid: a30e30b95edaf4a478058244ffd8c3bb
+        guidHash: 1794994397
+      m_entityDataOverride:
+        guid: d2641d2681e0c5741b5c3d5413387fa3
+        guidHash: 626349697
+  m_statusEffects:
+    m_values: []
+  m_portalBehaviorOverride: 0
+  m_portalBranchOverride: 
+  m_roomClusterOverride:
+    guid: 
+    guidHash: 0
+  m_encounterOverride:
+    guid: 
+    guidHash: 0
+  m_portalContinueCaptureOverride:
+    guid: 
+    guidHash: 0
+  m_interactionMask: 0
+  m_interactableOverride: 0
+  m_promptMask: 0
+  m_promptPopup:
+    guid: 
+    guidHash: 0
+  m_promptText:
+    m_id: 0
+  m_promptTextSecondary:
+    m_id: 0
+  references:
+    version: 2
+    RefIds: []
