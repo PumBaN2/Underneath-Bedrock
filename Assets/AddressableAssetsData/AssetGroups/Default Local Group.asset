@@ -591,6 +591,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - data
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0f3a5890d5adfde4891d2fa67eebcc83
+    m_Address: MapIcon_ShopChest
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0f7828acdfca3074ba5e8ed916f98d95
     m_Address: Knockback_Waves
     m_ReadOnly: 0
@@ -3935,6 +3941,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 794ed891f28260040b47ef1382a1c0af
     m_Address: StatusEffect_LeechingSeedSpreadBranches
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - data
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79c529a4742999d4aa8a4efc7a801ca3
+    m_Address: MapIcon_FrozenChest
     m_ReadOnly: 0
     m_SerializedLabels:
     - data

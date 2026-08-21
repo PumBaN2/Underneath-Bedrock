@@ -85,7 +85,7 @@ MonoBehaviour:
             guid: 0d4ca74155f5d9945ab2e9a7c6484ad4
             guidHash: 126618969
         - weight:
-            m_weight: 1
+            m_weight: 0
             m_luck:
               m_type: 0
               m_max: 0

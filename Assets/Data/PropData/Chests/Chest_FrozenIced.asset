@@ -560,8 +560,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_isDefault: 0
   m_mapIcon:
-    guid: 8ce36243963cabb4aa383cab1ebde4db
-    guidHash: 1150520377
+    guid: 79c529a4742999d4aa8a4efc7a801ca3
+    guidHash: 874904477
 --- !u!114 &2251462193985463390
 MonoBehaviour:
   m_ObjectHideFlags: 0
