@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.thorium.undermine2.modtoolkit": {
-      "version": "file:D:/SteamLibrary/steamapps/common/UnderMine2ModToolkit/UnityPackage",
+      "version": "file:C:/Program Files (x86)/Steam/steamapps/common/UnderMine2ModToolkit/UnityPackage",
       "depth": 0,
       "source": "local",
       "dependencies": {
