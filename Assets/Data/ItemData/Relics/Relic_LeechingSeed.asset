@@ -261,7 +261,7 @@ MonoBehaviour:
     guidHash: -2078264246
   m_costGroups:
     m_values:
-    - m_category: 8192
+    - m_category: 256
       m_inheritedCosts:
         m_values: []
       m_costs:
@@ -271,11 +271,11 @@ MonoBehaviour:
             guidHash: -1869780405
           m_source: 1
           m_amount: 0
-          m_category: Basic Item Average
-          m_categoryHash: -1360657860
+          m_category: Basic Item Low
+          m_categoryHash: 1877174079
           m_operator:
             name: '*'
             hash: 372029320
-          m_operand: 0.4
+          m_operand: 0.5
           m_transactionType: 0
           m_requirementOnly: 0

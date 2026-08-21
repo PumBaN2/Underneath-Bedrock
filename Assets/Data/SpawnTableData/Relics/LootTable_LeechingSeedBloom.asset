@@ -84,7 +84,7 @@ MonoBehaviour:
           spawnable:
             guid: 7eeb226948ece2649b8452944e05e784
             guidHash: -234650664
-      guid: 248d5ac9ac19450c9808e8cbd79776c5
+      guid: cfdf3ee3987241b0a3f36ea67c700f69
     - count:
         min: 1
         max: 1
@@ -144,7 +144,7 @@ MonoBehaviour:
           spawnable:
             guid: e608f8098d7ccdf49bcf2a78b6a7bcb4
             guidHash: 1791462238
-      guid: ccc299f00a0a4f1b9187f42b773e4347
+      guid: 0e0099b007934141810ded80db335779
     - count:
         min: 1
         max: 1
@@ -204,7 +204,7 @@ MonoBehaviour:
           spawnable:
             guid: 4bbae2609cb83e243857b0b8c54b00e5
             guidHash: 774237061
-      guid: e8a190ec18e84920aa01310cb2748c5e
+      guid: 0c57c30f650346f0bc77d7e9824b95a3
   m_weightedSpawnTables:
     m_values: []
   m_previewIcon: {fileID: 0}

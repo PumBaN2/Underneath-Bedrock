@@ -564,8 +564,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_isDefault: 0
   m_mapIcon:
-    guid: baf0cb862e4f0fe4ea26a95588686718
-    guidHash: -1633697092
+    guid: 0f3a5890d5adfde4891d2fa67eebcc83
+    guidHash: 1117337012
 --- !u!114 &2251462193985463390
 MonoBehaviour:
   m_ObjectHideFlags: 0

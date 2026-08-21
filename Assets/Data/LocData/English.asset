@@ -1618,3 +1618,7 @@ MonoBehaviour:
   - guidHash: -744693746
     text: Picking up nuggets grants a small stacking buff to stats. The bonus is
       reset after a shop purchase. <br><color=grey>Already has some stats stored</color>
+  - guidHash: 249145137
+    text: Frozen Chest
+  - guidHash: 203826740
+    text: Shop Box
