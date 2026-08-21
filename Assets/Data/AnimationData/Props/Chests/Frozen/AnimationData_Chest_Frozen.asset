@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_guid: 9f6ba0157d864c279fae50ae17e2a81f
   m_guidHash: -121736410
-  m_facingMode: 2
+  m_facingMode: 0
   m_blendMask:
     value: 0
   m_includeCommon: 1

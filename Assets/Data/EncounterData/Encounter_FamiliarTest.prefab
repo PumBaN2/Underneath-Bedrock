@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &4650592724214907163
+--- !u!1 &5432185140481403181
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,45 +8,45 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 968751881710165381}
-  - component: {fileID: 4108312411676489277}
+  - component: {fileID: 8761477279494379771}
+  - component: {fileID: 840382796198164010}
   m_Layer: 0
-  m_Name: Setpiece_BobsBrainTable_Shim
+  m_Name: Chest_Shop_Shim_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &968751881710165381
+--- !u!4 &8761477279494379771
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4650592724214907163}
+  m_GameObject: {fileID: 5432185140481403181}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -7.2, y: 0, z: 1.6}
+  m_LocalPosition: {x: 4.8, y: 0, z: 4}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1425907247033739355}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &4108312411676489277
+--- !u!114 &840382796198164010
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4650592724214907163}
+  m_GameObject: {fileID: 5432185140481403181}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: -610550449, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   m_data:
-    guid: 08f107216c687244ead2c627af16520b
-    guidHash: 1675783504
+    guid: 40271b420b20138499cb62151729b4e3
+    guidHash: -1064109042
   m_talkData:
     guid: 
     guidHash: 0
@@ -66,7 +66,7 @@ MonoBehaviour:
   references:
     version: 2
     RefIds: []
---- !u!1 &6232232916929290686
+--- !u!1 &5813660440613822047
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -74,45 +74,111 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 7398167170646116067}
-  - component: {fileID: 1127753163575679261}
+  - component: {fileID: 6001559744928350331}
+  - component: {fileID: 8402374708393784941}
   m_Layer: 0
-  m_Name: Familiar_Twins_Shim
+  m_Name: Chest_Shop_Shim
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &7398167170646116067
+--- !u!4 &6001559744928350331
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6232232916929290686}
+  m_GameObject: {fileID: 5813660440613822047}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -4.15, y: 0, z: 0}
+  m_LocalPosition: {x: -4, y: 0, z: 4}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1425907247033739355}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1127753163575679261
+--- !u!114 &8402374708393784941
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6232232916929290686}
+  m_GameObject: {fileID: 5813660440613822047}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: -610550449, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   m_data:
-    guid: 61f277d362f80c84985370b6445d0e2e
-    guidHash: 1191899310
+    guid: 40271b420b20138499cb62151729b4e3
+    guidHash: -1064109042
+  m_talkData:
+    guid: 
+    guidHash: 0
+  m_entityDataOverride:
+    guid: 
+    guidHash: 0
+  m_requirements:
+    operation: 0
+    expression: '{0}'
+    values:
+      m_values: []
+  m_retryPolicy: 0
+  m_offset: {x: 0, y: 0, z: 0}
+  m_poof: 0
+  m_doppeled: 0
+  m_startingAge: 0
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &6995112174373110463
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7174990986414276820}
+  - component: {fileID: 8015918963411854449}
+  m_Layer: 0
+  m_Name: Chest_Shop_Shim_03
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7174990986414276820
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6995112174373110463}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -4.8, y: 0, z: -4}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1425907247033739355}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8015918963411854449
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6995112174373110463}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -610550449, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_data:
+    guid: 40271b420b20138499cb62151729b4e3
+    guidHash: -1064109042
   m_talkData:
     guid: 
     guidHash: 0
@@ -162,8 +228,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 7398167170646116067}
-  - {fileID: 968751881710165381}
+  - {fileID: 6001559744928350331}
+  - {fileID: 7174990986414276820}
+  - {fileID: 8761477279494379771}
+  - {fileID: 3232380950325935760}
+  - {fileID: 5787570180303702338}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &4158576461438857951
@@ -195,6 +264,7 @@ MonoBehaviour:
     guid: 
     guidHash: 0
   m_showRoomPreview: 1
+  m_suppressSpawnAnimation: 0
   m_extraWeight: 1
   m_isHidden: 0
   m_isSafeSpace: 1
@@ -278,6 +348,232 @@ MonoBehaviour:
     name: 
     groups:
       m_values: []
+  references:
+    version: 2
+    RefIds: []
+--- !u!1 &8199065068125852125
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5787570180303702338}
+  - component: {fileID: 8334754218910933788}
+  m_Layer: 0
+  m_Name: Tilemap (38)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5787570180303702338
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8199065068125852125}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1425907247033739355}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8334754218910933788
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8199065068125852125}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1020188765, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_positions:
+  - {x: -5.6, y: 0, z: 0.8}
+  - {x: -4, y: 0, z: 0.8}
+  - {x: -4, y: 0, z: -0.8}
+  - {x: -5.6, y: 0, z: -0.8}
+  - {x: -7.2, y: 0, z: 0.8}
+  - {x: -2.4, y: 0, z: 0.8}
+  - {x: 0.8, y: 0, z: -0.8}
+  - {x: 0.8, y: 0, z: -2.4}
+  - {x: -0.8, y: 0, z: -2.4}
+  - {x: -0.8, y: 0, z: -0.8}
+  - {x: -7.2, y: 0, z: -0.8}
+  - {x: -2.4, y: 0, z: -0.8}
+  - {x: -7.2, y: 0, z: 4}
+  - {x: -7.2, y: 0, z: 2.4}
+  - {x: -5.6, y: 0, z: 2.4}
+  - {x: -4, y: 0, z: 2.4}
+  - {x: -2.4, y: 0, z: 2.4}
+  - {x: -2.4, y: 0, z: 4}
+  - {x: -5.6, y: 0, z: 4}
+  - {x: -0.8, y: 0, z: 4}
+  - {x: -0.8, y: 0, z: 2.4}
+  - {x: -0.8, y: 0, z: 0.8}
+  - {x: -0.8, y: 0, z: 5.6}
+  - {x: -2.4, y: 0, z: 5.6}
+  - {x: -5.6, y: 0, z: 5.6}
+  - {x: -7.2, y: 0, z: 5.6}
+  - {x: -8.8, y: 0, z: 5.6}
+  - {x: -8.8, y: 0, z: 4}
+  - {x: -8.8, y: 0, z: 2.4}
+  - {x: -8.8, y: 0, z: 0.8}
+  - {x: -8.8, y: 0, z: -0.8}
+  - {x: 0.8, y: 0, z: 5.6}
+  - {x: 0.8, y: 0, z: 4}
+  - {x: 0.8, y: 0, z: 2.4}
+  - {x: 0.8, y: 0, z: 0.8}
+  - {x: 8.8, y: 0, z: 2.4}
+  - {x: 8.8, y: 0, z: 0.8}
+  - {x: -4, y: 0, z: 5.6}
+  m_entityDatas:
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 5d32f2f7ac0b00e49927b70233220ea2
+    guidHash: 1872982708
+  - guid: 5d32f2f7ac0b00e49927b70233220ea2
+    guidHash: 1872982708
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+  - guid: 5d32f2f7ac0b00e49927b70233220ea2
+    guidHash: 1872982708
+  - guid: 5d32f2f7ac0b00e49927b70233220ea2
+    guidHash: 1872982708
+  - guid: 754d754ed33b5b64798d53b3234b21c2
+    guidHash: -1647655910
+--- !u!1 &8278390795807599110
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3232380950325935760}
+  - component: {fileID: 6262279559109623637}
+  m_Layer: 0
+  m_Name: Chest_Shop_Shim_02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3232380950325935760
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8278390795807599110}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 4.8, y: 0, z: -4}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1425907247033739355}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6262279559109623637
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8278390795807599110}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -610550449, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_data:
+    guid: 40271b420b20138499cb62151729b4e3
+    guidHash: -1064109042
+  m_talkData:
+    guid: 
+    guidHash: 0
+  m_entityDataOverride:
+    guid: 
+    guidHash: 0
+  m_requirements:
+    operation: 0
+    expression: '{0}'
+    values:
+      m_values: []
+  m_retryPolicy: 0
+  m_offset: {x: 0, y: 0, z: 0}
+  m_poof: 0
+  m_doppeled: 0
+  m_startingAge: 0
   references:
     version: 2
     RefIds: []

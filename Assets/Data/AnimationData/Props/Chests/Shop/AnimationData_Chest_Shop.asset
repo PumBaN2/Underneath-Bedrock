@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 1783077148, guid: 63c6203f9b89a1d4cbe069012303f52c, type: 3}
-  m_Name: AnimationData_Chest_GamblingSlotBlocker
+  m_Name: AnimationData_Chest_Shop
   m_EditorClassIdentifier: 
-  m_guid: 32c2d3ce56f4415f9f08642951d7b684
-  m_guidHash: 1224373851
+  m_guid: 4b1d6d117bf7432b9bdd9e122cb6c631
+  m_guidHash: 771431770
   m_facingMode: 0
   m_blendMask:
     value: 0
@@ -27,8 +27,8 @@ MonoBehaviour:
         value: 512
       facing: 0
       clip:
-        guid: b314fa71142bb8749bf4132802fdcbbf
-        guidHash: -1626487555
+        guid: d48f136785493d04ea584e6e1c7e3597
+        guidHash: 823222601
       flipX: 2
       unscaledTime: 0
       fps: 8
@@ -36,8 +36,26 @@ MonoBehaviour:
         value: 1024
       facing: 0
       clip:
-        guid: b314fa71142bb8749bf4132802fdcbbf
-        guidHash: -1626487555
+        guid: 72bd7368a2c4af84ea587fa3a6f62352
+        guidHash: 1364611313
+      flipX: 2
+      unscaledTime: 0
+      fps: 8
+    - animation:
+        value: 2048
+      facing: 0
+      clip:
+        guid: 0d95fddea8f17024b859e79aa7f43884
+        guidHash: -935327893
+      flipX: 2
+      unscaledTime: 0
+      fps: 8
+    - animation:
+        value: 4096
+      facing: 0
+      clip:
+        guid: 77131c2984781764f856bba688f16185
+        guidHash: 724154391
       flipX: 2
       unscaledTime: 0
       fps: 8
