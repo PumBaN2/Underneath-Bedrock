@@ -17,7 +17,7 @@ MonoBehaviour:
   m_properties:
     icons:
       m_sprites:
-      - {fileID: 21300000, guid: 369299de60fe5804aa10eaf32b039281, type: 3}
+      - {fileID: 21300000, guid: 71d3a28e51126b9489b2be731feca294, type: 3}
       - {fileID: 0}
       - {fileID: 0}
     displayName:

@@ -14,13 +14,26 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_guid: 8a375e25cc7a450c847f7e7f32f5a6b7
   m_guidHash: 1294630016
-  m_version: 1
-  m_workshopID: 0
-  m_lastPublishedAt: 0
-  m_name: Mod Name
-  m_description: This is the greatest and best mod in the world
+  m_version: 2
+  m_workshopID: 3787407965
+  m_lastPublishedAt: 639229178231615236
+  m_name: 'Under ''Neath: Going Deeper (Adds 75+ Relics, 15+ Curses,5 Blessings and
+    much more!)'
+  m_description: "[h1] Under 'Neath The First UnderMine 2 Content Pack! [/h1]   
+    [b]Under 'Neath[/b] is content mod pack for UnderMine 2 adding new relics, blessings,
+    curses and hopefully a whole lot more coming soon! UnderMine 2 has some really
+    powerful modding tools and I wanted to explore what i could do with them, here
+    are some of the cool things I've managed to make so far!    Make sure to [b]enable
+    mods[/b] on your UnderMine 2 profile, this can be done when selecting your profile!  
+    [h2] Features [/h2]  [list] [*] 50 Brand new relics to find! [*] 10 New curses
+    to add a little trouble! [*] 5 New blessings to help you in the mines! [*] A
+    whole new room in the Hub to customise the game's difficulty to your liking!
+    [*] Full Chinese and German translations! [/list]  [h2] Credits [/h2]  [list]
+    [*] [b]Nevernamed[/b] for creating the sprites! [*] [b]PumBa \u21162[/b] for
+    helping and answering questions. [*] [b]The Thorium devs[/b] for making the modding
+    tools and helping with issues!  [/list]"
   m_tags: undermine,undermine2
-  m_previewImage: {fileID: 2800000, guid: 69a2a2e79aad29e4c9024187755d7190, type: 3}
+  m_previewImage: {fileID: 2800000, guid: 55650f4fd70fc244eb093352eaa03a89, type: 3}
   m_additionalEncounters:
     m_values: []
   m_additionalSpawnTables:
